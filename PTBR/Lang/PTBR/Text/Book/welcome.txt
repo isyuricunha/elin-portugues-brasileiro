@@ -1,10 +1,10 @@
-Welcome,A stranger adventurer
+Bem-vindo,Um aventureiro estranho
 {center}
-Welcome adventurer, to the world of Ylva!
+Bem-vindo, aventureiro, ao mundo de Ylva!
 
-"Help" can be accessed via the system menu or by pressing "?" key anytime.
+A opção "Ajuda" pode ser acessada pelo menu do sistema ou pressionando a tecla "?" a qualquer momento.
 
-Our world is in turmoil and the scars of war still remain dark in the land where you embark.
-Life for an adventurer is hard but in the course of your journey you will also meet several people who are willing to guide you through.
+Nosso mundo está em turbulência, e as cicatrizes da guerra ainda permanecem sombrias na terra onde você inicia sua jornada.
+A vida de um aventureiro é difícil, mas ao longo do caminho, você encontrará várias pessoas dispostas a guiá-lo.
 
-May the merciful wind always be with you.
+Que o vento misericordioso esteja sempre com você.

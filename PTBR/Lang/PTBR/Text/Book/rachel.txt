@@ -1,39 +1,39 @@
-Strange Diary,Irvan
-{center}
+Diário Estranho,Irvan  
+{center}  
 
-[You cannot make out who owns this]
+[Você não consegue discernir a quem pertence]  
 
-Written by Rachel's brother <damaged>
+Escrito pelo irmão de Rachel <danificado>  
 
-<Within this rotted book is a Letter>
-<The Letter is faded Everywhere>
+<Dentro deste livro apodrecido há uma carta>  
+<A carta está desbotada em todos os lugares>  
 
-Rachel<damaged> I'll forget.
+Rachel<danificado> Vou esquecer.  
 
-In order to retain memory of<damaged>
+Para manter a memória de<danificado>  
 
-Your disease <damaged>
-by modern medicine.
+Sua doença <danificado>  
+pela medicina moderna.  
 
-<damaged> himself out of hand.
+<danificado> saiu do controle.  
 
-No, I'm<damaged>
+Não, eu sou<danificado>  
 
-So
-{p}
-{center}
-
-
+Então  
+{p}  
+{center}  
 
 
 
-Your memories forever<damaged>
 
-Secret Garden in the snowy field...
 
-The location is the north 2<damaged>
-And from the 4<damaged>
+Suas memórias para sempre<danificado>  
 
-My sister is<damaged>
+Jardim Secreto no campo nevado...  
 
-Requiescat in pace...
+A localização fica ao norte 2<danificado>  
+E a partir do 4<danificado>  
+
+Minha irmã está<danificado>  
+
+Requiescat in pace...  
