@@ -1,19 +1,19 @@
-{topic, Welcome to Elin's Demo!}
-Welcome to the Elin Demo!
+{topic, Bem-vindo à Demo de Elin!}  
+Bem-vindo à Demo de Elin!  
 
-The content in this demo reflects the state of the game as of December 2, 2024, and is subject to significant updates in the future.
+O conteúdo desta demo reflete o estado do jogo em 2 de dezembro de 2024 e está sujeito a grandes atualizações no futuro.  
 
-There are limitations in the demo version:
+Existem algumas limitações na versão demo:  
 
-* Players can only earn up to 10 feat points (levels).
-* The base level is capped at Level 3.
-* Network features are disabled.
+* Os jogadores podem ganhar no máximo 10 pontos de talento (níveis).  
+* O nível base está limitado ao Nível 3.  
+* Recursos online estão desativados.  
 
-Take your time and enjoy exploring the world of Ylva!
+Aproveite o seu tempo e explore o mundo de Ylva!  
 
-<i>※ Please note that Elin is in Early Access and still under heavy development.</i>
+<i>※ Por favor, note que Elin está em Acesso Antecipado e ainda está em desenvolvimento ativo.</i>  
 
-{topic, Elin Information}
-{link,Discord - Elin Community、Questions、General Discussion,https://discord.gg/elona}
-{link,Ylvapedia - Elin Wiki、Walkthrough、Update Log,https://ylvapedia.wiki/wiki/Main_Page}
-{link,Dev Room(Official) - Elin Links、Troubleshooting、and Mod information,http://ylvania.org/elin_dev_e.html}
+{topic, Informações sobre Elin}  
+{link,Discord - Comunidade Elin、Dúvidas、Discussão Geral,https://discord.gg/elona}  
+{link,Ylvapedia - Wiki de Elin、Guia、Registro de Atualizações,https://ylvapedia.wiki/wiki/Main_Page}  
+{link,Sala de Desenvolvimento (Oficial) - Links de Elin、Soluções de Problemas、e Informações sobre Mods,http://ylvania.org/elin_dev_e.html}  
