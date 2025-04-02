@@ -1,0 +1,19 @@
+{topic, Welcome to Elin's Demo!}
+Welcome to the Elin Demo!
+
+The content in this demo reflects the state of the game as of December 2, 2024, and is subject to significant updates in the future.
+
+There are limitations in the demo version:
+
+* Players can only earn up to 10 feat points (levels).
+* The base level is capped at Level 3.
+* Network features are disabled.
+
+Take your time and enjoy exploring the world of Ylva!
+
+<i>※ Please note that Elin is in Early Access and still under heavy development.</i>
+
+{topic, Elin Information}
+{link,Discord - Elin Community、Questions、General Discussion,https://discord.gg/elona}
+{link,Ylvapedia - Elin Wiki、Walkthrough、Update Log,https://ylvapedia.wiki/wiki/Main_Page}
+{link,Dev Room(Official) - Elin Links、Troubleshooting、and Mod information,http://ylvania.org/elin_dev_e.html}

@@ -1,0 +1,40 @@
+Blessed Herbs,Dr. Schmidt
+
+<b>Curaria</b> [KYURARIA AQUIFOLIUM]
+Effect is well known and medicinal. However, the ability of said effects is based entirely on it's so called "consecrated" state, which has been clinically proven to be a real effect and not merely a placebo.
+
+Effect Status: Life Restorant
+
+<b>Morgia</b> [MOJIA DIPSACUS PILOSUS]
+Massive hormone Stimulant. Increases muscle mass, strength and endurance. Blind-Test subjects recieved various "consecrated" state herbs and thusly recieved differing returns. This only goes to prove that Gods do in fact exist, and that all our science is meaningless in their might.
+
+Effect Status: Strength and Endurance enhancers
+{p}
+<b>Mareilon</b> [MAREIRON DIPSACUS FEROX]
+Neuro-Chemical stimulant. Increases cognitive abilities. Level of effect entirely on "consecrated" state.
+
+Effect Status: Mental Enhancement
+
+<b>Spenseweed</b> [SUPENSUUIDO LONGIFOLIA]
+All effects as of yet are unknown, though it has been noted that those who ingest it seem to be more "aware" and levels of perception may be up. More testing is needed to determine all side effects.
+
+Effect Status: Enchanced Perception
+
+<b>Alraunia</b> [ARURONIA MARTYNIA LUTEA]
+Hormone-activated. Aphrodiasiac. Thus extremely popular with the locals. Oddly enough, it also appears to have some ability at improving memory. Research still pending grant.
+
+Effect Status: Memory improvement, Libido enhancement
+
+{p}
+<b>Stomafilla</b> [SUTOMAFIRIA HYPOGAEA]
+Upon contact with the stomach, the herb expands and fills the cavity, leading the consumer to feel very "bloated". Long term use and the nutritional level of the plant has yet to be verified.
+
+Effect Status: Very Filling
+
+
+As more specimens are brought in and tested, so shall we update this brief guide.
+
+Until then,
+
+<i>Dr. Schmidt
+	Philosophiae Doctor Magus</i>

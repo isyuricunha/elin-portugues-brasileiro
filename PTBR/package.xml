@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Português Brasileiro (PTBR)</title>
+  <id>elin_language_portuguese</id>
+  <author>isyuricunha</author>
+  <builtin>false</builtin>
+  <loadPriority>133</loadPriority>
+  <version>23.99.2</version>
+  <tags>General,Translation</tags>
+  <visibility>Public</visibility>
+  <description>
+  E eu, mais uma vez, traduzindo jogo e não sendo valorizado.
+  É isso.
+  Tradução em andamento.
+  </description>
+</Meta>

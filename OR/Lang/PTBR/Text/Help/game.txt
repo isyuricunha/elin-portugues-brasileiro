@@ -1,0 +1,219 @@
+$attribute
+{topic,Primary Attributes}
+The following attributes are referred to as primary attributes, and they influence various actions you take. Primary attributes can be increased by using related skills or consuming certain foods.
+{pair|Strength|Affects maximum HP, melee attacks, and carrying capacity.}
+{pair|Endurance|Affects maximum HP and carrying capacity.}
+{pair|Dexterity|Affects melee attacks, ranged attacks, and defense.}
+{pair|Perception|Affects magical potency, melee attacks, ranged attacks.}
+{pair|Learning|Affects magical potency and maximum MP.}
+{pair|Willpower|Affects magical potency, maximum HP, and maximum MP.}
+{pair|Magic|Affects magical potency and maximum MP.}
+{pair|Charisma|Affects the number of companions, trading goods, and investments.}
+
+{topic,Other Attributes}
+{pair|HP|Your remaining health. If it drops below zero, you die.}
+{pair|MP|Your remaining magical energy. Dropping below zero results in damage due to mana backlash.}
+{pair|SP|Your remaining stamina. Dropping below zero results in damage. Stamina doesn't naturally recover and requires sleep to replenish. Its maximum value is determined by the sum of all skills.}
+{pair|DV|Dodge Value that represents your evasion capability. Higher values make it easier to evade enemy attacks.}
+{pair|PV|Protection Value that represents your defense capability. Higher values reduce damage from enemy attacks.}
+{pair|Luck|Your luck strength. Higher values lead to better outcomes in dice-based checks.}
+{pair|Speed|Your action speed. Higher values result in faster turns.}
+
+{topic,Special Attributes}
+{pair|Perfect Evasion|This gives you % chance to completely evade physical attacks.}
+{pair|Physical Damage Reduction|This reduces physical damage by %.}
+{pair|Elemental Damage Reduction|This reduces non-physical damage by %.}
+
+{topic,Skills}
+Skills influence the success and effectiveness of your actions. Many skills are passive and automatically improve through actions such as combat, spellcasting, or crafting.
+
+Skills can be learned or trained from trainers located in various towns.
+
+{topic,Potential}
+Primary attributes and skills possess latent potentials, where higher potentials lead to faster growth in abilities and skills.
+
+Potentials include base potentials and temporary bonuses. Temporary bonuses can easily be increased through actions like eating or training but decrease as abilities improve. Base potentials are determined by initial attributes and skill values when adventurers are created.
+
+$condition
+{topic,Conditions}
+In this world, there exist various states ranging from harmless to lethal, including different ailments. Many harmful conditions accumulate with each inflicted ailment attack, intensifying their effects and prolonging recovery time. Most conditions can be alleviated by the passage of time or performing recovery actions.
+
+Moreover, by visiting healers in major towns and paying a fee, almost all conditions can be treated.
+
+{topic,Debilitation}
+Certain enemy actions can reduce your attributes temporarily. While these reductions are temporary, they don't recover naturally over time or through sleep, necessitating the consumption of potions to restore attributes or seeking treatment from healers in various towns.
+
+{topic,Common Bad Conditions and Remedies}
+Below are brief explanations of typical bad conditions and their remedies:
+
+<color=#882222>Fatigue, Exhaustion</color>
+Fatigue sets in when stamina falls below a certain threshold, worsening as stamina decreases. Fatigue results in reduced speed, and once it progresses to exhaustion, natural HP and MP recovery are disabled, and actions consuming stamina inflict damage. Fatigue can be relieved by sleeping (to restore stamina).
+
+<color=#882222>Sleepiness</color>
+Sleepiness accumulates gradually while awake and can be alleviated by sleeping. Severe sleepiness leads to reduced speed.
+
+<color=#882222>Hunger</color>
+Hunger continually increases except during meals. When starving, actions incur damage, eventually leading to death. Additionally, starvation disables natural HP and MP recovery. Hunger can be relieved by eating.
+
+<color=#882222>Poison</color>
+An ailment causing continuous damage over time. Accumulated damage can be reduced through health restoration.
+
+<color=#882222>Confusion</color>
+Interferes with movement, attacks, and spellcasting, causing various adverse effects on PC actions. Accumulated damage can be reduced through health restoration.
+
+$item
+{topic,Items and Equipment}
+There are various items within the game, and those that can be equipped on the body are called equipment.
+
+{topic,Equipment Notation}
+For convenience, part of the equipment's performance is displayed in its name. The notation within parentheses () indicates (dice value + damage modifier, hit modifier), and within brackets [] indicates [dodge modifier, protection modifier].
+{pair|Example|a dagger (5d6+1, 4) [2, 3]}
+
+When attacking with the example dagger above, your damage is determined by rolling 5d6 (rolling a six-sided die five times) and adding a +1 damage modifier. Additionally, your hit rate increases by 4. When defending, your dodge value (DV) increases by 2, and your protection value (PV) increases by 3.
+
+{topic,Curses and Blessings}
+Items and equipment may be cursed or blessed. The effects of curses or blessings differ for each item, but in most cases, a cursed item will have the opposite effect of the original item's intended effect. The power of an item (the strength of its effect) tends to be stronger when cursed or blessed than under normal circumstances.
+
+Additionally, if you equip a cursed item, you cannot remove it until the curse is lifted.
+
+{topic,Bonus Levels}
+Bonus levels, represented by a plus sign such as 'Item Name +4,' boost the overall performance of an item. The effects of increased bonus levels vary depending on the type of item, often providing bonuses such as increased power, higher price, increased weapon damage, or increased armor defense.
+
+{topic,Enchantments}
+Items and equipment can be imbued with special effects known as enchantments. Particularly rare equipment may come with multiple random enchantments.
+
+{topic,Traits}
+Traits are indicated with 【】, such as 【Pretty】 or 【Good Smell】, and are primarily added through the item's material or crafting.
+
+{topic,Equipment Rarity}
+Randomly generated equipment tends to have better performance the rarer it is. Below is a list of rarity levels:
+{pair|Poor|Equipment with lower-than-average performance.}
+{pair|Standard|Equipment with average performance.}
+{pair|Superior|Equipment with better-than-average performance. May come with random enchantments.}
+{pair|Miracle|Rare equipment that comes with multiple random enchantments. Displayed as ☆『Item Name』.}
+{pair|Godly|Extremely rare equipment that comes with even more random enchantments than miraculous items. Displayed as ☆《Item Name》.}
+{pair|Artifact|Unique and rare equipment with fixed, unique enchantments. Displayed as ★《Item Name》.}
+
+$identify
+{topic,Identifying Unidentified Items}
+Some items, such as potions and scrolls, or rare equipment, may be in an unidentified state when acquired. Their performance does not change when used or equipped, but identifying them will reveal the item’s name and stats.
+
+To identify an item, you typically need to use an "scroll of identify" or utilize the identification services of a mage in town. There are standard and greater identification methods, and artifacts can only be identified through greater identification.
+
+
+$craft
+{topic,Crafting}
+In crafting stations, you can create various items by combining ingredients. The skills required for crafting differ depending on the station, and if you do not possess the necessary skills or if your skill level is lower than required, the stamina consumed will increase, and the quality of the crafted item may decrease.
+
+Some stations require fuel to operate. If you have fuel in your inventory, it will be used automatically, but you can also manually add fuel or check the required amount by clicking on the fuel icon.
+
+{topic,Processing}
+Using processing stations, you can refine raw ingredients into new items. A typical example is the sawmill, where you can process logs into planks.
+
+You can work with various items at processing stations, and some stations have multiple slots where you can place items. The products displayed on the screen are not limited to the ones you know initially: many more can be added to the list once you craft them for the first time. When using a station, the items that can be processed will be highlighted in your inventory, so try experimenting with different recipes.
+
+{topic,Mixing Traits}
+Some items come with traits like 【Rare】 or 【Cute】. These traits can be inherited by the crafted item during the crafting process. By combining traits, you can increase the item's selling price, enhance its effects, or add various bonuses to the final product.
+
+You can check the effect of traits by hovering over the ingredient and pressing the item examine key (default is 'x').
+
+{topic,Quality}
+The Quality trait is a special trait that enhances an item's basic performance and price, with each item having a set maximum value. You can check the maximum value from the crafting screen, and if you combine traits that exceed this maximum, the level will be capped at the maximum. The maximum value of quality trait is determined by the relevant crafting skill and the recipe's level.
+
+{topic,Cooking}
+When crafting or processing, if there are overlapping traits among the ingredients, the highest trait will be inherited by the crafted item. However, in the case of cooking, some overlapping traits are not inherited but instead combined. The traits that can be combined are mainly those that boost stats or potential abilities, and they are displayed when examining an item(x key).
+
+$recipe
+{topic,About Recipes}
+In order to craft an item, you need to have learned the recipe for it. While you start the game knowing a few basic recipes, most recipes need to be newly acquired.
+
+{topic,Recipe Acquisition Conditions}
+Recipes have acquisition conditions. For example, in the case of cooking recipes, the higher your cooking skill, the more advanced recipes you can obtain. The related skill required for obtaining a recipe corresponds to the skill required by the equipment used to craft the item. For instance, when crafting a pickaxe, since pickaxes are crafted at a tinker's table, the “Crafting” skill used at the table becomes the related skill for the pickaxe recipe.
+
+{topic,Recipe Inspiration from Actions}
+By performing certain actions, you can sometimes “come up with” recipes for specific items with a high probability. For example, mining a wall may inspire a recipe for that type of wall, digging up a floor may inspire a floor recipe, or dismantling an item may lead to learning the recipe for that item.
+
+{topic,Recipe Inspiration from Crafting}
+There is also a low probability of coming up with a recipe while crafting. In this case, the recipe acquired will be a random item from the same category as the crafted item.
+
+{topic,Recipe Inspiration from Sleeping}
+There is also a high probability of coming up with recipes during sleep. The recipe gained is selected randomly.
+
+{topic,Other Ways to Acquire Recipes}
+Apart from actions and sleeping, you can acquire new recipes by purchasing and reading them or using randomly generated “Shrines of Wheel" found on maps. These methods may allow you to obtain higher-level recipes than usual.
+
+{topic,Recipe Levels}
+If there are no eligible recipes to obtain when a random recipe is drawn — such as when the skill requirement is not met — a random recipe from the ones you’ve already learned will be drawn instead. When you obtain an already learned recipe, the level of that recipe increases, granting bonuses to the item's max quality during crafting.
+
+$tool
+{topic,Tools}
+The tools that can be crafted mainly from the tinker's table have various effects when held and used. Below are some representative tools and their purposes.
+
+{topic,Representative Tool Purposes}
+{pair|Pickaxe|Can be used on walls to mine them.}
+{pair|Axe|Can be used to cut down trees and quickly gather plants.}
+{pair|Shovel|Can be used on the ground to strip floors or dig up soil.}
+{pair|Hoe|Can be used on dirt ground to create a farm.}
+{pair|Sickle|Can be used on grown plants to obtain seeds.}
+{pair|Hammer|Can be used to dismantle items and obtain resources.}
+{pair|Shears|Can be used on wool-bearing livestock to shear wool. Feeding the livestock pasture will cause the wool to grow back.}
+{pair|Bottomless Pot|Can be used on water to scoop it up, and on the ground to create a water source.}
+
+$autocombat
+{topic, Auto-Combat}
+When you have no right-click action, you can engage in auto-combat by right-clicking on neutral or hostile creatures. During auto-combat, your character will automatically fight based on the settings in the "Strategy" section of the character sheet.
+
+During auto-combat, the amount of damage you receive from enemies is slightly reduced, depending on the value of your "Strategy" skill. Additionally, as long as you have enough stamina, you can avoid fatal injuries by consuming stamina. This feature can be used to safely gauge the strength of an opponent you are facing for the first time. So let's actively utilize auto-combat in your fights as a part of your battle strategy.
+
+$party_ability
+{topic, Using Abilities}
+Abilities that display a blue humanoid icon in the top-right corner of the icon (such as self-harm) do not require a target to be specified and can be used directly by right-clicking.
+
+Abilities with a green icon depicting two humanoids can also be used directly with a right-click, but in addition, they can be used on specific individuals or used on your entire party.
+
+If you wish to select a target, move the ability to the action bar, set the ability as your current action, and then specify the target with the cursor on the map.
+
+{topic, Party-Wide Abilities}
+You can also target party members within your line of sight by holding down the right-click on the icon, or by hovering the cursor over yourself on the map and holding down the right-click. In this case, MP is consumed for each target.
+
+$autodump
+{topic,Auto-Dump}
+Auto-Dump is a function that automatically allocates items in the backpack to containers placed in your home.
+
+By default, if there are items in containers placed on your home, the same items in your backpack will be automatically stored in the containers. By changing the settings, you can create a container that automatically collects only armor or books, for example. Use this feature to organize your items.
+
+$item_search
+{topic,Item Search}
+While in-game, pressing CTRL+F will bring up the item search box.
+
+By typing part of an item's name into the box, you can see a list of potential matches from your backpack and items on the map. Items inside containers are also included in the search. Clicking on a listed item will highlight it within your backpack or container. For items on the map, your character will automatically move to where the item is located.
+
+This feature is especially useful when you've misplaced an item, like a tax invoice.
+
+$mark_important
+{topic,Marking Important Item}
+You can designate an item as "Important" by middle-clicking it in your inventory and selecting the "Mark as Important" action.
+
+Items marked as "Important" cannot be discarded or sold, preventing accidental loss.
+
+$equip_set
+{topic,Equipment Set}
+By clicking an empty slot in the hotbar located in the upper left of the screen, where buttons like the help button are placed, and selecting "Save Current Equipment Set," your current equipment can be registered as an equipment set.
+
+Registered equipment sets can be easily switched with a single click, allowing you to adapt your gear to various purposes and situations. Additionally, by right-clicking on an equipment set icon, you can update the equipment, rename it for clarity, or change its color.
+
+$auto_bed
+{topic,Automatic Bed Usage}
+By clicking the bed icon in the hotbar located in the upper left of the screen, where buttons like the help button are placed, you can automatically use a bed from your inventory. If you have a body pillow, it will be used along with the bed.
+
+The bed and body pillow you used will be automatically returned to their original positions once your sleep is complete.
+
+$advanced_menu
+{topic,Advanced Menu}
+By enabling the "Show Advanced Menu" option under the "Game" tab in the settings menu, you can access various features designed for experienced adventurers. This option is disabled by default due to the menu's complexity.
+
+Enabling the advanced menu allows you to perform actions such as:
+
+・ Configuring Auto Pick from your main backpack.
+・ Adding more options for containers as well as more advanced item distribution settings.
+・ Using word filters for item distribution.
