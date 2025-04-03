@@ -1,135 +1,130 @@
 $1
 {layout,NoteHelp1}
-Today we're going to give new adventurers a quick
-lesson on how to survive in North Tyris.
+Hoje vamos dar aos novos aventureiros uma rápida
+lição sobre como sobreviver em North Tyris.
 {layout}
 
 {layout,NoteHelp2}
-First, click on the ground to move around.
-You can also click on people to start a conversation.
-Talk to me when you are ready.
+Primeiro, clique no chão para se mover.
+Você também pode clicar em pessoas para iniciar uma conversa.
+Converse comigo quando estiver pronto.
 {layout,NoteHelp1}
-Did you receive a land deed from Ash?
-With the deed, you can establish your home here.
-Click on the bag icon, open the bag and
-right-click on the deed to read it.
+Você recebeu uma escritura de terra do Ash?
+Com a escritura, você pode estabelecer sua casa aqui.
+Clique no ícone da bolsa, abra a bolsa e
+clique com o botão direito na escritura para lê-la.
 {layout,NoteHelp2}
-You can also middle-click(or R key) on the deed to
-bring up a list of interactions.
-Middle-click can be also used on people and items on the map.
-It's an important action, so be sure to learn it.
+Você também pode clicar com o botão do meio (ou a tecla R) na escritura para
+exibir uma lista de interações.
+O clique do meio também pode ser usado em pessoas e itens no mapa.
+É uma ação importante, então não deixe de aprendê-la.
 {layout}
 
 {layout,NoteHelp1}
-Once you have established a home
-try to work on the requests posted on the bulletin board.
+Depois de estabelecer uma casa,
+tente atender aos pedidos publicados no quadro de avisos.
 {layout,NoteHelp2}
-You can collect stones and plants on the ground by right-clicking on them.
-Pay attention to the remaining amount of the green stamina bar.
-If you run out of stamina, you will start taking damage every time you act.
+Você pode coletar pedras e plantas do chão clicando com o botão direito sobre elas.
+Preste atenção à quantidade restante da barra de energia verde.
+Se você ficar sem energia, começará a receber dano a cada ação.
 {layout,NoteHelp1}
-Stamina can be restored by sleeping.
-Click on the wand icon to display your abilities.
-When you are tired, right-click on the "Rest" ability
-and you will automatically fall asleep.
+A energia pode ser restaurada dormindo.
+Clique no ícone da varinha para exibir suas habilidades.
+Quando estiver cansado, clique com o botão direito na habilidade "Descansar"
+e você adormecerá automaticamente.
 {layout,NoteHelp2}
-Sleeping in a comfortable bed restores more stamina.
-Why don't you make a grass bed first?
+Dormir em uma cama confortável restaura mais energia.
+Que tal fazer uma cama de grama primeiro?
 {layout,NoteHelp1}
-You can craft items on the spot by using your "Quick Craft" ability.
-Collect some resources here and try crafting various items.
+Você pode fabricar itens no local utilizando sua habilidade "Construção Rápida".
+Colete alguns recursos aqui e experimente fabricar vários itens.
 {layout}
 
 {layout,NoteHelp2}
-Look at the bar with the wing icon at the bottom right.
-When the bar is filled, you will be rewarded with a new feat.
-Click on the wing icon to see which feats are available to you.
+Observe a barra com o ícone de asa no canto inferior direito.
+Quando a barra estiver cheia, você será recompensado com uma nova façanha.
+Clique no ícone de asa para ver quais façanhas estão disponíveis para você.
 {layout,NoteHelp1}
-Once you get used to living in your home
-it's time for you to go explore the world.
-You can buy livestock and recruit new residents in towns.
+Depois de se acostumar a viver em sua casa,
+é hora de explorar o mundo.
+Você pode comprar gado e recrutar novos residentes nas cidades.
 {layout,NoteHelp2}
-You are free to do the rest.
-Proceed with quests and the main story if you like.
-Various events will also occur as your home develops.
-Good luck, adventurer.
+Fique à vontade para seguir com o resto.
+Prossiga com as missões e a história principal, se preferir.
+Diversos eventos também ocorrerão conforme sua casa se desenvolve.
+Boa sorte, aventureiro.
 {layout,NoteHelp1}
-You can do it♥ You can do it♥
+Você consegue♥ Você consegue♥
 {layout}
-
-
-
-
 
 $2
-{topic,Basic Controls}
-Left click the ground to move around and right click an object to interact. Middle click or press the R key to view all possible actions.
-{pair|Space|Wait a turn and search hidden objects near you.}
-{pair|1-9|Switch between items on hotbar.}
-{pair|CTRL|Swap hotbar page.}
-{pair|F|Target nearest enemy or fire at target.}
-{pair|Shift+F|Switch target.}
-{pair|ESC|Show System Menu.}
-{pair|?|Show Help.}
-{pair|/|Toggle Log Window.}
+{topic,Controles Básicos}
+Clique com o botão esquerdo no chão para se mover e com o botão direito em um objeto para interagir. Clique com o botão do meio ou pressione a tecla R para ver todas as ações possíveis.
+{pair|Espaço|Espere um turno e procure por objetos ocultos próximos a você.}
+{pair|1-9|Alterne entre os itens na barra de atalho.}
+{pair|CTRL|Troque a página da barra de atalho.}
+{pair|F|Alveje o inimigo mais próximo ou dispare no alvo.}
+{pair|Shift+F|Alterne o alvo.}
+{pair|ESC|Exiba o Menu do Sistema.}
+{pair|?|Exiba a Ajuda.}
+{pair|/|Ative ou desative a Janela de Registro.}
 
-{topic,Inventory Controls}
-{pair|Shift + Click|Move an item under cursor to another container.}
-{pair|CTRL + Click|Split an item under cursor.}
-{pair|ALT + Click|Drop an item under cursor.}
+{topic,Controles do Inventário}
+{pair|Shift + Click|Mova um item sob o cursor para outro contêiner.}
+{pair|CTRL + Click|Divida um item sob o cursor.}
+{pair|ALT + Click|Descartar um item sob o cursor.}
 
-{topic,Other Controls}
-・ Moving the mouse wheel over a drop-down box or ingredient button allows you to select and switch between items without clicking. This is useful for selecting ingredients during construction.
+{topic,Outros Controles}
+・ Movendo a roda do mouse sobre uma caixa suspensa ou botão de ingrediente, você pode selecionar e alternar entre os itens sem clicar. Isso é útil para selecionar ingredientes durante a construção.
 
-・ Holding CTRL allows you to skip event scenes.
+・ Segurar CTRL permite pular cenas de eventos.
 
-・ When the object under the mouse cursor has multiple interactions, holding down Shift and clicking will display all the interactions.
+・ Quando o objeto sob o cursor possui múltiplas interações, segure Shift e clique para exibir todas as interações.
 
-・ Holding ALT makes the mouse cursor ignore platforms, holding Shift at the same time makes the terrain flat.
+・ Segurar ALT faz com que o cursor do mouse ignore plataformas; segurar Shift ao mesmo tempo deixa o terreno plano.
 
-・ By hovering over yourself and pressing Shift, you can check the status of your mounted or parasitic pet.
+・ Ao passar o mouse sobre si mesmo e pressionar Shift, você pode verificar o status do seu pet montado ou parasitário.
 
-{topic,Build Mode Controls}
-・ Items can be placed on the roof by pressing ALT during construction in build mode.
+{topic,Controles do Modo de Construção}
+・ Itens podem ser colocados no telhado pressionando ALT durante a construção no modo de construção.
 
-・ Height of the item below can be ignored by pressing CTRL during construction in build mode.
-
+・ A altura do item abaixo pode ser ignorada pressionando CTRL durante a construção no modo de construção.
 
 $3
-{topic,Adventure Tips}
-・ Your maximum stamina increases as your skills develop. Skills can be increased even by simply walking around so try visiting various places in Tyris.
+{topic,Dicas de Aventura}
+・ Sua energia máxima aumenta conforme suas habilidades se desenvolvem. As habilidades podem ser aprimoradas mesmo apenas caminhando, então experimente visitar vários lugares em Tyris.
 
-・ You can recruit people in towns to your home by increasing their affinity. Try giving them something they might like.
+・ Você pode recrutar pessoas nas cidades para sua casa aumentando sua afinidade. Tente oferecer algo que elas possam gostar.
 
-・ When you die, you lose some of your money and portions of your abilities are also reduced. However, the death penalty will not occur for the first 90 days of the game so don't be afraid to die.
+・ Quando você morre, perde parte do seu dinheiro e alguns de seus atributos também são reduzidos. Contudo, a penalidade por morte não ocorrerá nos primeiros 90 dias do jogo, então não tenha medo de morrer.
 
-・ The chance of ambush is reduced on the roads in the global map. The further you stray from the roads, the higher the level of local map content becomes.
+・ A chance de emboscada é reduzida nas estradas do mapa global. Quanto mais você se afastar das estradas, maior será o nível do conteúdo do mapa local.
 
-・ If you put your items in the delivery boxes located around the town, they will be delivered to your home.
+・ Se você colocar seus itens nas caixas de entrega localizadas na cidade, eles serão entregues em sua casa.
 
-・ If your initial pet dies, you can have it resurrected for free by talking to Fiama.
+・ Se seu pet inicial morrer, você pode ressuscitá-lo gratuitamente conversando com a Fiama.
 
-・ Wild animals have a high chance of dropping meat and materials.
+・ Animais selvagens têm uma alta chance de deixar cair carne e materiais.
 
 $FAQ
-{Q|I can't pick up items!}
-{A|If you are holding an item such as an axe, you won't be able to pick up items from the ground. Press the Q key or scroll the mouse wheel to make sure your hands are empty.}
-{Q|My item has disappeared!}
-{A|It’s common for items to get misplaced on the second page of the hotbar. Try pressing the CTRL key to switch hotbar pages and check again. You can also press CTRL+F to search for items in your inventory or on the map.}
-{A|When placing furniture or similar items, accidentally moving the mouse wheel can cause items to be placed in the air without you noticing. Also, if they’re hidden behind obstacles and hard to spot, pressing SHIFT+ALT will flatten the map’s terrain, making them easier to find.}
-{Q|My companion is gone!}
-{A|When companions or residents die, they are sent to the subspace. You can talk to the bartender to bring them back, or if it’s a pet given to you by Fiama, talk to Fiama. Companions will also automatically revive at their home after some time passes, so check your base’s resident board.}
-{A|The Hearth Stone has a convenient feature where you can keep companions on standby, so it’s possible you may have accidentally transferred your companion there. Select “Recall” from the Hearth Stone to check which companions are waiting.}
-{Q|My companion's equipment is missing!}
-{A|The most common reason for this is that your companion decided they didn't need the item and placed it in one of the shared containers at your base. Sometimes other residents might have taken it as well.}
-{A|Stay calm and try using the CTRL+F search function. You can search for items in residents' inventories and containers, too.}
-{Q|My delivery/tax bill hasn’t arrived!}
-{A|When using a delivery box in town, the delivery will arrive at the next base you visit. If you have multiple bases, the package may have been sent to another base. Packages arrive at 6 AM in the morning.}
-{Q|I can’t place furniture!}
-{A|Some furniture, such as musical instruments, are treated as tools when held and cannot be placed on the ground directly. To place them, middle-click on the item in your backpack to bring up the action menu and select “Grab as Furniture” to place it on the ground.}
-{Q|I die too quickly!}
-{A|If you’re new to this world, a combination like the Hillfolk race and Warrior class will give you higher health and more stability. Increasing your PV(Protection Value) will also reduce the damage you take from enemy attacks and help you survive longer. Try crafting to fill all your equipment slots as soon as possible. Throwing stones or attacking from a distance is another good strategy.}
-{Q|There’s too much I don’t understand!}
-{A|Following the traditions of classic roguelikes, this game is designed to be deliberately unkind. In fact, it’s perfectly normal to feel like there’s too much you don’t understand!}
+{Q|Não consigo pegar os itens!}
+{A|Se você estiver segurando um item, como um machado, não conseguirá pegar itens do chão. Pressione a tecla Q ou role a roda do mouse para garantir que suas mãos estejam vazias.}
+{Q|Meu item sumiu!}
+{A|É comum que os itens fiquem na segunda página da barra de atalho. Tente pressionar a tecla CTRL para trocar a página da barra e verificar novamente. Você também pode pressionar CTRL+F para pesquisar por itens em seu inventário ou no mapa.}
+{A|Ao posicionar móveis ou itens similares, mover acidentalmente a roda do mouse pode fazer com que os itens sejam colocados no ar sem que você perceba. Além disso, se eles estiverem escondidos atrás de obstáculos e difíceis de encontrar, pressionar SHIFT+ALT nivelará o terreno do mapa, facilitando a localização.}
+{Q|Meu companheiro se foi/morreu!}
+{A|Quando companheiros ou residentes morrem, eles são enviados para o subespaço. Você pode conversar com o bartender para trazê-los de volta, ou, se for um pet que a Fiama lhe deu, converse com a Fiama. Companheiros também se reviverão automaticamente em sua casa após um certo tempo, então verifique o quadro de residentes da sua base.}
+{A|A Pedra do Lar possui um recurso conveniente que permite manter os companheiros em espera, então é possível que você tenha transferido seu companheiro para lá acidentalmente. Selecione “Recall” na Pedra do Lar para verificar quais companheiros estão aguardando.}
+{Q|O equipamento do meu companheiro sumiu!}
+{A|O motivo mais comum para isso é que seu companheiro decidiu que não precisava do item e o colocou em um dos contêineres compartilhados da sua base. Às vezes, outros residentes também podem tê-lo levado.}
+{A|Mantenha a calma e tente usar a função de busca CTRL+F. Você pode pesquisar por itens nos inventários e contêineres dos residentes também.}
+{Q|Minha fatura de entrega/imposto não chegou!}
+{A|Ao usar uma caixa de entrega na cidade, a entrega chegará na próxima base que você visitar. Se você tiver várias bases, o pacote pode ter sido enviado para outra delas. Os pacotes chegam às 6h da manhã.}
+{Q|Não consigo posicionar os móveis!}
+{A|Alguns móveis, como instrumentos musicais, são tratados como ferramentas quando segurados e não podem ser colocados diretamente no chão. Para posicioná-los, clique com o botão do meio no item na sua mochila para exibir o menu de ações e selecione “Grab as Furniture” para colocá-lo no chão.}
+{Q|Eu morro muito rápido!}
+{A|Se você é novo neste mundo, uma combinação como a raça Hillfolk e a classe Guerreiro lhe proporcionará mais saúde e maior estabilidade. Aumentar seu PV (Valor de Proteção) também reduzirá o dano recebido dos ataques inimigos e ajudará você a sobreviver por mais tempo. Tente fabricar itens para preencher todos os seus slots de equipamento o mais rápido possível. Jogar pedras ou atacar à distância é outra boa estratégia.}
+{Q|Há muita coisa que eu não entendo!}
+{A|Seguindo as tradições dos roguelikes clássicos, este jogo foi projetado para ser deliberadamente desafiador. Na verdade, é perfeitamente normal sentir que há muito que você não entende!}
 
 {}
