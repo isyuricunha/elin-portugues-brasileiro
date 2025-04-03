@@ -1,4 +1,4 @@
-World go round
-{center}
+O mundo gira  
+{center}  
 
-<i>World go round, world go round, world go round.</i>
+<i>O mundo gira, o mundo gira, o mundo gira.</i>  
