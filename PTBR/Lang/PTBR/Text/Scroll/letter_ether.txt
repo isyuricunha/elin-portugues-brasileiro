@@ -1,8 +1,8 @@
-Unknown Disease,,0
-{center}
+Doença Desconhecida,,0  
+{center}  
 
-If you contract Ether Disease, drink this.
+Se você contrair a Doença do Éter, beba isto.  
 
-Not much is known yet about this illness. It seems to develop when a substance called ether accumulates in the body.
+Ainda se sabe pouco sobre essa enfermidade. Parece se desenvolver quando uma substância chamada éter se acumula no corpo.  
 
-Unfortunately, it appears that even the air we breathe contains trace amounts of this ether. The end of humanity may be near.
+Infelizmente, até o ar que respiramos parece conter pequenas quantidades desse éter. O fim da humanidade pode estar próximo.  
