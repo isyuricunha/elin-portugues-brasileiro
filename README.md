@@ -38,7 +38,7 @@ Link para versões alternativas (Steam verde): [https://github.com/isyuricunha/s
 
 ## Versão alternativa (Steam verde e Steam Oficial):
 
-- Baixe o arquivo "PTBR.zip" nas "releases" ou [clique aqui](https://github.com/isyuricunha/elin-portugues-brasileiro/releases/latest):
+  - Baixe o arquivo "PTBR.zip" nas "releases" ou [clique aqui](https://github.com/isyuricunha/elin-portugues-brasileiro/releases/latest):
   - Extraia o arquivo.
   - Copie a pasta extraida chamada de "PTBR".
   - Abre a pasta raiz de onde seu jogo está instalado.
