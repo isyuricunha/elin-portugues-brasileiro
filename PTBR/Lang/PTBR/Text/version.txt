@@ -10,6 +10,11 @@ Bem-vindo a Elin, e obrigado por participar do Acesso Antecipado (EA)! Nosso pla
 {link,Ylvapedia - Wiki de Elin、Guias、Registro de Atualizações,https://ylvapedia.wiki/wiki/Main_Page}
 {link,Sala do Desenvolvedor (Oficial) - Links de Elin、Solução de Problemas、e Informações sobre Mods,http://ylvania.org/elin_dev_e.html}
 
+{topic, Tradução para Português Brasileiro}
+E ai!
+Eu sou o Yuri, eu traduzi esse jogo para você, para mim e para quem mais quiser.
+Se divirta! E, se puder, considere fazer uma doação, pois atualmente, dependo disso.
+
 {topic, Informações da Atualização de Elin}
 ■ 20/03/2025 EA 23.109 Patch Estável 2
 (Traduzido por ChatGPT)
