@@ -1,219 +1,218 @@
 $attribute
-{topic,Primary Attributes}
-The following attributes are referred to as primary attributes, and they influence various actions you take. Primary attributes can be increased by using related skills or consuming certain foods.
-{pair|Strength|Affects maximum HP, melee attacks, and carrying capacity.}
-{pair|Endurance|Affects maximum HP and carrying capacity.}
-{pair|Dexterity|Affects melee attacks, ranged attacks, and defense.}
-{pair|Perception|Affects magical potency, melee attacks, ranged attacks.}
-{pair|Learning|Affects magical potency and maximum MP.}
-{pair|Willpower|Affects magical potency, maximum HP, and maximum MP.}
-{pair|Magic|Affects magical potency and maximum MP.}
-{pair|Charisma|Affects the number of companions, trading goods, and investments.}
+{topic,Atributos Primários}
+Os seguintes atributos são conhecidos como atributos primários, e influenciam várias ações que você realiza. Os atributos primários podem ser aumentados utilizando habilidades relacionadas ou consumindo certos alimentos.
+{pair|Força|Afeta o HP máximo, ataques corpo a corpo e capacidade de carga.}
+{pair|Resistência|Afeta o HP máximo e a capacidade de carga.}
+{pair|Destreza|Afeta ataques corpo a corpo, ataques à distância e defesa.}
+{pair|Percepção|Afeta a potência mágica, ataques corpo a corpo e ataques à distância.}
+{pair|Aprendizagem|Afeta a potência mágica e o MP máximo.}
+{pair|Força de Vontade|Afeta a potência mágica, o HP máximo e o MP máximo.}
+{pair|Magia|Afeta a potência mágica e o MP máximo.}
+{pair|Carisma|Afeta o número de companheiros, a negociação de bens e os investimentos.}
 
-{topic,Other Attributes}
-{pair|HP|Your remaining health. If it drops below zero, you die.}
-{pair|MP|Your remaining magical energy. Dropping below zero results in damage due to mana backlash.}
-{pair|SP|Your remaining stamina. Dropping below zero results in damage. Stamina doesn't naturally recover and requires sleep to replenish. Its maximum value is determined by the sum of all skills.}
-{pair|DV|Dodge Value that represents your evasion capability. Higher values make it easier to evade enemy attacks.}
-{pair|PV|Protection Value that represents your defense capability. Higher values reduce damage from enemy attacks.}
-{pair|Luck|Your luck strength. Higher values lead to better outcomes in dice-based checks.}
-{pair|Speed|Your action speed. Higher values result in faster turns.}
+{topic,Outros Atributos}
+{pair|HP|Sua saúde restante. Se cair abaixo de zero, você morre.}
+{pair|MP|Sua energia mágica restante. Se cair abaixo de zero, você sofrerá dano devido ao refluxo de mana.}
+{pair|SP|Sua estamina restante. Se cair abaixo de zero, você sofrerá dano. A estamina não se recupera naturalmente e requer sono para ser reposta. Seu valor máximo é determinado pela soma de todas as habilidades.}
+{pair|DV|Valor de Esquiva que representa sua capacidade de evasão. Valores mais altos facilitam evitar ataques inimigos.}
+{pair|PV|Valor de Proteção que representa sua capacidade defensiva. Valores mais altos reduzem o dano dos ataques inimigos.}
+{pair|Sorte|Sua força de sorte. Valores mais altos resultam em melhores resultados em testes baseados em dados.}
+{pair|Velocidade|Sua velocidade de ação. Valores mais altos resultam em turnos mais rápidos.}
 
-{topic,Special Attributes}
-{pair|Perfect Evasion|This gives you % chance to completely evade physical attacks.}
-{pair|Physical Damage Reduction|This reduces physical damage by %.}
-{pair|Elemental Damage Reduction|This reduces non-physical damage by %.}
+{topic,Atributos Especiais}
+{pair|Evasão Perfeita|Isso lhe dá uma chance de % para evitar completamente ataques físicos.}
+{pair|Redução de Dano Físico|Isso reduz o dano físico em %.}
+{pair|Redução de Dano Elemental|Isso reduz o dano não físico em %.}
 
-{topic,Skills}
-Skills influence the success and effectiveness of your actions. Many skills are passive and automatically improve through actions such as combat, spellcasting, or crafting.
+{topic,Habilidades}
+As habilidades influenciam o sucesso e a eficácia das suas ações. Muitas habilidades são passivas e melhoram automaticamente através de ações como combate, conjuração de feitiços ou criação de itens.
 
-Skills can be learned or trained from trainers located in various towns.
+Habilidades podem ser aprendidas ou treinadas por instrutores localizados em várias cidades.
 
-{topic,Potential}
-Primary attributes and skills possess latent potentials, where higher potentials lead to faster growth in abilities and skills.
+{topic,Potencial}
+Atributos primários e habilidades possuem potenciais latentes, onde potenciais mais altos levam a um crescimento mais rápido das habilidades e competências.
 
-Potentials include base potentials and temporary bonuses. Temporary bonuses can easily be increased through actions like eating or training but decrease as abilities improve. Base potentials are determined by initial attributes and skill values when adventurers are created.
+O potencial inclui potenciais base e bônus temporários. Bônus temporários podem ser facilmente aumentados através de ações como comer ou treinar, mas diminuem conforme as habilidades melhoram. Os potenciais base são determinados pelos atributos iniciais e pelos valores das habilidades quando os aventureiros são criados.
 
 $condition
-{topic,Conditions}
-In this world, there exist various states ranging from harmless to lethal, including different ailments. Many harmful conditions accumulate with each inflicted ailment attack, intensifying their effects and prolonging recovery time. Most conditions can be alleviated by the passage of time or performing recovery actions.
+{topic,Condições}
+Neste mundo, existem diversos estados que vão desde inofensivos até letais, incluindo diferentes enfermidades. Muitas condições prejudiciais se acumulam a cada ataque de enfermidade infligido, intensificando seus efeitos e prolongando o tempo de recuperação. A maioria das condições pode ser aliviada com o passar do tempo ou realizando ações de recuperação.
 
-Moreover, by visiting healers in major towns and paying a fee, almost all conditions can be treated.
+Além disso, ao visitar curandeiros em cidades importantes e pagar uma taxa, quase todas as condições podem ser tratadas.
 
-{topic,Debilitation}
-Certain enemy actions can reduce your attributes temporarily. While these reductions are temporary, they don't recover naturally over time or through sleep, necessitating the consumption of potions to restore attributes or seeking treatment from healers in various towns.
+{topic,Debilitação}
+Certas ações inimigas podem reduzir temporariamente seus atributos. Embora essas reduções sejam temporárias, elas não se recuperam naturalmente com o tempo ou durante o sono, sendo necessário consumir poções para restaurar os atributos ou buscar tratamento com curandeiros em várias cidades.
 
-{topic,Common Bad Conditions and Remedies}
-Below are brief explanations of typical bad conditions and their remedies:
+{topic,Problemas Comuns e Soluções}
+A seguir, breves explicações sobre condições ruins típicas e seus remédios:
 
-<color=#882222>Fatigue, Exhaustion</color>
-Fatigue sets in when stamina falls below a certain threshold, worsening as stamina decreases. Fatigue results in reduced speed, and once it progresses to exhaustion, natural HP and MP recovery are disabled, and actions consuming stamina inflict damage. Fatigue can be relieved by sleeping (to restore stamina).
+<color=#882222>Cansaço e exaustão</color>
+A fadiga se instala quando a estamina cai abaixo de um certo limiar, piorando à medida que a estamina diminui. A fadiga resulta em velocidade reduzida, e uma vez que progride para exaustão, a recuperação natural de HP e MP é desativada, e ações que consomem estamina causam dano. A fadiga pode ser aliviada dormindo (para repor a estamina).
 
-<color=#882222>Sleepiness</color>
-Sleepiness accumulates gradually while awake and can be alleviated by sleeping. Severe sleepiness leads to reduced speed.
+<color=#882222>Sonolência</color>
+A sonolência se acumula gradualmente enquanto se está acordado e pode ser aliviada dormindo. A sonolência severa leva a uma velocidade reduzida.
 
-<color=#882222>Hunger</color>
-Hunger continually increases except during meals. When starving, actions incur damage, eventually leading to death. Additionally, starvation disables natural HP and MP recovery. Hunger can be relieved by eating.
+<color=#882222>Fome</color>
+A fome aumenta continuamente, exceto durante as refeições. Ao ficar faminto, ações sofrem dano, eventualmente levando à morte. Além disso, a fome desativa a recuperação natural de HP e MP. A fome pode ser aliviada comendo.
 
-<color=#882222>Poison</color>
-An ailment causing continuous damage over time. Accumulated damage can be reduced through health restoration.
+<color=#882222>Veneno</color>
+Uma enfermidade que causa dano contínuo ao longo do tempo. O dano acumulado pode ser reduzido por meio da restauração da saúde.
 
-<color=#882222>Confusion</color>
-Interferes with movement, attacks, and spellcasting, causing various adverse effects on PC actions. Accumulated damage can be reduced through health restoration.
+<color=#882222>Confusão</color>
+Interfere com os movimentos, ataques e conjuração de feitiços, causando diversos efeitos adversos nas ações do personagem. O dano acumulado pode ser reduzido por meio da restauração da saúde.
 
 $item
-{topic,Items and Equipment}
-There are various items within the game, and those that can be equipped on the body are called equipment.
+{topic,Itens e Equipamentos}
+Existem vários itens no jogo, e aqueles que podem ser equipados no corpo são chamados de equipamentos.
 
-{topic,Equipment Notation}
-For convenience, part of the equipment's performance is displayed in its name. The notation within parentheses () indicates (dice value + damage modifier, hit modifier), and within brackets [] indicates [dodge modifier, protection modifier].
-{pair|Example|a dagger (5d6+1, 4) [2, 3]}
+{topic,Descrição de Equipamentos}
+Para conveniência, parte do desempenho do equipamento é exibido em seu nome. A notação dentro dos parênteses () indica (valor dos dados + modificador de dano, modificador de acerto), e dentro dos colchetes [] indica [modificador de esquiva, modificador de proteção].
+{pair|Example|uma adaga (5d6+1, 4) [2, 3]}
 
-When attacking with the example dagger above, your damage is determined by rolling 5d6 (rolling a six-sided die five times) and adding a +1 damage modifier. Additionally, your hit rate increases by 4. When defending, your dodge value (DV) increases by 2, and your protection value (PV) increases by 3.
+Ao atacar com a adaga de exemplo acima, seu dano é determinado ao rolar 5d6 (rolar um dado de seis faces cinco vezes) e adicionar um modificador de dano de +1. Além disso, sua taxa de acerto aumenta em 4. Ao defender, seu valor de esquiva (DV) aumenta em 2, e seu valor de proteção (PV) aumenta em 3.
 
-{topic,Curses and Blessings}
-Items and equipment may be cursed or blessed. The effects of curses or blessings differ for each item, but in most cases, a cursed item will have the opposite effect of the original item's intended effect. The power of an item (the strength of its effect) tends to be stronger when cursed or blessed than under normal circumstances.
+{topic,Maldições e Bênçãos}
+Itens e equipamentos podem ser amaldiçoados ou abençoados. Os efeitos das maldições ou bênçãos diferem para cada item, mas na maioria dos casos, um item amaldiçoado terá o efeito oposto ao efeito pretendido do item original. O poder de um item (a força de seu efeito) tende a ser maior quando amaldiçoado ou abençoado do que em circunstâncias normais.
 
-Additionally, if you equip a cursed item, you cannot remove it until the curse is lifted.
+Além disso, se você equipar um item amaldiçoado, não poderá removê-lo até que a maldição seja quebrada.
 
-{topic,Bonus Levels}
-Bonus levels, represented by a plus sign such as 'Item Name +4,' boost the overall performance of an item. The effects of increased bonus levels vary depending on the type of item, often providing bonuses such as increased power, higher price, increased weapon damage, or increased armor defense.
+{topic,Níveis Bônus}
+Níveis de bônus, representados por um sinal de mais como em 'Item Name +4', aumentam o desempenho geral de um item. Os efeitos do aumento dos níveis de bônus variam dependendo do tipo de item, frequentemente fornecendo bônus como aumento de poder, preço mais alto, dano de arma aumentado ou defesa de armadura aumentada.
 
-{topic,Enchantments}
-Items and equipment can be imbued with special effects known as enchantments. Particularly rare equipment may come with multiple random enchantments.
+{topic,Encantamentos}
+Itens e equipamentos podem ser imbuídos com efeitos especiais conhecidos como encantamentos. Equipamentos particularmente raros podem vir com múltiplos encantamentos aleatórios.
 
-{topic,Traits}
-Traits are indicated with 【】, such as 【Pretty】 or 【Good Smell】, and are primarily added through the item's material or crafting.
+{topic,Características}
+Características são indicadas com 【】, como 【Fofo】 ou 【Boa Pessoa】, e são adicionadas principalmente através do material do item ou da criação.
 
-{topic,Equipment Rarity}
-Randomly generated equipment tends to have better performance the rarer it is. Below is a list of rarity levels:
-{pair|Poor|Equipment with lower-than-average performance.}
-{pair|Standard|Equipment with average performance.}
-{pair|Superior|Equipment with better-than-average performance. May come with random enchantments.}
-{pair|Miracle|Rare equipment that comes with multiple random enchantments. Displayed as ☆『Item Name』.}
-{pair|Godly|Extremely rare equipment that comes with even more random enchantments than miraculous items. Displayed as ☆《Item Name》.}
-{pair|Artifact|Unique and rare equipment with fixed, unique enchantments. Displayed as ★《Item Name》.}
+{topic,Raridade de Equipamentos}
+Equipamentos gerados aleatoriamente tendem a ter desempenho melhor quanto mais raros forem. Abaixo está uma lista dos níveis de raridade:
+{pair|Podre|Equipamento com desempenho abaixo da média.}
+{pair|Normal|Equipamento com desempenho médio.}
+{pair|Superior|Equipamento com desempenho acima da média. Pode vir com encantamentos aleatórios.}
+{pair|Milagroso|Equipamento raro que vem com múltiplos encantamentos aleatórios. Exibido como ☆『Nome do Item』.}
+{pair|Divino|Equipamento extremamente raro que vem com ainda mais encantamentos aleatórios do que os itens milagrosos. Exibido como ☆《Nome do Item》.}
+{pair|Artefato|Equipamento único e raro com encantamentos fixos e únicos. Exibido como ★《Nome do Item》.}
 
 $identify
-{topic,Identifying Unidentified Items}
-Some items, such as potions and scrolls, or rare equipment, may be in an unidentified state when acquired. Their performance does not change when used or equipped, but identifying them will reveal the item’s name and stats.
+{topic,Identificando Itens Não Identificados}
+Alguns itens, como poções e pergaminhos, ou equipamentos raros, podem estar em um estado não identificado quando adquiridos. Seu desempenho não muda quando usados ou equipados, mas identificá-los revelará o nome e as estatísticas do item.
 
-To identify an item, you typically need to use an "scroll of identify" or utilize the identification services of a mage in town. There are standard and greater identification methods, and artifacts can only be identified through greater identification.
-
+Para identificar um item, normalmente é necessário usar um "scroll of identify" ou utilizar os serviços de identificação de um mago na cidade. Existem métodos de identificação padrão e avançados, e artefatos só podem ser identificados através da identificação avançada.
 
 $craft
-{topic,Crafting}
-In crafting stations, you can create various items by combining ingredients. The skills required for crafting differ depending on the station, and if you do not possess the necessary skills or if your skill level is lower than required, the stamina consumed will increase, and the quality of the crafted item may decrease.
+{topic, Criação de Itens}
+Em estações de criação, você pode fabricar vários itens combinando ingredientes. As habilidades necessárias para a criação diferem dependendo da estação, e se você não possuir as habilidades necessárias ou se seu nível de habilidade for inferior ao exigido, a estamina consumida aumentará, e a qualidade do item criado pode diminuir.
 
-Some stations require fuel to operate. If you have fuel in your inventory, it will be used automatically, but you can also manually add fuel or check the required amount by clicking on the fuel icon.
+Algumas estações requerem combustível para operar. Se você tiver combustível no seu inventário, ele será usado automaticamente, mas você também pode adicionar combustível manualmente ou verificar a quantidade necessária clicando no ícone de combustível.
 
-{topic,Processing}
-Using processing stations, you can refine raw ingredients into new items. A typical example is the sawmill, where you can process logs into planks.
+{topic, Processamento}
+Usando estações de processamento, você pode refinar ingredientes brutos em novos itens. Um exemplo típico é a serraria, onde você pode transformar troncos em tábuas.
 
-You can work with various items at processing stations, and some stations have multiple slots where you can place items. The products displayed on the screen are not limited to the ones you know initially: many more can be added to the list once you craft them for the first time. When using a station, the items that can be processed will be highlighted in your inventory, so try experimenting with different recipes.
+Você pode trabalhar com vários itens em estações de processamento, e algumas estações têm múltiplas vagas onde você pode colocar os itens. Os produtos exibidos na tela não se limitam aos que você conhece inicialmente: muitos mais podem ser adicionados à lista uma vez que você os fabrica pela primeira vez. Ao usar uma estação, os itens que podem ser processados serão destacados no seu inventário, então experimente diferentes receitas.
 
-{topic,Mixing Traits}
-Some items come with traits like 【Rare】 or 【Cute】. These traits can be inherited by the crafted item during the crafting process. By combining traits, you can increase the item's selling price, enhance its effects, or add various bonuses to the final product.
+    {topic, Mistura de Atributos}
+Alguns itens vêm com características como 【Rare】 ou 【Cute】. Essas características podem ser herdadas pelo item criado durante o processo de fabricação. Ao combinar características, você pode aumentar o preço de venda do item, aprimorar seus efeitos ou adicionar diversos bônus ao produto final.
 
-You can check the effect of traits by hovering over the ingredient and pressing the item examine key (default is 'x').
+Você pode verificar o efeito das características passando o mouse sobre o ingrediente e pressionando a tecla de examinar o item (padrão é 'x').
 
-{topic,Quality}
-The Quality trait is a special trait that enhances an item's basic performance and price, with each item having a set maximum value. You can check the maximum value from the crafting screen, and if you combine traits that exceed this maximum, the level will be capped at the maximum. The maximum value of quality trait is determined by the relevant crafting skill and the recipe's level.
+{topic,Qualidade}
+A característica de Qualidade é uma característica especial que aprimora o desempenho básico e o preço de um item, sendo que cada item possui um valor máximo definido. Você pode verificar o valor máximo na tela de criação, e se combinar características que excedam esse máximo, o nível será limitado ao máximo. O valor máximo da característica de qualidade é determinado pela habilidade de criação relevante e pelo nível da receita.
 
-{topic,Cooking}
-When crafting or processing, if there are overlapping traits among the ingredients, the highest trait will be inherited by the crafted item. However, in the case of cooking, some overlapping traits are not inherited but instead combined. The traits that can be combined are mainly those that boost stats or potential abilities, and they are displayed when examining an item(x key).
+{topic,Culinária}
+Ao criar ou processar, se houver características sobrepostas entre os ingredientes, a maior característica será herdada pelo item criado. No entanto, no caso da culinária, algumas características sobrepostas não são herdadas, mas sim combinadas. As características que podem ser combinadas são, principalmente, aquelas que aumentam os atributos ou potencial de habilidades, e elas são exibidas ao examinar um item (tecla x).
 
 $recipe
-{topic,About Recipes}
-In order to craft an item, you need to have learned the recipe for it. While you start the game knowing a few basic recipes, most recipes need to be newly acquired.
+{topic,Sobre Receitas}
+Para criar um item, você precisa ter aprendido a receita correspondente. Embora você comece o jogo conhecendo algumas receitas básicas, a maioria das receitas precisa ser adquirida novamente.
 
-{topic,Recipe Acquisition Conditions}
-Recipes have acquisition conditions. For example, in the case of cooking recipes, the higher your cooking skill, the more advanced recipes you can obtain. The related skill required for obtaining a recipe corresponds to the skill required by the equipment used to craft the item. For instance, when crafting a pickaxe, since pickaxes are crafted at a tinker's table, the “Crafting” skill used at the table becomes the related skill for the pickaxe recipe.
+{topic,Condições para Obter Receitas}
+As receitas possuem condições de aquisição. Por exemplo, no caso das receitas de culinária, quanto maior sua habilidade culinária, receitas mais avançadas você poderá obter. A habilidade relacionada exigida para obter uma receita corresponde à habilidade requerida pelo equipamento usado para criar o item. Por exemplo, ao criar uma picareta, já que as picaretas são confeccionadas na bancada de um artífice, a habilidade “Crafting” usada na bancada torna-se a habilidade relacionada para a receita da picareta.
 
-{topic,Recipe Inspiration from Actions}
-By performing certain actions, you can sometimes “come up with” recipes for specific items with a high probability. For example, mining a wall may inspire a recipe for that type of wall, digging up a floor may inspire a floor recipe, or dismantling an item may lead to learning the recipe for that item.
+{topic,Inspiração para Receitas por Ações}
+Ao realizar certas ações, você pode, às vezes, “descobrir” receitas para itens específicos com alta probabilidade. Por exemplo, minerar uma parede pode inspirar uma receita para esse tipo de parede, cavar um piso pode inspirar uma receita para piso, ou desmontar um item pode levar ao aprendizado da receita desse item.
 
-{topic,Recipe Inspiration from Crafting}
-There is also a low probability of coming up with a recipe while crafting. In this case, the recipe acquired will be a random item from the same category as the crafted item.
+{topic,Inspiração para Receitas ao Criar Itens}
+Também há uma baixa probabilidade de descobrir uma receita durante a criação. Nesse caso, a receita adquirida será um item aleatório da mesma categoria que o item criado.
 
-{topic,Recipe Inspiration from Sleeping}
-There is also a high probability of coming up with recipes during sleep. The recipe gained is selected randomly.
+{topic,Recipe Inspiração para Receitas ao Dormir}
+Também há uma alta probabilidade de descobrir receitas durante o sono. A receita obtida é selecionada aleatoriamente.
 
-{topic,Other Ways to Acquire Recipes}
-Apart from actions and sleeping, you can acquire new recipes by purchasing and reading them or using randomly generated “Shrines of Wheel" found on maps. These methods may allow you to obtain higher-level recipes than usual.
+{topic,Outras Formas de Obter Receitas}
+Além de ações e do sono, você pode adquirir novas receitas comprando e lendo-as ou usando os “Santuários da Roda” gerados aleatoriamente encontrados nos mapas. Esses métodos podem permitir que você obtenha receitas de nível mais alto que o usual.
 
-{topic,Recipe Levels}
-If there are no eligible recipes to obtain when a random recipe is drawn — such as when the skill requirement is not met — a random recipe from the ones you’ve already learned will be drawn instead. When you obtain an already learned recipe, the level of that recipe increases, granting bonuses to the item's max quality during crafting.
+{topic,Níveis de Receitas}
+Se não houver receitas elegíveis para obter quando uma receita aleatória é sorteada — como quando a exigência de habilidade não é atendida — uma receita aleatória dentre as que você já aprendeu será sorteada em seu lugar. Quando você obtém uma receita já aprendida, o nível dessa receita aumenta, concedendo bônus à qualidade máxima do item durante a criação.
 
 $tool
-{topic,Tools}
-The tools that can be crafted mainly from the tinker's table have various effects when held and used. Below are some representative tools and their purposes.
+{topic,Ferramentas}
+As ferramentas que podem ser criadas, principalmente, na bancada do artífice têm vários efeitos quando empunhadas e usadas. Abaixo estão algumas ferramentas representativas e seus propósitos.
 
-{topic,Representative Tool Purposes}
-{pair|Pickaxe|Can be used on walls to mine them.}
-{pair|Axe|Can be used to cut down trees and quickly gather plants.}
-{pair|Shovel|Can be used on the ground to strip floors or dig up soil.}
-{pair|Hoe|Can be used on dirt ground to create a farm.}
-{pair|Sickle|Can be used on grown plants to obtain seeds.}
-{pair|Hammer|Can be used to dismantle items and obtain resources.}
-{pair|Shears|Can be used on wool-bearing livestock to shear wool. Feeding the livestock pasture will cause the wool to grow back.}
-{pair|Bottomless Pot|Can be used on water to scoop it up, and on the ground to create a water source.}
+{topic,Funções das Ferramentas Principais}
+{pair|Picareta|Pode ser usada em paredes para minerá-las.}
+{pair|Machado|Pode ser usada para derrubar árvores e coletar plantas rapidamente.}
+{pair|Pá|Pode ser usada no solo para remover pisos ou cavar terra.}
+{pair|Enxada|Pode ser usada em terrenos de terra para criar uma fazenda.}
+{pair|Foice|Pode ser usada em plantas maduras para obter sementes.}
+{pair|Martelo|Pode ser usada para desmontar itens e obter recursos.}
+{pair|Tesouras|Pode ser usada em animais que possuem lã para tosquiá-los. Alimentar os animais com pasto fará com que a lã volte a crescer.}
+{pair|Pote Sem Fundo|Pode ser usada na água para recolhê-la, e no solo para criar uma fonte de água.}
 
 $autocombat
-{topic, Auto-Combat}
-When you have no right-click action, you can engage in auto-combat by right-clicking on neutral or hostile creatures. During auto-combat, your character will automatically fight based on the settings in the "Strategy" section of the character sheet.
+{topic, Combate Automático}
+Quando você não tiver uma ação com o clique direito, poderá entrar em auto-combate ao clicar com o botão direito em criaturas neutras ou hostis. Durante o auto-combate, seu personagem lutará automaticamente com base nas configurações da seção "Strategy" da ficha do personagem.
 
-During auto-combat, the amount of damage you receive from enemies is slightly reduced, depending on the value of your "Strategy" skill. Additionally, as long as you have enough stamina, you can avoid fatal injuries by consuming stamina. This feature can be used to safely gauge the strength of an opponent you are facing for the first time. So let's actively utilize auto-combat in your fights as a part of your battle strategy.
+Durante o auto-combate, a quantidade de dano que você recebe dos inimigos é ligeiramente reduzida, dependendo do valor da sua habilidade "Strategy". Além disso, contanto que você tenha estamina suficiente, é possível evitar ferimentos fatais consumindo estamina. Esse recurso pode ser usado para avaliar com segurança a força de um oponente que você está enfrentando pela primeira vez. Portanto, utilize ativamente o auto-combate em suas lutas como parte de sua estratégia de batalha.
 
 $party_ability
-{topic, Using Abilities}
-Abilities that display a blue humanoid icon in the top-right corner of the icon (such as self-harm) do not require a target to be specified and can be used directly by right-clicking.
+{topic, Usando Habilidades}
+Habilidades que exibem um ícone humanóide azul no canto superior direito (como auto-aplicação) não requerem a especificação de um alvo e podem ser usadas diretamente com o clique direito.
 
-Abilities with a green icon depicting two humanoids can also be used directly with a right-click, but in addition, they can be used on specific individuals or used on your entire party.
+Habilidades com um ícone verde representando dois humanóides também podem ser usadas diretamente com o clique direito, mas, além disso, podem ser aplicadas em indivíduos específicos ou em todo o seu grupo.
 
-If you wish to select a target, move the ability to the action bar, set the ability as your current action, and then specify the target with the cursor on the map.
+Se desejar selecionar um alvo, mova a habilidade para a barra de ações, defina-a como sua ação atual e, em seguida, especifique o alvo com o cursor no mapa.
 
-{topic, Party-Wide Abilities}
-You can also target party members within your line of sight by holding down the right-click on the icon, or by hovering the cursor over yourself on the map and holding down the right-click. In this case, MP is consumed for each target.
+{topic, Habilidades para Todo o Grupo}
+Você também pode direcionar membros do grupo dentro do seu campo de visão segurando o clique direito sobre o ícone, ou passando o cursor sobre você mesmo no mapa e mantendo o clique direito pressionado. Nesse caso, MP é consumido para cada alvo.
 
 $autodump
-{topic,Auto-Dump}
-Auto-Dump is a function that automatically allocates items in the backpack to containers placed in your home.
+{topic,Despejo Automático}
+Auto-Dump é uma função que aloca automaticamente os itens da mochila em contêineres colocados em sua residência.
 
-By default, if there are items in containers placed on your home, the same items in your backpack will be automatically stored in the containers. By changing the settings, you can create a container that automatically collects only armor or books, for example. Use this feature to organize your items.
+Por padrão, se houver itens em contêineres na sua residência, os mesmos itens da sua mochila serão automaticamente armazenados nesses contêineres. Alterando as configurações, você pode criar um contêiner que coleta automaticamente apenas armaduras ou livros, por exemplo. Utilize esse recurso para organizar seus itens.
 
 $item_search
-{topic,Item Search}
-While in-game, pressing CTRL+F will bring up the item search box.
+{topic,Pesquisa de Itens}
+Enquanto estiver no jogo, pressionar CTRL+F abrirá a caixa de pesquisa de itens.
 
-By typing part of an item's name into the box, you can see a list of potential matches from your backpack and items on the map. Items inside containers are also included in the search. Clicking on a listed item will highlight it within your backpack or container. For items on the map, your character will automatically move to where the item is located.
+Ao digitar parte do nome de um item na caixa, você verá uma lista de possíveis correspondências provenientes da sua mochila e dos itens no mapa. Itens dentro de contêineres também são incluídos na pesquisa. Clicar em um item listado irá destacá-lo em sua mochila ou contêiner. Para itens no mapa, seu personagem se moverá automaticamente até onde o item está localizado.
 
-This feature is especially useful when you've misplaced an item, like a tax invoice.
+Esse recurso é especialmente útil quando você perdeu um item, como uma nota fiscal.
 
 $mark_important
-{topic,Marking Important Item}
-You can designate an item as "Important" by middle-clicking it in your inventory and selecting the "Mark as Important" action.
+{topic,Marcação de Item Importante}
+Você pode designar um item como "Importante" clicando com o botão do meio em seu inventário e selecionando a ação "Marcar como Importante".
 
-Items marked as "Important" cannot be discarded or sold, preventing accidental loss.
+Itens marcados como "Importantes" não podem ser descartados ou vendidos, evitando perdas acidentais.
 
 $equip_set
-{topic,Equipment Set}
-By clicking an empty slot in the hotbar located in the upper left of the screen, where buttons like the help button are placed, and selecting "Save Current Equipment Set," your current equipment can be registered as an equipment set.
+{topic,Conjunto de Equipamentos}
+Ao clicar em um slot vazio na barra de ações localizada no canto superior esquerdo da tela, onde botões como o botão de ajuda estão posicionados, e selecionar "Salvar Conjunto de Equipamentos Atual", seu equipamento atual pode ser registrado como um conjunto de equipamentos.
 
-Registered equipment sets can be easily switched with a single click, allowing you to adapt your gear to various purposes and situations. Additionally, by right-clicking on an equipment set icon, you can update the equipment, rename it for clarity, or change its color.
+Conjuntos de equipamentos registrados podem ser facilmente trocados com um único clique, permitindo que você adapte seu equipamento para diversos propósitos e situações. Além disso, ao clicar com o botão direito no ícone do conjunto de equipamentos, você pode atualizar o equipamento, renomeá-lo para maior clareza ou alterar sua cor.
 
 $auto_bed
-{topic,Automatic Bed Usage}
-By clicking the bed icon in the hotbar located in the upper left of the screen, where buttons like the help button are placed, you can automatically use a bed from your inventory. If you have a body pillow, it will be used along with the bed.
+{topic,Uso Automático da Cama}
+Ao clicar no ícone da cama na barra de ações localizada no canto superior esquerdo da tela, onde botões como o de ajuda estão posicionados, você pode utilizar automaticamente uma cama do seu inventário. Se você tiver um travesseiro, ele será usado juntamente com a cama.
 
-The bed and body pillow you used will be automatically returned to their original positions once your sleep is complete.
+A cama e o travesseiro utilizados serão automaticamente retornados às suas posições originais assim que seu sono for concluído.
 
 $advanced_menu
-{topic,Advanced Menu}
-By enabling the "Show Advanced Menu" option under the "Game" tab in the settings menu, you can access various features designed for experienced adventurers. This option is disabled by default due to the menu's complexity.
+{topic,Menu Avançado}
+Ao habilitar a opção "Mostrar Menu Avançado" na aba "Game" do menu de configurações, você pode acessar vários recursos projetados para aventureiros experientes. Essa opção é desabilitada por padrão devido à complexidade do menu.
 
-Enabling the advanced menu allows you to perform actions such as:
+Habilitar o menu avançado permite realizar ações como:
 
-・ Configuring Auto Pick from your main backpack.
-・ Adding more options for containers as well as more advanced item distribution settings.
-・ Using word filters for item distribution.
+・ Configurar a Seleção Automática a partir da sua mochila principal.
+・ Adicionar mais opções para contêineres, bem como configurações avançadas de distribuição de itens.
+・ Utilizar filtros de palavras para a distribuição de itens.
