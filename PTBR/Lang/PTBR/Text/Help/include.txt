@@ -1,13 +1,16 @@
 $topic_credit
-{topic,Lafrontier Developers}
+{topic,Desenvolvedores Lafrontier}
 $topic_credit_resource
 {topic,Copyright and Creator Information}
-This game makes use of a variety of free resources. We would like to express our gratitude to all the creators of these materials. Images have been adapted to fit the game, including resizing. Additionally, we have altered the volume and pitch of sound effects within the work.
+Este jogo utiliza uma variedade de recursos gratuitos. Gostaríamos de expressar nossa gratidão a todos os criadores desses materiais. As imagens foram adaptadas para se adequar ao jogo, inclusive redimensionadas. Além disso, alteramos o volume e o tom dos efeitos sonoros na obra.
 
-{topic,Elona Resources}
+{topic,Tradução Português Brasileiro}
+Yuri Cunha (@isyuricunha)
+
+{topic,Recursos Elona}
 $topic_credit_backer
 {topic,Wish Credits}
-These are the features implemented through the 'wishes' of Elin's backers, along with a list of their names. We would like to express our gratitude to everyone for enhancing the game with their wishes.
+Estas são as funcionalidades implementadas através dos 'desejos' dos apoiadores de Elin, juntamente com uma lista de seus nomes. Gostaríamos de expressar nossa gratidão a todos por aprimorarem o jogo com seus desejos.
 $topic_credit_news
 {topic,Palmia Times Credits}
-These are the names of backers who have contributed in enriching the Palmia Times. We would also like to express our gratitude to everyone here.
+Estes são os nomes dos apoiadores que contribuíram para enriquecer o Palmia Times. Também gostaríamos de expressar nossa gratidão a todos aqui.
