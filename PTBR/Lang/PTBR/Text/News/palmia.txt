@@ -1,91 +1,91 @@
-Mysterious Ship Docks at Kapul Port
-This morning, an unidentified ship with unclear origins and crew docked at Kapul. The ship bears unknown hieroglyphics, piquing interest, with ongoing investigations to decipher the mystery.
+Navio Misterioso Atraca no Porto de Kapul
+Nesta manhã, um navio não identificado, de origem e tripulação desconhecidas, atracou em Kapul. A embarcação possui hieróglifos enigmáticos, despertando curiosidade, enquanto investigações seguem para desvendar o mistério.
 @port,guard_m-1
 
-Restoration of Palmia's Castle Walls
-The repair of Palmia Kingdom's castle walls, damaged in a recent war, is now complete, enhancing the city residents' sense of security.
+Restauração das Muralhas do Castelo de Palmia
+O reparo das muralhas do Reino de Palmia, danificadas na guerra recente, foi concluído, trazendo uma maior sensação de segurança para os cidadãos da cidade.
 @gate,UN_nola
 
-Harvest Shortage Concerns
-The tranquil farming village of Yowyn faces a significant reduction in this year's harvest compared to usual, leaving farmers grappling with this unexplained phenomenon.
+Preocupação com a Escassez na Colheita
+A pacata vila agrícola de Yowyn enfrenta uma redução significativa na colheita deste ano em comparação ao habitual, deixando os agricultores lidando com esse fenômeno inexplicável.
 @farm
 
-Avalanche Strikes Noyel
-Noyel has been hit by a severe avalanche, cutting off communication with dozens of villagers. Damage to nearby roads has led to urgent aid requests to the Palmia Kingdom.
+Avalanche Atinge Noyel
+Noyel foi atingida por uma forte avalanche, isolando dezenas de moradores. Os danos às estradas próximas resultaram em pedidos urgentes de ajuda ao Reino de Palmia.
 @snow,UN_zane
 
-Famous Band Vanishes in Lumiest
-A popular band composed entirely of eleas disappeared overnight in the city of arts. The reasons behind the band's disappearance remain unknown.
+Banda Famosa Desaparece em Lumiest
+Uma banda popular, composta inteiramente por eleas, desapareceu misteriosamente da cidade das artes durante a noite. As razões por trás do desaparecimento do grupo ainda são desconhecidas.
 @city
 
-Bizarre Phenomenon of Gathering Cats
-In the tranquil farming village of Yowyn, there is a peculiar phenomenon of cats gathering in groups at night. There are rumors that it might be the work of the Mages Guild.
+Fenômeno Bizarro de Gatos se Reunindo
+Na pacata vila agrícola de Yowyn, um fenômeno peculiar ocorre: gatos se reúnem em grupos à noite. Rumores indicam que pode ser obra da Guilda dos Magos.
 @farm
 
-Can we hope?
-The Kingdom of Palmia unveils plans for a rigorous tax system overhaul. Citizens express a mix of hope and apprehension as expectations run high.
+Podemos Ter Esperança?
+O Reino de Palmia revela planos para uma rigorosa reforma do sistema tributário. Os cidadãos expressam uma mistura de esperança e apreensão diante das altas expectativas.
 @royal,UN_zane
 
-Do Citizens Dream Of Paperytic Lamb?
-A plan to print edible Palmia Times as a wartime food solution has been introduced to Palmia Parliament. 'A brilliant idea!' exclaimed Prince Xabi, according to a nobleman present at the session.
+Os Cidadãos Sonham com o Cordeiro de Papel?
+Foi apresentado no Parlamento de Palmia um plano para imprimir edições comestíveis do Palmia Times como solução alimentar em tempos de guerra. "Uma ideia brilhante!" exclamou o Príncipe Xabi, segundo um nobre presente na sessão.
 @royal,UN_xabi
 
-New Flavor Hits Crim Ale!
-Crim Ale introduces its newest flavor, 'Oriental Spice'. The perfect balance of aromatic spices and luxurious fruits sure to captivate the adult palate. Stocks are quickly depleting nationwide.
+Novo Sabor Chega ao Crim Ale!
+Crim Ale lança seu mais novo sabor, 'Especiarias Orientais'. O equilíbrio perfeito entre especiarias aromáticas e frutas luxuosas promete cativar o paladar adulto. Os estoques estão se esgotando rapidamente em todo o país.
 @tavern
 
-Princess Stasha Unveils Latest Court Fashion
-Princess Stasha, of Mayroon origin, unveiled her newest fashion at the court of Palmia. The court was left in awe of her beauty, initiating a new trend in fashion.
+Princesa Stasha Revela Nova Moda da Corte
+A Princesa Stasha, de origem Mayroon, revelou sua mais nova tendência na corte de Palmia. Sua beleza deslumbrante deixou a corte em êxtase, dando início a uma nova moda.
 @royal,UN_stasha
 
-Cooking Challenge Conquered by Princess Stasha
-Princess Stasha showcased her self-made dishes at a court dinner party. Her exceptional skill and sophistication have astounded everyone, creating a new wave of Stasha mania.
+Princesa Stasha Conquista Desafio Culinário
+A Princesa Stasha apresentou pratos preparados por ela mesma em um banquete da corte. Sua habilidade excepcional e sofisticação surpreenderam a todos, criando uma nova onda de admiração por Stasha.
 @royal,UN_stasha
 
-Yowyn Horse Rescues Traveler!
-A traveler, cornered by monsters, was saved by the sudden intervention of a Yowyn horse. The grateful man expressed his thanks and presented the brave horse with a bucketful of fodder.
+Cavalo de Yowyn Salva Viajante!
+Um viajante, encurralado por monstros, foi salvo pela súbita intervenção de um cavalo de Yowyn. O homem, grato, expressou seus agradecimentos e presenteou o bravo animal com um balde cheio de ração.
 @farm
 
-Snow Putit's Popularity Soars High!
-Snow Petit, a common pet from Noyel, is gaining popularity for its irresistible cuteness and calming effect. The mystery of it shedding rabbit fur perhaps enhances its charm.
+Popularidade do Putit da Neve Dispara!
+O Putit da Neve, um animal de estimação comum em Noyel, está ganhando popularidade por sua fofura irresistível e efeito relaxante. O mistério de ele soltar pelos de coelho talvez aumente ainda mais seu charme.
 @snow
 
-Princess Stasha: Swift Rise to Popularity
-The genuine nature and affability of Princess from Mayroon has captivated the court's heart, inspiring fan clubs. Her refreshing demeanor has made her an adored figure nationwide.
+Princesa Stasha: Ascensão Rápida à Fama
+A personalidade genuína e carismática da princesa de Mayroon cativou o coração da corte, inspirando clubes de fãs. Sua atitude refrescante a tornou uma figura adorada em todo o reino.
 @royal,UN_stasha
 
-Court Chaos: Prince's Scandal Reignited
-Prince Xabi, in a drunken state at a Kapul party, revealed a love letter not meant for his fiancée, Princess Stasha. The court awaits the prince's official response.
+Caos na Corte: Escândalo do Príncipe é Reacendido
+O Príncipe Xabi, embriagado em uma festa de Kapul, revelou uma carta de amor que não era destinada à sua noiva, a Princesa Stasha. A corte aguarda ansiosa a resposta oficial do príncipe.
 @royal,UN_xabi
 
-Prince Shakes Court Again
-Prince Xabi is now suspected of secret meetings with his soon-to-be-married Princess Stasha. However, it turns out he was merely comforting her homesickness.
+Príncipe Agita a Corte Novamente
+O Príncipe Xabi agora é suspeito de encontros secretos com sua noiva, a Princesa Stasha. No entanto, descobriu-se que ele estava apenas confortando-a por sua saudade de casa.
 @royal,UN_xabi
 
-Snow Festival Hero
-At Noyel's snow festival, an adventurer passing by created a stunning snow statue, bringing delight to the children. The villagers honored her as the hero of the festival.
+Herói do Festival de Neve
+Durante o festival de neve de Noyel, um aventureiro de passagem criou uma impressionante estátua de neve, encantando as crianças. Os moradores o homenagearam como o herói do festival.
 @snow
 
-Hungry Sea Lion Terror: Food Stocks Vanish Overnight
-Port Kapul is facing an unusual situation with food storages emptied overnight. Investigations revealed hungry sea lions are to blame. Adventurers are being urgently recruited.
+Terror das Focas Famintas: Estoques de Comida Sumindo da Noite para o Dia
+O Porto de Kapul enfrenta uma situação incomum, com armazéns de comida sendo esvaziados misteriosamente durante a noite. Investigações apontam que o culpado são focas famintas. Aventureiros estão sendo recrutados com urgência.
 @port
 
-Lumiest Invites Adventurers to Music Festival
-Lumiest, the city of music and arts, has called on adventurers to participate in an upcoming music festival. Epic tales of adventurers are set to be sung.
+Lumiest Convida Aventureiros para Festival de Música
+Lumiest, a cidade da música e das artes, convocou aventureiros para participarem do próximo festival musical. Contos épicos de aventureiros serão transformados em canções.
 @tavern
 
-New Adventures Begin!
-The brothel in Derphy is experiencing a surge in popularity. The outlaw town, where danger and temptation intermingle, has become the new stage for adventurers.
+Novas Aventuras Começam!
+O bordel de Derphy está vivenciando um aumento na popularidade. A cidade dos fora-da-lei, onde o perigo e a tentação se misturam, tornou-se o novo palco para aventureiros.
 @tavern
 
-New 'Fortune' Dances Above Palmia
-Fortune Bell, the first casino airship in Palmia, built by the New Kingdom to flaunt its technology. In partnership with Palmia's established casino 'Fortune Cookie', the dream leisure ship promises new excitement to casino lovers.
+Nova 'Fortuna' Dança Sobre Palmia
+Fortune Bell, o primeiro dirigível cassinos de Palmia, foi construído pelo Novo Reino para exibir sua tecnologia. Em parceria com o já renomado cassino 'Fortune Cookie', a nave promete uma nova experiência emocionante para os amantes do jogo.
 @casino
 
-Citizens Concerned Over Flying Casino
-The casino airship, 'Fortune Bell,' has alarmed citizens of Palmia. The fear that it might crash without warning has led to the airship being referred to as a 'bomb in the sky.'
+Cidadãos Preocupados com Cassino Voador
+O dirigível cassino, 'Fortune Bell', gerou preocupação entre os cidadãos de Palmia. O medo de que ele possa cair sem aviso levou à sua alcunha de 'bomba no céu'.
 @casino
 
-Fortune Calls Ex-Guards To The Sky
-Former guards are being massively recruited by "Fortune Cookie," the operators of the airship casino built by the New Kingdom. King Zane applauds this employment surge.
+Fortuna Chama Ex-Guardas aos Céus
+Antigos guardas estão sendo recrutados em massa pelo 'Fortune Cookie', operadores do cassino aéreo construído pelo Novo Reino. O Rei Zane elogia esse aumento no emprego.
 @casino,UN_zane,guard_m-1
