@@ -1,48 +1,48 @@
 $livestock
-{topic,Residents and Livestock}
-You can house companions you meet during your journey as residents at your bases. The maximum number of residents is primarily dependent on the level of the Hearth Stone, and exceeding this limit will reduce the efficiency of the residents' work. Unique residents who join through the storyline do not count towards the resident limit.
+{topic,Residentes e Gado}
+Você pode abrigar os companheiros que encontrar durante sua jornada como residentes em suas bases. O número máximo de residentes depende principalmente do nível da Pedra do Lar, e ultrapassar esse limite reduzirá a eficiência do trabalho dos residentes. Residentes únicos que se juntam por meio da história não contam para o limite de residentes.
 
-By selecting a resident from the Resident Board and choosing "Make Livestock," you can freely keep residents as livestock. Livestock also do not count towards the resident limit, but they will be unable to perform certain actions such as joining you on adventures or trading items.
+Ao selecionar um residente no Quadro de Residentes e escolher "Make Livestock", você pode manter os residentes como gado livremente. O gado também não conta para o limite de residentes, mas não poderá realizar certas ações, como acompanhá-lo em aventuras ou negociar itens.
 
-{topic,Resident Jobs and Hobbies}
-Each resident has unique jobs and hobbies, which, depending on their type, can enhance the base's skills or provide supplies. Some jobs and hobbies require specific conditions to be met, which can be checked by hovering over the resident's job icon on the Resident Board.
+{topic,Trabalhos e Hobbies dos Residentes}
+Cada residente possui trabalhos e hobbies únicos que, dependendo do seu tipo, podem aprimorar as habilidades da base ou fornecer suprimentos. Alguns trabalhos e hobbies exigem condições específicas, que podem ser verificadas ao passar o mouse sobre o ícone do trabalho do residente no Quadro de Residentes.
 
-The efficiency of jobs and hobbies primarily increases with the resident's relevant skill level and the quality of their bed. If there is an unclaimed bed at the base, residents will automatically occupy it.
+A eficiência dos trabalhos e hobbies aumenta principalmente com o nível de habilidade relevante do residente e com a qualidade de sua cama. Se houver uma cama desocupada na base, os residentes a ocuparão automaticamente.
 
-{topic,Livestock and Fodder}
-You can feed livestock by placing pasture on the ground or in a shared container. Well-fed livestock will produce eggs, milk, regrow wool after being sheared, and provide various benefits to the base.
+{topic,Gado e Forragem}
+Você pode alimentar o gado colocando pasto no chão ou em um recipiente compartilhado. Gado bem alimentado produzirá ovos, leite, regenerará a lã após a tosquia e proporcionará diversos benefícios à base.
 
-Livestock do not occupy beds, and the quality of the products they produce primarily depends on their level.
+O gado não ocupa camas, e a qualidade dos produtos que ele produz depende principalmente do seu nível.
 
 $policy
-{topic,Policies and Admin Points}
-Policies are ordinances that can add various functions to your base. New policies can be obtained by reading the plans, and they can be enacted from the Home Board. Enacted policies will gain experience points over time, increasing their effectiveness.
+{topic,Políticas e Pontos Administrativos}
+Políticas são ordenanças que podem adicionar várias funções à sua base. Novas políticas podem ser obtidas ao ler os planos, e podem ser implementadas a partir do Quadro de Casa. Políticas implementadas ganharão pontos de experiência ao longo do tempo, aumentando sua eficácia.
 
-Each policy requires a certain amount of admin points to be enacted, and if the total exceeds your base's admin points, you will not be able to enact any more policies. Admin points can mainly be obtained by upgrading the Hearth Stone.
+Cada política requer uma certa quantidade de pontos administrativos para ser implementada, e se o total ultrapassar os pontos administrativos da sua base, você não poderá implementar mais políticas. Os pontos administrativos podem ser obtidos principalmente ao aprimorar a Pedra do Lar.
 
-{topic,Home Skills}
-Unlike policies, home skills are effective just by possessing them. Home skills can also be obtained by reading the plans and can be checked from the Home Board.
+{topic,Habilidades Domésticas}
+Diferentemente das políticas, as habilidades domésticas são eficazes apenas por possuí-las. Habilidades domésticas também podem ser obtidas lendo os planos e podem ser verificadas a partir do Quadro de Casa.
 
-Home skills can be upgraded from the Home Board using gold bars. Additionally, some residents have jobs or hobbies that increase home skills.
+As habilidades domésticas podem ser aprimoradas no Quadro de Casa usando barras de ouro. Além disso, alguns residentes possuem trabalhos ou hobbies que aumentam as habilidades domésticas.
 
 $elec
-{topic,About Electricity}
-As you progress through your adventure, you may acquire electric appliances such as refrigerators or streetlights. To operate these appliances, your base needs to be connected to a power source.
+{topic,Sobre Eletricidade}
+À medida que você avança em sua aventura, poderá adquirir aparelhos elétricos, como geladeiras ou postes de iluminação. Para operar esses aparelhos, sua base precisa estar conectada a uma fonte de energia.
 
-If you have a power source installed, such as a generator, electricity will automatically be supplied to all electric appliances within your base. However, depending on the type of power source, if placed outdoors, it may short-circuit temporarily due to bad weather.
+Se você tiver uma fonte de energia instalada, como um gerador, a eletricidade será automaticamente fornecida a todos os aparelhos elétricos dentro da sua base. No entanto, dependendo do tipo de fonte de energia, se instalada ao ar livre, ela pode sofrer um curto-circuito temporário devido ao mau tempo.
 
-{topic,Common Power Sources}
-{pair|Wheel of Pain|This equipment generates a steady amount of electricity by assigning residents to it. However, assigned residents will no longer be able to engage in most jobs or hobbies.}
-{pair|Generator|This equipment automatically generates electricity when installed. Many generators will short-circuit if exposed to water or bad weather.}
-{pair|Hobbies and Jobs|Some resident activities, such as “Exercise” or “Smoking,” generate electricity. The amount of electricity produced increases with the resident’s proficiency in that activity, making it a simple way to ensure a stable power supply.}
+{topic,Fontes de Energia Comuns}
+{pair|Roda da Dor|Este equipamento gera uma quantidade constante de eletricidade ao designar residentes para ele. No entanto, os residentes designados não poderão mais realizar a maioria dos trabalhos ou hobbies.}
+{pair|Gerador|Este equipamento gera eletricidade automaticamente quando instalado. Muitos geradores sofrerão curto-circuito se expostos à água ou ao mau tempo.}
+{pair|Trabalhos e Hobbies|Algumas atividades dos residentes, como “Exercício” ou “Fumar,” geram eletricidade. A quantidade de eletricidade produzida aumenta com a proficiência do residente nessa atividade, tornando-se uma forma simples de garantir um fornecimento estável de energia.}
 
-{topic,How to Obtain Generators}
-Generators will eventually become available through story progression or as quest rewards. Currently, they can be crafted using a provisional recipe, but beyond that, they can only be obtained through certain methods such as wishes or furniture collection. Please look forward to updates to the story and quests.
+{topic,Como Obter Geradores}
+Geradores eventualmente se tornarão disponíveis através do progresso na história ou como recompensas de missões. Atualmente, eles podem ser fabricados usando uma receita provisória, mas, além disso, só podem ser obtidos por certos métodos, como desejos ou coleção de móveis. Aguarde atualizações na história e nas missões.
 
 $civility
-{topic,Resident Civility}
-Bases have a flavor-based concept called "Civility," which fluctuates depending on the residents' hobbies, jobs, and the base's policies.
+{topic,Civilidade dos Residentes}
+As bases possuem um conceito de “Civilidade” baseado no ambiente, que varia conforme os hobbies, os trabalhos dos residentes e as políticas da base.
 
-Civility primarily affects the residents' awareness of proper waste management. Residents with high civility sort and dispose of their trash responsibly, while those with low civility not only fail to sort their garbage but may even litter carelessly.
+A civilidade afeta principalmente a consciência dos residentes sobre o gerenciamento adequado de resíduos. Residentes com alta civilidade separam e descartam o lixo de forma responsável, enquanto aqueles com baixa civilidade não apenas deixam de separar o lixo, como podem até descartá-lo de maneira irresponsável.
 
-When it comes to waste management issues, a short-term solution is to implement policies that prohibit littering by residents. However, in the long run, adopting policies aimed at raising the civility of residents proves to be more effective.
+Quando se trata de problemas de gerenciamento de resíduos, uma solução de curto prazo é implementar políticas que proíbam os residentes de jogar lixo. No entanto, a longo prazo, adotar políticas destinadas a aumentar a civilidade dos residentes se mostra mais eficaz.
