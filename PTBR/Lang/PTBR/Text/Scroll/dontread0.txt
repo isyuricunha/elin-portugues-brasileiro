@@ -1,4 +1,4 @@
-不要看
-{center}
+Não olhe  
+{center}  
 
-<i>明明警告过你了</i>
+<i>Eu te avisei.</i>  
