@@ -1,0 +1,91 @@
+Navio Misterioso Atraca no Porto de Kapul
+Nesta manhã, um navio não identificado, de origem e tripulação desconhecidas, atracou em Kapul. A embarcação possui hieróglifos enigmáticos, despertando curiosidade, enquanto investigações seguem para desvendar o mistério.
+@port,guard_m-1
+
+Restauração das Muralhas do Castelo de Palmia
+O reparo das muralhas do Reino de Palmia, danificadas na guerra recente, foi concluído, trazendo uma maior sensação de segurança para os cidadãos da cidade.
+@gate,UN_nola
+
+Preocupação com a Escassez na Colheita
+A pacata vila agrícola de Yowyn enfrenta uma redução significativa na colheita deste ano em comparação ao habitual, deixando os agricultores lidando com esse fenômeno inexplicável.
+@farm
+
+Avalanche Atinge Noyel
+Noyel foi atingida por uma forte avalanche, isolando dezenas de moradores. Os danos às estradas próximas resultaram em pedidos urgentes de ajuda ao Reino de Palmia.
+@snow,UN_zane
+
+Banda Famosa Desaparece em Lumiest
+Uma banda popular, composta inteiramente por eleas, desapareceu misteriosamente da cidade das artes durante a noite. As razões por trás do desaparecimento do grupo ainda são desconhecidas.
+@city
+
+Fenômeno Bizarro de Gatos se Reunindo
+Na pacata vila agrícola de Yowyn, um fenômeno peculiar ocorre: gatos se reúnem em grupos à noite. Rumores indicam que pode ser obra da Guilda dos Magos.
+@farm
+
+Podemos Ter Esperança?
+O Reino de Palmia revela planos para uma rigorosa reforma do sistema tributário. Os cidadãos expressam uma mistura de esperança e apreensão diante das altas expectativas.
+@royal,UN_zane
+
+Os Cidadãos Sonham com o Cordeiro de Papel?
+Foi apresentado no Parlamento de Palmia um plano para imprimir edições comestíveis do Palmia Times como solução alimentar em tempos de guerra. "Uma ideia brilhante!" exclamou o Príncipe Xabi, segundo um nobre presente na sessão.
+@royal,UN_xabi
+
+Novo Sabor Chega ao Crim Ale!
+Crim Ale lança seu mais novo sabor, 'Especiarias Orientais'. O equilíbrio perfeito entre especiarias aromáticas e frutas luxuosas promete cativar o paladar adulto. Os estoques estão se esgotando rapidamente em todo o país.
+@tavern
+
+Princesa Stasha Revela Nova Moda da Corte
+A Princesa Stasha, de origem Mayroon, revelou sua mais nova tendência na corte de Palmia. Sua beleza deslumbrante deixou a corte em êxtase, dando início a uma nova moda.
+@royal,UN_stasha
+
+Princesa Stasha Conquista Desafio Culinário
+A Princesa Stasha apresentou pratos preparados por ela mesma em um banquete da corte. Sua habilidade excepcional e sofisticação surpreenderam a todos, criando uma nova onda de admiração por Stasha.
+@royal,UN_stasha
+
+Cavalo de Yowyn Salva Viajante!
+Um viajante, encurralado por monstros, foi salvo pela súbita intervenção de um cavalo de Yowyn. O homem, grato, expressou seus agradecimentos e presenteou o bravo animal com um balde cheio de ração.
+@farm
+
+Popularidade do Putit da Neve Dispara!
+O Putit da Neve, um animal de estimação comum em Noyel, está ganhando popularidade por sua fofura irresistível e efeito relaxante. O mistério de ele soltar pelos de coelho talvez aumente ainda mais seu charme.
+@snow
+
+Princesa Stasha: Ascensão Rápida à Fama
+A personalidade genuína e carismática da princesa de Mayroon cativou o coração da corte, inspirando clubes de fãs. Sua atitude refrescante a tornou uma figura adorada em todo o reino.
+@royal,UN_stasha
+
+Caos na Corte: Escândalo do Príncipe é Reacendido
+O Príncipe Xabi, embriagado em uma festa de Kapul, revelou uma carta de amor que não era destinada à sua noiva, a Princesa Stasha. A corte aguarda ansiosa a resposta oficial do príncipe.
+@royal,UN_xabi
+
+Príncipe Agita a Corte Novamente
+O Príncipe Xabi agora é suspeito de encontros secretos com sua noiva, a Princesa Stasha. No entanto, descobriu-se que ele estava apenas confortando-a por sua saudade de casa.
+@royal,UN_xabi
+
+Herói do Festival de Neve
+Durante o festival de neve de Noyel, um aventureiro de passagem criou uma impressionante estátua de neve, encantando as crianças. Os moradores o homenagearam como o herói do festival.
+@snow
+
+Terror das Focas Famintas: Estoques de Comida Sumindo da Noite para o Dia
+O Porto de Kapul enfrenta uma situação incomum, com armazéns de comida sendo esvaziados misteriosamente durante a noite. Investigações apontam que o culpado são focas famintas. Aventureiros estão sendo recrutados com urgência.
+@port
+
+Lumiest Convida Aventureiros para Festival de Música
+Lumiest, a cidade da música e das artes, convocou aventureiros para participarem do próximo festival musical. Contos épicos de aventureiros serão transformados em canções.
+@tavern
+
+Novas Aventuras Começam!
+O bordel de Derphy está vivenciando um aumento na popularidade. A cidade dos fora-da-lei, onde o perigo e a tentação se misturam, tornou-se o novo palco para aventureiros.
+@tavern
+
+Nova 'Fortuna' Dança Sobre Palmia
+Fortune Bell, o primeiro dirigível cassinos de Palmia, foi construído pelo Novo Reino para exibir sua tecnologia. Em parceria com o já renomado cassino 'Fortune Cookie', a nave promete uma nova experiência emocionante para os amantes do jogo.
+@casino
+
+Cidadãos Preocupados com Cassino Voador
+O dirigível cassino, 'Fortune Bell', gerou preocupação entre os cidadãos de Palmia. O medo de que ele possa cair sem aviso levou à sua alcunha de 'bomba no céu'.
+@casino
+
+Fortuna Chama Ex-Guardas aos Céus
+Antigos guardas estão sendo recrutados em massa pelo 'Fortune Cookie', operadores do cassino aéreo construído pelo Novo Reino. O Rei Zane elogia esse aumento no emprego.
+@casino,UN_zane,guard_m-1
