@@ -1,0 +1,15 @@
+{topic,欢迎来到Elin体验版测试！}
+欢迎来到Elin，感谢大家游玩体验版！
+
+体验版的限制事项有以下两条。
+
+* 玩家可以获得的专长点数（等级）最多为10点。
+* 据点等级最高为3级。
+
+那么，请好好享受伊尔瓦的世界吧！
+
+<i>※本作品为开发早期发布作品。游戏内容在今后会有很大的变化。</i>
+
+{topic,Elin的更新情报}
+{link,问题与回答请到这里(Ylvania),http://ylvania.org/elin_dev.html}
+{link,曾经的更新一览在这里(Ylvapedia),https://ylvapedia.wiki/wiki/Elin:%E6%9B%B4%E6%96%B0%E5%B1%A5%E6%AD%B4}

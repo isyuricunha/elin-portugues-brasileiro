@@ -1,0 +1,9 @@
+3,A+D
+4,A2+D
+20,NAME+的+D
+15,ALIAS+的+D
+60,$god+的+D
+60,$god+D
+8,$parent+的+D
+8,$parent+D
+1,$adv+D

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Chinese Language</title>
+  <id>elin_language_chinese</id>
+  <author>Lafrontier</author>
+  <builtin>true</builtin>
+  <loadPriority>-10</loadPriority>
+  <version>0.22.1</version>
+  <description>This is a sample description text for this workshop item.
+        
+Test test test.
+  </description>
+</Meta>

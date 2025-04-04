@@ -1,0 +1,13 @@
+$topic_credit
+{topic，Lafrontier的开发者}
+$topic_credit_resource
+{topic,著作权・素材作者信息}
+本作品使用了许多免费公开的素材，为让素材契合游戏，在使用素材时对部分内容进行了一定的修改（如图片尺寸、音频音调、音量等）。在此感谢提供素材的每一位作者。
+
+{topic,Elona的素材}
+$topic_credit_backer
+{topic,愿望的感谢}
+这是根据Elin众筹支持者的「愿望」来实现的功能一览与支持者名一览。感谢大家的愿望让游戏变得更好。
+$topic_credit_news
+{topic,帕罗米亚时报的感谢}
+这是通过帕罗米亚时报来稿，对游戏内容改进做出贡献的支持者一览。向大家表示感谢。
