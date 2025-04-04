@@ -1,0 +1,59 @@
+Cura Milagrosa na Igreja de Noyel
+Na igreja de Noyel, um morador gravemente enfermo se recuperou milagrosamente durante a noite. Teria sido intervenção divina ou magia? Uma única bela pena foi supostamente encontrada no chão da igreja.
+@snow
+
+Golpe da Pena Divina
+Penas falsas da Deusa da Cura estão inundando o mercado, levando ao aumento de vítimas. Autoridades na cidade real recomendam a denúncia de produtos suspeitos.
+@city,guard_m-1
+
+As Voltas de Opatos, a Terra Treme
+Um grande tremor foi detectado na região norte na noite passada. Seguidores de Opatos afirmam que foi o Deus da Terra se mexendo em seu sono.
+@city
+
+Salto para se Tornar o Vento
+Um seguidor de Lulwy saltou de um penhasco tentando se tornar o vento. Testemunhas afirmam que ele estava nu e cantava "Crianças do vento!" enquanto voava. Ele não se feriu, mas não se sabe se ele se tornou o vento.
+@port
+
+Deusa do Esquecimento: A Nova Parceira dos Comerciantes
+Durante rigorosas inspeções fiscais, um número crescente de comerciantes afirma que suas memórias foram apagadas pela Deusa do Esquecimento, Yakasha. A fé parece estar se espalhando no mundo dos negócios.
+@room
+
+Fofura Purrfeita: A Febre do Cosplay de Gatos
+Uma tendência de cosplay de gato está rapidamente se enraizando entre os seguidores de Ehekatl. Usando orelhas e caudas de gato diariamente para atrair suas bênçãos e sorte, eles estão arrancando sorrisos por todo o Norte de Tyris.
+@city
+
+De Devotos a Gatos? A Forma Moderna da Fé
+Ver seguidores de Ehekatl adotando o cosplay de gato enquanto frequentam a igreja tornou-se algo comum. No entanto, as opiniões dentro dos muros da igreja estão divididas sobre "até onde tolerar as formas de fé."
+@room
+
+Devotos da Tecnologia Empolgados com os Novos Autômatos de Yerl
+Os autômatos vindouros de Yerl, rivais do 'Golem' de Eulderna, já estão despertando entusiasmo entre os seguidores de Mani. Um confronto robótico é altamente aguardado.
+@labo
+
+Concurso de Nomeação de Plantas
+No meio de uma exploração, um devoto de Kumiromi que avistou uma planta rara organizou um repentino concurso de nomeação. Aventureiros se reuniram para uma animada disputa de nomes, que coroou 'Green Euldarna' como vencedor.
+@road
+
+Itzpalt Ganha Nicho de Fãs Femininas
+Frequentemente adorado por estudiosos e autocratas, o Deus do Elemento recentemente começou a atrair seguidoras. Notavelmente, o apelido romântico 'Duque Ruivo' parece ter se tornado um objeto de adoração.
+@room
+
+Seguidor de Itzpalt Apresenta Nova Teoria Chocante
+Um seguidor de Itzpalt apresentou a 'Teoria dos Seis Elementos' em uma conferência, causando uma onda de choque na academia. A teoria despertou novas interpretações entre os fiéis.
+@labo
+
+Movimento de Proteção Florestal
+Seguidores de Kumiromi iniciaram uma iniciativa de preservação florestal. Em meio a monstros únicos, eles estão dedicados à regeneração e conservação dos ecossistemas florestais.
+@road
+
+Escola dos Sábios
+Os fiéis de Itzpalt fundaram uma estrutura educacional distintiva, aclamada como a 'Escola dos Sábios'. Essa abordagem inovadora está atraindo atenção entre os círculos acadêmicos e de ensino.
+@labo
+
+Crianças de Kumiromi Conversam com Árvores Solitárias
+Foi revelado um ritual peculiar dos seguidores de Kumiromi, no qual eles conversam com antigas árvores solitárias para se conectar com a vida vegetal.
+@road
+
+Pequena Maravilha de um Devoto Solitário
+Uma seguidora solitária de Elin, que vive nos arredores do Norte de Tyris, criou seu próprio santuário. Ao redor de seu pequeno altar dedicado, a vida selvagem e os monstros coexistem pacificamente.
+@road
