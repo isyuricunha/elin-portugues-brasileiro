@@ -1,0 +1,27 @@
+{topic,Planned Content During Early Access(EA)}
+The main content planned for introduction through Early Access is as follows:
+
+- Completion of Home Quests and Main Quests  
+- A significant addition of Sub Quests  
+- Implementation of all Backer Wishes  
+- Improving features related to Mod creation  
+
+In parallel with these, we plan to continue adding new features, adjusting the game’s balance, and expanding game content, including monsters and items, as we have done so far.
+
+{topic,EA Timeframe}
+We are aiming for a completion time of about 1 to 2 years. Of course, even after completion, we will continue to update and expand the world. The completion time (particularly for the scenario) may be slightly extended depending on the development progress.
+
+{topic,Expected Changes During EA}
+Some unique items and recipes have been temporarily made available at NPC shops to improve playability. In the future, these will be changed to quest rewards in line with the addition of Sub Quests.
+
+Additionally, the base management system may undergo significant changes. We aim to maintain save data compatibility throughout Early Access and after the game's full release, as much as possible.
+
+{topic, Regarding User and Community Support}
+This project, including development, user support, and publishing, is being handled by a single individual. While we intend to respond sincerely, we kindly ask for your understanding that, compared to most games, our resources for support may be more limited. Additionally, it may be difficult for the developer to regularly monitor and participate in communities like Steam's forums.
+
+We would also appreciate your patience if updates are delayed for a period of time due to the developer’s health or other circumstances.
+
+{topic,Fan Creations and Streaming}
+You are free to engage in fan creations or streaming related to Elin, as well as the previous game Elona, both during Early Access and after the game is completed. There are no restrictions, and no reports or permissions are required.
+
+For contents related to Elin, such as fan creations, streaming, or strategy guides, you may also freely use images from within the game. However, please note that Elin utilizes some free assets. For details, please refer to the credits in the Help section.
