@@ -1,5 +1,0 @@
-files:
-  - source: /Original/Unificado
-    translation: '%language%/PTBR'
-    first_line_contains_header: 1
-    scheme: pt-BR
