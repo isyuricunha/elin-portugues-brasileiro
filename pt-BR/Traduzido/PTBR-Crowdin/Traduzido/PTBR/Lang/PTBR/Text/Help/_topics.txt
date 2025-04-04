@@ -1,0 +1,38 @@
+general-2,Controles Básicos
+general-1,Lição da Fiama
+general-3,Dicas de Aventura
+general-FAQ,FAQ
+game-,$Guide  【Jogabilidade】
+game-attribute,Atributos
+game-condition,Condições
+game-party_ability,Usando Habilidades
+game-item,Itens e Equipamentos
+game-identify,Itens Não Identificados
+game-tool,Diversas Ferramentas
+game-craft,Artesanato e Processamento
+game-recipe,Aprendendo Receitas
+game_base-,$Guide  【Base】
+game_base-livestock,Residentes e Gado
+game_base-policy,Políticas e Habilidades Domésticas
+game_base-elec,Eletricidade
+game_base-civility,Civilidade
+game-,$Guide  【Utilidade】
+game-autocombat,Combate Automático
+game-item_search,Busca de Itens
+game-autodump,Descartar Automaticamente
+game-mark_important,Marcar Item Importante
+game-equip_set,Conjunto de Equipamentos
+game-auto_bed,Uso Automático de Cama
+game-advanced_menu,Menu Avançado
+system-1,$Guide  【Sistema】
+system-backup,Restauração de Backup
+custom-1,$Conteúdos Personalizados
+custom-map,Mapa Personalizado
+custom-replace,Substituindo Texturas
+custom-terms2,Termos de Uso de Conteúdo do Usuário
+custom-terms,Termos de Uso do Enviador
+other-,$Credits
+credits-2,Desenvolvedores
+credits-1,Recursos
+other-fanwork,Fan Fictions e Streaming
+other-gallery,Sobre a Galeria
