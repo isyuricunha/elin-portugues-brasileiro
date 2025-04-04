@@ -1,0 +1,5 @@
+$backup
+{topic,Restaurando Backup}
+Um backup é criado automaticamente toda vez que a versão do jogo é atualizada. Além disso, você pode fazer backup manualmente dos seus dados de salvamento a partir da tela de carregamento do jogo.
+
+Quando você selecionar "Restore/Restaurar" na tela de carregamento, uma lista de mundos com backup será exibida. Por favor, note que se você carregar um mundo com backup e salvar dentro do jogo, o mundo atual será sobrescrito em vez do backup.
