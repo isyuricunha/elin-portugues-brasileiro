@@ -1,0 +1,149 @@
+{if,cn}
+{topic, 欢迎游玩Elin！}
+欢迎游玩Elin，并且十分感谢您参与抢先体验(EA)！我会重视每位玩家的意见，并用于改善游戏内容体验。
+{endif}
+{if,!cn}
+{topic, Welcome to Elin!}
+Welcome to Elin, and thank you for participating in the Early Access(EA)! We plan to gather as many player feedback as possible and reflect it in the game.
+{endif}
+{link,Discord - Elin Community、Questions、General Discussion,https://discord.gg/elona}
+{link,Ylvapedia - Elin Wiki、Walkthrough、Update Log,https://ylvapedia.wiki/wiki/Main_Page}
+{link,Dev Room(Official) - Elin Links、Troubleshooting、and Mod information,http://ylvania.org/elin_dev_e.html}
+
+{topic, Elin Update Information}
+■ 3/20 2025 EA 23.109 Stable Patch 2
+(Translated by ChatGPT)
+
+If no issues are found, we are moving to Nightly.
+
+[Additions and Changes]  
+* Added item trait 【Well-Grilled】.  
+* Added new traits to recipes for Well-Grilled Meat, Grilled Fish Skewer, and Roasted Fruit.
+
+[Fixes]  
+* Fixed a bug where Stone-Grilled Emo could no longer be flame-cooked with magic.  
+* Other minor fixes and adjustments.
+
+■ 3/20 2025 EA 23.109 Stable Patch 1
+(Translated by ChatGPT)
+
+[Additions and Changes]  
+* Updated snow-covered graphics for new crops  
+* Improved how map objects like rails and roads appear when placed on water tiles
+
+■ 3/20 2025 EA 23.109 Stable
+(Translated by ChatGPT)
+
+[Additions and Changes]  
+* (Japanese version) Renamed Satsumaimo to Satsumai-mo.  
+* Sweet potato can now be harvested from imo crops. Adjusted nutritional value of sweet potato.  
+* Added sweet potato as a material for stone roasted sweet imo.
+* Added one new roof type.  
+* Pets and residents will no longer take unidentified items from shared containers.  
+* Slightly improved the save data loading screen. Added a button to change save data ID.  
+* Initial recipes will no longer be included in invention recipe rolls (e.g., Wheel of Invention) if there are still other unlearned recipes available.
+
+[Fixes]  
+* Fixed a bug where refrigerator power consumption did not reflect the refrigerator type.  
+* Fixed a bug where drowning was too difficult on deep water tiles.  
+* Other minor fixes and adjustments.
+
+[Notes]  
+* If no major issues are found in this version, the plan is to update the snow graphics once and then move on to Nightly.  
+* Thank you as always for supporting Elin. It's been almost five months since EA started, but there are still many features planned for implementation. In the next stable release, along with progressing the story, hoping to get my hands on underwater maps and monster distribution per Nefia.
+
+■ 3/19 2025 EA 23.108 Stable
+(Translated by ChatGPT)
+
+After the stable version update, some mods may stop working or behave strangely. If anything unusual happens, please try disabling mods once and check again.  
+
+[Highlights]  
+* Added ★Farris's Diary, allowing playback of past conversation events.  
+* Added espresso machine. Can now craft drinks with item traits, and drinks now apply food/item traits when consumed.  
+* Added new crops "Coffy" and "Tobacc." Added new recipes using these crops, such as "Cappuccino," "Espresso," and "Hand-Rolled Tobacc."  
+* Strange little girl now sells Little Sister’s Diary.  
+* Craft screen now shows completed enchantments when crafting equipment.  
+* Regular Nefias no longer turn into Void Levels after defeating the first Void boss (still becomes Void Levels from floor 200 onward).
+
+[New Content]  
+* Added flag-type enchant: "Affection Increase."  
+* Added "Innocence" enchant (protects from all NTR from succubi, maids, etc.).  
+* Added rose quartz material (shocking pink).  
+* Added small vanity.  
+* Added bookshelf.  
+* Added giant refrigerator.  
+* Added semicircle floor mat.  
+* Added Oni and Okame masks (originally planned for Setsubun).  
+* Added Setsubun beans.  
+* Added several new pieces of furniture and junk items for fishing.  
+* Added 10 types of bird plastic models (mainly for birdcages).  
+* Added 2 types of skeleton stairs and chest-of-drawers stairs.  
+* Added one new roof type (more planned).  
+* Added "Fern" plant.  
+* Added Rafflesia seeds.  
+* Added graphics for seeds and updated some existing seed graphics.  
+* Added 4 new animals (low spawn rate).  
+* Added 11 new monsters.  
+* Added Ruffian, placed in Derphy.  
+* Added Exiled Citizen (for Penance Village).  
+* Added chick skin for baby chickens and ducks.
+
+[Additions and Changes]  
+* Golems can now drop crystals and gold nuggets.  
+* Item prices in cloning shops now calculated as if quality is always around level 5, regardless of actual quality.  
+* Cursed items are more expensive in cloning shops; rotten items slightly cheaper.  
+* NPCs (excluding residents and livestock) no longer drink alcohol randomly in prohibition areas (unless already in inventory).  
+* Some festival merchants can no longer be recruited as residents.  
+* Added 【High Purity】 trait to Ramune.  
+* Coffy trees can now rarely spawn in forests. Planted Tobacc in Little Garden.  
+* Ecopo merchant now sells unbred seeds randomly.  
+* Taking sleeping pills now removes the “stimulated” state.  
+* Added upper and lower limits for temporary stat changes from effects like weakening hands.  
+* Unique NPCs not counted as residents are now labeled as such in the job tooltip on the resident board.  
+* When holding the Whip of Love, hobbies and jobs are shown in mouse hover tooltips for characters.  
+* Updated description for max level of Heavy Armor Casting feat (no change in effect).  
+* Added Innocence enchant to ★Holy Lance.  
+* Equipment with negative Innocence enchant is more likely to attract succubi and pranks.  
+* Added new status effects: "Smoking" and "Awake."  
+* Added item traits: 【Stimulant】 and 【Fatigue Recovery】. Assigned to Coffy, Cappuccino, Ramune, etc.  
+* Changed Coffy and Cappuccino recipes to be known from the start.  
+* Moongates now don't let you jump to user maps from newer versions than the current client.  
+* Changed the category of espresso machines, cutting boards, microwaves, and mixers to production equipment.  
+* In your base, cultists will no longer attack when released from devices like gallows.  
+* Added food trait icons to item tooltips.  
+* Plants like Rafflesia and Ferns can now always be harvested for seeds (may change in future updates).  
+* Revived livestock (e.g. by bartender) will now return to your base without joining the party.  
+* Enemies will not cast transformation-type spells on pets being ridden or parasitized by the player.  
+* Added Innocence enchant to Diamonds and Opals.  
+* Updated graphics for Fiama’s Diary, Farris’s Diary, and Adventure Log.  
+* Improved dialogue in quest "Into the Darkness."  
+* Added test support for 256x256 dot-size character rendering (double-width large characters).  
+* Ruffians will now try to steal money when passing by.  
+* Added "Filth" tag to races like "Eyes" and "Spiders." Enemies with this tag now spawn in the basement of the Cursed Mansion, including non-undead types (to increase variation).  
+* Added plant types that cannot be bred (mainly for decorative or hobby planting). Rafflesia and Fern are set as non-breedable. Tooltip now states when breeding is not possible.  
+* Plants like ferns and flowers with multiple graphics can now change appearance based on seed orientation when planted (excluding Coralwood).  
+* Dyed items now show the dye material in their tooltip.  
+* White flower variants now appear in outdoor random maps.  
+* Slightly adjusted AI of flower-type monsters (move less, use abilities less often).  
+* Model bases now appear when opening plastic models.  
+* Updated snow graphics.  
+* Updated Chinese translations.  
+* (EN) Changed "little one" to "little sister." Renamed several diaries.  
+* (EN) Changed "Tobacco" to "Tobacc."  
+* (JP) Changed "Coffee" to "Coffy."
+
+[Fixes]  
+* In Arachnophobia mode, made spider cards and others cuter in the card encyclopedia.  
+* Fixed invisible blocks appearing in build mode cinema view.  
+* Fixed ghost icons sometimes remaining in inventory for lost items after giving items.  
+* Fixed Abyssal Blessing affecting player's minions.  
+* Fixed bug where Mysilia paid taxes to the player when player’s fame was too high.  
+* Fixed error when picking up wish-generated cards while auto-collecting is on.  
+* Fixed bug where a carried tent could be placed inside another tent.  
+* Other minor fixes and adjustments.
+
+[Notes]  
+* Some seed graphics are temporary and may change in the future.  
+* Food traits (meat icon) are not inherited by non-foods, so 【Toxin】 disappears when Tobacc is rolled into an herb. This is intended.  
+* Kettle duplication may be split into categories in the future, assigned to different characters (e.g., cooking duplication to Theolucia).  
+* Got sidetracked with various things. Story additions will likely come in the next stable update.

@@ -1,0 +1,62 @@
+$1
+
+
+
+$map
+{topic, What are Custom Maps?}
+Custom maps are maps that players create and publish. By using items like the Moon Gate, you can visit custom maps uploaded by other players.
+
+As Custom Maps is currently in a testing phase, expect many changes and additions to this feature. Therefore, please be aware that maps from different game versions might lose compatibility.
+
+{topic, Uploading Custom Maps}
+Using the 'hearth stone' in a map you own will bring up a dedicated in-game uploader. By agreeing to the terms of use and selecting 'Upload', you can make your current map available to all players online. If you choose 'Save Local', the map will be saved in the 'Elin/User/Map' folder.
+
+Uploaded maps are randomly visited by players using the Moon Gate. If there are 'In-Map Replacement' textures in your map, they are also uploaded simultaneously, allowing them to be displayed when other players visit the map.
+
+{topic, Uploader Specifications}
+* At the moment, players cannot delete maps they have uploaded (this feature is planned for a future update).
+
+* Maps will be automatically deleted starting from the oldest upload date.
+
+* If you upload a map with the same ID as one already on the uploader, the existing map will be updated, and the upload date will be refreshed.
+
+* There is an upper limit to the size of the maps you can upload.
+
+
+$replace
+{topic, Texture Viewer}
+By using the in-game Texture Viewer, you can easily replace images. Open the Texture Viewer from the system menu's tools, click on the image you want to replace and select 'Create Replacement'. The replacement image will be generated in the 'Elin/User/Texture Replace' folder.
+
+Replaced images are displayed with a green background, and you can launch the application associated with the image by clicking 'Open'. You can also delete the replacement image by selecting 'Delete'.
+
+{topic, In-Map Replacements}
+From the Texture Viewer, you can also create 'In-Map Replacement'. These are replacement images that only apply to the map you're currently on, and they take priority over regular replacement images and those replaced by mods. Please note that In-Map replacements are only valid in the save data of the world you're currently playing.
+
+When you upload a map with In-Map replacement images, they are also uploaded and will be displayed to other players.
+
+{topic, Drag & Drop to replace}
+You can add replacement images created by other players to the game by directly dragging and dropping the files onto the game screen. If you want to add them manually, please place the image files in the 'Elin/User/Texture Replace' folder.
+
+
+$terms
+{topic,In-game Uploader - Terms of Use}
+Below, the term "user" refers to individuals using the in-game uploader, while "user generated content" refers to user-created maps, mods, or other content shared through the uploader.
+
+1. All user generated content is subject to removal without notice if it contains content that violates public order and morals, is malicious, or significantly deviates from the game world’s setting.
+
+2. The user who publishes user generated content is solely responsible for its release and for any consequences arising from third parties downloading the content through the uploader. If the uploaded content contains malicious programs (such as viruses or malware), violates public order and morals, or includes harmful elements that cause damage to third parties, Lafrontier, or noa, the user in question will bear full liability for compensation. Lafrontier and noa reserve the right to delete such content without notice and to take legal action if necessary.
+
+Please keep these points in mind and let your creativity shine! By following the rules and exercising common sense, we can create a fun and safe community where every player can share and enjoy an amazing gaming experience.
+
+If you choose to use the in-game uploader, please agree to the above terms of use.
+
+$terms2
+{topic,User-Generated Content - Terms of Use}
+
+The term "User-Generated Content" (referred to as "Content" hereafter) encompasses user-created maps downloaded via in-game Moongates, mods published on Steam Workshop, and other similar content created by third parties unrelated to Lafrontier. Individuals utilizing this Content are referred to as "Users."
+
+1. Users assume full responsibility for the use of User-Generated Content. Lafrontier and noa bear no liability for any damages, data loss, system errors, or other issues arising from the use of such Content.
+
+2. User-Generated Content is not officially guaranteed to function and may not operate as intended depending on the game's version or system environment. Additionally, installing or uninstalling mods may result in corrupted game data or functionality issues. Please note that User-Generated Content is generally not covered by official support or assistance.
+
+If you choose to User-Generated Content, please agree to the above terms of use.

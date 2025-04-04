@@ -1,0 +1,38 @@
+general-2,Basic Controls
+general-1,Fiama's Lesson
+general-3,Adventure Tips
+general-FAQ,FAQ
+game-,$Guide 【Gameplay】
+game-attribute,Attributes
+game-condition,Conditions
+game-party_ability,Using Abilities
+game-item,Items and Equipment
+game-identify,Unidentified Items
+game-tool,Various Tools
+game-craft,Crafting and Processing
+game-recipe,Learning Recipes
+game_base-,$Guide 【Base】
+game_base-livestock,Residents and Livestock
+game_base-policy,Policies and Home Skills
+game_base-elec,Electricity
+game_base-civility,Civility
+game-,$Guide 【Utility】
+game-autocombat,Auto-Combat
+game-item_search,Searching Item
+game-autodump,Auto-Dump
+game-mark_important,Marking Important Item
+game-equip_set,Equipment Set
+game-auto_bed,Automatic Bed Usage
+game-advanced_menu,Advanced Menu
+system-1,$Guide 【System】
+system-backup,Restoring Backup
+custom-1,$Custom Contents
+custom-map,Custom Map
+custom-replace,Replacing Textures
+custom-terms2,User Content Terms of Use
+custom-terms,Uploader Terms of Use
+other-,$Credits
+credits-2,Developers
+credits-1,Resources
+other-fanwork,Fan Fictions and Streaming
+other-gallery,About the Gallery
