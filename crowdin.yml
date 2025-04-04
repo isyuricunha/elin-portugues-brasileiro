@@ -1,0 +1,5 @@
+files:
+  - source: /Original/Unificado
+    translation: Traduzido/PTBR-Crowdin/%original_path%/%original_file_name%
+    first_line_contains_header: 1
+    scheme: pt-BR
