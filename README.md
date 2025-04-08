@@ -23,10 +23,12 @@ Yuri
 
 ---
 
-Link para a versão na Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3456521151
+Link para a versão na Steam: 
+- Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3456521151
 
-Link para versões alternativas (Steam verde): [https://github.com/isyuricunha/scroll-of-taiwu-traducao-portugues-brasileiro/releases/latest](https://github.com/isyuricunha/elin-portugues-brasileiro/releases)
-
+Link para versões alternativas (Steam verde): 
+- GitHub: [https://github.com/isyuricunha/scroll-of-taiwu-traducao-portugues-brasileiro/releases/latest](https://github.com/isyuricunha/elin-portugues-brasileiro/releases)
+- NexusMod: https://www.nexusmods.com/elin/mods/62
 ---
 
 # Como instalar:
