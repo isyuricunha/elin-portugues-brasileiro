@@ -10,15 +10,15 @@ Bem-Vindo a Elin, e Muito Obrigado Por Participar do Acesso Antecipado(EA)! Plan
 {link,Ylvapedia - Elin Wiki、Walkthrough、Update Log,https://ylvapedia.wiki/wiki/Main_Page}
 {link,Dev Room(Official) - Elin Links、Troubleshooting、and Mod information,http://ylvania.org/elin_dev_e.html}
 
-{topic, Elin Update Information}
-■ 4/4 2025 EA 23.120 Patch Estável 1
-
 {topic, Tradução para Português Brasileiro}
 E ai!
 Eu sou o Yuri, eu traduzi esse jogo para você, para mim e para quem mais quiser.
 Se divirta! E, se puder, considere fazer uma doação, pois atualmente, dependo disso.
 {link,Discord - Comunidade、Perguntas、Conversas em Geral,https://discord.com/invite/aYbWBr4}
 {link,Website - Meus links, projetos, e infos,https://yuricunha.com}
+
+{topic, Elin Update Information}
+■ 4/4 2025 EA 23.120 Patch Estável 1
 
 [Correções]  
 * Corrigido um erro onde habilidades e feitiços como Espadas Mágicas, que não deveriam ser selecionados como habilidades aleatórias para inimigos ou aventureiros, estavam sendo escolhidos.  
