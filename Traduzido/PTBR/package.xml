@@ -4,7 +4,7 @@
   <id>elin_language_portuguese</id>
   <author>isyuricunha</author>
   <builtin>false</builtin>
-  <loadPriority>133</loadPriority>
+  <loadPriority>-20</loadPriority>
   <version>23.99.2</version>
   <tags>General,Translation</tags>
   <visibility>Public</visibility>
