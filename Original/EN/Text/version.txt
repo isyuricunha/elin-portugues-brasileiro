@@ -11,6 +11,24 @@ Welcome to Elin, and thank you for participating in the Early Access(EA)! We pla
 {link,Dev Room(Official) - Elin Links、Troubleshooting、and Mod information,http://ylvania.org/elin_dev_e.html}
 
 {topic, Elin Update Information}
+■ 4/6 2025 EA 23.120 Stable Patch 2
+(Translated by ChatGPT)
+Development will move to Nightly if no major issues are found.
+
+[Additions and Changes]  
+* User maps no longer generate items when breaking pots and similar objects.  
+* Added 1 new roof type.  
+
+[Fixes]  
+* Fixed a bug where holding the left mouse button to attack would cause the character to close distance even with long-range weapons.  
+* Fixed a bug where faith experience could be gained repeatedly by praying to oneself multiple times a day.  
+* Fixed a bug where the faith of Sea Anemone and Leafy Seadragon was incorrectly set to Jure.  
+* Other minor fixes and adjustments.  
+
+[Notes]  
+* An NPC to resell limited items such as missed cassette tapes is planned for future updates. Not recommended, but cassette tapes from the debt repayment quest can also be obtained by resetting the quest via console.  
+* Feedback received during the stable period will be addressed in the Nightly branch.  
+
 ■ 4/4 2025 EA 23.120 Stable Patch 1
 
 [Fixes]  
