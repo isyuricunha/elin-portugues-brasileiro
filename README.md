@@ -29,6 +29,7 @@ Link para a versão na Steam:
 Link para versões alternativas (Steam verde): 
 - GitHub: [https://github.com/isyuricunha/scroll-of-taiwu-traducao-portugues-brasileiro/releases/latest](https://github.com/isyuricunha/elin-portugues-brasileiro/releases)
 - NexusMod: https://www.nexusmods.com/elin/mods/62
+- ModDB: https://www.moddb.com/mods/portugues-brasileiro-ptbr/downloads
 ---
 
 # Como instalar:
