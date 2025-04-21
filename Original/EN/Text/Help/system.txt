@@ -1,5 +1,0 @@
-$backup
-{topic,Restoring Backup}
-A backup is automatically created each time the game version is updated. Additionally, you can manually back up your save data from the game’s load screen.
-
-When you select "Restore" on the load screen, a list of backed-up worlds will be displayed. Please note that if you load a backed-up world and save within the game, the current world will be overwritten instead of the backup.
