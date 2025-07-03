@@ -41,3 +41,15 @@ This License Agreement is effective as of the date of code use and is subject to
 By using the code, the User acknowledges that they have read and understood this Agreement and agree to be bound by its terms and conditions.
 
 For any inquiries or concerns, please contact the Author via Twitter.
+
+---
+
+〇 Uso em vídeos e transmissões é permitido.
+× Modificação, redistribuição e reivindicação original não são permitidas.
+× Aprendizado por IA não é permitido.
+
+---
+
+〇 Use in videos and streaming is permitted.
+× Modification, redistribution, and original claim are not permitted.
+× AI learning is not permitted.
