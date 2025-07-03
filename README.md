@@ -52,5 +52,7 @@ Link para versões alternativas (Steam verde):
 ---
 
 〇 Uso em vídeos e transmissões é permitido.
+
 × Modificação, redistribuição e reivindicação original não são permitidas.
+
 × Aprendizado por IA não é permitido.
