@@ -48,3 +48,9 @@ Link para versões alternativas (Steam verde):
   - Abra/procure a pasta chamada "Package".
   - Cole a pasta "PTBR" gerada dentro de "Package".
   - Abra o jogo. Vá nas configurações e coloque o jogo em Português.
+
+---
+
+〇 Uso em vídeos e transmissões é permitido.
+× Modificação, redistribuição e reivindicação original não são permitidas.
+× Aprendizado por IA não é permitido.
