@@ -1,0 +1,91 @@
+Mysterious Ship Docks at Kapul Port
+This morning, an unidentified ship with unclear origins and crew docked at Kapul. The ship bears unknown hieroglyphics, piquing interest, with ongoing investigations to decipher the mystery.
+@port,guard_m-1
+
+Restoration of Palmia's Castle Walls
+The repair of Palmia Kingdom's castle walls, damaged in a recent war, is now complete, enhancing the city residents' sense of security.
+@gate,UN_nola
+
+Harvest Shortage Concerns
+The tranquil farming village of Yowyn faces a significant reduction in this year's harvest compared to usual, leaving farmers grappling with this unexplained phenomenon.
+@farm
+
+Avalanche Strikes Noyel
+Noyel has been hit by a severe avalanche, cutting off communication with dozens of villagers. Damage to nearby roads has led to urgent aid requests to the Palmia Kingdom.
+@snow,UN_zane
+
+Famous Band Vanishes in Lumiest
+A popular band composed entirely of eleas disappeared overnight in the city of arts. The reasons behind the band's disappearance remain unknown.
+@city
+
+Bizarre Phenomenon of Gathering Cats
+In the tranquil farming village of Yowyn, there is a peculiar phenomenon of cats gathering in groups at night. There are rumors that it might be the work of the Mages Guild.
+@farm
+
+Can we hope?
+The Kingdom of Palmia unveils plans for a rigorous tax system overhaul. Citizens express a mix of hope and apprehension as expectations run high.
+@royal,UN_zane
+
+Do Citizens Dream Of Paperytic Lamb?
+A plan to print edible Palmia Times as a wartime food solution has been introduced to Palmia Parliament. 'A brilliant idea!' exclaimed Prince Xabi, according to a nobleman present at the session.
+@royal,UN_xabi
+
+New Flavor Hits Crim Ale!
+Crim Ale introduces its newest flavor, 'Oriental Spice'. The perfect balance of aromatic spices and luxurious fruits sure to captivate the adult palate. Stocks are quickly depleting nationwide.
+@tavern
+
+Princess Stasha Unveils Latest Court Fashion
+Princess Stasha, of Mayroon origin, unveiled her newest fashion at the court of Palmia. The court was left in awe of her beauty, initiating a new trend in fashion.
+@royal,UN_stasha
+
+Cooking Challenge Conquered by Princess Stasha
+Princess Stasha showcased her self-made dishes at a court dinner party. Her exceptional skill and sophistication have astounded everyone, creating a new wave of Stasha mania.
+@royal,UN_stasha
+
+Yowyn Horse Rescues Traveler!
+A traveler, cornered by monsters, was saved by the sudden intervention of a Yowyn horse. The grateful man expressed his thanks and presented the brave horse with a bucketful of fodder.
+@farm
+
+Snow Putit's Popularity Soars High!
+Snow Petit, a common pet from Noyel, is gaining popularity for its irresistible cuteness and calming effect. The mystery of it shedding rabbit fur perhaps enhances its charm.
+@snow
+
+Princess Stasha: Swift Rise to Popularity
+The genuine nature and affability of Princess from Mayroon has captivated the court's heart, inspiring fan clubs. Her refreshing demeanor has made her an adored figure nationwide.
+@royal,UN_stasha
+
+Court Chaos: Prince's Scandal Reignited
+Prince Xabi, in a drunken state at a Kapul party, revealed a love letter not meant for his fiancée, Princess Stasha. The court awaits the prince's official response.
+@royal,UN_xabi
+
+Prince Shakes Court Again
+Prince Xabi is now suspected of secret meetings with his soon-to-be-married Princess Stasha. However, it turns out he was merely comforting her homesickness.
+@royal,UN_xabi
+
+Snow Festival Hero
+At Noyel's snow festival, an adventurer passing by created a stunning snow statue, bringing delight to the children. The villagers honored her as the hero of the festival.
+@snow
+
+Hungry Sea Lion Terror: Food Stocks Vanish Overnight
+Port Kapul is facing an unusual situation with food storages emptied overnight. Investigations revealed hungry sea lions are to blame. Adventurers are being urgently recruited.
+@port
+
+Lumiest Invites Adventurers to Music Festival
+Lumiest, the city of music and arts, has called on adventurers to participate in an upcoming music festival. Epic tales of adventurers are set to be sung.
+@tavern
+
+New Adventures Begin!
+The brothel in Derphy is experiencing a surge in popularity. The outlaw town, where danger and temptation intermingle, has become the new stage for adventurers.
+@tavern
+
+New 'Fortune' Dances Above Palmia
+Fortune Bell, the first casino airship in Palmia, built by the New Kingdom to flaunt its technology. In partnership with Palmia's established casino 'Fortune Cookie', the dream leisure ship promises new excitement to casino lovers.
+@casino
+
+Citizens Concerned Over Flying Casino
+The casino airship, 'Fortune Bell,' has alarmed citizens of Palmia. The fear that it might crash without warning has led to the airship being referred to as a 'bomb in the sky.'
+@casino
+
+Fortune Calls Ex-Guards To The Sky
+Former guards are being massively recruited by "Fortune Cookie," the operators of the airship casino built by the New Kingdom. King Zane applauds this employment surge.
+@casino,UN_zane,guard_m-1
