@@ -1,19 +1,26 @@
-{topic, Bem-vindo à Demo de Elin!}  
-Bem-vindo à Demo de Elin!  
+{topic, Bem-vindo ao Demo de Elin!}
+Bem-vindo ao Demo de Elin!
 
-O conteúdo desta demo reflete o estado do jogo em 2 de dezembro de 2024 e está sujeito a grandes atualizações no futuro.  
+O conteúdo deste demo reflete o estado do jogo em 2 de dezembro de 2024 e está sujeito a atualizações significativas no futuro.
 
-Existem algumas limitações na versão demo:  
+{topic, Tradução para Português Brasileiro}
+E ai!
+Eu sou o Yuri, eu traduzi esse jogo para você, para mim e para quem mais quiser.
+Se divirta! E, se puder, considere fazer uma doação, pois atualmente, dependo disso.
+{link,Discord - Comunidade、Perguntas、Conversas em Geral,https://discord.com/invite/aYbWBr4}
+{link,Website - Meus links, projetos, e infos,https://yuricunha.com}
 
-* Os jogadores podem ganhar no máximo 10 pontos de talento (níveis).  
-* O nível base está limitado ao Nível 3.  
-* Recursos online estão desativados.  
+Existem limitações na versão demo:
 
-Aproveite o seu tempo e explore o mundo de Ylva!  
+* Jogadores só podem ganhar até 10 pontos de façanha (níveis).
+* O nível da base está limitado ao Nível 3.
+* Recursos de rede estão desativados.
 
-<i>※ Por favor, note que Elin está em Acesso Antecipado e ainda está em desenvolvimento ativo.</i>  
+Tire o tempo que quiser e aproveite para explorar o mundo de Ylva!
 
-{topic, Informações sobre Elin}  
-{link,Discord - Comunidade Elin、Dúvidas、Discussão Geral,https://discord.gg/elona}  
-{link,Ylvapedia - Wiki de Elin、Guia、Registro de Atualizações,https://ylvapedia.wiki/wiki/Main_Page}  
-{link,Sala de Desenvolvimento (Oficial) - Links de Elin、Soluções de Problemas、e Informações sobre Mods,http://ylvania.org/elin_dev_e.html}  
+<i>※ Observe que Elin está em Acesso Antecipado (EA) e ainda em intenso desenvolvimento.</i>
+
+{topic, Informações sobre Elin}
+{link,Discord - Comunidade Elin、Perguntas、Discussão Geral,https://discord.gg/elona}
+{link,Ylvapedia - Wiki do Elin、Guia、Registro de Atualizações,https://ylvapedia.wiki/wiki/Main_Page}
+{link,Sala do Dev (Oficial) - Links do Elin、Solução de Problemas、e informações sobre Mods,http://ylvania.org/elin_dev_e.html}

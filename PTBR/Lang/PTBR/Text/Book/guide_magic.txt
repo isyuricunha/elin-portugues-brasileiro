@@ -1,0 +1,59 @@
+Introdução à Magia
+
+(Um conjunto de anotações de estudantes da Guilda dos Magos)
+
+Certo, classe. O mestre da guilda me disse que vocês são alunos práticos, então preparei esta lição introdutória para vocês. Sem palestras chatas — sei que vocês estão muito mais interessados em tentar um pouco de magia de verdade. Nada de timidez; a guilda precisa de membros que façam trabalho de campo e crianças como vocês serão treinadas para a função.
+
+Então hoje eu vou explicar a vocês a conjuração passo a passo.
+{p}
+<b>Aprendendo Feitiços</b>
+
+A magia começa aprendendo feitiços. Agora, ler grimórios não é como folhear o Palmia Times: sua literacia será testada, e as consequências de interpretar mal runas mágicas são mais severas que as de um tabloide. Trago comigo um dos grimórios mais simples: flecha mágica. Passe-o pela classe, quero que todos tentem lê-lo. À medida que sua literacia crescer, vocês poderão tentar ler feitiços mais complexos.
+
+Tudo pronto? Tendo memorizado as runas, vocês estão prontos para seu primeiro feitiço. Agora, o esforço de conjurar queimará o feitiço de sua mente — não de uma vez só, mas se você não refrescar sua memória das runas, acabará por esquecê-las completamente.
+{p}
+Isto é o que nós magos chamamos de "estoques", quantas vezes podemos lançar um feitiço antes que as invocações escapem das nossas mentes. Memorizar é uma habilidade: quanto mais você ler grimórios, melhor conseguirá reter conhecimento de feitiços, significando mais "estoques" por leitura.
+
+É um ciclo simples: leia grimórios, ganhe "estoques". Lance feitiços, gaste "estoques". Até crianças como vocês entendem!
+
+Antes que perguntem, sim, grimórios são caros. Se você esgotou seu estoque de feitiços, pode ser capaz de alcançar a fonte da magia enquanto sonha e ganhar um pouco de estoque de feitiços simples do seu domínio. Magos treinados podem fazer isso mesmo tendo estoque e ganhar feitiços complexos; essa façanha é considerada essencial para qualquer conjurador e poupa muitos orens aos novatos.
+
+Sim, a fonte da magia é um homem régio e ruivo. Sem mais perguntas, por favor.
+{p}
+<b>Conjurando Feitiços</b>
+
+Agora que aprenderam um feitiço, é hora de conjurá-lo. Você aí, no fundo! Suba e tente lançar flecha mágica no boneco.
+
+…Oh, o feitiço falhou. Não desanimem: quanto mais praticarem a conjuração, melhores ficarão. Além da habilidade geral de conjurar, lançar um feitiço o sintonizará com ele — o que chamamos de "níveis de feitiço", que aumentam a chance de sucesso e o poder do feitiço. Cada feitiço está ligado a um atributo; quanto maior ele for em relação ao nível do feitiço, mais rápido você ganha níveis naquele feitiço. Mesmo conjurações falhadas avançam os níveis do feitiço, então a prática leva à perfeição.
+{p}
+A conjuração é melhor quando você está desimpedido, e o seguinte penaliza sua conjuração:
+
+* Armadura pesada
+* Escudos
+* Empunhar duas armas
+* Montaria
+* Hospedagem
+
+Armadura pesada e escudos também limitam sua chance máxima de conjuração, mas você pode obter façanhas que anulam isso. Finalmente, estados como turvo e confuso prejudicarão sua conjuração.
+
+Lembrem-se: com habilidade e façanhas suficientes, é possível superar todas as penalidades de conjuração. Entendido? Agora o resto de vocês formem uma fila pelos bonecos, e podem se revezar conjurando flecha mágica até esgotarem seu estoque.
+{p}
+<b>MP</b>
+
+Você aí! Está pálido, sente-se e beba isto! Melhorou?
+
+…Vejo que você se excedeu. Além do estoque, a magia usa MP — conjurar feitiços sem MP vai feri-lo com reação mágica. Mesmo novatos sobrevivem a uma única conjuração em excesso sem treinar capacidade mágica, mas quanto mais negativo seu MP, mais dói.
+
+Não tenha medo de exceder a conjuração se for questão de vida ou morte, mas saiba que descuido pode matá-lo com a mesma facilidade.
+
+{p}
+
+Para resumir a aula de hoje:
+
+* Leia livros ou sonhe, ganhe "estoques".
+* Conjure feitiços, gaste "estoques" e MP.
+* Equipamento, situações e estados podem prejudicar sua conjuração.
+* Feitiços evoluem conforme você os conjura, aumentando poder e sucesso de conjuração.
+* Você pode conjurar sem MP, mas isso vai ferir você.
+
+Espero que tenham gostado da introdução à magia de hoje. Sua turma terá essas aulas práticas regularmente, então aguardem com expectativa.

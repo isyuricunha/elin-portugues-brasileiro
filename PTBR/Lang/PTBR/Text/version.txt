@@ -1,175 +1,78 @@
 {if,cn}
-{topic, 欢迎游玩Elin！}
-欢迎游玩Elin，并且十分感谢您参与抢先体验(EA)！我会重视每位玩家的意见，并用于改善游戏内容体验。
+{topic, Bem-vindo a Elin!}
+Bem-vindo a Elin e muito obrigado por participar do Acesso Antecipado (EA)! Vou valorizar o feedback de cada jogador e usá-lo para aprimorar a experiência do jogo.
 {endif}
 {if,!cn}
 {topic, Bem-vindo a Elin!}
-Bem-vindo a Elin, e obrigado por participar do Acesso Antecipado (EA)! Planejamos reunir o máximo de feedback dos jogadores possível e refletir isso no jogo.
+Bem-vindo a Elin, e obrigado por participar do Acesso Antecipado (EA)! Planejamos recolher o máximo de feedback dos jogadores possível e refletí-lo no jogo.
 {endif}
 {link,Discord - Comunidade Elin、Perguntas、Discussão Geral,https://discord.gg/elona}
-{link,Ylvapedia - Wiki Elin、Guia、Registro de Atualizações,https://ylvapedia.wiki/wiki/Main_Page}
-{link,Sala dos Devs (Oficial) - Links Elin、Resolução de Problemas、e Informações de Mods,http://ylvania.org/elin_dev_e.html}
-
-
-{topic, Informações de Atualização do Elin}
-■ 11/06/2025 EA 23.152 Patch Estável 1
+{link,Ylvapedia - Wiki do Elin、Guia、Registro de Atualizações,https://ylvapedia.wiki/wiki/Main_Page}
+{link,Sala do Dev (Oficial) - Links do Elin、Solução de Problemas、e informações sobre Mods,http://ylvania.org/elin_dev_e.html}
 
 {topic, Tradução para Português Brasileiro}
 E ai!
 Eu sou o Yuri, eu traduzi esse jogo para você, para mim e para quem mais quiser.
 Se divirta! E, se puder, considere fazer uma doação, pois atualmente, dependo disso.
+A tradução é feita por um humano, e não IA. As partes indicadas como "Traduzido pelo ChatGPT", é dos desenvolvedores do jogo.
 {link,Discord - Comunidade、Perguntas、Conversas em Geral,https://discord.com/invite/aYbWBr4}
 {link,Website - Meus links, projetos, e infos,https://yuricunha.com}
 
-[Adições e Alterações]
-* Substituído bloco de esponja incluso por engano por um bloco misterioso
-* Ajustados os preços dos remédios genéticos
-* (Versão em inglês) Renomeado Harimaguro para pintuna (já que tanto tuna quanto Harimaguro são nomeados “tuna”)
-
-[Correções]
-* Corrigidas algumas traduções em inglês
-* Outras pequenas correções e ajustes
-
-[Observações]
-* Se não houver problemas graves, planejamos retomar as atualizações Noturnas. Entre o final de junho e julho, haverá algumas reformas no meu quarto envelhecido, então as atualizações podem ficar um pouco mais lentas que o normal.
-
-■ 10/06/2025 EA 23.152 Estável
-
-Após a atualização da versão estável, alguns mods podem parar de funcionar ou apresentar comportamento estranho. Se algo fora do normal acontecer, tente desativar os mods uma vez e verificar novamente.
-
-[Destaques]
-* Gatos agora reaparecem ao ar livre.
-* Tiles de água rasa no mapa global agora geram mapas subaquáticos, que também podem ser usados como base.
-* Culturas geradas em Nefia agora têm níveis fortalecidos baseados na profundidade do andar (com nível máximo dependendo da habilidade agrícola).
-* Fazer carinho ou afagar NPCs com a característica “espinhos” agora causa sangramento.
-* Companheiros agora acompanham dias passados com o PC, exibidos na seção de notas.
-* Outras atualizações incluem melhorias em poções de alquimia, e reforços de lore como rumores NPC dos apoiadores e livros vermelhos.
-
-[Conteúdo Novo]
-* (Pedido de Apoiador) NPC “Lei da Lei Branca” adicionada à Vila do Perdão, junto com seu retrato.
-* Adicionada opção “Destacar NPCs Hostis” nas configurações do jogo.
-* Adicionado feitiço “Transformação em Gato.”
-* Adicionado talento “Senhor da Matilha,” atribuído a alguns NPCs.
-* Adicionadas mutações relacionadas a cabelos.
-* Adicionado encantamento raro “imunidade a ondas de choque” para encantamentos aleatórios de equipamentos de perna.
-* Adicionado status “Berserk.”
-* Adicionado novo material “chantilly” (por causa da vontade de pular em um mar de chantilly).
-* Adicionado nova cultura “Cabocchi.”
-* Adicionada segunda fase gráfica para as culturas cabocchi, rabanete e tomate (antes indistinguíveis da terceira fase).
-* Adicionadas duas novas variações de coral e substituídas algumas artes existentes.
-* Adicionados objetos de mapa de recife de coral, agora aparecendo em Nefia subaquática.
-* Adicionado piso de algas vermelhas para Nefia subaquática.
-* Adicionados tiles de fundo do oceano, substituindo o piso arenoso nos mapas subaquáticos.
-* Adicionado fundo de mapa subaquático (selecionável no Quadro de Mapas em “Mudar Céu”).
-* Adicionado arame farpado.
-* Adicionado diálogo de fofoca para a Princesa dos Presas.
-* Adicionado diálogo de fofoca para Kiria e para a NPC Irmã Mais Velha.
-* Adicionado diálogo de fofoca para Mesherada e algumas linhas dela foram alteradas.
-* Adicionado diálogo de fofoca para Specwing, Vila de Mifu, Vila de Neph e Vila do Perdão.
-* Adicionado diálogo único para donos de estalagem Kinu, Misaki, Eureka, Mizuna e o dono da estalagem de Mifu.
-* Adicionados livros vermelhos: “Primeira Culinária,” “Vamos Pescar!” e “História da Fazenda.”
-* Adicionados dois retratos de coelhinho (Obrigado, minagi!).
-* Adicionados dois novos monstros.
-* Adicionado um dinossauro.
-* Adicionado um novo animal.
-
-[Novos Itens e Receitas]
-* Adicionado “o que um dia foi.”
-* Adicionada naginata.
-* Adicionado remédio genético (atualmente item só via desejo).
-* Adicionada boneca estrangeira.
-* Receita de tônico capilar adicionada na mesa de alquimia.
-* Receita de remédio para botar ovos adicionada na mesa de alquimia.
-* Receita de púlpito adicionada na mesa de artesanato.
-* Duas receitas de sementes adicionadas na pedra de moinho.
-* Receita de recife de coral adicionada e requisitos de material ajustados.
-* Adicionado “broquel” às receitas iniciais de artesanato (arte provisória).
-* Drop raro adicionado a ursos polares.
-* Drops raros adicionados a Tyrannosaurus e Dodorex.
-* Drop raro adicionado a Triceratops.
-* Variante gráfica de câmera com visão para trás adicionada.
-* Variante gráfica de poço coberto adicionada.
-
-[Mudanças em Poções de Alquimia]
-* Poções de alquimia agora ganham níveis fortalecidos baseados na habilidade de alquimia (limitados pela qualidade da poção), com efeitos aumentando conforme o nível de força.
-* Aumentos de força por poções de alquimia agora são definidos individualmente por tipo de poção (recuperação, restauração de habilidade, etc.).
-* Aumentos/baixas temporárias de atributos por poções não têm mais variação aleatória.
-* Aumentos/baixas temporárias de atributos não se acumulam.
-* Poções de recuperação abençoadas agora aumentam consistentemente todos os atributos relacionados, sem aleatoriedade.
-* Adicionado “aumento temporário do limite de atributo” ao efeito do talento “Sangue de Hidromel.”
-* (Explicação do aumento temporário de atributo) Se uma poção aumenta Força em 50 para um personagem com Força base 100, o limite (25% da base = 25) limita o aumento a +25. Para Força base 1000, o limite é 250, então a poção aumenta os 50 completos, mas nunca mais que isso.
+{topic, Informações de Atualização do Elin}
+■ 7/27 2025 EA 23.173 Stable Patch 1
+(Traduzido pelo ChatGPT)
 
 [Adições e Alterações]
-* Companheiros que entram via diários começam com dias passados com o PC igual a (dias atuais de jogo + α). (Sem efeito imediato.)
-* Teletransportadores com IDs não se acumulam mais no inventário.
-* Telescópios e objetos similares agora podem ser usados em mapas do usuário.
-* Material para leite alterado para chantilly.
-* Página de lugares no Diário agora mostra cidades visitadas e influência de bases/cidades.
-* Status “Brilho da Vida” removido após reviver PC/NPC.
-* Habilidade “Golpe em Rajada” agora ajusta custo de stamina baseado na quantidade de armas equipadas (pode mudar no futuro ou ter nome alterado).
-* Tamanho da janela de receita de artesanato levemente aumentado.
-* Direitos de terra podem ser recuperados mesmo se o mapa não for regenerado (como em cavernas iniciais).
-* Crescimento subaquático habilitado para Feywood e Coralwood.
-* NPCs únicos com linhas dedicadas de fofoca agora sempre mostram “Quer conversar?” fora de eventos.
-* Moradores pendurados em sacos de pancada não tentam tortura se estiverem comendo ou o caminho estiver bloqueado.
-* Mutações relacionadas a cabelo não ocorrem mais via mutação aleatória.
-* Buff “Respiração Subaquática” agora aumenta habilidade de natação ao invés de durabilidade; categoria alterada de “Defesa” para “Suporte.”
-* Nível máximo do talento “Morfose Carnívora” do NPC Forma Caótica reduzido de 22 para 20 (igual ao PC).
-* Instrumentos grandes (piano, cravo, etc.) não bloqueiam mais a visão.
-* Peso máximo carregável não cairá abaixo de 1s.
-* Poder do desejo da baba da Deusa aumentado cinco vezes.
-* Adicionado etiqueta “não à venda” aos varinhas de desejo.
-* Quando vários itens gerados por desejos aparecem, itens de alto valor aparecem em menor quantidade.
-* Escalonamento de habilidades de NPCs de alto nível ajustado para ser mais suave.
-* Adicionados efeitos para traços negativos de itens como 【Sangramento】 ao serem consumidos.
-* Status “Mente Calma” agora contraria berserk.
-* Culturas normais não crescem mais debaixo d’água.
-* Arquivos de sprites de personagens divididos de objs_C.png para objs_C.png e objs_CL.png; tipos de personagens grandes agora carregam de objs_CL.
-* Sem recuo enquanto sob status de gravidade; tooltip atualizado.
-* Runas de encantamento limitadas a partes específicas do corpo não podem mais ser aplicadas em outros locais; extração mostra limitações.
-* Erros de carregamento da Porta da Lua agora mostram o nome do mapa do usuário.
-* Material padrão de círculo mágico alterado para cristal e agora suporta mudança de cor.
-* Missões aleatórias de campo de batalha mudadas para conteúdo baseado em fama (experimental): o nível de perigo da primeira onda escala com fama, e recompensas aumentadas.
-* Aumento do perigo ao soprar chifres em campos de batalha aleatórios agora escala com o nível de perigo atual.
-* Itens da categoria arremesso agora exibem dureza nas dicas.
-* Runas não podem mais ser obtidas via desejo.
-* “Fome de Carnificina” da doença éter ou transformação de gato agora fazem “o que um dia foi” aparecer mais ao matar inimigos.
-* Moinhos de vento e geradores de boneco de neve agora produzem energia ao ar livre mesmo com mau tempo.
-* Linguagem de bebê ficou mais fofa.
-* Animais de montaria/natação ganham XP de natação ao se moverem em tiles de água.
-* Lista de compra/venda de traficantes de escravos agora mostra gênero e idade.
-* Sementes colhidas fora das bases ou tendas do jogador não sobem de nível (para evitar divisão de pilhas).
-* Baixa chance de culturas além da grama nascerem em Nefia de pradaria.
-* Culturas aleatórias podem nascer em Nefia de floresta.
-* Baús de tesouro e pérolas aleatórios em campos ou debaixo d’água não surgem onde já existem itens.
-* Conteúdo das pérolas agora depende do nível de conteúdo do mapa.
-* Adicionada leitura ao comportamento ocioso de alguns NPCs.
-* Gráficos atualizados para mercúrio e sangue do anjo caído.
-* Adicionado efeito “sem duplicação” aos traços de item 【Afrodisíaco】, 【Inseto】 e 【Carne Divina】.
-* Gráfico de neve atualizado.
-* Tradução chinesa atualizada.
+
+* Ajustada a altura da raça "Ancient Crab" (era igual à de um caranguejo normal).
+* O dano por fome não é mais absorvido pela "Wall of Flesh".
 
 [Correções]
-* Corrigido bug onde erro de arredondamento na acumulação da doença éter causava valores incorretos.
-* Corrigido livros de feitiço de desejo não gerando (provavelmente).
-* Corrigido habilidade de negociação afetando valores de itens de desejo.
-* Corrigido efeitos negativos sobrepostos revertendo a lei de velocidade na fórmula de cálculo de velocidade.
-* Corrigido erros na Porta da Lua causados por caracteres especiais em IDs de mapas de usuário.
-* Corrigido comerciantes de platina sendo capturáveis com bolas de monstro.
-* Corrigido minimapa não atualizando imediatamente após expansão de terreno.
-* Corrigido sub-cor da corante de itens de madeira usando a cor principal em vez disso.
-* Corrigido enxame às vezes ativando efeito “Névoa Negra” em inimigos quando usado dentro da névoa negra.
-* Corrigido campos de batalha aleatórios não permitindo sinal de retirada após cancelar um anterior.
-* Corrigido talento do tipo A obsoleto ainda aparecendo na geração de talentos genéticos.
-* Corrigido estátuas de divindades usadas na Vila do Perdão tornando-se reutilizáveis após regeneração do mapa.
-* Outras pequenas correções e ajustes.
+* Outros ajustes e correções menores.
 
 [Observações]
-* Mudanças nos arquivos de sprites dos personagens podem causar falhas em imagens de personagens modificados.
-* “O que um dia foi” representa resíduo, não carne — dropado por máquinas e outras raças não carnívoras.
-* Melhoria de sementes via pedra de moinho e extração genética pode envolver etapas extras de artesanato no futuro (ex.: usar ovos fertilizados e remédios genéticos em um extrator genético).
-* Remédios genéticos atualmente só disponíveis via desejos. Itens como remédios genéticos e runas estão sendo adicionados antecipadamente como parte de futuras recompensas de artesanato ou missão, equilibradas para o ambiente atual.
-* Agricultura em grande escala, fábricas de bolhas e laticínios ainda aguardam ajustes de balanceamento, mas as mecânicas atuais permanecerão em grande parte como leis do mundo.
-* Todos os livros vermelhos recém-adicionados foram fornecidos pela comunidade Elin. Obrigado pelo apoio!
-* O púlpito deve eventualmente permitir criar salas de aula em casa.
-* (Curiosidade) Baús do tesouro da Fiama às vezes tremem por alguns dias após serem obtidos.
+* Será migrado para Nightly se não forem encontrados problemas graves.
+
+■ 7/27 2025 EA 23.173 Stable
+(Traduzido pelo ChatGPT)
+
+Após a atualização da versão stable, alguns mods podem parar de funcionar ou apresentar comportamento estranho. Se algo incomum ocorrer, tente desativar os mods uma vez e verifique novamente.  
+
+[Migração de Servidor]
+* Atualização temporária devido à migração de servidor, pois o servidor usado para as funcionalidades de rede do Elin será desligado em 31/07. Mapas do Moon Gate já enviados foram copiados para o novo servidor, mas mapas enviados nos últimos 2–3 dias podem não ter sido refletidos. Reenvie-os se necessário.
+
+[Novo Conteúdo]
+* Adicionada opção "Mapa Adulto" nas configurações de envio de mapas pelos usuários.
+* Adicionada configuração para "Desativar viagem para Mapas Adultos via Moon Gate."
+* Adicionada a façanha "Wall of Flesh" ao Ighorlnak.
+* Adicionada receita de pãozinho de carne.
+* Adicionada receita de bibimbap grelhado em pedra.
+* Adicionado Decameron.
+* Adicionada cauda de lobo como drop raro para espécies tipo lobo e cão.
+* Adicionados 4 novos monstros.
+
+[Adições e Alterações]
+* Ao escovar, se o alvo nunca tiver ficado descontente, sua chance de revidar passa a ser 0.
+* A taxidermia agora inclui NPCs que doaram suas taxidermias quando o favor está alto.
+* O alcance das façanhas "Acid Body" e "Spiky" agora depende do nível da façanha.
+* Ajustado o diálogo de Demitas sobre Kettle no Cenário Domiciliar (expressão inadequada para alguém que mantém sempre os olhos fechados).
+* Ajustado o diálogo de Kettle na missão "Gold Sleeping in the Mine" (expressão inadequada para um personagem cego).
+* Comida produzida por residentes da base enquanto trabalham é tratada como lixo (prato falho).
+* Desabilitada a coleta com escovas (para evitar cliques errados).
+* Adicionada caixa de impostos à Embaixada de Palmia.
+* O Bilhete da Coleção de Móveis de Palmia agora pode ser usado na Embaixada de Palmia.
+* Ajustadas receitas de sushi.
+* Ajustadas receitas de curry.
+* Adicionada receita de ferramenta de alquimia para iniciantes às receitas padrão.
+* Reforços convocados por varinhas amaldiçoadas agora se tornam hostis.
+* Gráficos dos morcegos foram substituídos.
+* Adicionada tag [filth] (sujeira) à espécie morcego (para distribuição por tipo de masmorra).
+* Atualizada a tradução chinesa.
+
+[Correções]
+* Corrigido bug em que o móvel de mais alta qualidade não era gerado na geração aleatória de móveis.
+* Corrigido glitch ao copiar blocos de água com blocos falsos.
+* Outros ajustes e correções menores.
+
+[Observações]
+* Esta é uma atualização temporária para migração de servidor, portanto observe que alguns recursos adicionados no Nightly podem ainda não estar totalmente balanceados.
