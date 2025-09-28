@@ -1,0 +1,37 @@
+Aventuras Semanais – Edição 11 《Equipe e Magia》, Lumiest, Repórter Jesta,10,1
+
+<i>Bem-vindo à leitura do 『Aventuras Semanais』. Esta semana, direto da Guilda dos Magos, trago aos aventureiros o conhecimento sobre combate em equipe e a cooperação com parceiros importantes.</i>
+
+Aventureros geralmente formam grupos para desafiar Nefia. É preciso ter cuidado para não atingir aliados ao usar magia.
+
+{p}
+■Controle de Mana
+
+Se você não quiser que magias de área atinjam seus aliados, é necessário aprender a habilidade 「Controle de Mana」. Essa habilidade reduz o dano de magias de ataque em aliados; com treino avançado, até magias poderosas de magnitude sísmica não prejudicarão sua equipe.
+
+Se o conjurador tiver a especialização 「Precisão Mágica」, ele não só evita melhor que magias de área atinjam aliados, como também dobra o efeito do 「Controle de Mana」. Se você possui 「Precisão Mágica」, as magias de área lançadas por seus aliados também terão menos chance de atingir seus companheiros. Para quem gosta de explosões vistosas, essa especialização é essencial.
+
+Muitos acreditam que 「Etiqueta Mágica」 protege aliados, mas essa habilidade serve apenas para evitar que fogo ou gelo danifiquem itens, não protege contra dano em si.
+{p}
+A habilidade Controle de Mana pode ser aprendida na Guilda dos Magos, mas quem não é membro não consegue treiná-la lá.
+
+■Alvos da Magia
+
+Além de magias de ataque, existem magias defensivas e de suporte, que afetam a si mesmo ou aliados, influenciando significativamente o combate. Alguns exemplos representativos:
+
+<b>Alvo: Si mesmo</b>  
+Exibido com ícone azul, não permite escolha de alvo, afeta a área ao redor do conjurador. Magias como 「Teleporte」 e 「Olho de Gato」 se enquadram aqui. Às vezes, o efeito pode se estender a uma área ao redor, mas o alvo não é selecionável.
+
+{p}
+<b>Alvo: Aliados</b>  
+Exibido com ícone verde, permite escolher qualquer aliado como alvo. Selecione a magia e clique com o botão direito no aliado para lançar.
+
+<color=green>Também é possível pressionar o botão direito por mais tempo para conjurar em todos os aliados simultaneamente</color>. Assim, um único ato de conjuração concede o efeito mágico a todos os membros da equipe, mas consome múltiplas porções de MP e estoques de magia. Conjurar em todos é útil tanto para buffs coletivos antes de entrar em Nefia quanto para curas gerais após batalhas. Atenção: conjuração em área só funciona para aliados; servos invocados devem ser afetados individualmente.
+
+<b>Companheiros montados</b>  
+Se a descrição da magia indicar 「também afeta montaria」, ao lançar em si mesmo, o efeito se aplica a montarias e companheiros em simbiose, mas o consumo também aumenta proporcionalmente. Magias com essa característica geralmente são de cura, embora existam exceções, como magias de invisibilidade.
+
+{p}
+Seja o mago lançando bolas de fogo ou o sacerdote cuidando da cura na retaguarda, compreender como a magia afeta aliados é indispensável para qualquer aventureiro.
+
+<i>- Na próxima edição, retornaremos à Guilda dos Magos para desafiar pessoalmente a arte de forjar Runas!</i>

@@ -1,0 +1,44 @@
+Semanário do Aventureiro – Edição 6 《Montaria》, Repórter Especial Célia em Yoen,10,1
+
+<i>Bem-vindo à leitura do 『Semanário do Aventureiro』. Toda semana trazemos para vocês tópicos de tirar o fôlego!
+
+Desta vez estamos no mercado de leilões de Yoen, que acontece apenas algumas vezes por ano. Vamos ouvir do mestre de estábulo Paris, com mais de vinte anos de experiência, o porquê desse evento ser tão concorrido.</i>
+
+<color=brown>Célia: Muito obrigada por aceitar a entrevista, senhor mestre de estábulo. Aqui está realmente lotado!</color>
+
+Paris: É uma honra, senhorita repórter. A questão é simples: a maioria dos cavalos de Yoen é destinada à realeza, e o restante vai prioritariamente para a nobreza. Isso torna raríssima a chance de um plebeu conseguir um bom cavalo. Por isso, leilões como este atraem tantos aventureiros.
+{p}
+<color=brown>Célia: Poderia me contar as vantagens da montaria?</color>
+
+Paris: Pois bem. Antes de tudo, a velocidade do cavalo se soma diretamente à do cavaleiro. Além disso, ataques que visariam o aventureiro às vezes atingem o cavalo no lugar. E se a montaria for uma criatura alada, o cavaleiro também pode voar junto.
+
+A maior vantagem da montaria é aumentar a taxa de sobrevivência. Mesmo que o cavalo seja derrubado em batalha, ele apenas desmaia temporariamente. Embora o benefício da montaria cesse nesse momento, ainda é melhor do que perder um companheiro.
+{p}
+<color=brown>Célia: Entendi. Todo aventureiro sabe o quanto a velocidade importa numa luta.</color>
+
+Paris: (sorri) Exatamente. Por outro lado, se o cavalo for mais lento que o cavaleiro, a montaria se torna um fardo. Mas os cavalos de Yoen são conhecidos como os mais velozes de Tyris. Até mesmo elfos podem desfrutar dessa vantagem ao cavalgar um cavalo de Yoen.
+
+No entanto, apenas um cavalo rápido não basta para chegar até Palomya. É preciso ter a 「Habilidade de Montaria」 e, além disso, o cavalo precisa ter 「Força」 suficiente para suportar o cavaleiro. Quanto mais rápido o cavalo, maiores serão esses requisitos.
+
+A vantagem é que os cavalos de Yoen, por serem bem treinados, são muito mais fáceis de montar e menos exigentes nesses quesitos. Mas há criaturas no mundo que nunca deveriam ser usadas como montaria.
+{p}
+<color=brown>Célia: Faz todo sentido! Mas se eu tivesse que cavalgar até Palomya agora, acho que meu corpo iria se despedaçar no caminho…</color>
+
+Paris: A maestria em montaria leva tempo. Só cavalgando é que se adquire o hábito. No começo, o balanço pode atrapalhar ataques, e feitiços podem falhar durante a condução. Mas, à medida que cavalo e cavaleiro se entrosam, esses problemas desaparecem. Quando a sintonia é perfeita, o cavaleiro e a montaria podem lutar lado a lado, tornando-se uma força ainda mais poderosa.
+
+<color=brown>Célia: Uau! Então até o cavalo pode lutar junto?</color>
+
+Paris: Sim. Quando parado, o cavalo também ataca. Durante o movimento, ele age em sintonia com você no turno de combate. Claro, assim como o cavaleiro, o cavalo também sofre penalidades ofensivas, mas com experiência ambos superam esse obstáculo.
+{p}
+Paris: Há também a questão da aplicação da magia. Se a descrição do feitiço incluir 「afeta a montaria」, então mesmo que não seja uma magia de área, também terá efeito sobre o cavalo. Por outro lado, magias de projéteis — como as flechas arcanas — atingem tanto cavaleiro quanto montaria, dobrando o dano.
+
+<color=brown>Célia: Se o cavalo precisa lutar, então também precisa de equipamentos. Como o senhor organizaria isso?</color>
+
+Paris: Em primeiro lugar, priorize a velocidade. Que ele receba a bênção de Luluwi, e depois equipe quantos Anéis de Velocidade puder. São caros, mas valem cada moeda. Há aventureiros sem escrúpulos que chegam a induzir mutações em seus cavalos para torná-los ainda mais rápidos… mas sobre isso, prefiro nem comentar.
+{p}
+<color=brown>Célia: Entendi. Foi realmente esclarecedor. Senhor Paris, o leilão está prestes a começar, vamos encerrar por aqui a entrevista de hoje.</color>
+
+Paris: Claro, claro, senhorita repórter. Espero que consiga um bom cavalo.
+
+
+<i>― Na próxima edição, continuaremos com a companhia do mestre de estábulo de Yoen, discutindo o tema da 「Simbiose」. Um assunto intimamente ligado à montaria!</i>

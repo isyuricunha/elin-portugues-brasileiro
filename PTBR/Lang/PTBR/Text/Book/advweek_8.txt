@@ -1,0 +1,41 @@
+Aventuras Semanais – Edição 8 《Gerenciar uma Loja》, Vovó Su,10,1
+
+<i>Bem-vindo à leitura do 『Aventuras Semanais』. Hoje a Vovó Su vai responder perguntas sobre dinheiro.</i>
+
+Nesta semana, recebemos uma carta de um jovem de Misilia. <color=blue>「Vovó Su, os donos das lojas forçam tanto os preços que meus espólios não valem nada! Não seria melhor eu abrir minha própria loja e vender por conta própria?」</color>
+
+Vou te dizer a verdade: os donos de lojas são todos uns pão-duros. Não é por maldade, é só o jeito de fazer negócios. Mas, não importa o que você venda, o que recebe é só uma fração do verdadeiro valor.  
+{p}
+Também existe a opção de vender via remessa, que significa vender para o mercado de Misilia. O preço de compra é mais justo e ainda dão lingotes como bônus. Mas a capacidade das caixas de remessa é limitada, e o preço não pode ser influenciado por negociação.
+
+Certo, vamos ao assunto principal: abrir sua própria loja — isso dá um certo trabalho. Precisa pensar no visual do estabelecimento, decidir a política de vendas e repor os itens vendidos. Mas os preços são definidos por você, e o lucro depende de quantos tolos você consegue atrair. Não é para qualquer um, mas se tiver interesse, a Vovó Su pode te ensinar os truques.
+
+{p}
+■Fundamentos
+
+Primeiro, você precisa de um terreno. Pode escolher um lugar com boa paisagem, como minha loja, que fica numa planície gelada cheia de ruínas antigas. Não precisa construir nada grandioso — um carrinho já resolve. Mas você precisa de etiquetas de venda, que podem ser fabricadas na Oficina de Placas.
+
+Cole a etiqueta de venda no item que quer comercializar, e então basta abrir a loja e esperar os clientes chegarem. Se você colocar itens iguais em baús dentro da área da 「Placa de Estoque de Produtos」, o sistema reabastece automaticamente. E se colar a etiqueta direto no baú, todos os itens dentro dele passam a ser produtos — perfeito para preguiçosos, como minha neta.
+
+{p}
+Os nativos de North Tyris são honestos: mesmo que você não esteja na loja, eles pegam o produto e deixam o dinheiro. Mas em Yele ou Evodana isso não funciona. Agora já sabe como a vida aqui é melhor, não é?
+
+■Como lucrar
+
+Depois de abrir a loja, o segredo é atrair o máximo de clientes possível e sugar cada moeda de ouro deles.
+
+Preço: com políticas como 「Licença de Loja de Variedades」 e 「Licença de Loja de Alimentos」, você pode aumentar os preços de venda. Não que eu goste muito desse tipo de exploração, mas funciona.
+
+{p}
+Fluxo de clientes: quanto mais gente, mais vendas. Escolher um bom ponto já é meio caminho andado. Além disso, dá pra investir lingotes em propaganda, mas não esqueça de garantir a segurança dos turistas. Afinal, se os monstros comerem seus clientes, eles não poderão comprar nada.
+
+Poder de compra: isso é crucial. Se os preços forem maiores do que o cliente pode pagar, não vende. Para atrair os ricos, você precisa da política 「Paraíso da Elite」. Os nobres adoram se arriscar em lugares perigosos, então abrir loja em áreas remotas não é problema.
+
+… Eu também recomendo escolher 「Invocar Demônios」 entre as políticas da Vila. Isso fortalece os monstros que rondam a área. Parece loucura, mas os ricos ficam fascinados e aparecem por lá. Não me pergunte por quê, só sei que funciona. Se ficar com medo, combine com 「Vigiar as Fronteiras」 — essa política não afeta os clientes, apenas reduz a periculosidade dos monstros.
+
+{p}
+Esse é o segredo da Vovó Su para gerenciar uma loja. Simples o bastante até para minha neta entender.
+
+Ah, e mais uma coisa: os clientes sempre querem testar na hora o que compraram. Não tem problema se beberem um Elixir de Resistência Ácida, mas você não vai querer que conjurem uma Chuva de Meteoros, certo? Então cuidado com o que coloca nas prateleiras.
+
+<i>Na próxima edição, vamos voltar à Vila Yorn para falar sobre a nova febre da apicultura!</i>
