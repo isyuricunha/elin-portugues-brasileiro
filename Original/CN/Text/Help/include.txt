@@ -1,7 +1,7 @@
 $topic_credit
 {topic，Lafrontier的开发者}
 $topic_credit_resource
-{topic,著作权·素材作者信息}
+{topic,著作权・素材作者信息}
 本作品使用了许多免费公开的素材，为让素材契合游戏，在使用素材时对部分内容进行了一定的修改（如图片尺寸、音频音调、音量等）。在此感谢提供素材的每一位作者。
 
 {topic,Elona的素材}

@@ -1,0 +1,9 @@
+3,A+D
+4,A2+D
+20,NAME+の+D
+15,ALIAS+の+D
+60,$god+の+D
+60,$god+D
+8,$parent+の+D
+8,$parent+D
+1,$adv+D

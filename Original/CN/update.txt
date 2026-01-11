@@ -1,64 +1,64 @@
 Updated Language Files:
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/General.xlsx
-version:2636  text:2633  
+version:2606  text:2603  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/List.xlsx
 version:110  text:109  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Game.xlsx
-version:985  text:984  
+version:966  text:965  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Word.xlsx
 version:484  name:484  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Note.xlsx
-version:12  text:12  
+version:11  text:11  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Chara.xlsx
-version:531  name:530  detail:1  aka:220  
+version:502  name:502  detail:1  aka:207  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/CharaText.xlsx
-version:127  calm:95  fov:15  aggro:87  dead:98  kill:86  
+version:120  calm:92  fov:14  aggro:81  dead:92  kill:82  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Tactics.xlsx
-version:15  name:15  detail:0  
+version:13  name:13  detail:0  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Person.xlsx
-version:38  name:35  detail:0  aka:6  
+version:33  name:30  detail:0  aka:4  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Thing.xlsx
-version:2394  name:2394  detail:479  unit:2394  unknown:73  roomName:111  name2:81  
+version:2280  name:2280  detail:430  unit:2280  unknown:66  roomName:105  name2:79  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Element.xlsx
-version:1028  name:1028  detail:678  altname:18  textPhase:333  textExtra:356  textInc:63  textDec:61  textAlt:47  adjective:0  levelBonus:4  
+version:958  name:958  detail:638  altname:18  textPhase:314  textExtra:334  textInc:61  textDec:59  textAlt:46  adjective:0  levelBonus:4  
 
 (No Changes) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Calc.xlsx
 
 (No Changes) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Check.xlsx
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Race.xlsx
-version:90  name:90  detail:19  
+version:89  name:89  detail:18  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Category.xlsx
 version:137  name:137  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Material.xlsx
-version:114  name:114  altName:54  
+version:104  name:104  altName:46  
 
 (No Changes) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/SpawnList.xlsx
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Block.xlsx
-version:205  name:204  detail:3  
+version:201  name:200  detail:3  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Floor.xlsx
-version:128  name:127  detail:0  
+version:127  name:126  detail:0  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/CellEffect.xlsx
 version:8  name:7  detail:0  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Obj.xlsx
-version:144  name:144  detail:0  
+version:139  name:139  detail:0  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Faction.xlsx
 version:12  name:12  detail:0  textType:0  
@@ -73,16 +73,16 @@ version:20  name:20  detail:15
 version:53  name:53  detail:7  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Quest.xlsx
-version:145  name:89  detail:132  talkProgress:0  talkComplete:2  
+version:137  name:88  detail:124  talkProgress:0  talkComplete:2  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Stat.xlsx
-version:92  name:92  detail:85  strPhase:86  textPhase:75  textPhase2:4  textEnd:63  
+version:88  name:88  detail:82  strPhase:82  textPhase:72  textPhase2:4  textEnd:60  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Area.xlsx
 version:12  name:12  detail:4  textAssign:5  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Zone.xlsx
-version:100  name:100  detail:8  textFlavor:36  
+version:100  name:100  detail:8  textFlavor:35  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/ZoneAffix.xlsx
 version:30  name:30  detail:0  
@@ -109,7 +109,7 @@ version:16  name:16  detail:0
 version:647  name:567  text:241  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/KeyItem.xlsx
-version:14  name:14  detail:14  
+version:12  name:12  detail:12  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Dialog\Drama\ashland.xlsx(ash)
 122
@@ -127,7 +127,7 @@ version:14  name:14  detail:14
 8
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Dialog\Drama\elder_exile.xlsx(raphael)
-42
+39
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Dialog\Drama\fairy_nanasu.xlsx(fairy_nanasu)
 22
@@ -139,7 +139,7 @@ version:14  name:14  detail:14
 11
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Dialog\Drama\fiama.xlsx(fiama)
-50
+49
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Dialog\Drama\guild_clerk.xlsx(1)
 14
@@ -162,20 +162,14 @@ version:14  name:14  detail:14
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Dialog\Drama\ineien.xlsx(fiama)
 7
 
-(Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Dialog\Drama\keeper_garden.xlsx(keeper_garden)
-6
-
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Dialog\Drama\kettle.xlsx(kettle)
-247
+79
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Dialog\Drama\loytel.xlsx(loytel)
 407
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Dialog\Drama\melilith.xlsx(melilith)
 31
-
-(Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Dialog\Drama\namamani.xlsx(namamani)
-10
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Dialog\Drama\olderyoungersister.xlsx(olderyoungersister)
 57
@@ -190,15 +184,6 @@ version:14  name:14  detail:14
 82
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Dialog\Drama\raphael.xlsx(raphael)
-1
-
-(Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Dialog\Drama\sorin.xlsx(sorin)
-1
-
-(Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Dialog\Drama\tyche.xlsx(tyche)
-20
-
-(Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Dialog\Drama\vishnu.xlsx(vishnu)
 1
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Dialog\Drama\_adv.xlsx(god)
@@ -220,13 +205,13 @@ version:14  name:14  detail:14
 32
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Dialog\Drama\_tutorial.xlsx(index)
-35
+34
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Dialog\Drama\_tutorial.xlsx(nerun)
-222
+214
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Dialog\dialog.xlsx(general)
-78
+74
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Dialog\dialog.xlsx(rumor)
 19
@@ -235,13 +220,10 @@ version:14  name:14  detail:14
 13
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Dialog\dialog.xlsx(unique)
-43
-
-(Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Dialog\dialog.xlsx(asmr)
-5
+39
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Data\chara_talk.xlsx(1)
-5875
+5828
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN\Data\god_talk.xlsx(1)
 266
