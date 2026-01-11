@@ -18,9 +18,76 @@ A tradução é feita por um humano, e não IA. As partes indicadas como "Traduz
 {link,Discord - Comunidade、Perguntas、Conversas em Geral,https://discord.com/invite/aYbWBr4}
 {link,Website - Meus links, projetos, e infos,https://yuricunha.com}
 
+Aqui está a tradução completa:
+
 {topic, Informações de Atualização do Elin}
+■ 24/12/2025 EA 23.252 Patch Estável 2
+(Traduzido por ChatGPT)
+[Correções]
+* Corrigido um bug onde Ashland se duplicava após progredir na missão "Para uma Nova Terra" até certo ponto.
+* Adicionados vários novos prefixos aleatórios aos mapas aleatórios.
+* (Versão japonesa) Alterado o epíteto dos itens milagrosos de diamante de "Imutável" para "Eterno" para evitar sobreposição com um novo material.
+* (Versões japonesa e inglesa) Melhorados nomes e epítetos para novos materiais.
+[Notas]
+* Se Ashland foi duplicado, digite "Fix_RemoveAshland" via Sistema ＞ Outros ＞ Console para fazer o Ashland extra sair. Ter dois presentes ao mesmo tempo não causará nenhum problema sério.
+■ 23/12/2025 EA 23.252 Patch Estável 1
+(Traduzido por ChatGPT)
+[Mudanças]
+* Desativado "Alternar Inclinação" via Alt+Shift no Modo de Construção. (No Modo de Construção, a inclinação pode ser alternada pelo ícone no canto inferior direito.)
+* Reduzida a chance de ASMR ser da Jure de 90% para 50%. (Temporário, já que ASMR de outros NPCs é difícil de obter).
+* (Atualizações Fora do Jogo) Adicionada uma categoria "Formulário de Envio" na "Sala do Dev" no site oficial.
+[Notas]
+* Feliz Juremas!
+* Obrigado pelos muitos envios de ASMR. Conteúdo ASMR será adicionado gradualmente entre atualizações como pequenos bônus, então por favor seja paciente. Os envios de ASMR permanecerão abertos indefinidamente. Uma vez que o número de entradas ASMR no jogo aumentar, métodos de aquisição dedicados estão planejados.
+* Se nenhum problema importante surgir, o desenvolvimento voltará para o branch Nightly.
+■ 22/12/2025 EA 23.252 Estável
+(Traduzido por ChatGPT)
+Após atualizar para uma versão estável, Mods de versões anteriores podem não funcionar corretamente ou podem se comportar de forma inesperada. Se algo parecer estranho, por favor tente desativar os Mods e testar novamente.
+[Destaques]
+* Concluída a Missão de Casa "Na Escuridão".
+* Aprimorado o Festival da Noite Sagrada. Adicionado mobília "Reprodutor ASMR". Durante o período do Festival da Noite Sagrada, o ASMR de Jure agora tocará na igreja de Noyel.
+[Novo Conteúdo]
+* Adicionados 18 tipos de Bolas de Juremas.
+* Adicionados 2 tipos de cordas suspensas.
+* Adicionadas roupas de inverno para Fiama e Ash.
+* Adicionado um chapéu à roupa de inverno de Loytel.
+* Adicionado ASMR de Horome.
+* Adicionado ASMR de Opatos.
+* Adicionado ASMR de Demitas.
+* Adicionados múltiplos textos de sabor de itens.
+* Adicionada arma "★Cajado da Insanidade".
+* Adicionado 1 novo NPC.
+[Adições e Mudanças]
+* Decorado ainda mais o Festival da Noite Sagrada de Noyel. Também adicionados lojistas do festival.
+* Ao colocar móveis no Modo Telhado (tecla Alt), ativado Colocação Livre (tecla Shift). Colocação Livre agora também está disponível para móveis que ocupam múltiplos blocos.
+* Residentes não irão mais gerar e comer comida por conta própria quando famintos.
+* Companheiros não irão mais pegar itens que o PC está segurando, mesmo se os itens estiverem armazenados em contêineres compartilhados.
+* Quando um companheiro está equipado com equipamento que concede uma habilidade, esse companheiro não pode mais usar genes contendo essa habilidade no Sintetizador de Genes.
+* O efeito da habilidade "Proteção da Raposa" agora se aplica a toda a facção.
+* Melhorado comportamento ao colocar móveis em cima de móveis colocados no ar. Também corrigido um problema onde a posição de destaque da colocação podia diferir da posição colocada real.
+* Móveis do tipo flutuante (bandeiras de festival, cordas de roupa, etc.) não são mais afetados pela altura de outros móveis colocados.
+* Melhorado comportamento ao colocar móveis enquanto segura CTRL.
+* Efeitos de itens não são mais renderizados quando itens são largados no chão (não colocados).
+* Adicionadas placas invisíveis de restaurante a Aquli Teora, Willow, Mysilia, Derphy, Lumiest, Ancoradouro do Viajante, Noyel, Specwing e Ruínas Doga.
+* Aumentado o preço da arma "★Bastão de Pontos".
+* Criado um repositório privado do Elin no GitHub. Obrigado DK!
+* Atualizados gráficos de neve.
+* Atualizadas traduções chinesas.
+[Correções]
+* Corrigido um bug onde Artistas Aprendizes estavam usando roupas de inverno de Nobres.
+* Corrigida uma falha visual ao copiar blocos tipo inclinação com Blocos Falsos.
+* Corrigido um bug onde NPCs sem a habilidade "Corpo de Mana" podiam ter barras de HP azuis.
+* Corrigido um bug onde Lentidão e Pressa não podiam se sobrescrever corretamente.
+* Corrigido um bug onde armas à distância não-únicas ficavam fixadas em qualidade normal quando regeneradas.
+* Fiama e Ash agora são gerados novamente se não existirem no jogo por qualquer razão (como interferência de Mod) durante o estágio final da missão "Uma Nova Terra".
+* Outras correções e ajustes menores.
+[Notas]
+* O comportamento de colocação de móveis mudou ligeiramente. Em mapas especiais que usam pesadamente colocação no ar ou colocação com CTRL, posições de móveis podem mudar. Desculpas se isso afetar seus mapas. Mapas corrigidos foram verificados o mais minuciosamente possível, mas feedback seria apreciado se você notar móveis mal posicionados.
+* O novo NPC está planejado para ter alguma funcionalidade especial, similar a Kettle ou Demitas.
+* Controle de versão não havia sido usado anteriormente, mas um repositório do Elin foi criado com sucesso no GitHub recentemente. Daqui em diante, pode ser possível compartilhar tarefas de desenvolvimento, como melhorias de recursos relacionados a Mods, com outros.
+
 ■ 7/27 2025 EA 23.173 Stable Patch 1
-(Traduzido pelo ChatGPT)
+(Traduzido pelo Yuri)
 
 [Adições e Alterações]
 
@@ -34,7 +101,7 @@ A tradução é feita por um humano, e não IA. As partes indicadas como "Traduz
 * Será migrado para Nightly se não forem encontrados problemas graves.
 
 ■ 7/27 2025 EA 23.173 Stable
-(Traduzido pelo ChatGPT)
+(Traduzido pelo Yuri)
 
 Após a atualização da versão stable, alguns mods podem parar de funcionar ou apresentar comportamento estranho. Se algo incomum ocorrer, tente desativar os mods uma vez e verifique novamente.  
 
