@@ -1,0 +1,9 @@
+DimakSerpg 18/set./2025 às 9:54 
+Bro, I can help you with information on how to make updating your translation mod more convenient.
+
+You can use xlcompare dot com to compare xlsx files. Use this site only to see what has changed, do not use it to edit the files themselves.
+
+To search for text in translation files, you can use searcher.exe (first link in Google from sourceforge).
+
+To understand which files have been updated in the new version, rename the update.txt file to update23200, then when a new "stable" version of the game is released, a new file will appear in the same place. Then, you just need to compare the old update file with the new one.
+Elin\Package\_Lang_Chinese\Lang\CN
