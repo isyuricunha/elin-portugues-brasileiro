@@ -21,6 +21,104 @@ A tradução é feita por um humano, e não IA. As partes indicadas como "Traduz
 Aqui está a tradução completa:
 
 {topic, Informações de Atualização do Elin}
+■ 13/01/2026 EA 23.260 Estável
+(Traduzido por ChatGPT)
+
+Após atualizar para uma versão estável, Mods de versões anteriores podem não funcionar corretamente ou apresentar comportamento inesperado. Se algo parecer estranho, por favor tente desabilitar os Mods e testar novamente.
+
+[Destaques]
+* Adicionado conteúdo relacionado ao Ano Novo (Kadomatsu, cavalos, bicicletas, etc.).
+* Adicionada mobília "Objeto Falso". Objetos do mapa como árvores, plantações e rochas que anteriormente não podiam ser colocados livremente agora podem ser copiados.
+* Adicionada a habilidade "Mímico". Mímicos disfarçados de itens agora podem aparecer em masmorras e outros locais.
+
+[Novo Conteúdo]
+* Adicionada a raça "Bicicleta".
+* Adicionada a característica "Aquático". Concedida a raças aquáticas, com ajustes de velocidade aplicados.
+* Adicionada a característica "Peaky". Algumas bicicletas agora aparecem com efeitos Peaky escalados aleatoriamente.
+* Adicionada a característica "Elite".
+* Adicionada a habilidade "Mímico".
+* Adicionado um grande número de ícones de habilidades e magias.
+* Adicionados ícones para resistência a Éter, resistência a Choque e mais.
+* Adicionado item "☆Chifre de Unicórnio".
+* Adicionadas 9 variações da mobília "Estátua de Gárgula".
+* Adicionada mobília "Kadomatsu". Receitas agora podem ser obtidas via presentes de Ano Novo.
+* Adicionadas variações de aparência para "Braseiro" e "Braseiro de Parede".
+* Adicionadas receitas para "Estátua de Gárgula", "Deusa Decorativa", "Braseiro", "Braseiro de Parede" e três tipos de "Pedestal".
+* Adicionadas roupas de inverno para o NPC "Gaki".
+* Adicionadas roupas de inverno para o NPC "Wini".
+* Adicionado diálogo de rumor para o NPC "Rodwyn".
+* Adicionados 7 novos monstros.
+* Adicionados 5 monstros nomeados.
+* Adicionado um ícone para Nefias da Floresta. Cor dos ícones de Nefia das Planícies levemente ajustada.
+* Adicionado 1 tipo de NPC amigável.
+* Adicionado ASMR de Lulwy.
+* Adicionado ASMR de Ehekatl.
+* Adicionado ASMR de Empregada Raposa. Obrigado The Observer!
+
+[Adições e Mudanças]
+* Monstros que emergem de caixões agora são afetados pelas configurações de taxa de aparição.
+* Injeções agora consomem um turno.
+* Quadros de Quarto e Quadros de Casa agora podem ser usados dentro de tendas.
+* Armas de longo alcance criadas não vêm mais com mods de modificação.
+* Algumas receitas não aparecem mais em sorteios aleatórios (receitas exclusivas de eventos como Árvores Sagradas e Kadomatsu).
+* Adicionada comida preservada às oferendas de Yevan.
+* Adicionados quadros de missões adicionais a várias cidades grandes.
+* Itens largados por NPCs agora têm a flag de propriedade do NPC removida.
+* Habilidades do tipo sopro agora são afetadas por aprimoramento mágico (experimental; sujeito a ajustes futuros).
+* Inimigos poderosos e inimigos multi-tile são menos afetados por penalidades de velocidade subaquática mesmo sem a habilidade Natação.
+* Equipamentos de favor divino não podem mais ser recuperados no Modo de Construção.
+* Quando a Evasão é negativa, ataques agora têm uma chance de sempre acertar.
+* Adicionados Pergaminhos de Recordação, Pergaminhos de Fuga, Pergaminhos de Teletransporte e Pergaminhos de Teletransporte Curto ao estoque permanente da loja de magia.
+* Buffs de atributo amaldiçoados agora aplicam debuffs de atributo, e debuffs de atributo amaldiçoados agora aplicam buffs de atributo (experimental).
+* Adicionada a tag de aparição "dungeon" (permite aparição em masmorras mesmo com a tag Animal). Aplicado a Cerberus, Nightmare e Unicorn.
+* Dispositivos de tortura em uso não podem mais ser desmontados com um martelo.
+* Bônus de velocidade da característica "Aquático" e da habilidade Natação agora também se aplicam enquanto em tiles de água.
+* Removidos requisitos de habilidade para aprender a característica "Crente Modelo".
+* O estado "Forma de Morcego" não pode mais ser dissipado por "Quebra Sagrada" enquanto o tempo de recarga permanecer.
+* Ao jogar como a raça "Semideus", possuir múltiplos artefatos do mesmo favor divino agora os destrói como de costume. Ao possuir múltiplos artefatos Eterizados de diferentes favores divinos, a Eterização é removida sem destruir os artefatos.
+* Adicionadas cabeças à raça "Cavalo". Cavalos sem cabeça crescerão cabeças ao carregar o jogo.
+* Adicionada a habilidade Levantamento de Peso à raça "Bicicleta". Filhotes ganham uma habilidade adicional de Levantamento de Peso.
+* NPCs "Unicórnio" agora são sempre hostis em relação a Súcubos.
+* NPCs "Unicórnio" não atacarão Súcubos com o encantamento "Castidade".
+* Quando um NPC "Unicórnio" tem um encantamento "Castidade" negativo, ele atacará todas as criaturas.
+* Adicionadas Poções de Mímico ao inventário da loja do NPC "Rodwyn".
+* Alterada a magia "Funnel" dos NPCs "Kiria" e "Mirage" para "Bit".
+* Ajustado o comportamento do NPC "Lich" e substituídos seus gráficos.
+* Ajustado o poder do item "Pergaminho de Reconstrução".
+* Atualizados os gráficos de neve.
+* Atualizada a localização em Chinês.
+
+[Interface]
+* Removido "Ordenar" das configurações de mochila do PC (redundante devido ao Auto-Coleta).
+* Melhorada a exibição de capacidade ao atribuir camas manualmente.
+* Melhorada a exibição de peso nas dicas de ferramentas de itens. Itens abaixo de 1s agora mostram valores decimais completos sem arredondamento.
+* Ajustado o limite de início de arrastar da interface para itens.
+* Melhorado o comportamento de exibição do ícone de Bloco Falso.
+* Ao possuir a característica "Crepúsculo Sagrado", valores de bônus agora são mostrados nas dicas de ferramentas de atributos principais na ficha do personagem.
+
+[Relacionado a Mods]
+* Integrado o Mod_FixedPackageLoader ao jogo base. Obrigado DK!
+* A ordem de carregamento de Mods agora pode ser alterada via arrastar e soltar no Visualizador de Mods. Obrigado DK!
+* Corrigidos erros ao carregar livros de magias com IDs de magia inexistentes.
+* Zonas definidas como Nulas devido à desinstalação de mods agora são removidas da lista de zonas ao carregar.
+* Doenças de Éter inexistentes deixadas no histórico devido à desinstalação de mods agora são removidas.
+
+[Correções]
+* Corrigidos problemas de estouro durante a leitura.
+* Corrigido sementes às vezes gerando com qualidade diferente no mesmo nível de aprimoramento.
+* Corrigido cachoeiras e efeitos similares não renderizando no modo de exibição sem telhado.
+* Corrigido desalinhamento de destaque ao colocar Blocos Falsos.
+* Ajustado e corrigido o comportamento ao segurar múltiplos itens de favor divino enquanto joga como a raça "Semideus".
+* Corrigida a progressão de tempo no jogo mais rápida ao se mover estritamente para os lados.
+* Corrigida a característica "Corpo de Mana" não aplicando redução de custo de mana ao exceder o nível 5.
+* Outras correções e ajustes menores.
+
+[Notas]
+* Feliz Ano Novo! Obrigado pelo seu apoio contínuo este ano.
+* Como atualizações recentes fizeram com que o movimento no estado "Contido" não consumisse mais turnos, esperar no lugar agora é necessário para limpar o estado pela passagem de turnos.
+* Para companheiros com a característica "Corpo de Mana", a barra de HP exibe HP e MP combinados. Mesmo com HP completo, MP baixo manterá a barra visível.
+* A característica "Peaky" pode receber ajustes adicionais.
+
 ■ 24/12/2025 EA 23.252 Patch Estável 2
 (Traduzido por ChatGPT)
 [Correções]
