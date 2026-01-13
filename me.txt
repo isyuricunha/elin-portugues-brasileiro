@@ -1,1 +1,3 @@
 G:\SteamLibrary\steamapps\common\Elin\Package\_Elona\Lang
+
+G:\SteamLibrary\steamapps\common\Elin\Package\_Lang_Chinese\Lang\CN
