@@ -1,0 +1,10 @@
+Bem-vindo,Um aventureiro estranho
+{center}
+Bem-vindo, aventureiro, ao mundo de Ylva!
+
+A opção "Ajuda" pode ser acessada pelo menu do sistema ou pressionando a tecla "?" a qualquer momento.
+
+Nosso mundo está em turbulência, e as cicatrizes da guerra ainda permanecem sombrias na terra onde você inicia sua jornada.
+A vida de um aventureiro é difícil, mas ao longo do caminho, você encontrará várias pessoas dispostas a guiá-lo.
+
+Que o vento misericordioso esteja sempre com você.

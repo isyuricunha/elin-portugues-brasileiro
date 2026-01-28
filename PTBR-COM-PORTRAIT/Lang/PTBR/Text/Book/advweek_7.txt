@@ -1,0 +1,42 @@
+Semanário do Aventureiro – Edição 7 《Simbiose》, Repórter Especial Célia em Yoen,10,1
+
+<i>Bem-vindo à leitura do 『Semanário do Aventureiro』. Toda semana trazemos para vocês tópicos de tirar o fôlego!
+
+Dando continuidade ao assunto da semana passada, a repórter especial Célia volta a consultar o mestre de estábulo Paris sobre o tema intimamente ligado à montaria: a 「Simbiose」！</i>
+
+<color=brown>Célia: Mais uma vez, conto com a sua ajuda, senhor mestre de estábulo.</color>
+
+Paris: Ora, não há de quê, senhorita repórter. (sorri) Afinal, de certa forma também é uma propaganda gratuita para os negócios da nossa vila.
+{p}
+<color=brown>Célia: Sem mais demora, poderia continuar o assunto da última vez e me ensinar sobre a Simbiose? Que benefícios essa habilidade traz aos aventureiros?</color>
+
+Paris: A Simbiose é semelhante à montaria. Simplificando, é como 「deixar que o mascote monte em você」 — o oposto de você montar no mascote.
+
+<color=brown>Célia: Uau! Então isso significa que o mascote pode agir com a mesma velocidade que eu?</color>
+
+Paris: Infelizmente, não exatamente. Um mascote em Simbiose age com a média entre a própria velocidade e a sua. Diferente da montaria, não há ganho extra de velocidade.
+{p}
+<color=brown>Célia: Já que estamos falando de 「montaria」, é possível usar montaria e Simbiose ao mesmo tempo?</color>
+
+Paris: Sim, sim, é possível. Os três compartilham o mesmo espaço. Um ataque contra você também atinge tanto a montaria quanto o companheiro em Simbiose, e o contrário também é verdadeiro. Além disso, a Simbiose compartilha muitas vantagens da montaria: o mascote em Simbiose, mesmo gravemente ferido, apenas desmaia em vez de morrer; e magias que afetam montarias também se aplicam ao parceiro em Simbiose.
+
+Mas há desvantagens: a taxa de acerto e a conjuração ficam prejudicadas, dependendo do nível da sua habilidade de Simbiose. E se você usar montaria e Simbiose juntos, sofrerá os efeitos negativos de ambos ao mesmo tempo.
+{p}
+<color=brown>Célia: Então quais são as principais diferenças entre montaria e Simbiose?</color>
+
+Paris: Bem… mascotes em Simbiose atacam com mais frequência, por isso é melhor escolher mascotes de alto poder ofensivo. Ao contrário da montaria, um parceiro em Simbiose pode atacar mesmo enquanto você se move — não é preciso se preocupar tanto com a velocidade dele, o que é uma vantagem.
+
+<color=brown>Célia: Entendi.</color>
+
+Paris: Outro ponto é que mascotes em Simbiose não podem se mover sozinhos. Por isso, é melhor escolher mascotes com ataques à distância. Isso dá uma vantagem enorme quando você quer manter distância do inimigo durante o combate.
+{p}
+<color=brown>Célia: Por fim, poderia recomendar algum mascote ideal para a Simbiose?</color>
+
+Paris: Hm, não existe uma opção tão simples e direta como os cavalos de Yoen para montaria… mas as Gatas-Meninas são uma boa escolha. Elas são rápidas e fortes, mas com pouca resistência — não servem bem como montaria, mas são perfeitas para Simbiose. O problema é que são raras de encontrar. Antigamente até vendíamos algumas em Yoen… mas, bem, certas circunstâncias mudaram isso.
+
+<color=brown>Célia: Entendi. Então, se conseguirmos combinar bem a montaria com a Simbiose, as aventuras ficarão muito mais fáceis. Muito obrigada pelos conselhos valiosos de hoje.</color>
+
+Paris: Eu que agradeço, senhorita repórter.
+
+{p}
+<i>- Na próxima edição, revelaremos aos aventureiros os segredos de como 「gerenciar uma loja」！</i>

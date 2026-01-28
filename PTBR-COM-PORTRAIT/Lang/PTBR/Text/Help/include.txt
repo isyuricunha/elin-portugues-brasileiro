@@ -1,0 +1,16 @@
+$topic_credit
+{topic,Desenvolvedores Lafrontier}
+$topic_credit_resource
+{topic,Copyright and Creator Information}
+Este jogo utiliza uma variedade de recursos gratuitos. Gostaríamos de expressar nossa gratidão a todos os criadores desses materiais. As imagens foram adaptadas para se adequar ao jogo, inclusive redimensionadas. Além disso, alteramos o volume e o tom dos efeitos sonoros na obra.
+
+{topic,Tradução Português Brasileiro}
+Yuri Cunha (@isyuricunha)
+
+{topic,Recursos Elona}
+$topic_credit_backer
+{topic,Wish Credits}
+Estas são as funcionalidades implementadas através dos 'desejos' dos apoiadores de Elin, juntamente com uma lista de seus nomes. Gostaríamos de expressar nossa gratidão a todos por aprimorarem o jogo com seus desejos.
+$topic_credit_news
+{topic,Palmia Times Credits}
+Estes são os nomes dos apoiadores que contribuíram para enriquecer o Palmia Times. Também gostaríamos de expressar nossa gratidão a todos aqui.

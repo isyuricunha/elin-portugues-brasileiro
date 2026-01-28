@@ -1,0 +1,58 @@
+Semanário do Aventureiro #15: Estilos de Equipamento,Sargento Kzar,10,1
+
+<i>Bem-vindo ao Semanário do Aventureiro, onde cobrimos tópicos próximos e queridos aos seus corações corajosos.</i>
+
+
+E aí, garotada. Hans me pediu para aconselhar vocês jovens aventureiros sobre como se equipar. Não é apenas sobre o que você tem, mas também como você usa, que determina seu destino em batalha.
+
+Agora, há muita flexibilidade no manuseio de equipamento. Você pode usar uma espada curta com duas mãos, ou empunhar martelos duplos — não é geralmente ideal, mas você pode se insistir. Quem sou eu para te impedir?
+
+Então, vamos começar.
+
+{p}
+<b>Estilos de Arma</b>
+
+O que está em suas mãos determina seu estilo de arma, em ordem de prioridade: empunhadura dupla, escudo e duas mãos. Por exemplo, se seu equipamento se qualifica tanto para empunhadura dupla quanto para estilo de escudo, o primeiro tem prioridade.
+
+Mãos nuas não têm estilo de arma; armas marciais são necessárias para usar estilos de arma com artes marciais.
+{p}
+<b>Duas Mãos</b>
+
+O primeiro estilo que ensinamos aos recrutas, duas mãos é quando todas as mãos exceto uma estão vazias. Por acaso você é uma forma do caos com apenas uma mão? Equipar qualquer arma serve. Três ou mais mãos? Apenas uma pode estar preenchida.
+
+O estilo duas mãos confere grandes bônus de precisão e multiplicador em troca de ter apenas uma mão preenchida. É um bom estilo de arma para novatos que não acertam nada, ou para o veterano que só se importa com sua arma favorita. O bônus de precisão compensa penalidades de armas grandes e pesadas como martelos, tornando-as muito mais confiáveis.
+
+Aqueles habilidosos em duas mãos podem fortalecer encantamentos de arma em até 50%; definitivamente um estilo para o tipo de aventureiro que dá nome à sua lâmina.
+{p}
+<b>Escudo</b>
+
+Um estilo defensivo conferido ao equipar um escudo. Aqueles habilidosos em escudos recebem 10% menos dano físico e podem realizar golpes de escudo que causam dano, atordoam e ofuscam inimigos, ao custo de penalidades de precisão e conjuração de feitiços. Note que equipar múltiplos escudos não permite mais golpes.
+
+Devido à sua natureza defensiva, o estilo escudo é melhor usado por aqueles que seguram a linha de frente, enquanto aliados atacam pela retaguarda.
+
+{p}
+<b>Empunhadura Dupla</b>
+
+Um estilo concedido ao empunhar múltiplas armas. Supostamente o estilo característico de um lendário mestre espadachim elean — e responsável pelas mortes de muitos aventureiros novatos tentando imitá-lo. Concede múltiplos ataques ao custo de penalidades de precisão que aumentam com cada arma adicional. Habilidade maior diminui mas não remove essas.
+
+Evite este estilo a menos que saiba o que está fazendo. Garotos sempre esquecem que o mestre espadachim elean nunca lutou lealmente — escolhendo monstros desajeitados péssimos em esquivar, cegando e ofuscando seus inimigos, empunhando espadas curtas leves e precisas, esse tipo de coisa. Aquele homem era esperto; os garotos copiando-o, menos ainda.
+
+{p}
+<b>Estilos de Armadura</b>
+
+Com o ataque coberto, vamos para os estilos defensivos: armadura leve e pesada. A primeira é abaixo de 30s, a última acima; não há peças individuais de armadura leve ou pesada, apenas o peso total do equipamento importa.
+
+Armadura leve é enraizada em destreza, com equipamento enfatizando DV; armadura pesada é enraizada em resistência, com equipamento enfatizando PV. Embora não haja restrições estritas, uma divisão geral entre evasão e absorção é clara.
+
+Talvez a coisa mais importante é que armadura pesada atrapalha conjuração de feitiços, diminuindo e limitando chance de conjuração, o que requer treinamento especial para superar.
+
+{p}
+<b>Conclusão</b>
+
+Idealmente, deve-se tornar proficiente em tudo — há todos os tipos de inimigos no mundo, e dependência excessiva de um estilo é pedir por problemas. Um bom soldado deve manter várias armas ou até conjuntos de equipamento para diferentes situações, assim como um mago conhece uma variedade de feitiços.
+
+Falando praticamente, porém, a capacidade de aprendizado e capacidade de carga são limitadas, e então muitos escolhem confiar em aliados para cobrir fraquezas, ou empregar ferramentas como poções e varinhas para amolecer alvos difíceis. Sinta-se livre para usar estilos de equipamento que você gosta… mas sempre tenha um plano reserva.
+
+***
+
+<i>- Na edição da próxima semana, o Sargento Kzar retorna para explicar armas de longo alcance!</i>
