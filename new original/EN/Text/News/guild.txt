@@ -1,0 +1,35 @@
+"We're not babysitters for Yeeks."
+Adventurers from Kapul, fed up with the monster extermination jobs, have commenced a public strike today. The issue stems from the Fighters Guild constantly burdening them with the task of Yeek extermination.
+@city,UN_guild_doorman_fighter,UN_guild_master_fighter
+
+Art Heist in Lumiest Attributed to Thieves' Guild
+Valued artworks have gone missing from a local museum in Lumiest, leaving the city's residents in despair. The theft, suspected to be the handiwork of the Thieves' Guild, has prompted intensive investigations from the Palmia Public Security Bureau.
+@room,UN_guild_doorman_thief,UN_conery
+
+Mages Guild Announces New Curse Spell
+The Mages Guild announced a new "powerful curse spell". However, no effects were observed at the press conference. The mage's remark that "the curse will undoubtedly befall later" has incensed the attending journalists.
+@labo,UN_renton
+
+Heartwarming Blood Drive by Adventurers
+A blood donation campaign was hosted by the Adventurers Guild under the chilly skies of Noyel. Participants compassionately donated their blood for patients in need. Snow putits, wrapped in scarves, cheered on the participants.
+@snow
+
+Mystical Ruins: Traces of the Eternal Witch?
+The Mages Guild has uncovered traces of the "Eternal Witch" in ancient ruins, believed to be the site for casting cosmic magic spells, especially "Meteor". Fragments of star-patterned gear found at the site excite scholars as evidence of her existence.
+@ruin
+
+Ancient Documents Reveal Secrets of the Eternal Witch
+Newly translated ancient texts shed light on the Eternal Witch, described with pure white hair and rubinus eyes, continuing her journey unaged through the ages, providing inspiration to modern adventurers.
+@labo,UN_renton
+
+Divine Wisdom: Rapid Reading, Restless Nights
+A warmage has gained the ability to read 100 books in one night with Divine Wisdom spell. However, as a side effect, the warmage can no longer sleep at night, resorting to counting sheep as a newfound hobby.
+@city
+
+Magician's Invisibility Spell Goes Awry
+A magician invited for entertainment at the Palmian court caused a massive search after casting an invisibility spell on King Zane's pet, making it disappear The magician now believes making just the collar invisible would have been wiser.
+@royal,UN_zane
+
+The Wise Cat: A Feline's Quest for Knowledge
+After being enchanted with a "Divine Wisdom" spell by its owner, a cat became excessively intelligent and left home. It has been seen engrossed in philosophy books at the local library.
+@room

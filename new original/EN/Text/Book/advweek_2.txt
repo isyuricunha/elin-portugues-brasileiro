@@ -1,0 +1,59 @@
+Adventurer's Weekly #2: Unlocking Your Potential,Head Editor Hans,10,1
+
+<i>Welcome to Adventurer's Weekly, where we cover topics near and dear to your brave hearts.</i>
+
+
+This issue introduces the concept of potential, and how it affects you.
+
+Have you ever felt you're progressing slowly in a skill or attribute regardless of how much you practice? That's likely because of neglected potential.
+
+Simply put, potential is how quickly one improves; an adventurer with 200 potential advances twice as quickly as one with 100. This means half the time and effort!
+{p}
+<b>Types of Potential</b>
+
+Both skills and attributes have two forms of potential: base and temporary.
+
+Base potential is your innate talent for something, and only changes under special circumstances.
+
+Temporary potential is on top of that; whenever you advance in something, its temporary potential decreases. You can have negative temporary potential if you, say, eat food with a potential malus.
+
+The sum of base and temporary potentials determines how quickly you advance skills and attributes.
+{p}
+<b>Managing Potential</b>
+
+Gain skill potential by visiting trainers and paying platinum coins; each session increases a chosen skill's temporary potential by small amount. Eating food with the relevant traits will grant temporary attribute potential.
+
+Your allies have potential, too: giving them orens to spend on training when in towns will increase their skill potentials, and they also gain attribute potential from food.
+
+Knowing all this, how do people mismanage their potential?
+
+{p}
+Maintaining potential is split between two opposing needs: on one hand, high potential means faster progress. On the other, training steadily becomes more expensive with more temporary potential, and more of it is lost on skill up.
+
+Similarly, the more attribute potential one already has, the harder it is to obtain. Therefore, one has to balance one's progress with gaining potential.
+
+
+<b>How and What to Train</b>
+
+After several interviews of adventurers, the general consensus is that:
+
+*Combat skills should be trained. Even wizards benefit from defensive skills.
+{p}
+*Skills that require additional resources, like crafting skills, should be trained. Conversely, skills that can be easily practiced, like music, should not be trained.
+
+*Skills that have limited benefits, like appraisal, should not be trained after that threshold.
+
+*A good benchmark for balanced skill potential is about 200%.
+
+These are only guidelines, so consider your individual situation and spend your platinum coins wisely.
+
+{p}
+<b>Afterword</b>
+
+As training costs increase, adventurers should seek not just more platinum income, but to also better use their potential. Since potential drops when skills increase, it's best to train immediately afterwards to make the most of it.
+
+Through careful management of potential, clever adventurers can optimize their progression instead of hitting bottlenecks in their development.
+
+***
+
+<i>- In next week's issue, we'll be reporting on luck: just what it means to be lucky, and how that can benefit adventurers like you.</i>

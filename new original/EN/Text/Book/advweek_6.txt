@@ -1,0 +1,47 @@
+Adventurer's Weekly #6: Riding,Yowyn Correspondent Celia,10,1
+
+<i>Welcome to Adventurer's Weekly, where we cover topics near and dear to your brave hearts.</i>
+
+
+In this issue, I'm reporting from one of the few horse auctions Yowyn has every year! In particular, I'm interviewing Stablemaster Varis, who's been raising famous yowyn horses for twenty years now, on just why they're so sought-after!
+{p}
+<color=brown>Celia: Thank you, Stablemaster. There're a lot of people here today!</color>
+
+Varis: You're welcome, miss. Well, the crown has claim on most yowyn horses, and the nobility has its pick after that. We don't have enough beasts that the public can often enjoy the benefits of riding a good horse, so any auction draws in plenty of adventurers.
+
+
+<color=brown>Celia: Can you tell us some of these benefits?</color>
+
+Varis: Hmm. Obviously, you get to move faster — up to your mount's speed. Also, attacks aimed at you will sometimes hit your mount instead. If you're riding a creature that flies, you'll fly along with it.
+{p}
+Varis: Most importantly, it keeps your mount alive: if your ride falls in battle, it'll merely be knocked out for a while. You won't get the riding benefits, but at least you won't be short an ally.
+
+
+<color=brown>Celia: And any adventurer knows the value of speed in combat.</color>
+
+Varis: (Laughs) Indeed, miss. Now, riding a mount that's slower than you will hinder you — happily, yowyn horses are the speediest in all of Tyris, so even a fairy can benefit.
+{p}
+Varis: Now, you can't just hop on and ride to Palmia in a day: you need riding skill to control your mount, and the beast needs enough strength to carry you. The speedier your ride, the more of both is needed. There are creatures like our yowyn horses that're bred to make riding easy, which reduces the requirements; conversely, there're beasts that make really bad mounts and shouldn't be ridden under any circumstances.
+
+
+<color=brown>Celia: That sounds really complicated! I know I'd be all sore if I had to ride to Palmia this very moment!</color>
+
+Varis: Getting skilled at riding takes time, but you've got to get on horseback and tough it out. At first you'll be all over the place, missing your attacks and miscasting your spells, but these penalties will gradually fade as the both of you learn to work together. Indeed, a mounted adventurer can be quite formidable, mount and rider fighting alongside each other.
+{p}
+<color=brown>Celia: Wow! A ridden creature can fight too?</color>
+
+Varis: Yes, a mount does fight as long as you're standing still; if you move, it uses its turn to follow. Of course, it's subject to the same offensive penalties that you are, but the both of you will slowly overcome them with experience.
+
+Another thing of note is how magic works on mounts: spells with "also applies to ride" can benefit your mount without needing to be cast as a group spell. The downside is that arrow spells will hit both of you at once, dealing double the damage.
+{p}
+<color=brown>Celia: If mounts are to fight, then they should be equipped — how would you outfit your horses, Stablemaster?</color>
+
+Varis: Hmm. Speed comes first, so I'd make sure your mount is blessed by Lulwy. After that, I'd look to equipping it with speed rings if possible — these are expensive, but worth the investment. I've heard that there are unscrupulous adventurers who give their mounts mutations of all kinds to make them even speedier, but… I'd really rather not think too deeply about it.
+{p}
+<color=brown>Celia: I see. All this has been a lot to take in, Mr. Varis, but it does shed light on why riding is so important to a growing number of adventurers. It looks like the auction's about to begin, so I'll end the interview here.</color>
+
+Varis: A pleasure, miss.
+
+***
+
+<i>- In next week's issue, we'll be returning for a follow-up interview with Yowyn's stablemaster about symbiosis, a topic closely related to riding!</i>

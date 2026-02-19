@@ -1,0 +1,43 @@
+Adventurer's Weekly #7: Symbiosis,Yowyn Correspondent Celia,10,1
+
+<i>Welcome to Adventurer's Weekly, where we cover topics near and dear to your brave hearts.</i>
+
+
+Last week, we asked Stablemaster Varis to introduce us to riding, and today we're pursuing a closely related topic: symbiosis.
+
+<color=brown>Celia: Thanks for having us again, Stablemaster.</color>
+
+Varis: Very much welcome, miss. (Laughs) You're doing free advertising for the local businesses, after all.
+{p}
+<color=brown>Celia: Well then! Following up on last week's interview, what can you tell us about symbiosis, and how can it help adventurers?</color>
+
+Varis: Symbiosis is similar to riding — you can think of it as your pet riding you, instead of you riding your pet.
+
+<color=brown>Celia: Wow! So does that mean your pet gets to move as quickly as you do, too?</color>
+
+Varis: Unfortunately not. A pet hosted on you keeps its own speed. However, it does receive a portion of all speed modifiers you have, good or bad; spells, equipment, that sort of thing. Not the bonus you get from mounts, though.
+
+{p}
+<color=brown>Celia: You just said "mounts". Does this mean you can ride and symbiose at the same time? </color>
+
+Varis: Yes! The three of you can occupy the same space. An attack aimed at you has a chance of hitting your mount or symbiote, and the same is true if your hosted ally is targeted. Many of riding's benefits are shared with symbiosis — being knocked out instead of dying, ride spells affecting all of you, that sort of thing. Similar penalties to accuracy and casting spells also apply when you symbiose, only governed by its own skill. If you're riding and hosting, both sets of penalties apply, so be careful!
+{p}
+<color=brown>Celia: With the skills being so similar, maybe it's better to focus on the differences instead.</color>
+
+Varis: Well, symbiotes are more aggressive — hosting a powerful yet frail pet is a good idea. Unlike riding, it can continue acting even while you're moving, and you don't have to worry about speed differences since it isn't limited by you.
+
+<color=brown>Celia: I see.</color>
+
+Varis: Since a symbiote can't move on its own, giving it some kind of ranged attack is also a good idea in case you want to keep your distance from enemies.
+{p}
+<color=brown>Celia. All this has been very helpful, Stablemaster. One last thing: can you suggest some pets that would make good symbiotes?</color>
+
+Varis: Hmm. We don't have any obvious yet easy choices like yowyn horses… maybe a cat sister. They're pretty fast and strong, but are bad for riding and can't endure much punishment. I'd say they're a good example of what symbiosis is designed for, even if they're a little hard to acquire. We used to sell them in Yowyn, but then… well, it's complicated.
+{p}
+<color=brown>Celia: We can all understand. Well, thank you for another informative interview, Stablemaster — with clever use of riding and symbiosis together, I'm sure our adventurers will be finding it easier to manage their allies.</color>
+
+Varis: The pleasure's all mine, miss.
+
+***
+
+<i>- In next week's issue, we'll be teaching you adventurers how to manage your own business!</i>

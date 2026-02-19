@@ -1,0 +1,51 @@
+Adventurer's Weekly #17: Thievery,Mistress Persephone,10,1
+
+<i>Welcome to Adventurer's Weekly, where I write to you sweeties from my country estate.</i>
+
+
+While I'm wealthy enough to be a lady of leisure for my remaining years, retirement does get boring and Hans' proposal was… interesting. He's been a good friend, so I'll teach you dears some tips from my younger days.
+
+You do promise to use this knowledge lawfully, yes?
+{p}
+<b>Pickpocket</b>
+
+Simply put, theft. Pilfering a dragon's hoard is fundamentally no different from picking an orc's pockets.
+
+First, you need sufficient strength and skill. One point of strength is worth 0.1s, while pickpocket skill is worth 0.2s. So long as these combined exceed the item's weight, it'll do.
+
+Next, you need to avoid notice by anyone who might object to your little larceny. So long as no one can see you, you're fine, you don't have to worry about — ahem — "making a loud noise". Being invisible helps, but won't guarantee success. Blinding, confusing, sleeping or paralyzing witnesses <b>will</b>, but then you have other problems.
+{p}
+Of course, you could always kill everyone or zap them away with a teleport rod, but that's so very much Hans. Ew.
+
+Now, you darlings would never do horrid things like shoplift or burgle homes, right?
+
+Start with light, unguarded objects, and work your way up. When you're as good as I am, you'll be stealing weapons out of your enemies' hands and armor off their backs while dodging blows. Trust me, your wizard friends will thank you for getting rid of that anti-magic ring.
+
+{p}
+<b>Lockpicking</b>
+
+Unless you don't mind paying an informer's exorbitant fees, you'll want this skill to open the locked chests you find in nefias. To begin with, you'll need lockpicks: without any, you can only unlock chests rated up to half your skill. With them, that becomes your skill+10 — much better, hmm?
+
+General stores can sell lockpicks, but the Thieves' Guild always stocks them for members. Back in the day, I'd sneak in and buy some from the vending machines…
+
+One big hump you dears have with lockpicking is getting started. Some swear by practice chests, but that's way too slow for me. Gamble chests will give a little experience, but they're not cost-effective.
+{p}
+What I did was scour junk dealers for elaborately locked chests: informers can't open those, and they're very good practice. Once you get the ball rolling, you'll never need to touch a practice chest, thank the gods. Elaborately locked chests can have pretty good stuff in them too, so you get more than just experience.
+
+Word of advice: you can never have too much skill, so having a set of lockpicking gear you can don before sorting out your nefia hauls is a good idea for novices and experts alike.
+{p}
+<b>Stealth</b>
+
+Hans never liked sneaking around nefias, but even he had to admit being able to pick your fights is helpful. Moving stealthily depends on your skill versus the perception and spot hidden of nearby enemies: the closer you are to someone, the harder it is to stay hidden, and enemies already in combat are more alert to being snuck up on.
+
+Stealth is an endeavor best undertaken alone; it only takes one idiot to get you all discovered. If you must sneak as a group, everyone's stealth is individually tested, so there must be no weak links. When done well, you can slip through a nefia and work your way to points of interest without being bothered by its inhabitants.
+{p}
+<b>Conclusion</b>
+
+It's amazing how so many skills associated with criminality are useful to perfectly upright adventurers, isn't it? People despise us, but look the other way when our services are needed… oh well. I'm a respectable lady now, and I'm certain none of you sweeties are going to get up to no good with what you learned today.
+
+Until next time, then.
+
+***
+
+<i>- In our next issue, we'll be taking a look at how to form effective adventuring parties!</i>

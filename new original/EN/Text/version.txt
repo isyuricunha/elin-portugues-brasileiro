@@ -1,0 +1,93 @@
+{if,cn}
+{topic, 欢迎游玩Elin！}
+欢迎游玩Elin，并且十分感谢您参与抢先体验(EA)！我会重视每位玩家的意见，并用于改善游戏内容体验。
+{endif}
+{if,!cn}
+{topic, Welcome to Elin!}
+Welcome to Elin, and thank you for participating in the Early Access(EA)! We plan to gather as many player feedback as possible and reflect it in the game.
+{endif}
+{link,Discord - Elin Community、Questions、General Discussion,https://discord.gg/elona}
+{link,Ylvapedia - Elin Wiki、Walkthrough、Update Log,https://ylvapedia.wiki/wiki/Main_Page}
+{link,Dev Room(Official) - Elin Links、Troubleshooting、and Mod information,http://ylvania.org/elin_dev_e.html}
+
+{topic, Elin Update Information}
+■ 2/6 2026 EA 23.267 Stable Patch 1
+
+[Fixes]
+* Fixed errors that occurred when loading some mods.
+
+■ 2/6 2026 EA 23.267 Stable
+
+After updating the stable version, Mods from previous versions may stop working or behave strangely. If you notice unusual behavior, please try disabling Mods and test again.
+
+[New Content]
+* (Backer Wish) Added the magic “Telekinesis”.
+* Updated the in-game art gallery.
+* Added winter outfit for Verna.
+* Added winter outfit for Mesherada.
+* Added winter outfit for Kiria.
+* Added winter outfit for Younger Snow Leopard Sister.
+* Added a portrait for Duponne.
+* Added the feat “Beheading Instinct”. Granted to Vorpal Bunny, Murder Ball, Ancient Mantis Shrimp and others.
+* Added the feat “Mimic Ecology”. Granted to Mimics.
+* Added the status “Mental Wall”. Applied when being blown away by Telekinesis (to prevent lockups).
+* Added furniture “1-Man”. Also added as a casino prize.
+* Added furniture “Toilet”.
+* Added 13 types of furniture “Giant Statue”.
+* Added 20 types of furniture “Plamo”.
+* Added 27 types of furniture “Bird”. Adjusted positions of some existing graphics.
+* Added 2 types of stone floors.
+* Added 3 monster types.
+* Added 1 rare monster type.
+
+[Additions and Changes]
+* Pets that are being ridden or parasitized can no longer be butchered. Also, the butcher dialog now displays the target’s name (to prevent accidental butchering).
+* Companions fishing together will no longer pick up items other than fish if they are too heavy.
+* When using the Gun Barrel Processor or Grindstone, companions’ inventories can now also be selected.
+* Adjusted font sizes and layout in the character sheet so text does not overlap even when main attributes are extremely high.
+* Items held by residents or companions can now also be marked as “Important”. Items marked as Important will not be discarded or placed into shared containers automatically.
+* When an adventurer surrenders during a sparring match, they will no longer be attacked further.
+* Failed cookie cooking now produces “Annoying Cookies”.
+* When switching equipment sets, equipment placed in the hotbar will be excluded from equipment switching.
+* Adjusted priority of secondary sorting by item name. During sorting, items such as Weekly Adventurers will now be ordered starting from the lowest issue number.
+* Status icon positions and speech bubble positions are now adjusted per character. Also adjusted status icon positions for Triceratops, Mechanical Shark, and others.
+* The in-game art gallery is now loaded from an external folder (since embedding it increased the game size too much). Thumbnail images are now generated automatically.
+* Added jpeg format support for loading external images used by Mods and similar content.
+* When affected by status ailments, blessings, curses, etc., the tooltip shown on mouse-over of the icon will now clearly display the category of that status.
+* When companions being ridden or parasitized enter forced death processing due to non-standard damage (self-destruction, hatching, etc.), they will now have their HP reduced to 0 and become unconscious.
+* Adjusted the activation conditions for Beheading. Against bosses and uniques, the HP threshold for activation is now lower.
+* Enhanced the effect of the magic “Flare”.
+* Adjusted bonuses of the “Mimic” status. Mimic will now be deactivated when hit by thrown items or whipped with an Egg Whip.
+* When entering the “Mimic” status, if there are items marked as “Important” in the inventory, those items will be prioritized for mimicking.
+* Companions in the “Mimic” status can now be targeted and interacted with as usual.
+* Adjusted the spawn rate of NPC “Mimic” (reduced).
+* Adjusted the “Beast of Possibility” feat on NPC “Demilich” from -2 to -1.
+* Adjusted the speed bonus of NPC “Starfish” from -100 to -70.
+* Adjusted NPCs “Giant Fish”, “Electric Eel”, “Shark”, “Mechanical Shark”, and “Younger Sister Shark”, mainly increasing HP for large fish-type NPCs (they were weaker than they looked).
+* Added the non-rotting trait to furniture “(Plamo) Bird”.
+* Changed the initial material of furniture “Lulwy Statue” to marble. Also internally added the Ehekatl Statue and refined the Jure Statue.
+* Replaced the graphic for furniture “Wedding Cake”.
+* Updated the Chinese translation.
+
+[Death Sentence Related]
+* Messengers of Death and Reapers will now follow the player when moving into a tent.
+* Praying to a god will now remove Death Sentence.
+* Death Sentence will now be removed when leaving the current map or destroying the declarer.
+* When the target is a powerful enemy, Death Sentence will no longer cause instant death, but instead deal damage based on a percentage of max HP.
+* When affected by Death Sentence, auto-combat will now be interrupted when the remaining turns reach 3 or less.
+* Some forced death processes will now kill ridden or parasitic pets as well (currently only applies to Death Sentence).
+* Euthanasia via Heavenly Injection and Death Sentence are now processed as separate effects.
+* Added animated effects to Death Sentence.
+
+[Fixes]
+* Fixed an issue where the translation "Game" folder was not automatically generated when creating a translation Mod.
+* Fixed an issue where non-sellable items could appear among books loaned by NPC “Seeker”.
+* Adjusted the graphic of the female Black Knight (it was not black).
+* Fixed a bug related to monster level on summon.
+* Fixed an issue where underwater speed penalties were applied while walking on frozen water.
+* Fixed an overflow issue related to magic enhancement enchantments.
+* Other minor fixes and adjustments.
+
+[Notes]
+* Background image display for the side screen widget has been removed due to the recent externalization of the in-game art gallery files.
+* This update focuses mainly on item and content additions.

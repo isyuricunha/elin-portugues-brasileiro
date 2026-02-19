@@ -1,0 +1,43 @@
+Adventurer's Weekly #11: Group Spellcasting,Lumiest Correspondent Jaystar,10,1
+
+<i>Welcome to Adventurer's Weekly, where we cover topics near and dear to your brave hearts.</i>
+
+
+This week, we're at the Mages' Guild to learn how spells affect one's allies. As adventurers usually form parties to explore nefia, one has to work as part of a team, and magic is no exception.
+
+{p}
+<b>Control Magic</b>
+
+When it comes to offensive magic, you don't want to hit your friends with your bolts and balls. This is where control magic skill comes in: it prevents your area of effect spells from damaging allies. With enough control magic, you can cast powerful spells like earthquake without hurting your friends.
+
+Casters with magic precision feat avoid hitting their allies with magic most of the time, but also have their control magic count as double. It's a fine feat to have if you like big explosions! Similar to control magic, any allies you have also benefit from magic precision so long as you have it.
+{p}
+A common misconception amongst adventurers is that having the "magic manners" feat will prevent spells hitting allies. That's not true — it prevents items from accidentally being destroyed by fire or ice spells and doesn't affect ally damage.
+
+Control magic may be trained here at the Mages' Guild, although one must be a member to attend classes.
+
+
+<b>Spell Targeting</b>
+
+Offensive magic is only half the equation. Defensive magic is just as nuanced in an adventuring party — knowing how to cast what spells on who can make all the difference. Defensive and support spells come in various forms:
+{p}
+<b>Self spells.</b> These spells stem from the caster and are denoted by a blue mark on the spell's icon; selecting a specific target is not possible. An example is intonations.
+
+Note that this does not strictly mean the spell only affects the caster: spells like resurrection are self spells but affect allies; it simply means a target cannot be chosen.
+
+<b>Ally spells.</b> An ally may be the target of these spells, which are denoted by a green mark on the spell's icon. The spell may be targeted by middle-hold-clicking the icon to ready it, then right-clicking the target.
+
+Ally spells may also be <color=green>group-cast by right-hold-clicking the spell icon</color>. Doing this casts the spell on all valid targets and consumes as many stocks and MP as necessary, but only takes a single action.
+
+{p}
+It's useful for quickly buffing all your allies before entering a nefia, or healing your entire party at once. Note that group-cast only applies to your allies and not summons, which must be individually targeted.
+
+<b>Ride spells.</b> These spells are clearly denoted with "effect also applies to ride" in their tooltips. When cast on oneself, these spells' effects also extend to the caster's mount and parasite without any additional cost.
+
+Most of these spells are curative, but there are a few exceptions like invisibility.
+{p}
+Whether you're a fireball-slinging wizard or a priest healing from the rear, knowing how your spells work on your friends is vital.
+
+***
+
+<i>- In our next issue, we'll return to the Mages' Guild to get some hands-on experience with runesmithing!</i>

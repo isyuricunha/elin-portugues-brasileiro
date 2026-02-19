@@ -1,0 +1,58 @@
+Adventurer's Weekly #15: Equipment Styles,Sergeant Kzar,10,1
+
+<i>Welcome to Adventurer's Weekly, where we cover topics near and dear to your brave hearts.</i>
+
+
+Hey, kids. Hans asked me to advise you young adventurers on getting geared. It's not just about what you have, but also how you use it, that determines your fate in battle.
+
+Now, there's a lot of flexibility in equipment handling. You can two-hand a short sword, or dual wield hammers — it isn't usually ideal, but you can if you insist. Who am I to stop you?
+
+So, let's begin.
+
+{p}
+<b>Weapon Styles</b>
+
+What's in your hands determines your weapon style, in order of priority: dual wield, shield, and two-hand. For example, if your equipment qualifies for both dual-wield and shield styles, the former takes priority.
+
+Bare hands have no weapon style; martial weapons are necessary to use weapon styles with martial arts.
+{p}
+<b>Two Hand</b>
+
+The first style we teach recruits, two-hand is when all hands except one are empty. Happen to be a chaos shape with only one hand? Equipping any weapon will do. Three or more hands? Only one may be filled.
+
+Two hand style confers large accuracy and multiplier bonuses in exchange for only having one hand filled. It's a good weapon style for greenhorns who can't hit anything, or the veteran who only cares for his favorite weapon. The accuracy bonus offsets maluses from large, heavy weapons like hammers, making them much more reliable.
+
+Those skilled in two hand can strengthen weapon enchantments by up to 50%; definitely a style for the kind of adventurer who names his blade.
+{p}
+<b>Shield</b>
+
+A defensive style conferred by equipping a shield. Those skilled in shields receive 10% less physical damage and can perform shield bashes that damage, stun and dim foes, at the cost of accuracy and spellcasting penalties. Note that equipping multiple shields does not allow more bashes.
+
+Because of its defensive nature, shield style is best used by those holding the frontline, while allies attack from the rear.
+
+{p}
+<b>Dual Wield</b>
+
+A style granted by wielding multiple weapons. Reputedly the signature style of a legendary elean swordsmaster — and responsible for the deaths of many novice adventurers trying to mimic him. Grants multiple attacks at the cost of accuracy penalties that increase with each additional weapon. Higher skill lessens but does not remove these.
+
+Avoid this style unless you know what you're doing. Kids always forget the elean swordsmaster never fought fairly — picking on lumbering monsters lousy at dodging, blinding and dimming his foes, wielding light and accurate shortswords, that kind of thing. That man was smart; the kids copying him, less so.
+
+{p}
+<b>Armor Styles</b>
+
+With offense covered, let's move onto defensive styles: light and heavy armor. The former is under 30s, the latter above; there are no individual pieces of light or heavy armor, only total equipment weight matters.
+
+Light armor is rooted in dexterity, with gear emphasising DV; heavy armor is rooted in endurance, with gear emphasising PV. While there are no strict restrictions, a general divide between avoidance and absorption is clear.
+
+Perhaps the most important thing is that heavy armor hampers spellcasting, decreasing and capping cast chance which takes special training to overcome.
+
+{p}
+<b>Conclusion</b>
+
+Ideally, one should become proficient in everything — there're all kinds of foes in the world, and overreliance on one style is asking for trouble. A good soldier should keep several weapons or even gear sets for different situations inasmuch as a mage knows a variety of spells.
+
+Practically speaking, though, one's learning ability and carry capacity are limited, and so many choose to rely on allies to cover weaknesses, or employ tools like potions and rods to soften up hard targets. Feel free to use equipment styles you like… but always have a backup plan.
+
+***
+
+<i>- In next week's issue, Sergeant Kzar returns to explain ranged weapons!</i>

@@ -1,0 +1,41 @@
+Adventurer's Weekly #16: Ranged Weapons,Sergeant Kzar,10,1
+
+<i>Welcome to Adventurer's Weekly, where we cover topics near and dear to your brave hearts.</i>
+
+
+Hey, kids. Hans asked me to brief you young adventurers on ranged weapons — bows, crossbows, and guns. While the Palmian Special Forces are best known for gunplay, other weapons have their place, too. Guns need reloading, bows and crossbows don't; while reloading, you can act but can't fire ranged weapons.
+
+{p}
+<b>Ideal Range</b>
+
+The first thing about ranged weapons is that each has an ideal range. The more the distance between you and your target deviates from this number, the less damage you'll deal. For example, shotguns are best fired point-blank, while railguns work best at a distance. Constantly deciding between firing or repositioning can be troublesome, so many adventurers ignore ideal range, but attention to detail pays off with ranged combat.
+{p}
+<b>Ammunition</b>
+
+Ammunition — bows need arrows, crossbows quarrels, and guns bullets, rockets or energy cells depending on their type. Don't mix them up! While you need ammo to fire, your allies have their own; however, they'll use any you give them.
+
+We have recruits train crafting; hand-made ammo vastly improves combat performance. The higher one's crafting skill, the more damaging crafted ammo is, with stronger elemental effects. Material matters: rubynus ammo is accurate, adamantite damaging, while copper, onyx and such deal elemental damage and inflict statuses. Have a variety of ammo — and ideally, weapons — on hand to deal with different situations.
+
+Conserve ammo where you can: while you may not want to use ammo conservation mods, everyone can learn to use cheap ammo for exploration and save the special stuff for tough foes.
+{p}
+<b>Modifiers</b>
+
+Compared to melee, ranged weapons are far more customizable. Every ranged weapon has modification slots according to its quality — rarely up to 6 on godly weapons. Modification kits can then be installed in these slots to provide various effects such as knockback, fast reloading, or ammo conservation.
+
+You can buy modification kits from gunsmiths, or extract them from looted weapons. Dismantling weapons with a hammer will retrieve the mod kits, but safe extraction can be performed with breaking powder at a barrel processing machine.
+{p}
+<b>Canes</b>
+
+Since canes are still ranged weapons, I'm obliged to briefly cover them in this article. They use MP as ammunition, which is good for poor novice adventurers but bad for those who want to use crafted ammo for its bonuses. Canes also have access to some elements that materials don't have.
+
+Most modifiers that work on guns and bows also work on canes, albeit with some changes; for example, ammo conservation reduces the MP costs of using canes.
+{p}
+<b>Conclusion</b>
+
+Because of specialized ammunition and modification kits, ranged weapons benefit in a direct manner from crafting proficiency. Any archer or gunner adventurer ought to manage one's logistics and have materials on hand for his needs; I would not suggest seriously taking up ranged weapons until a steady supply can be established, but the rewards are worth it.
+
+As with melee, having a variety of equipment on hand gives one the flexibility to deal with different situations. Ranged weapons don't have weapon styles, so switching between them is a lot easier.
+
+***
+
+<i>- In our next issue, we'll be looking at some uh, <b>lawful</b> uses of thieves' skills.</i>

@@ -1,0 +1,59 @@
+Introduction to Magic
+
+(A set of students' notes by the Mages' Guild)
+
+All right, class. The guild master tells me you kids are hands-on students, so I've prepared this introductory lesson for you. No boring lectures — I know you're much more interested in trying a little real magic. No need to be shy, the guild needs members who do field work and kids like you will be trained for the job.
+
+So today, I'm going to walk you through spellcasting step by step.
+{p}
+<b>Learning Spells</b>
+
+Magic begins with learning spells. Now, reading spellbooks isn't like browsing the Palmia Times: your literacy will be tested, and the consequences for misreading magic runes are more severe than a tabloid. Now, I've brought in one of the simplest spellbooks: magic arrow. Pass it around the class, I want everyone to try reading it. As your literacy grows, you can attempt reading more complex spells.
+
+All done? Having memorized the runes, you're ready for your first spell. Now, the effort of spellcasting will burn the spell from your mind — not all at once, but if you don't refresh your memory of the runes, you'll forget them completely.
+{p}
+This is what we mages term "stocks", how many times we can cast a spell before the incantations slip our minds. Memorization is a skill: the more you read spellbooks, the better you'll be able to retain spell knowledge, meaning more stocks per reading.
+
+It's a simple cycle: read spellbooks, gain stocks. Cast spells, use stocks. Even children like you can understand!
+
+Before you ask, yes, spellbooks are expensive. If you've exhausted your spell stock, you might be able to reach the source of magic while dreaming and gain a little stock of simple spells in your domain. Trained mages can do this even while having stock and gain complex spells; this feat is considered essential for any spellcaster and saves novices many orens.
+
+Yes, the source of magic is a regal, red-haired man. No further questions, please.
+{p}
+<b>Casting Spells</b>
+
+Now that you've learned a spell, it's time to cast it. You there, in the back! Step up and try casting magic arrow at the dummy.
+
+…Oh, the spell failed. Don't be disheartened: the more you practice casting, the better you'll get. In addition to general casting skill, casting a spell will attune you to it — what we call "spell levels", which increases the spell's cast chance and power. Every spell is linked to an attribute; the higher it is compared to the spell's level, the faster you gain more levels in that spell. Even failed casts will advance spell levels, so practise makes perfect.
+{p}
+Spellcasting is best performed unencumbered, and the following will penalize your casting:
+
+* Heavy armor
+* Shields
+* Dual wielding
+* Riding
+* Hosting
+
+Heavy armor and shields limit your maximum cast chance as well, but you can get feats to negate these. Finally, statuses like dim and confuse will impair your spellcasting.
+
+Remember, with enough skill and feats, you can overcome all casting penalties. Understood? Now the rest of you form a line by the dummies, and you can take turns casting magic arrow until you've exhausted your stock.
+{p}
+<b>MP</b>
+
+You there! You look pale, sit down and drink this! Feel better?
+
+…I see, you overexerted yourself. In addition to stock, magic uses MP — casting spells with no MP will hurt you with magic reaction. Even novices can survive a single over-cast without training magic capacity, but the more negative your MP, the more it hurts.
+
+Don't be afraid to over-cast if it's a matter of life and death, but be aware that carelessness can kill you just as easily.
+
+{p}
+
+To summarize today's class:
+
+* Read books or dream, gain stock.
+* Cast spells, use stock and MP.
+* Equipment, situations and statuses can impair your casting.
+* Spells level as you cast them, increasing power and casting success.
+* You can cast with no MP, but it will hurt you.
+
+I hope you enjoyed today's introduction to magic. Your class is slated to have these practical lessons regularly, so please look forward to them.

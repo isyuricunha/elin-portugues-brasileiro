@@ -1,0 +1,90 @@
+Questing Guidelines,The Tyris Council
+
+Owing to a sharp increase in adventurer numbers in recent years, as well as related fraud cases in our courts, the nations of Mysilia, Palmia, and Mayroon have agreed to standardize the format of bulletin board requests across North Tyris.
+
+While it is not forbidden to hire adventurers beyond the scope of these requests, both adventurer and client will find legal redress difficult should disputes arise.
+
+Approved request types are as follows:
+
+{p}
+<b>Procurement</b>
+
+The adventurer shall acquire the stated item(s). Note that the name of the item must exactly match that stated in the request. If a "tool" is requested, then a "tool" must be provided, not a "hoe" or "axe".
+
+Where a category of items is requested, the request shall be marked with "category" in the lower-right corner. A category request for "bread" may be fulfilled by "burger" or "pie".
+
+Upon receipt, additional orens shall be paid in proportion to the item's value.
+
+{p}
+<b>Performance</b>
+
+The adventurer shall perform at a venue within a time limit. Satisfied and dissatisfied audience members add and subtract points respectively. There is no additional reward for exceeding the quota.
+
+* For best results, it is suggested to play for large crowds.
+
+* Adventurers with high music skill may take harder requests.
+
+{p}
+<b>Harvest</b>
+
+The adventurer shall harvest crops at a venue within a time limit. Only crops placed in the delivery box count towards the quota. Rewards are based on delivered weight. Crops held by the adventurer at the request's end may be confiscated.
+
+* Harvest priority should be given to high-weight crops.
+
+* If the quota has been reached, leaving will not fail the request.
+
+* Adventurers with high gathering skill may take harder requests.
+
+{p}
+<b>Delivery</b>
+
+The adventurer shall deliver an item to the recipient by the agreed time. Once accepted, failing the quest will be considered mail fraud.
+
+* The client is not responsible for the adventurer's ability to carry the item, or if the time limit is considered reasonable.
+
+* If the item is lost, the adventurer may procure a replacement and deliver that instead.
+
+* Use of teleporters is prohibited.
+
+{p}
+<b>Escort</b>
+
+The adventurer shall escort someone to the stated location by the agreed time. Once accepted, any death of the escorted will fail the request and the adventurer held responsible.
+
+* When in a dangerous location, the escorted must be near the adventurer before leaving to avoid abandonment and hence request failure.
+
+* Use of teleporters is prohibited.
+
+{p}
+<b>Extermination</b>
+
+The adventurer shall slay all monsters at the location. Leaving beforehand is considered failure.
+
+* Famous adventurers may take more difficult quests with better rewards.
+
+
+<b>Hunting</b>
+
+The adventurer shall slay the stated number of monsters within the time limit. Location does not matter. Rewards are paid for the number and strength of monsters slain.
+
+* Where these requests specify a monster type, eligible monsters shall be denoted in the journal.
+
+{p}
+<b>War</b>
+
+The adventurer shall survive for a period of time under constant assault by monsters. When this time period is up, the adventurer is to sound a retreat at the war horn and leave the venue. Rewards are given according to number of kills and waves survived.
+
+* The war horn may be freely carried in one's hands and moved. It may be used to immediately summon the next wave, but will delay the retreat. Calling the next wave immediately after one has begun will increase the reward.
+
+* Reinforcements may be called at intervals to aid the adventurer.
+
+{p}
+<i>- Postscript -</i>
+
+All requests shall reward a sum of platinum coins based on their difficulty.
+
+Requests are by local demand. Adventurers should go to where the work is. Discretion is advised when accepting requests as completion is not guaranteed to be possible.
+
+While a request may be cancelled through the journal or leaving the venue, this incurs a karma and fame loss. Additional penalties may also apply per the request type.
+
+Please direct disputes to your local petty court and do not take matters into your own hands.

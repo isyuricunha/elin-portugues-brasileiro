@@ -1,0 +1,54 @@
+Adventurer's Weekly #1: Nefia and You,Head Editor Hans,10,1
+
+<i>Welcome to Adventurer's Weekly, where we cover topics near and dear to your brave hearts.</i>
+
+
+For our inaugural issue, we'll discuss the reason you adventurers are in North Tyris: nefia.
+
+"Nefia" are the ruins of past civilizations which hold ancient wealth and knowledge. In North Tyris, these ruins are constantly unearthed and buried by crustal movements, leading to an inexhaustible number of dungeons awaiting adventurers to discover their secrets.
+
+While nefia vary widely, after interviewing adventurers, we can confirm a few traits all nefia possess:
+{p}
+<b>Danger Level</b>
+Greater danger and more wealth lie within higher leveled nefia. This relation is not strict: many adventurers have been caught off-guard by powerful monsters appearing in low-level nefia.
+
+<b>Depth</b>
+Nefia are two to five levels deep. On every additional floor, the nefia's level increases by one.
+
+<b>Master</b>
+At the bottom of each nefia lurks its master — the a strong monster that guards its treasures.
+
+Adventurers say that despite being formidable foes, nefia masters value the sanctity of their lairs; if an adventurer leaves the deepest floor, the nefia master will take the chance to flee with its treasures, knowing its home is no longer safe.
+{p}
+<b>Locating Nefia</b>
+
+The constantly shifting nefia in North Tyris results in a race by adventurers to discover and explore these ruins before they disappear again. Local bookstores sell hastily drawn maps to nearby nefia, while adventurers share news of nefia sightings.
+
+Certain regions of North Tyris such as north of Palmia are particularly susceptible to the quakes that unearth nefia, and adventurers regularly examine these areas with telescopes or binoculars hoping to discover locations worth exploring.
+{p}
+<b>Nefia Types</b>
+
+*Ruins: Unremarkable, often considered the basic nefia type. Large quantities of stone may be acquired by dismantling the walls and floor. Wrecks common. Many traps.
+
+*Grasslands, Forests: lush and verdant, lots of animals. Few traps, but monsters are quick to re-appear. Outdoors, so weather and time of day still matter.
+
+Rare trees may be found, and vines gathered from the walls. Ores available as large rocks. Skilled farmers may discover patches of high-quality wild crops.
+
+*Caves: mineral-rich. Veins of ore and gems in the walls and large ore rocks make this nefia good for mining. Stalagmites can yield rare stone types. Be sure to have spare carry capacity.
+{p}
+*Machinariums: remains of past technological civilizations. Does not appear to have a higher incidence of machine monsters.
+
+Copper, iron and chromite scrap from dismantling floor and walls. Chemical spills may be gathered as liquid, glass fragments collected for smelting. Some adventurers spend days in these nefia.
+
+*Sunken Ruins: appears in the ocean and vastly different from other nefia types. Water breathing required; a torch made of coralwood will work, but better options like potions and artifacts exist.
+
+Swimming affects one's speed ranging from -50% to +25%, with higher level nefia requiring greater skill. Monsters in sunken ruins are all at home in water. Note that mounted adventurers are doubly penalized if both mount and rider are inept at swimming.
+{p}
+Notable resources include coral, deep seaweed, sulfur, rare stone types and coralwood. Giant clams may contain unexpected treasure.
+
+
+If a nefia is proving too difficult, don't hesitate to retreat; your life comes first. So long as you're alive, there will be other adventures.
+
+***
+
+<i>- In next week's issue, we'll be introducing the concept of potential in detail.</i>

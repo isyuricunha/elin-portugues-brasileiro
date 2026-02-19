@@ -1,0 +1,48 @@
+Adventurer's Weekly #4: Statuses,Mother Therese,10,1
+
+<i>Welcome to Adventurer's Weekly, where we cover topics near and dear to your brave hearts.
+
+This week, we've invited Mother Therese from the Church of Jure to write about preventing and curing elemental statuses.</i>
+
+
+Come hither stray kittens, I shall guide you to the light. As part of our monthly community service, the Church of Jure is conducting outreach amongst adventurers. While our doors are always open to the sick and wounded, it's our hope that you remain healthy and have no need of our services.
+{p}
+<b>Statuses</b>
+
+It's necessary to go over this briefly, because many adventurers confuse elemental statuses with hexes. Statuses are effects associated with certain elements, and applied when someone takes damage of said element. On the other hand, hexes are effects caused by unique spells. This distinction is important because statuses and hexes require different methods of prevention and treatment.
+
+A status' severity derives from an attack's elemental power, which is proportional to its damage and adjusted by its source. For example, touch spells inflict statuses more readily than sword spells.
+{p}
+If untreated, statuses will worsen from additional elemental attacks, potentially having disastrous effects. Too many novice adventurers have lost their lives to floating eyes constantly paralyzing them, rendering them helpless.
+
+
+<b>Prevention</b>
+
+It's a common saying in the Church of Jure that prevention is better than cure, and the same is true of statuses. Not suffering a status to begin with means saving precious time in combat when every moment counts, especially when it comes to statuses that prevent you from acting.
+{p}
+Your first line of defence against statuses are equipment enchantments that directly negate statuses like poison and paralysis. Having one of these enchantments for each status is vital, but further enchantments confer no additional benefit, so adventurers often liken it to solving a puzzle.
+
+The next layer of protection comes from elemental resistances: the lower an attack's damage, the less its elemental power. Becoming immune to an element will also protect you from its associated status; this is helpful with statuses like dim which have no negation enchantments.
+
+Third, several spells will negate particular statuses. For example, cat's eye will prevent blind. Use these to patch holes that your equipment doesn't cover.
+{p}
+Finally, when all else fails, your attributes can confer a degree of resistance to several statuses. For example, blind is resisted by perception. Like everyone else, adventurers benefit from Lady Jure's teachings: work hard, eat well, and thereby build innate resistance to harmful statuses.
+
+
+<b>Cure</b>
+
+Even if you've been inflicted with a status, don't panic. You can still remedy the situation.
+
+Casting a spell that nullifies a status will immediately cure it; for example, casting hero will immediately cure confusion.
+{p}
+Any source of healing will reduce the status' strength, eventually removing it. However, if you don't need to recover HP, using restore body or mind as appropriate is much more effective at curing statuses.
+
+Certain statuses can be removed in special ways. For example, taking non-mind damage will wake sleepers, while wet will counteract burning. Red and blue herbs will cure bleeding and poison.
+
+Since several statuses prevent you from acting, having friends around who can help you in a bad situation is always good.
+{p}
+Thank you for bearing with me. I'll pray for everyone reading to remain in Lady Jure's grace.
+
+***
+
+<i>- In next week's issue, we'll be seeing how practical application of a simple status effect can help adventurers!</i>

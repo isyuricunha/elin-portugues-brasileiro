@@ -1,0 +1,55 @@
+Adventurer's Weekly #3: Luck,Palmia Correspondent Kawa,10,1
+
+<i>Welcome to Adventurer's Weekly, where we cover topics near and dear to your brave hearts.</i>
+
+
+In this week's issue, I'm writing from the Fortune Bell on the topic of luck.
+
+Such a place is all about good fortune, isn't it? Especially when the head editor deems my visit business expenses…
+
+Luck has always been a mysterious topic amongst adventurers: there's a lot of rumor and hearsay as to what <b>exactly</b> it does.
+{p}
+For example, can you believe that luck doesn't affect any of the Fortune Bell's games? It's true! Be it putit toss, slots, or blackjack, luck doesn't matter!
+
+In fact, I've learned to time the slots to get a jackpot quite reliably!
+
+And I'm absolutely sure the dealers at the blackjack tables aren't "doing anything"!
+
+Luck sure is mysterious!
+{p}
+In order to better understand luck, it's best to ask the experts. There were a couple of nuns from the Church of Ehekatl preaching in cat cosplay, so I bought them drinks at the bar and asked them about their goddess' domain.
+
+<b><i>They were also cute, but that's not the point!</i></b>
+
+As it turns out, most rumors people believe about luck aren't true. It doesn't increase the quality of loot in a nefia, nor does it help you evade enemy attacks. It doesn't increase the chance of a lucky month, nor does it help you catch better fish. Some of these are actually Lady Ehekatl's blessings and unrelated to luck in itself, while the rest are just hearsay.
+{p}
+So, what DOES luck do?
+
+Most importantly, it allows for "dice" to be rerolled — each point of luck is 1% for this to happen, and luck above 100 allows for more rerolls, up to 20 times! I asked the nuns what "dice" actually are, but I may have been distracted during their explanation. Anyway, I'll summarize what luck actually does affect, by virtue of these "dice":
+
+*Damage and healing dealt.
+*Damage mitigation from PV.
+
+Note that negative luck works similarly, only the worse of the rerolls is taken, so be careful of bane hexes!
+{p}
+Luck also affects how likely a gamble chest is to pay out and one's resistance to having equipment cursed, although this is unrelated to "dice".
+
+It may not seem like much, but damage, healing, and mitigation are vital for adventurers, and the ability to pick the better of two outcomes is pretty big!
+
+So, how can you adventurers become luckier?
+
+Well, the big one is to worship Lady Ehekatl! The nuns were cute, but not <i>that</i> cute… at the end of the day, <b>it's just cosplay, right?</b>
+
+But I did buy some lucky coins from them!
+{p}
+For those who aren't aware, lucky coins are limited edition coins minted at the Palmia mint in 467 to celebrate the victory of the 10 Years' War, engraved with the divine image of Lady Ehekatl herself.
+
+Just having her smile around makes me feel a little luckier already!
+
+You can also wear mica equipment for a little more luck. Did you know that Lady Ehekatl's altars are made of mica? It's true! Although whether it's lucky because of the goddess, or the goddess likes it because it's lucky, I'm not sure…
+{p}
+Anyway, I think I'm going to stay at the blackjack table a little longer, so I'll sign off here!
+
+***
+
+<i>- In next week's issue, we turn to the Church of Jure to teach us about preventing and curing elemental statuses!</i>

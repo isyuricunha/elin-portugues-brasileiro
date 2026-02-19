@@ -1,0 +1,66 @@
+Adventurer's Weekly #12: Runes,Lumiest Correspondent Jaystar,10,1
+
+<i>Welcome to Adventurer's Weekly, where we cover topics near and dear to your brave hearts.</i>
+
+
+In this issue, we've rented a workshop at the Mage's Guild to have some hands-on experience with runesmithing. Instead of a lengthy explanation, the head editor agreed it's better to illustrate the process with a practical example.
+{p}
+Essentially, runesmithing involves extracting an enchantment from a piece of equipment, then applying it to another. Anyone looking to get the most out of equipment should be interested, but gear-reliant adventurers like warriors stand to benefit the most.
+
+Now, my old pair of miracle-tier silver boots is a bit outdated. I'd like to move its darkness resistance to my new cashmere boots. Sounds simple enough, doesn't it?
+
+{p}
+<b>Extraction</b>
+
+The first step in runesmithing is to create a suitable rune mold at an accessory table. Two points to note:
+
+* The mold must have a crystal capable of extracting enchantments from the equipment's tier.
+
+* The mold's material must be harder than the equipment's material.
+
+A sun crystal is required for a miracle-tier mold, but since the guild needs them for their latest experiment, there aren't any left; a godly-tier mold made with a magic crystal is fine too. For the mold's main material, steel is harder than silver, and so I've picked out some steel ingots.
+
+Done! We're ready to extract the enchantment.
+{p}
+Extraction is straightforward: focus the rune mold on the equipment and allow the enchantment to flow into it. This destroys the original equipment — now I have a rune of darkness resistance, and my old silver boots are so much alchemical ash.
+
+
+<b>Infusion</b>
+
+Now to infuse my new boots. My darkness resistance rune can't be applied to my cashmere boots as-is — cashmere's material enchantment of cold resistance prevents resistance runes from being infused. Hence, I've prepared two material hammers, chromite and cashmere.
+{p}
+First, I change the boots' material to chromite — removing the resistance enchantment — then apply the darkness resistance rune. Once the enchantment is stable, I hammer the chromite boots back into cashmere, resulting in my new boots having both cold and darkness resistance. Now that my new boots are rune-infused, they can no longer accept any further runes.
+
+Such is the basic premise of runesmithing: extract from the old, apply to the new. It sounds simple, but as we've just seen with the conflicting resistance enchantments, it may not be straightforward.
+
+{p}
+<b>Nuances</b>
+
+Item enchantments are complex and result in many rules in how runesmithing works. While we don't fully understand why such limitations exist, they must nevertheless be followed.
+
+Extraction:
+
+* Artifact-tier items are too powerful to have runes extracted from or applied to them. Infusion is possible if the extra rune enchantment is present, or if the rune is lawless.
+
+* Special enchantments like speed and life cannot be extracted.
+
+* Material enchantments are extracted at default strength, so equipment enhancement or damage does not matter.
+{p}
+Infusion:
+
+* Only one rune can be infused per equipment. The extra rune enchantment, such as on rune clothes, increases this limit.
+
+* Resistance runes may not be applied to equipment with resistance enchantments.
+
+* When equipment is infused with an enchantment it already has, its strength is overwritten, not added.
+
+* Enchantments that have equipment type restrictions can only be applied to the same equipment types.
+
+* Lawless runes do not count towards the rune limit.
+
+{p}
+Every adventurer should consider runesmithing, as it allows us to combine the best aspects of our equipment and cover weaknesses, and is also a means of salvaging nefia loot.
+
+***
+
+<i>- In our next issue, we'll be visiting the festivals of North Tyris and their attractions!</i>

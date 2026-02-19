@@ -1,0 +1,194 @@
+$1
+{include,topic_credit_resource}
+効果音提供（一部加工） On-Jin ～音人～
+URL 	: http://www.yen-soft.com/ssse/index.html
+
+効果音提供（一部加工） WEB WAVE LIB
+URL	: http://www.s-t-t.com/wwl/
+
+効果音提供 音の杜
+URL	: http://www.mmworks.info/otonomori/
+
+画像提供（サイズなど改変） material world
+URL	: http://members.jcom.home.ne.jp/hide.mats/
+
+画像提供（サイズなど改変） 【Ｒド】
+URL	: http://www.geocities.co.jp/Milano-Cat/3319/
+
+画像提供（サイズなど改変） WILD PUDDING'S TERRITORY
+URL	: http://wild-pd.hp.infoseek.co.jp/
+
+画像提供（サイズなど改変） 背景写真補完の会
+URL	: http://www.globetown.net/~katokiti/furemu.html
+
+画像提供（サイズなど改変） 背景素材店
+URL	: http://shass.sakura.ne.jp/
+
+画像提供（サイズなど改変） ハードボイルドはないちもんめ
+URL	: http://www.geocities.jp/iwanemasaaki/index.html
+
+画像提供 とらねこさんの小屋
+URL	: http://www.k3.dion.ne.jp/~toraneko/
+
+画像提供  Loose Leaf
+URL	: http://www.mogunet.net/~mack/looseleaf/
+
+画像提供 白螺子屋
+URL	: http://hirano79.hp.infoseek.co.jp/index.html
+
+画像提供 すきまの素材
+
+画像提供　Reiner`s Tilesets
+URL	: http://reinerstileset.4players.de/
+
+画像提供（サイズなど改変） 十二星座の欠片
+URL	: http://zodiacfragment.sakura.ne.jp/index.html
+
+画像提供　貪藻矢射妥←（ダイヤモンド）の魔
+URL	: http://diamond.iza-yoi.net/
+
+画像提供 あひる小屋
+URL	: http://momomohouse.jugem.jp/
+
+画像提供 沙夢
+URL	: http://sunayume.jp/
+
+画像提供　もやしほわいと
+URL	: http://whitecafe.sakura.ne.jp/index.html
+
+画像提供 Inquisitor's tileset
+
+画像提供　臼井の会
+URL	: http://usui.moo.jp/
+
+画像提供 PI Diagona Icons Pack 1.0
+
+画像提供  ＷＮ－長髪の閲覧者さん、teatさん、テス㌧さん、TOMさん
+	  葱丸さん、しおさばさん、なすさん、おくらさん、おがくずさん
+
+画像提供 (サイズなど改変)  REFMAP - First Seed Material
+このソフトは、REFMAPが配布しているフリー画像素材を使用してます。
+このソフト内で使用されている画像を、
+このゲームを遊ぶ以外の用途には使用しないで下さい。
+画像のサイズなどを改変しています。
+URL	: http://www.tekepon.net/fsm/
+
+MGRP_Labさんのアイコン
+
+また、Elonaフォーラムで募集した素材も使用させて頂いています。
+提供者：ゲストさん、uonaさん、saladさん、ろりんげさん、何処かの誰かさん
+unyoさん、Annaさん、だったんさん、お茶の人、ドリンコさん、000さん
+nyarさん、monmonさん、mさん
+
+{topic,Elin}
+触手提供　王国興亡記
+
+画像提供 とも職さんち
+URL : http://www.geocities.jp/tomoshoku/
+
+画像提供 アンデッドとか好きだから―――ッ！！！
+URL : https://lud.sakura.ne.jp/
+
+以下画像提供 OpenGameArt.Org　　URL : http://OpenGameArt.Org
+
+Clint Bellanger(OpenGameArt.Org)
+
+Tracy(OpenGameArt.Org)
+
+Jetrel(OpenGameArt.Org)
+
+Rod_Praet(OpenGameArt.Org)
+
+Kyrise's Free 16x16 RPG Icon Pack(OpenGameArt.Org)
+
+Thanks!
+
+音楽提供  甘茶の音楽工房
+URL : https://amachamusic.chagasi.com/index.html
+
+音楽提供  Atelier Nonta
+URL	: https://www.ateliernonta.com/
+
+音楽提供  Meteoric Stream　
+URL　: https://meteoricstream.com/midi/midiabout.html
+
+音楽提供  P's MAT(Copyright by Finalia Sound Design)
+URL  : https://www.youtube.com/@studiofec
+作編曲 : 小林まなぶ
+
+音楽提供  Aquanote
+
+音楽提供  M-ART ドワーフ工房
+URL	: https://mart.kitunebi.com/index.html
+
+音楽提供　　龍的交響楽
+URL	: http://d-symphony.com/mt_15.html
+
+音楽提供　　音楽の卵
+URL　: https://ontama-m.com/index.html
+
+音楽提供　　Minstrel's treasure
+URL　: https://takedtm.web.fc2.com/index.html
+
+音楽提供　　©Timelessberry
+URL	: https://timelessberry.com/
+
+音楽提供	PeriTune
+URL	: https://peritune.com
+
+音楽提供	もっぴーさうんど
+URL : https://dova-s.jp/_contents/author/profile060.html
+
+音楽提供	空落ちる日、あの空の向こうに by 柳沢英樹(デジファミ音楽堂)
+		Village by 真田誠(デジファミ音楽堂)
+
+
+12 Fantasias for Flute without Bass, TWV 40:2-13 by Tokinori Yanagita
+https://imslp.org/wiki/12_Fantasias_for_Flute_without_Bass,_TWV_40:2-13_(Telemann,_Georg_Philipp)
+
+The House of Leaves by Kevin MacLeod
+
+効果音提供	OtoLogic
+URL : (https://otologic.jp
+
+以下効果音提供
+
+camera_snap1.wav by thecheeseman (https://freesound.org/people/thecheeseman/sounds/51360/)
+
+Anvil & Steel Hammer sounds by Benboncan (https://freesound.org/people/Benboncan/sounds/60648/)
+
+Wooden banging noise on water - good ship or docks sound by OBXJohn (https://freesound.org/people/OBXJohn/sounds/636201/)
+
+Pack: Slot Machine by lukaso https://freesound.org/people/lukaso/packs/4497/
+
+Small japanese cast iron wind chime by gpag1 https://freesound.org/people/gpag1/sounds/516615/
+
+chimes3.mp3 by 3bagbrew https://freesound.org/people/3bagbrew/sounds/95335/
+
+Pub records » ambient pub by 16H_Panska_Stejskal_David https://freesound.org/people/16H_Panska_Stejskal_David/sounds/498533/
+
+neon.wav by randomroutine https://freesound.org/people/randomroutine/sounds/24308/
+
+Neon Lamp, Switch On, Hum by Kinoton https://freesound.org/people/Kinoton/sounds/351430/
+
+Cache Register by Zott820
+
+Sound from Zapsplat.com
+
+Thanks!
+
+以上です。重ねてお礼を申し上げます。
+表記に間違いや欠陥がありましたら、お知らせください。
+
+$2
+{include,topic_credit}
+Developer - noa
+Graphic Artist - NZ
+Graphic Artist - Maho(MT)
+Graphic Artist - Okuzanshi
+Graphic Artist - caim.kzkr
+Music Composer - NINO
+
+{include,topic_credit_backer}
+
+{include,topic_credit_news}

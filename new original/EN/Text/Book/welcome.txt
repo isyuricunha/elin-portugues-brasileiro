@@ -1,0 +1,10 @@
+Welcome,A stranger adventurer
+{center}
+Welcome adventurer, to the world of Ylva!
+
+"Help" can be accessed via the system menu or by pressing "?" key anytime.
+
+Our world is in turmoil and the scars of war still remain dark in the land where you embark.
+Life for an adventurer is hard but in the course of your journey you will also meet several people who are willing to guide you through.
+
+May the merciful wind always be with you.

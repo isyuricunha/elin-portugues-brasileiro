@@ -1,0 +1,47 @@
+Religious Living,Mother
+
+Come hither stray kittens, I shall guide you to the light. Today is the last day of your schooling, after which you children will be old enough to follow a god. As this decision will have bearing on the rest of your lives, we'll revise everything we've learned in this final class.
+
+
+<b>The Pillars and You</b>
+
+Worshipping a god means elevating that deity to a special place in your heart. Through the bond of your faith, you'll be able to receive divine blessings and allow your god to act through you.
+{p}
+To begin, you should consider your future and choose a god whose blessings match your aspirations in life. Some common examples are:
+
+* Scholars, wizards: Itzpalt of Element
+* Farmers, weavers: Kumiromi of Harvest
+* Hunters, ranchers: Lulwy of Wind
+* Warriors, blacksmiths: Opatos of Earth
+
+Of course, there are many reasons to worship a particular god, but practical and personal considerations should be weighed against each other.
+
+Once you've made your choice, you need to find an altar of said god — pilgrims journey to the Truce Grounds north of Palmia for this purpose. After reaching one, you may be admitted into the divine fold.
+{p}
+<b>Religious Duties</b>
+
+Simply worshipping a god will strengthen your bond as the days pass. However, there is much you can do to actively forge a relationship with the divine:
+
+* Pray every day. The most basic requirement of every worshipper, praying will restore you and deepen your faith.
+
+* Make offerings. Each deity has favored items that make suitable offerings. Deliver these unto an altar of your god.
+
+* Read scrolls of faith. These rare scrolls will mark you as a beacon of divine power.
+{p}
+Your faith is your divine potential, but it is an empty cup to be filled with your deeds. The Pillars do not actually need offerings, but the act of sacrifice and devotion serves as a conduit between us and them. Remember, faith <b>and</b> works are necessary to fully receive divine blessings.
+
+{p}
+<b>Altars</b>
+
+Besides worship and sacrifice, altars have other purposes. First and foremost, one can offer a bottle of pure water to be blessed by one's god — note, common water cannot withstand sanctification.  Also, don't offer pure water to another deity by mistake — it will be cursed instead!
+
+If you encounter an altar of another god, you may try to claim it for yours. To do this, prepare a powerful sacrifice — heavier is better — and offer it on the opposed altar. The better the offering, the more likely you'll succeed; if your god claims the altar, surely your effort will be recognized. Fail, and you'll receive divine punishment.
+
+Some altars like the ones at the Truce Grounds are protected and cannot be contested.
+
+{p}
+<b>Changing Gods</b>
+
+Changing one's god is not to be taken lightly — betrayal is always met with divine punishment. Still, if you're determined, find an altar of your new deity and begin worship like you did previously. Be aware that you will be burdened with the weight of your sins in proportion to how much your previous god trusted you… and receiving further punishment while already censured by the gods means inescapable death.
+
+Class dismissed, and pray hard; there's always a chance for salvation. Tomorrow, we begin our journey to the Truce Grounds.
