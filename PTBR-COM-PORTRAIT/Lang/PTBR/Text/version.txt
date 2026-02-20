@@ -18,226 +18,89 @@ A tradução é feita por um humano, e não IA. As partes indicadas como "Traduz
 {link,Discord - Comunidade、Perguntas、Conversas em Geral,https://discord.com/invite/aYbWBr4}
 {link,Website - Meus links, projetos, e infos,https://yuricunha.com}
 
-Aqui está a tradução completa:
+Aqui está a tradução completa das mudanças:
 
 {topic, Informações de Atualização do Elin}
-■ 13/01/2026 EA 23.260 Estável
-(Traduzido por ChatGPT)
 
-Após atualizar para uma versão estável, Mods de versões anteriores podem não funcionar corretamente ou apresentar comportamento inesperado. Se algo parecer estranho, por favor tente desabilitar os Mods e testar novamente.
-
-[Destaques]
-* Adicionado conteúdo relacionado ao Ano Novo (Kadomatsu, cavalos, bicicletas, etc.).
-* Adicionada mobília "Objeto Falso". Objetos do mapa como árvores, plantações e rochas que anteriormente não podiam ser colocados livremente agora podem ser copiados.
-* Adicionada a habilidade "Mímico". Mímicos disfarçados de itens agora podem aparecer em masmorras e outros locais.
-
-[Novo Conteúdo]
-* Adicionada a raça "Bicicleta".
-* Adicionada a característica "Aquático". Concedida a raças aquáticas, com ajustes de velocidade aplicados.
-* Adicionada a característica "Peaky". Algumas bicicletas agora aparecem com efeitos Peaky escalados aleatoriamente.
-* Adicionada a característica "Elite".
-* Adicionada a habilidade "Mímico".
-* Adicionado um grande número de ícones de habilidades e magias.
-* Adicionados ícones para resistência a Éter, resistência a Choque e mais.
-* Adicionado item "☆Chifre de Unicórnio".
-* Adicionadas 9 variações da mobília "Estátua de Gárgula".
-* Adicionada mobília "Kadomatsu". Receitas agora podem ser obtidas via presentes de Ano Novo.
-* Adicionadas variações de aparência para "Braseiro" e "Braseiro de Parede".
-* Adicionadas receitas para "Estátua de Gárgula", "Deusa Decorativa", "Braseiro", "Braseiro de Parede" e três tipos de "Pedestal".
-* Adicionadas roupas de inverno para o NPC "Gaki".
-* Adicionadas roupas de inverno para o NPC "Wini".
-* Adicionado diálogo de rumor para o NPC "Rodwyn".
-* Adicionados 7 novos monstros.
-* Adicionados 5 monstros nomeados.
-* Adicionado um ícone para Nefias da Floresta. Cor dos ícones de Nefia das Planícies levemente ajustada.
-* Adicionado 1 tipo de NPC amigável.
-* Adicionado ASMR de Lulwy.
-* Adicionado ASMR de Ehekatl.
-* Adicionado ASMR de Empregada Raposa. Obrigado The Observer!
-
-[Adições e Mudanças]
-* Monstros que emergem de caixões agora são afetados pelas configurações de taxa de aparição.
-* Injeções agora consomem um turno.
-* Quadros de Quarto e Quadros de Casa agora podem ser usados dentro de tendas.
-* Armas de longo alcance criadas não vêm mais com mods de modificação.
-* Algumas receitas não aparecem mais em sorteios aleatórios (receitas exclusivas de eventos como Árvores Sagradas e Kadomatsu).
-* Adicionada comida preservada às oferendas de Yevan.
-* Adicionados quadros de missões adicionais a várias cidades grandes.
-* Itens largados por NPCs agora têm a flag de propriedade do NPC removida.
-* Habilidades do tipo sopro agora são afetadas por aprimoramento mágico (experimental; sujeito a ajustes futuros).
-* Inimigos poderosos e inimigos multi-tile são menos afetados por penalidades de velocidade subaquática mesmo sem a habilidade Natação.
-* Equipamentos de favor divino não podem mais ser recuperados no Modo de Construção.
-* Quando a Evasão é negativa, ataques agora têm uma chance de sempre acertar.
-* Adicionados Pergaminhos de Recordação, Pergaminhos de Fuga, Pergaminhos de Teletransporte e Pergaminhos de Teletransporte Curto ao estoque permanente da loja de magia.
-* Buffs de atributo amaldiçoados agora aplicam debuffs de atributo, e debuffs de atributo amaldiçoados agora aplicam buffs de atributo (experimental).
-* Adicionada a tag de aparição "dungeon" (permite aparição em masmorras mesmo com a tag Animal). Aplicado a Cerberus, Nightmare e Unicorn.
-* Dispositivos de tortura em uso não podem mais ser desmontados com um martelo.
-* Bônus de velocidade da característica "Aquático" e da habilidade Natação agora também se aplicam enquanto em tiles de água.
-* Removidos requisitos de habilidade para aprender a característica "Crente Modelo".
-* O estado "Forma de Morcego" não pode mais ser dissipado por "Quebra Sagrada" enquanto o tempo de recarga permanecer.
-* Ao jogar como a raça "Semideus", possuir múltiplos artefatos do mesmo favor divino agora os destrói como de costume. Ao possuir múltiplos artefatos Eterizados de diferentes favores divinos, a Eterização é removida sem destruir os artefatos.
-* Adicionadas cabeças à raça "Cavalo". Cavalos sem cabeça crescerão cabeças ao carregar o jogo.
-* Adicionada a habilidade Levantamento de Peso à raça "Bicicleta". Filhotes ganham uma habilidade adicional de Levantamento de Peso.
-* NPCs "Unicórnio" agora são sempre hostis em relação a Súcubos.
-* NPCs "Unicórnio" não atacarão Súcubos com o encantamento "Castidade".
-* Quando um NPC "Unicórnio" tem um encantamento "Castidade" negativo, ele atacará todas as criaturas.
-* Adicionadas Poções de Mímico ao inventário da loja do NPC "Rodwyn".
-* Alterada a magia "Funnel" dos NPCs "Kiria" e "Mirage" para "Bit".
-* Ajustado o comportamento do NPC "Lich" e substituídos seus gráficos.
-* Ajustado o poder do item "Pergaminho de Reconstrução".
-* Atualizados os gráficos de neve.
-* Atualizada a localização em Chinês.
-
-[Interface]
-* Removido "Ordenar" das configurações de mochila do PC (redundante devido ao Auto-Coleta).
-* Melhorada a exibição de capacidade ao atribuir camas manualmente.
-* Melhorada a exibição de peso nas dicas de ferramentas de itens. Itens abaixo de 1s agora mostram valores decimais completos sem arredondamento.
-* Ajustado o limite de início de arrastar da interface para itens.
-* Melhorado o comportamento de exibição do ícone de Bloco Falso.
-* Ao possuir a característica "Crepúsculo Sagrado", valores de bônus agora são mostrados nas dicas de ferramentas de atributos principais na ficha do personagem.
-
-[Relacionado a Mods]
-* Integrado o Mod_FixedPackageLoader ao jogo base. Obrigado DK!
-* A ordem de carregamento de Mods agora pode ser alterada via arrastar e soltar no Visualizador de Mods. Obrigado DK!
-* Corrigidos erros ao carregar livros de magias com IDs de magia inexistentes.
-* Zonas definidas como Nulas devido à desinstalação de mods agora são removidas da lista de zonas ao carregar.
-* Doenças de Éter inexistentes deixadas no histórico devido à desinstalação de mods agora são removidas.
+■ 06/02/2026 EA 23.267 Estável Patch 1
 
 [Correções]
-* Corrigidos problemas de estouro durante a leitura.
-* Corrigido sementes às vezes gerando com qualidade diferente no mesmo nível de aprimoramento.
-* Corrigido cachoeiras e efeitos similares não renderizando no modo de exibição sem telhado.
-* Corrigido desalinhamento de destaque ao colocar Blocos Falsos.
-* Ajustado e corrigido o comportamento ao segurar múltiplos itens de favor divino enquanto joga como a raça "Semideus".
-* Corrigida a progressão de tempo no jogo mais rápida ao se mover estritamente para os lados.
-* Corrigida a característica "Corpo de Mana" não aplicando redução de custo de mana ao exceder o nível 5.
+* Corrigidos erros que ocorriam ao carregar alguns mods.
+
+---
+
+■ 06/02/2026 EA 23.267 Estável
+
+Após atualizar para a versão estável, Mods de versões anteriores podem parar de funcionar ou se comportar de forma estranha. Se notar algum comportamento incomum, tente desativar os Mods e teste novamente.
+
+[Novo Conteúdo]
+* (Desejo de Apoiador) Adicionada a magia "Telequinese".
+* Atualizada a galeria de arte do jogo.
+* Adicionada roupa de inverno para Verna.
+* Adicionada roupa de inverno para Mesherada.
+* Adicionada roupa de inverno para Kiria.
+* Adicionada roupa de inverno para a Irmã Mais Nova Leopardo-das-Neves.
+* Adicionado um retrato para Duponne.
+* Adicionada a façanha "Instinto Decapitador". Concedida ao Coelho Vorpal, Bola Assassina, Camarão-Mantis Ancestral e outros.
+* Adicionada a façanha "Ecologia Mímico". Concedida aos Mímicos.
+* Adicionado o status "Barreira Mental". Aplicado ao ser arremessado pela Telequinese (para evitar travamentos).
+* Adicionado o móvel "Para 1 Pessoa". Também adicionado como prêmio de cassino.
+* Adicionado o móvel "Vaso Sanitário".
+* Adicionados 13 tipos de móveis "Estátua Gigante".
+* Adicionados 20 tipos de móveis "Plamo".
+* Adicionados 27 tipos de móveis "Pássaro". Ajustadas as posições de alguns gráficos existentes.
+* Adicionados 2 tipos de pisos de pedra.
+* Adicionados 3 tipos de monstros.
+* Adicionado 1 tipo de monstro raro.
+
+[Adições e Mudanças]
+* Pets que estão sendo montados ou parasitados não podem mais ser abatidos. Além disso, o diálogo de abate agora exibe o nome do alvo (para evitar abates acidentais).
+* Companheiros pescando juntos não coletarão mais itens que não sejam peixes se estiverem pesados demais.
+* Ao usar o Processador de Cano de Arma ou a Pedra de Afiar, os inventários dos companheiros agora também podem ser selecionados.
+* Ajustados tamanhos de fonte e layout na ficha de personagem para que o texto não se sobreponha mesmo quando os atributos principais estiverem extremamente altos.
+* Itens carregados por residentes ou companheiros agora também podem ser marcados como "Importante". Itens marcados como Importante não serão descartados nem colocados em contêineres compartilhados automaticamente.
+* Quando um aventureiro se rende durante uma luta de treino, ele não será mais atacado posteriormente.
+* Cozinhar biscoitos sem sucesso agora produz "Biscoitos Irritantes".
+* Ao trocar de conjunto de equipamentos, equipamentos colocados na barra de atalhos serão excluídos da troca.
+* Ajustada a prioridade de ordenação secundária por nome de item. Durante a ordenação, itens como os Aventureiros Semanais agora serão ordenados a partir do número de edição mais baixo.
+* As posições dos ícones de status e balões de fala agora são ajustadas por personagem. Também ajustadas as posições dos ícones de status para Triceratops, Tubarão Mecânico e outros.
+* A galeria de arte do jogo agora é carregada de uma pasta externa (pois incorporá-la aumentava demais o tamanho do jogo). As imagens em miniatura agora são geradas automaticamente.
+* Adicionado suporte ao formato JPEG para carregamento de imagens externas usadas por Mods e conteúdos similares.
+* Quando afetado por alimentos de status, bênçãos, maldições etc., o tooltip exibido ao passar o mouse sobre o ícone agora mostrará claramente a categoria daquele status.
+* Quando companheiros sendo montados ou parasitados entrarem em processamento de morte forçada por dano não padrão (autodestruição, eclosão etc.), agora terão seu HP reduzido a 0 e ficarão inconscientes.
+* Ajustadas as condições de ativação da Decapitação. Contra chefes e únicos, o limite de HP para ativação agora é mais baixo.
+* Aprimorado o efeito da magia "Flare".
+* Ajustados os bônus do status "Mímico". O Mímico agora será desativado ao ser atingido por itens arremessados ou chicoteado com um Batedor de Ovos.
+* Ao entrar no status "Mímico", se houver itens marcados como "Importante" no inventário, esses itens terão prioridade na imitação.
+* Companheiros no status "Mímico" agora podem ser alvejados e interagidos normalmente.
+* Ajustada a taxa de aparecimento do NPC "Mímico" (reduzida).
+* Ajustada a façanha "Besta da Possibilidade" do NPC "Demlich" de -2 para -1.
+* Ajustado o bônus de velocidade do NPC "Estrela-do-Mar" de -100 para -70.
+* Ajustados os NPCs "Peixe Gigante", "Enguia Elétrica", "Tubarão", "Tubarão Mecânico" e "Tubarão Irmã Mais Nova", aumentando principalmente o HP de NPCs do tipo peixe grande (eles eram mais fracos do que pareciam).
+* Adicionada a característica de não-apodrecimento ao móvel "(Plamo) Pássaro".
+* Alterado o material inicial do móvel "Estátua de Lulwy" para mármore. Também adicionada internamente a Estátua de Ehekatl e refinada a Estátua de Jure.
+* Substituído o gráfico do móvel "Bolo de Casamento".
+* Atualizada a tradução para o chinês.
+
+[Relacionado à Sentença de Morte]
+* Mensageiros da Morte e Ceifadores agora seguirão o jogador ao entrar em uma tenda.
+* Rezar a um deus agora removerá a Sentença de Morte.
+* A Sentença de Morte agora será removida ao sair do mapa atual ou ao destruir o declarante.
+* Quando o alvo for um inimigo poderoso, a Sentença de Morte não causará mais morte instantânea, mas sim dano baseado em uma porcentagem do HP máximo.
+* Quando afetado por Sentença de Morte, o combate automático agora será interrompido quando os turnos restantes chegarem a 3 ou menos.
+* Alguns processos de morte forçada agora também matarão pets montados ou parasitários (atualmente aplica-se apenas à Sentença de Morte).
+* A eutanásia via Injeção Celestial e a Sentença de Morte agora são processadas como efeitos separados.
+* Adicionados efeitos animados à Sentença de Morte.
+
+[Correções]
+* Corrigido um problema onde a pasta "Game" de tradução não era gerada automaticamente ao criar um Mod de tradução.
+* Corrigido um problema onde itens não vendáveis podiam aparecer entre os livros emprestados pelo NPC "Buscador".
+* Ajustado o gráfico da Cavaleira Negra feminina (não estava preto).
+* Corrigido um bug relacionado ao nível de monstro na invocação.
+* Corrigido um problema onde penalidades de velocidade subaquática eram aplicadas ao caminhar sobre água congelada.
+* Corrigido um problema de overflow relacionado a encantamentos de aprimoramento mágico.
 * Outras correções e ajustes menores.
 
 [Notas]
-* Feliz Ano Novo! Obrigado pelo seu apoio contínuo este ano.
-* Como atualizações recentes fizeram com que o movimento no estado "Contido" não consumisse mais turnos, esperar no lugar agora é necessário para limpar o estado pela passagem de turnos.
-* Para companheiros com a característica "Corpo de Mana", a barra de HP exibe HP e MP combinados. Mesmo com HP completo, MP baixo manterá a barra visível.
-* A característica "Peaky" pode receber ajustes adicionais.
-
-■ 24/12/2025 EA 23.252 Patch Estável 2
-(Traduzido por ChatGPT)
-[Correções]
-* Corrigido um bug onde Ashland se duplicava após progredir na missão "Para uma Nova Terra" até certo ponto.
-* Adicionados vários novos prefixos aleatórios aos mapas aleatórios.
-* (Versão japonesa) Alterado o epíteto dos itens milagrosos de diamante de "Imutável" para "Eterno" para evitar sobreposição com um novo material.
-* (Versões japonesa e inglesa) Melhorados nomes e epítetos para novos materiais.
-[Notas]
-* Se Ashland foi duplicado, digite "Fix_RemoveAshland" via Sistema ＞ Outros ＞ Console para fazer o Ashland extra sair. Ter dois presentes ao mesmo tempo não causará nenhum problema sério.
-■ 23/12/2025 EA 23.252 Patch Estável 1
-(Traduzido por ChatGPT)
-[Mudanças]
-* Desativado "Alternar Inclinação" via Alt+Shift no Modo de Construção. (No Modo de Construção, a inclinação pode ser alternada pelo ícone no canto inferior direito.)
-* Reduzida a chance de ASMR ser da Jure de 90% para 50%. (Temporário, já que ASMR de outros NPCs é difícil de obter).
-* (Atualizações Fora do Jogo) Adicionada uma categoria "Formulário de Envio" na "Sala do Dev" no site oficial.
-[Notas]
-* Feliz Juremas!
-* Obrigado pelos muitos envios de ASMR. Conteúdo ASMR será adicionado gradualmente entre atualizações como pequenos bônus, então por favor seja paciente. Os envios de ASMR permanecerão abertos indefinidamente. Uma vez que o número de entradas ASMR no jogo aumentar, métodos de aquisição dedicados estão planejados.
-* Se nenhum problema importante surgir, o desenvolvimento voltará para o branch Nightly.
-■ 22/12/2025 EA 23.252 Estável
-(Traduzido por ChatGPT)
-Após atualizar para uma versão estável, Mods de versões anteriores podem não funcionar corretamente ou podem se comportar de forma inesperada. Se algo parecer estranho, por favor tente desativar os Mods e testar novamente.
-[Destaques]
-* Concluída a Missão de Casa "Na Escuridão".
-* Aprimorado o Festival da Noite Sagrada. Adicionado mobília "Reprodutor ASMR". Durante o período do Festival da Noite Sagrada, o ASMR de Jure agora tocará na igreja de Noyel.
-[Novo Conteúdo]
-* Adicionados 18 tipos de Bolas de Juremas.
-* Adicionados 2 tipos de cordas suspensas.
-* Adicionadas roupas de inverno para Fiama e Ash.
-* Adicionado um chapéu à roupa de inverno de Loytel.
-* Adicionado ASMR de Horome.
-* Adicionado ASMR de Opatos.
-* Adicionado ASMR de Demitas.
-* Adicionados múltiplos textos de sabor de itens.
-* Adicionada arma "★Cajado da Insanidade".
-* Adicionado 1 novo NPC.
-[Adições e Mudanças]
-* Decorado ainda mais o Festival da Noite Sagrada de Noyel. Também adicionados lojistas do festival.
-* Ao colocar móveis no Modo Telhado (tecla Alt), ativado Colocação Livre (tecla Shift). Colocação Livre agora também está disponível para móveis que ocupam múltiplos blocos.
-* Residentes não irão mais gerar e comer comida por conta própria quando famintos.
-* Companheiros não irão mais pegar itens que o PC está segurando, mesmo se os itens estiverem armazenados em contêineres compartilhados.
-* Quando um companheiro está equipado com equipamento que concede uma habilidade, esse companheiro não pode mais usar genes contendo essa habilidade no Sintetizador de Genes.
-* O efeito da habilidade "Proteção da Raposa" agora se aplica a toda a facção.
-* Melhorado comportamento ao colocar móveis em cima de móveis colocados no ar. Também corrigido um problema onde a posição de destaque da colocação podia diferir da posição colocada real.
-* Móveis do tipo flutuante (bandeiras de festival, cordas de roupa, etc.) não são mais afetados pela altura de outros móveis colocados.
-* Melhorado comportamento ao colocar móveis enquanto segura CTRL.
-* Efeitos de itens não são mais renderizados quando itens são largados no chão (não colocados).
-* Adicionadas placas invisíveis de restaurante a Aquli Teora, Willow, Mysilia, Derphy, Lumiest, Ancoradouro do Viajante, Noyel, Specwing e Ruínas Doga.
-* Aumentado o preço da arma "★Bastão de Pontos".
-* Criado um repositório privado do Elin no GitHub. Obrigado DK!
-* Atualizados gráficos de neve.
-* Atualizadas traduções chinesas.
-[Correções]
-* Corrigido um bug onde Artistas Aprendizes estavam usando roupas de inverno de Nobres.
-* Corrigida uma falha visual ao copiar blocos tipo inclinação com Blocos Falsos.
-* Corrigido um bug onde NPCs sem a habilidade "Corpo de Mana" podiam ter barras de HP azuis.
-* Corrigido um bug onde Lentidão e Pressa não podiam se sobrescrever corretamente.
-* Corrigido um bug onde armas à distância não-únicas ficavam fixadas em qualidade normal quando regeneradas.
-* Fiama e Ash agora são gerados novamente se não existirem no jogo por qualquer razão (como interferência de Mod) durante o estágio final da missão "Uma Nova Terra".
-* Outras correções e ajustes menores.
-[Notas]
-* O comportamento de colocação de móveis mudou ligeiramente. Em mapas especiais que usam pesadamente colocação no ar ou colocação com CTRL, posições de móveis podem mudar. Desculpas se isso afetar seus mapas. Mapas corrigidos foram verificados o mais minuciosamente possível, mas feedback seria apreciado se você notar móveis mal posicionados.
-* O novo NPC está planejado para ter alguma funcionalidade especial, similar a Kettle ou Demitas.
-* Controle de versão não havia sido usado anteriormente, mas um repositório do Elin foi criado com sucesso no GitHub recentemente. Daqui em diante, pode ser possível compartilhar tarefas de desenvolvimento, como melhorias de recursos relacionados a Mods, com outros.
-
-■ 7/27 2025 EA 23.173 Stable Patch 1
-(Traduzido pelo Yuri)
-
-[Adições e Alterações]
-
-* Ajustada a altura da raça "Ancient Crab" (era igual à de um caranguejo normal).
-* O dano por fome não é mais absorvido pela "Wall of Flesh".
-
-[Correções]
-* Outros ajustes e correções menores.
-
-[Observações]
-* Será migrado para Nightly se não forem encontrados problemas graves.
-
-■ 7/27 2025 EA 23.173 Stable
-(Traduzido pelo Yuri)
-
-Após a atualização da versão stable, alguns mods podem parar de funcionar ou apresentar comportamento estranho. Se algo incomum ocorrer, tente desativar os mods uma vez e verifique novamente.  
-
-[Migração de Servidor]
-* Atualização temporária devido à migração de servidor, pois o servidor usado para as funcionalidades de rede do Elin será desligado em 31/07. Mapas do Moon Gate já enviados foram copiados para o novo servidor, mas mapas enviados nos últimos 2–3 dias podem não ter sido refletidos. Reenvie-os se necessário.
-
-[Novo Conteúdo]
-* Adicionada opção "Mapa Adulto" nas configurações de envio de mapas pelos usuários.
-* Adicionada configuração para "Desativar viagem para Mapas Adultos via Moon Gate."
-* Adicionada a façanha "Wall of Flesh" ao Ighorlnak.
-* Adicionada receita de pãozinho de carne.
-* Adicionada receita de bibimbap grelhado em pedra.
-* Adicionado Decameron.
-* Adicionada cauda de lobo como drop raro para espécies tipo lobo e cão.
-* Adicionados 4 novos monstros.
-
-[Adições e Alterações]
-* Ao escovar, se o alvo nunca tiver ficado descontente, sua chance de revidar passa a ser 0.
-* A taxidermia agora inclui NPCs que doaram suas taxidermias quando o favor está alto.
-* O alcance das façanhas "Acid Body" e "Spiky" agora depende do nível da façanha.
-* Ajustado o diálogo de Demitas sobre Kettle no Cenário Domiciliar (expressão inadequada para alguém que mantém sempre os olhos fechados).
-* Ajustado o diálogo de Kettle na missão "Gold Sleeping in the Mine" (expressão inadequada para um personagem cego).
-* Comida produzida por residentes da base enquanto trabalham é tratada como lixo (prato falho).
-* Desabilitada a coleta com escovas (para evitar cliques errados).
-* Adicionada caixa de impostos à Embaixada de Palmia.
-* O Bilhete da Coleção de Móveis de Palmia agora pode ser usado na Embaixada de Palmia.
-* Ajustadas receitas de sushi.
-* Ajustadas receitas de curry.
-* Adicionada receita de ferramenta de alquimia para iniciantes às receitas padrão.
-* Reforços convocados por varinhas amaldiçoadas agora se tornam hostis.
-* Gráficos dos morcegos foram substituídos.
-* Adicionada tag [filth] (sujeira) à espécie morcego (para distribuição por tipo de masmorra).
-* Atualizada a tradução chinesa.
-
-[Correções]
-* Corrigido bug em que o móvel de mais alta qualidade não era gerado na geração aleatória de móveis.
-* Corrigido glitch ao copiar blocos de água com blocos falsos.
-* Outros ajustes e correções menores.
-
-[Observações]
-* Esta é uma atualização temporária para migração de servidor, portanto observe que alguns recursos adicionados no Nightly podem ainda não estar totalmente balanceados.
+* A exibição de imagem de fundo para o widget da tela lateral foi removida devido à recente externalização dos arquivos da galeria de arte do jogo.
+* Esta atualização foca principalmente em adições de itens e conteúdo.
