@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Meta>
-  <title>Português Brasileiro (PTBR) com Portraits</title>
-  <id>elin_language_portuguese_with_portraits</id>
+  <title>Português Brasileiro (PTBR)</title>
+  <id>elin_language_portuguese</id>
   <author>isyuricunha</author>
   <builtin>false</builtin>
   <loadPriority>-20</loadPriority>
   <version>23.99.2</version>
-  <tags>General,Translation,Portraits</tags>
+  <tags>General,Translation</tags>
   <visibility>Public</visibility>
   <description>
 [h1][b]Por favor, leia:[/b][/h1]
@@ -26,13 +26,13 @@ Para discutir o mod, reportar bugs ou solicitar atualizações, junte-se ao Disc
 
 [b]Como vocês estão?[/b]
 
-Tradução está 100% com a tradução em Inglês Oficial do jogo, e adicionar 250 novos portraits.
+Tradução está 100% com a tradução em Inglês Oficial do jogo até a data de: 3 de Abril de 2025.
 
 [hr]
 
 [h2][b]Vamos lá:[/b][/h2]
 
-- Os textos que estão em chinês, não estão nos arquivos de tradução, ou eu não achei/vi, acontece.
+- Os textos que estão em chiês, não estão nos arquivos de tradução.
 
 [hr]
 
