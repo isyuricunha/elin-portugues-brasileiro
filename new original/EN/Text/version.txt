@@ -11,83 +11,188 @@ Welcome to Elin, and thank you for participating in the Early Access(EA)! We pla
 {link,Dev Room(Official) - Elin Links、Troubleshooting、and Mod information,http://ylvania.org/elin_dev_e.html}
 
 {topic, Elin Update Information}
-■ 2/6 2026 EA 23.267 Stable Patch 1
+■ 3/2 2026 EA 23.282 Stable Patch 3
 
-[Fixes]
-* Fixed errors that occurred when loading some mods.
+[Changes]
+* When the PC is carrying Churyu, cats will now prioritize gathering around the PC.
+* Fixed an issue where the death location icon was not being displayed on the global map.
+* Slimes can no longer use "Devour" while affected by anorexia.
+* The feat "Beloved" no longer applies to split fiancés.
+* Added the "Stats" command to the console.
 
-■ 2/6 2026 EA 23.267 Stable
+[Notes]
+* If no major issues are found, development will move back to Nightly builds.
 
-After updating the stable version, Mods from previous versions may stop working or behave strangely. If you notice unusual behavior, please try disabling Mods and test again.
+■ 3/2 2026 EA 23.282 Stable Patch 2
 
-[New Content]
-* (Backer Wish) Added the magic “Telekinesis”.
-* Updated the in-game art gallery.
-* Added winter outfit for Verna.
-* Added winter outfit for Mesherada.
-* Added winter outfit for Kiria.
-* Added winter outfit for Younger Snow Leopard Sister.
-* Added a portrait for Duponne.
-* Added the feat “Beheading Instinct”. Granted to Vorpal Bunny, Murder Ball, Ancient Mantis Shrimp and others.
-* Added the feat “Mimic Ecology”. Granted to Mimics.
-* Added the status “Mental Wall”. Applied when being blown away by Telekinesis (to prevent lockups).
-* Added furniture “1-Man”. Also added as a casino prize.
-* Added furniture “Toilet”.
-* Added 13 types of furniture “Giant Statue”.
-* Added 20 types of furniture “Plamo”.
-* Added 27 types of furniture “Bird”. Adjusted positions of some existing graphics.
-* Added 2 types of stone floors.
-* Added 3 monster types.
-* Added 1 rare monster type.
+[Changes]
+* Fixed an issue where typing nyan in chat did not trigger *nyan*.
+
+■ 3/2 2026 EA 23.282 Stable Patch 1
+
+[Changes]
+* Fixed an issue where entering "@" in chat without a following number would cause an error.
+
+■ 3/2 2026 EA 23.282 Stable
+(Translated by ChatGPT)
 
 [Additions and Changes]
-* Pets that are being ridden or parasitized can no longer be butchered. Also, the butcher dialog now displays the target’s name (to prevent accidental butchering).
-* Companions fishing together will no longer pick up items other than fish if they are too heavy.
-* When using the Gun Barrel Processor or Grindstone, companions’ inventories can now also be selected.
-* Adjusted font sizes and layout in the character sheet so text does not overlap even when main attributes are extremely high.
-* Items held by residents or companions can now also be marked as “Important”. Items marked as Important will not be discarded or placed into shared containers automatically.
-* When an adventurer surrenders during a sparring match, they will no longer be attacked further.
-* Failed cookie cooking now produces “Annoying Cookies”.
-* When switching equipment sets, equipment placed in the hotbar will be excluded from equipment switching.
-* Adjusted priority of secondary sorting by item name. During sorting, items such as Weekly Adventurers will now be ordered starting from the lowest issue number.
-* Status icon positions and speech bubble positions are now adjusted per character. Also adjusted status icon positions for Triceratops, Mechanical Shark, and others.
-* The in-game art gallery is now loaded from an external folder (since embedding it increased the game size too much). Thumbnail images are now generated automatically.
-* Added jpeg format support for loading external images used by Mods and similar content.
-* When affected by status ailments, blessings, curses, etc., the tooltip shown on mouse-over of the icon will now clearly display the category of that status.
-* When companions being ridden or parasitized enter forced death processing due to non-standard damage (self-destruction, hatching, etc.), they will now have their HP reduced to 0 and become unconscious.
-* Adjusted the activation conditions for Beheading. Against bosses and uniques, the HP threshold for activation is now lower.
-* Enhanced the effect of the magic “Flare”.
-* Adjusted bonuses of the “Mimic” status. Mimic will now be deactivated when hit by thrown items or whipped with an Egg Whip.
-* When entering the “Mimic” status, if there are items marked as “Important” in the inventory, those items will be prioritized for mimicking.
-* Companions in the “Mimic” status can now be targeted and interacted with as usual.
-* Adjusted the spawn rate of NPC “Mimic” (reduced).
-* Adjusted the “Beast of Possibility” feat on NPC “Demilich” from -2 to -1.
-* Adjusted the speed bonus of NPC “Starfish” from -100 to -70.
-* Adjusted NPCs “Giant Fish”, “Electric Eel”, “Shark”, “Mechanical Shark”, and “Younger Sister Shark”, mainly increasing HP for large fish-type NPCs (they were weaker than they looked).
-* Added the non-rotting trait to furniture “(Plamo) Bird”.
-* Changed the initial material of furniture “Lulwy Statue” to marble. Also internally added the Ehekatl Statue and refined the Jure Statue.
-* Replaced the graphic for furniture “Wedding Cake”.
-* Updated the Chinese translation.
-
-[Death Sentence Related]
-* Messengers of Death and Reapers will now follow the player when moving into a tent.
-* Praying to a god will now remove Death Sentence.
-* Death Sentence will now be removed when leaving the current map or destroying the declarer.
-* When the target is a powerful enemy, Death Sentence will no longer cause instant death, but instead deal damage based on a percentage of max HP.
-* When affected by Death Sentence, auto-combat will now be interrupted when the remaining turns reach 3 or less.
-* Some forced death processes will now kill ridden or parasitic pets as well (currently only applies to Death Sentence).
-* Euthanasia via Heavenly Injection and Death Sentence are now processed as separate effects.
-* Added animated effects to Death Sentence.
+* Added a chat key to key settings (default: Return Key). Pressing it in-game allows the PC to speak any line of dialogue.
+* Entering @ followed by a number (e.g., @1) at the start of chat now makes another party member speak the line.
+* Entering "nyan" in chat now displays the current number of cats lured with Churyu. Also improved how cats lured with Churyu are counted.
+* Enter and Backspace can now be assigned in key settings.
+* Wedding rings and collars given during a proposal are now upgraded to mythical quality (no additional enchants; mainly for destruction protection. Existing ones will change upon reforging).
+* "Intimate" actions with drunk characters or a fiancé/fiancée can now be performed inside tents.
+* Changed the default material of the furniture "Champagne Tower" to Topaz.
+* Renamed the ability "French Kiss" to "Deep Kiss."
+* Added Chinese achievement text.
 
 [Fixes]
-* Fixed an issue where the translation "Game" folder was not automatically generated when creating a translation Mod.
-* Fixed an issue where non-sellable items could appear among books loaned by NPC “Seeker”.
-* Adjusted the graphic of the female Black Knight (it was not black).
-* Fixed a bug related to monster level on summon.
-* Fixed an issue where underwater speed penalties were applied while walking on frozen water.
-* Fixed an overflow issue related to magic enhancement enchantments.
+* Fixed an issue where underwater effects would appear during wedding dialogue if the ceremony quest was initiated underwater.
 * Other minor fixes and adjustments.
 
 [Notes]
-* Background image display for the side screen widget has been removed due to the recent externalization of the in-game art gallery files.
-* This update focuses mainly on item and content additions.
+
+* The quality change for wedding rings is somewhat experimental. For the next stable version, considering introducing Garok’s Hammer (which would add enchants in addition to upgrading quality).
+
+■ 3/1 2026 EA 23.281 Stable
+
+After updating the stable version, Mods from previous versions may stop working or behave strangely. If you notice unusual behavior, please try disabling Mods and test again.
+
+[Highlights]
+* Added proposal and marriage features. Weddings can now be held at the Old Church.
+* Made the "Slime" race playable. By preying on others, you can acquire body parts, skills, and abilities.
+* Implemented Steam achievements. Added 15 new achievements.
+* Renamed the action "Pee" to "Bathe."
+* Wandering priests can now rarely spawn on outdoor maps.
+* Updated the mod framework. Thanks, DK!
+
+[New Content]
+* Updated the in-game gallery.
+* Updated ability icons.
+* Added the player-acquirable feat "Fast Eater." Also granted to certain NPCs such as the Gluttonous Walrus.
+* Added the ability "Song of the End."
+* Added the unique NPC Stardust Diva "Mimululu No.9," placed in Palmia. Mimululu now sells certain cassette tapes.
+* Added the condition "Shadowform" and the ability "Shadowform." NPC "Shade" may sometimes contain other monsters inside.
+* Added the weapon "Leek."
+* Added the weapon "Cake Cutter."
+* Added the armor "Wedding Dress." Recipe included.
+* Added the armor "Wedding Veil." Recipe included.
+* Added the armor "Tuxedo." Recipe included.
+* Added the item "Message in a bottle." Spawns on beaches and in the sea.
+* Added the item "Marriage License." Sold by notaries.
+* Added the item "Divorce Paper." Sold by notaries.
+* Added the instrument "Ocarina." Recipe included.
+* Added 2 types of "Mannequin" furniture.
+* Added 2 types of "Shower Head" furniture. Recipes included.
+* Added 2 types of "Plamo" furniture.
+* Added "Table" furniture.
+* Added 3 types of "Assorted Sweets" furniture.
+* Added 1 type of "Small Potted Plant" furniture.
+* Added 2 types of "Long Bench" furniture.
+* Added "Music Box" furniture.
+* Added 2 types of "Votive Candle Stand" furniture.
+* Added "Rose Window" furniture. Recipe included.
+* Added "Statue of the Creator" furniture. Included in the initial recipe list. May receive additional uses in user maps in the future.
+* Added the vehicle "Flying Nimbus."
+* Added Red Book "Lesser Deity: Strife." Placed in the Seeker's Keep.
+* Added Red Book "Lesser Deity: Trickery." Placed in the  Seeker's Keep.
+* Added Red Book "Lesser Deity: Moonshadow." Placed in  Seeker's Keep.
+* Added Red Book "The Fox Tribes." Added to both Mifu and Nefu villages.
+* Added 3 monsters.
+* Added 1 friendly NPC.
+* Added hymns of Kumiromi and Ehekatl to the game.
+* Added 2 music box tracks (1 currently unused).
+* Added console commands "ResetAchievement(id)" and "ResetAllAchievement()."
+
+[Marriage]
+* If you possess a engagement ring or collar, you can now propose to companions via the "Actually…" dialogue option.
+* On a successful proposal, a message is sent to the Palmia Times log.
+* After your first successful proposal, Mimululu begins selling the Kumiromi and Ehekatl cassette tapes.
+* Added the feat "Beloved," granted to fiancés.
+* Rings or collars given to a fiancé become attuned to them and can only be equipped by that fiancé. They also gain an additional rune slot.
+* Using a Scroll of Reconstruction on an attuned ring or collar will regenerate it as bound again, retaining the rune slot bonus.
+* Attuned engagement rings or collars cannot be used for proposals or duplicated.
+* Attuned engagement rings or collars cannot be equipped simultaneously in multiples.
+* Added new dialogue when engaging in intimate actions with a fiancé. Fiancés no longer charge money for such interactions.
+* Marriage history is now displayed on the PC character sheet.
+* Fiancés in the same party may fight if there are multiple.
+* Added the feat "Flowers in Both Arms." Added as a starting feat for the Eulderna and Juere races, allowing multiple fiancés.
+* Added a wedding quest and the Old Church map. You can hold a wedding there by speaking to your fiancé.
+* Added the field effect "Bottomless Banquet," always active during weddings.
+* Speaking to your fiancé during the wedding grants the weapon "Cake Cutter."
+* Added the ability "Kiss," learned upon completing the wedding quest.
+* Added new text when speaking to attendees or your fiancé during the wedding.
+* Added wedding congratulatory lines from the gods.
+* Engagements can now be dissolved by submitting Divorce Papers.
+
+[Slime]
+* Adjusted initial skills and stats for the Slime race.
+* Added the feat "Predatory Evolution" to Slimes (effect applies to player only).
+* Set the maximum level of "Predatory Evolution" to 8. Gene slot limit starts at -6 and increases with each level. Leveling format is similar to the Fox maid.
+* With "Predatory Evolution," eating genes directly grants their effects, consuming feat points based on gene cost.
+* Required feat points for gene consumption reduced to 1/20 of original gene cost.
+* Eating a recessive gene removes the most recently acquired gene. Eating a brain gene shuffles all acquired genes.
+* Added the ability "Devour," automatically learned when possessing "Predatory Evolution."
+* Using "Devour" on a target absorbs its genes without consuming feat points. The target immediately becomes hostile.
+* If no valid gene is obtained after multiple rolls, a recessive gene is acquired instead.
+* When using "Devour" while not hungry, a message is displayed. On success, grants the same food effect as eating an egg.
+* The PC now uses learned abilities in auto-combat. Spells learned via genes do not consume stock.
+* Learned abilities gain experience even without stock.
+* Some abilities, such as "Hand of Weakening," are now used by the player in auto-combat.
+* The "Maconomy" effect now always applies to learned abilities, even without sufficient stock.
+* Genes containing the feat "Sacred Twilight" cannot be recovered as recessive genes (PC only), and such genes cannot be absorbed via predation.
+* The feat "Fox Maiden" cannot be applied to the PC via genes. The feat "Curse of the Manor" and the ability "Devour" can no longer appear on genes.
+
+[Additions and Changes]
+* Added visual effects to certain intimate actions (Succubi enhanced).
+* Slightly improved the Village of Atonement (Added landmines, lighting changes based on elevation).
+* When a Mani follower’s ally dominates a machine, it now becomes that ally’s minion instead of the PC’s.
+* Piety no longer decreases when offering if Piety exceeds Faith skill.
+* Faith skill enchantments now appear less frequently on equipment.
+* When eligible to receive apostles or divine gear from God, offering now displays a hint via divine message.
+* When fishing, there is now a 1/1000 chance the fish will be stolen.
+* Allies will accept attuned equipment even if marked as important.
+* Even when worshiping Eyth of Void, divine message ("…") is displayed.
+* Added the throwBall tag for beach ball-like trajectories. Applied to bouquets.
+* Performance rewards now animate along the same arc when thrown.
+* While using a song stance, the corresponding song ability gains experience. Tooltips now display stance power.
+* Negative skills and abilities can no longer appear on genes.
+* Set the maximum required experience for leveling to 100 million.
+* Improved event dialogue window UI (altars, engagement, etc.). Refined altar dialogue text.
+* When using a rod while invisible, invisibility now has a 50% chance to be dispelled.
+* In December, town residents now wear Santa hats.
+* Forestry signs placed near others reduce growth speed.
+* Book indices are now generated only when needed (improves load time).
+* Improved HP widget text size and added margin/font size settings.
+* Height and weight now display with comma separators.
+* Improved name display for fake blocks and fake objects.
+* The status "Rebirth" now prevents death from "Death Sentence," but is consumed.
+* Added sound effects to "Headpat." Cannot pat from a distance any more.
+* Added a cooldown to "Death Sentence."
+* "Dream Bug" is now hidden and unusable without the "Moonlit Kin" feat.
+* With the "Aquatic" feat, the PC can breathe underwater.
+* Adjusted "Efficient Feeder" effect (+25% → +30%).
+* "Rune Vessel" tooltip text grays out when all rune slots are already used.
+* Added the feat "Healing Instinct" to NPC "Healer."
+* Added rare drop "Shiva’s Tail" to NPC "Shiba Crab."
+* Replaced the graphic for NPC "Shade."
+* Updated snow graphics.
+* Updated Chinese translations.
+
+[Fixes]
+* Fixed an issue where negative-level funnels and bits could be summoned.
+* Fixed Scavenger feat Lv3 causing enemies to avoid traps.
+* Fixed divine body pillow effects not applying when sleeping in a bed placed on the ground.
+* Fixed incorrect display of temporary main attribute potential bonuses during character creation.
+* Fixed tooltip layout misalignment.
+* Fixed hit-rate overflow.
+* Fixed overflow when using rods.
+* Various minor fixes and adjustments.
+
+[Notes]
+* Slime and Predatory Evolution mechanics may continue to change. Some abilities may revert to auto-combat-only use.
+* Gene integration for non-Slime PCs may be still implemented in the future. Predatory Evolution lays the groundwork for this system.
+* Mimululu cannot currently be invited as a resident. Her cassette shop may require specific quest completion in the future.
+* Marriage features will continue to expand. Additional date spot maps and multiple wedding venues may be interesting.. It may even become possible for players to create and upload their own wedding venues.
+* A legacy carryover system of Elona is under consideration but would be a long-term update. Rather than passing down genes with your spouse, the idea is for the two of you to cultivate the world’s seeds and saplings together—allowing the world itself (maps and residents you created) to carry over.
