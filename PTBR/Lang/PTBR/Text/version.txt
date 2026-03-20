@@ -21,187 +21,85 @@ A tradução é feita por um humano, e não IA. As partes indicadas como "Traduz
 Aqui está a tradução completa das mudanças:
 
 {topic, Informações De Atualização Do Elin}
-■ 02/03/2026 EA 23.282 Estável Patch 3
+■ 21/03/2026 EA 23.287 Estável
 
-[Alterações]
-* Quando o Personagem estiver carregando Churyu, os gatos agora priorizarão se reunir ao redor do Personagem.
-* Corrigido um problema onde o ícone do local de morte não era exibido no mapa global.
-* Slimes não podem mais usar "Devorar" enquanto estiverem afetados por anorexia.
-* O feito "Amado" não se aplica mais a noivos divididos.
-* Adicionado o comando "Stats" ao console.
-
-[Notas]
-* Se nenhum problema grave for encontrado, o desenvolvimento voltará para as versões Nightly.
-
-■ 02/03/2026 EA 23.282 Estável Patch 2
-
-[Alterações]
-* Corrigido um problema onde digitar nyan no chat não ativava *nyan*.
-
-■ 02/03/2026 EA 23.282 Estável Patch 1
-
-[Alterações]
-* Corrigido um problema onde digitar "@" no chat sem um número a seguir causava um erro.
-
-■ 02/03/2026 EA 23.282 Estável
-(Traduzido Por ChatGPT)
-
-[Adições E Alterações]
-* Adicionada uma tecla de chat nas configurações de teclas (padrão: Tecla Enter). Pressioná-la durante o jogo permite que o Personagem fale qualquer linha de diálogo.
-* Digitar @ seguido de um número (ex.: @1) no início do chat faz com que outro membro do grupo fale a linha.
-* Digitar "nyan" no chat agora exibe a quantidade atual de gatos atraídos com Churyu. Também foi melhorada a forma como os gatos atraídos com Churyu são contados.
-* Enter e Backspace agora podem ser atribuídos nas configurações de teclas.
-* Alianças de casamento e coleiras dadas durante uma proposta agora são aprimoradas para qualidade mítica (sem encantamentos adicionais; principalmente para proteção contra destruição. As existentes mudarão ao serem reforjadas).
-* Ações "Íntimas" com personagens bêbados ou com um noivo/noiva agora podem ser realizadas dentro de tendas.
-* Alterado o material padrão da mobília "Torre De Champanhe" para Topázio.
-* Renomeada a habilidade "Beijo Francês" para "Beijo Profundo."
-* Adicionado texto de conquistas em chinês.
-
-[Correções]
-* Corrigido um problema onde efeitos subaquáticos apareciam durante o diálogo do casamento se a missão da cerimônia fosse iniciada debaixo d'água.
-* Outras correções e ajustes menores.
-
-[Notas]
-* A mudança de qualidade das alianças de casamento é um tanto experimental. Para a próxima versão estável, considerando a introdução do Martelo De Garok (que adicionaria encantamentos além de aprimorar a qualidade).
-
-■ 01/03/2026 EA 23.281 Estável
-
-Após atualizar para a versão estável, Mods de versões anteriores podem parar de funcionar ou se comportar de maneira estranha. Se notar algum comportamento incomum, tente desativar os Mods e teste novamente.
+Após atualizar para a versão estável, mods de versões anteriores podem parar de funcionar ou apresentar comportamentos estranhos. Se notar algum comportamento incomum, tente desativar os mods e teste novamente.
 
 [Destaques]
-* Adicionadas funcionalidades de proposta e casamento. Casamentos agora podem ser realizados na Igreja Antiga.
-* A raça "Slime" agora está disponível para jogadores. Ao predar outros, é possível adquirir partes do corpo, habilidades e feitos.
-* Implementadas conquistas do Steam. Adicionadas 15 novas conquistas.
-* Renomeada a ação "Urinar" para "Banhar-Se."
-* Padres errantes agora podem aparecer raramente em mapas externos.
-* Atualizado o framework de mods. Obrigado, DK!
+* Adicionado o Quadro de Companheiros. Agora é possível selecionar membros do grupo a partir de uma lista de residentes em todas as bases, e as configurações do grupo podem ser salvas e recuperadas.
+* Mad Millionaires (Milionários Malucos) podem aparecer em baixa chance durante a regeneração das cidades.
+* Seu(sua) amado(a) enviará uma carta um ano após uma proposta.
+* Agora é possível comprar itens com o Guardião do Jardim usando influência.
+* Alteradas as cores das flores de cerejeira na Vila de Mifu para o estilo outonal. Também alterada a cor das pétalas durante a adoração à Kizuami para o estilo outonal.
+* Melhoria significativa na velocidade de processamento das interfaces do tipo lista que exibem NPCs, como o Quadro de Residentes e o Quadro de Companheiros.
+* Atualizado e aprimorado o framework de mods. Obrigado, DK!
 
 [Novo Conteúdo]
-* Atualizada a galeria do jogo.
-* Atualizados os ícones de habilidades.
-* Adicionado o feito adquirível pelo jogador "Comedor Veloz." Também concedido a certos NPCs como a Morsa Glutona.
-* Adicionada a habilidade "Canção Do Fim."
-* Adicionado o NPC único Diva Das Estrelas "Mimululu Nº 9," posicionado em Palmia. Mimululu agora vende certas fitas cassete.
-* Adicionada a condição "Forma Das Sombras" e a habilidade "Forma Das Sombras." O NPC "Sombra" pode às vezes conter outros monstros em seu interior.
-* Adicionada a arma "Alho-Poró."
-* Adicionada a arma "Cortador De Bolo."
-* Adicionada a armadura "Vestido De Noiva." Receita incluída.
-* Adicionada a armadura "Véu De Noiva." Receita incluída.
-* Adicionada a armadura "Smoking." Receita incluída.
-* Adicionado o item "Mensagem Em Uma Garrafa." Aparece em praias e no mar.
-* Adicionado o item "Certidão De Casamento." Vendida por tabeliães.
-* Adicionado o item "Papel De Divórcio." Vendido por tabeliães.
-* Adicionado o instrumento "Ocarina." Receita incluída.
-* Adicionados 2 tipos de mobília "Manequim."
-* Adicionados 2 tipos de mobília "Chuveiro." Receitas incluídas.
-* Adicionados 2 tipos de mobília "Plamo."
-* Adicionada a mobília "Mesa."
-* Adicionados 3 tipos de mobília "Sortido De Doces."
-* Adicionado 1 tipo de mobília "Vaso De Planta Pequeno."
-* Adicionados 2 tipos de mobília "Banco Longo."
-* Adicionada a mobília "Caixinha De Música."
-* Adicionados 2 tipos de mobília "Castiçal Votivo."
-* Adicionada a mobília "Vitral." Receita incluída.
-* Adicionada a mobília "Estátua Do Criador." Incluída na lista inicial de receitas. Pode receber usos adicionais em mapas de usuários no futuro.
-* Adicionado o veículo "Nuvem Voadora."
-* Adicionado o Livro Vermelho "Divindade Menor: Conflito." Posicionado na Fortaleza Do Buscador.
-* Adicionado o Livro Vermelho "Divindade Menor: Trickery." Posicionado na Fortaleza Do Buscador.
-* Adicionado o Livro Vermelho "Divindade Menor: Sombra Da Lua." Posicionado na Fortaleza Do Buscador.
-* Adicionado o Livro Vermelho "As Tribos Das Raposas." Adicionado tanto à Vila Mifu quanto à Vila Nefu.
-* Adicionados 3 monstros.
-* Adicionado 1 NPC amigável.
-* Adicionados os hinos de Kumiromi e Ehekatl ao jogo.
-* Adicionadas 2 faixas para a caixinha de música (1 ainda sem uso).
-* Adicionados os comandos de console "ResetAchievement(id)" e "ResetAllAchievement()."
+* Adicionado um atalho para a "Console de Inicialização" nas configurações de teclas na janela de Configurações.
+* Adicionada uma faixa musical da Kumiromi para o music box.
+* Adicionada a habilidade "Tapa-Mil".
+* Adicionada a habilidade "Arremesso de Ouro".
+* Adicionada a habilidade "Jogada de Dinheiro".
+* Adicionados efeitos sonoros à habilidade "Desenho". Também foram adicionados vários efeitos sonoros mágicos para buffs e efeitos semelhantes.
+* Adicionado o material "Nuvem".
+* Adicionado o item "Aviso de Anel de Casamento Perdido".
+* Adicionado o item "★Martelo de Garokk". Disponível como prêmio de medalha pequena (estoque limitado; mais estoque pode ser adicionado posteriormente por meio de missões).
+* Adicionado o item "Pergaminho da Migração do Gato Prateado". Disponível no estoque do Guardião.
+* Adicionado o item "Pergaminho de Epíteto". Disponível no estoque do Guardião.
+* Adicionado o item "Pergaminho de Falsificação da Árvore Genealógica". Disponível no estoque do Guardião.
+* Adicionados móveis de "Nuvem".
+* Adicionados 8 tipos de móveis "Pedra do Jardim".
+* Adicionado o móvel "Quadro de Companheiros".
+* Adicionada uma versão de parede do "Quadro de Companheiros".
+* Adicionado o objeto de mapa "Pedras para Pisar".
+* Adicionado o bloco "Piso de Nuvem".
+* Adicionado o bloco "Bloco de Nuvem".
+* Adicionado o bloco "Bloco Alienígena".
+* Adicionado o bloco "Piso Alienígena".
+* Adicionado o bloco "Piso de Cogumelo" (que já existia apenas como plataforma).
+* Adicionado 1 NPC neutro (Mad Millionaire).
+* Adicionada a conquista "Heh heh heh...".
+* Adicionada a conquista "Ah, o Cheiro Desta Erva".
+* Adicionada a conquista "É...? Não é como se eu estivesse esperando algo de você ou algo assim!".
+* Adicionada a conquista "Meu nome é Onev, mãe de todas as coisas vivas em Ylva".
+* Adicionada a conquista "*Rin*".
+* Adicionada a conquista "Lá, lá~ Vou te dar um tapinha!".
+* Adicionada a conquista "Este não é meu irmão mais velho de verdade!!!".
+* Adicionada e substituída o ícone da conquista "Eh...? Não...".
 
-[Casamento]
-* Se você possuir um anel de noivado ou coleira, agora é possível pedir alguém em casamento via a opção de diálogo "Na Verdade…"
-* Em uma proposta bem-sucedida, uma mensagem é enviada ao registro do Jornal De Palmia.
-* Após sua primeira proposta bem-sucedida, Mimululu começa a vender as fitas cassete de Kumiromi e Ehekatl.
-* Adicionado o feito "Amado," concedido aos noivos.
-* Anéis ou coleiras dados a um noivo ficam vinculados a ele e só podem ser equipados por esse noivo. Também ganham um slot de runa adicional.
-* Usar um Pergaminho De Reconstrução em um anel ou coleira vinculado o regenerará novamente como vinculado, mantendo o bônus de slot de runa.
-* Anéis de noivado ou coleiras vinculados não podem ser usados para propostas nem duplicados.
-* Anéis de noivado ou coleiras vinculados não podem ser equipados simultaneamente em múltiplas cópias.
-* Adicionados novos diálogos ao realizar ações íntimas com um noivo. Noivos não cobram mais dinheiro por essas interações.
-* O histórico de casamentos agora é exibido na ficha do Personagem.
-* Noivos no mesmo grupo podem brigar se houver mais de um.
-* Adicionado o feito "Flores Em Ambos Os Braços." Adicionado como feito inicial para as raças Eulderna e Juere, permitindo múltiplos noivos.
-* Adicionada a missão de casamento e o mapa da Igreja Antiga. Você pode realizar um casamento lá conversando com seu noivo.
-* Adicionado o efeito de campo "Banquete Sem Fim," sempre ativo durante casamentos.
-* Conversar com seu noivo durante o casamento concede a arma "Cortador De Bolo."
-* Adicionada a habilidade "Beijo," aprendida ao concluir a missão do casamento.
-* Adicionados novos textos ao conversar com os convidados ou com seu noivo durante o casamento.
-* Adicionadas falas de parabéns pelo casamento dos deuses.
-* Noivados agora podem ser desfeitos entregando Papéis De Divórcio.
-
-[Slime]
-* Ajustadas as habilidades e atributos iniciais da raça Slime.
-* Adicionado o feito "Evolução Predatória" aos Slimes (efeito aplica-se apenas ao jogador).
-* Definido o nível máximo de "Evolução Predatória" como 8. O limite de slots de genes começa em -6 e aumenta a cada nível. O formato de nivelamento é semelhante ao da Criada Raposa.
-* Com "Evolução Predatória," comer genes diretamente concede seus efeitos, consumindo pontos de feito com base no custo do gene.
-* Pontos de feito necessários para consumo de genes reduzidos para 1/20 do custo original do gene.
-* Comer um gene recessivo remove o gene adquirido mais recentemente. Comer um gene cerebral embaralha todos os genes adquiridos.
-* Adicionada a habilidade "Devorar," aprendida automaticamente ao possuir "Evolução Predatória."
-* Usar "Devorar" em um alvo absorve seus genes sem consumir pontos de feito. O alvo imediatamente se torna hostil.
-* Se nenhum gene válido for obtido após múltiplos sorteios, um gene recessivo é adquirido em seu lugar.
-* Ao usar "Devorar" sem estar com fome, uma mensagem é exibida. Em caso de sucesso, concede o mesmo efeito alimentar de comer um ovo.
-* O Personagem agora usa habilidades aprendidas no combate automático. Magias aprendidas via genes não consomem estoque.
-* Habilidades aprendidas ganham experiência mesmo sem estoque.
-* Algumas habilidades, como "Mão Do Enfraquecimento," agora são usadas pelo jogador no combate automático.
-* O efeito "Maconomia" agora sempre se aplica às habilidades aprendidas, mesmo sem estoque suficiente.
-* Genes contendo o feito "Crepúsculo Sagrado" não podem ser recuperados como genes recessivos (apenas para o jogador), e esses genes não podem ser absorvidos via predação.
-* O feito "Criada Raposa" não pode ser aplicado ao Personagem via genes. O feito "Maldição Do Solar" e a habilidade "Devorar" não podem mais aparecer em genes.
-
-[Adições E Alterações]
-* Adicionados efeitos visuais a certas ações íntimas (Súcubos aprimorados).
-* Ligeiramente melhorada a Vila Da Expiação (Adicionadas minas terrestres, mudanças de iluminação baseadas em elevação).
-* Quando um aliado seguidor de Mani domina uma máquina, ela agora se torna subserviente a esse aliado em vez do Personagem.
-* A Piedade não diminui mais ao fazer oferendas se a Piedade exceder a habilidade de Fé.
-* Encantamentos da habilidade de Fé agora aparecem com menos frequência em equipamentos.
-* Quando elegível para receber apóstolos ou equipamentos divinos de um Deus, fazer uma oferenda agora exibe uma dica via mensagem divina.
-* Ao pescar, agora há 1/1000 de chance de o peixe ser roubado.
-* Aliados aceitarão equipamentos vinculados mesmo que estejam marcados como importantes.
-* Mesmo ao venerar Eyth Do Vazio, a mensagem divina ("…") é exibida.
-* Adicionada a tag throwBall para trajetórias semelhantes às de uma bola de praia. Aplicada a buquês.
-* Recompensas de performance agora animam ao longo do mesmo arco quando arremessadas.
-* Ao usar uma postura de canção, a habilidade de canção correspondente ganha experiência. As dicas de ferramentas agora exibem o poder da postura.
-* Habilidades e feitos negativos não podem mais aparecer em genes.
-* Definida a experiência máxima necessária para subir de nível como 100 milhões.
-* Melhorada a interface da janela de diálogo de eventos (altares, noivado, etc.). Refinado o texto dos diálogos de altar.
-* Ao usar uma varinha enquanto invisível, a invisibilidade agora tem 50% de chance de ser dissipada.
-* Em dezembro, os residentes das cidades agora usam chapéus de Papai Noel.
-* Placas de silvicultura colocadas próximas a outras reduzem a velocidade de crescimento.
-* Índices de livros agora são gerados somente quando necessários (melhora o tempo de carregamento).
-* Melhorado o tamanho do texto do widget de HP e adicionadas configurações de margem e tamanho de fonte.
-* Altura e peso agora são exibidos com separadores de milhar.
-* Melhorada a exibição de nomes para blocos falsos e objetos falsos.
-* O estado "Renascimento" agora impede a morte por "Sentença De Morte," mas é consumido.
-* Adicionados efeitos sonoros a "Afagar A Cabeça." Não é mais possível afagar à distância.
-* Adicionado um tempo de recarga a "Sentença De Morte."
-* "Bicho Dos Sonhos" agora está oculto e não pode ser usado sem o feito "Parente Do Luar."
-* Com o feito "Aquático," o Personagem pode respirar debaixo d'água.
-* Ajustado o efeito de "Alimentador Eficiente" (+25% → +30%).
-* O texto de dica de "Recipiente De Runas" fica acinzentado quando todos os slots de runas já estão em uso.
-* Adicionado o feito "Instinto Curativo" ao NPC "Curador."
-* Adicionado o drop raro "Cauda De Shiva" ao NPC "Caranguejo Shiba."
-* Substituído o gráfico do NPC "Sombra."
+[Adições e Mudanças]
+* Ao entrar no Jardim Pequeno ou no Jardim da Eternidade, o número total de Irmãs Pequenas e Gatos Prateados é exibido no mapa.
+* Colher safras para pedidos de colheita agora concede experiência em Levantamento de Peso aos membros do grupo, com base na quantidade e peso das safras.
+* Casamentos podem ser realizados novamente após um novo casamento.
+* Sons ao redor continuam a tocar mesmo enquanto o PC está cego.
+* O PC não pode mais se beijar. Se o PC estiver montando um pet atualmente (parasitando), mirar em si mesmo fará com que beije o pet.
+* Durante ações íntimas ou tosquia, não apenas os companheiros, mas também seus subordinados não atacarão o alvo do PC.
+* Algumas habilidades, como "Carga", não são mais afetadas pela substituição de genes por predação de slimes e não serão esquecidas após serem aprendidas. Isso agora também está mencionado na dica de ferramenta ao jogar como slime.
+* Pequenas melhorias e correções no mapa subterrâneo do bordel de Derphy.
+* Alguns personagens, como Billy e Renton, foram marcados como personagens únicos internamente, onde antes não haviam sido sinalizados como tal.
+* Ler um Pergaminho de Fé agora aumenta a Piedade apenas quando a Piedade é menor que a habilidade Fé.
+* Conquistas do Steam não são mais verificadas enquanto o jogo é jogado offline.
+* Expandido o limite de caracteres para o chat no jogo. A entrada de múltiplas linhas agora é dividida e exibida linha por linha. Tags decorativas também são removidas do texto exibido no log.
+* Ao jogar como um Slime, magias com estoque esgotado ainda são exibidas na lista de habilidades se já tiverem sido aprendidas.
+* A característica "Peaky" agora pode aparecer em corridas de cavalos em baixa chance.
+* Adicionado um "grande bônus à experiência de montaria" aos efeitos da característica "Peaky".
+* A característica "Domínio Mágico" não pode mais ser obtida através de genes.
+* Adicionada uma tag de "não herdável na fabricação" à característica "Eco".
+* Mesmo com a opção "Continuar Automaticamente a Realização de Ações" ativada, a execução parará se o personagem estiver sufocando.
+* O comando de console "Stats" agora exibe o número total de Irmãs Pequenas e Gatos Prateados migrados.
+* Os comandos de console "ChangeJob" e "ChangeRace" foram alterados para comandos de trapaça.
 * Atualizados os gráficos de neve.
-* Atualizadas as traduções para o chinês.
+* Atualizada a tradução para o chinês.
 
 [Correções]
-* Corrigido um problema onde funis e bits de nível negativo podiam ser invocados.
-* Corrigido o feito Catador Nv3 fazendo com que os inimigos evitassem armadilhas.
-* Corrigido o efeito do travesseiro de corpo divino não sendo aplicado ao dormir em uma cama colocada no chão.
-* Corrigida a exibição incorreta de bônus temporários de potencial de atributos principais durante a criação do personagem.
-* Corrigido o desalinhamento do layout de dicas de ferramentas.
-* Corrigido o estouro da taxa de acerto.
-* Corrigido estouro ao usar varinhas.
-* Várias correções e ajustes menores.
+* Corrigido um problema em que a troca de conjuntos de equipamentos podia causar um erro.
+* Corrigidos estouros em diversos processos.
+* Corrigido o livro vermelho "Sobre os Povofolclore" na Vila de Mifu sendo incorretamente marcado como propriedade de NPC.
+* Corrigidos diversos outros problemas menores e feitas pequenas ajustes.
 
-[Notas]
-* As mecânicas de Slime e Evolução Predatória podem continuar a mudar. Algumas habilidades podem voltar a ser de uso exclusivo no combate automático.
-* A integração de genes para personagens não-Slime pode ainda ser implementada no futuro. A Evolução Predatória estabelece as bases para esse sistema.
-* Mimululu não pode ser convidada como residente atualmente. Sua loja de cassetes pode exigir a conclusão de uma missão específica no futuro.
-* As funcionalidades de casamento continuarão a se expandir. Mapas adicionais de locais para encontros e múltiplos locais de casamento podem ser interessantes. Pode até ser possível para os jogadores criarem e enviarem seus próprios locais de casamento.
-* Um sistema de continuidade de legado de Elona está sendo considerado, mas seria uma atualização de longo prazo. Em vez de transmitir genes com seu cônjuge, a ideia é que os dois cultivem juntos as sementes e mudas do mundo — permitindo que o próprio mundo (mapas e residentes que você criou) seja transmitido.
+[Observações]
+* O Quadro de Companheiros tornou-se uma atualização bastante grande, por isso esta versão estável está sendo lançada um pouco mais cedo do que o usual.
+* Os recursos de suporte a mods estão sendo fortemente aprimorados por DK. No futuro, também gostaríamos de melhorar a compatibilidade com futuras atualizações da versão base do jogo, sempre que possível.
+* Quanto aos prêmios do Guardião do Jardim, como capturar Gatos Prateados pode ser trabalhoso, o plano atual é mantê-los limitados a recompensas do tipo conquista e certos móveis, para que a coleta não se torne necessária.
+* Quanto ao Martelo de Garokk, um meio de obtê-lo novamente por meio de missões ou semelhantes está planejado.
+* Para seeds fixas usadas pelo Martelo de Garokk e recursos semelhantes, estou considerando adicionar uma opção em "Lei do Mundo" para desativar seeds fixas.
