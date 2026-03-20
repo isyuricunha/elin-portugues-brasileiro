@@ -11,188 +11,85 @@ Welcome to Elin, and thank you for participating in the Early Access(EA)! We pla
 {link,Dev Room(Official) - Elin Links、Troubleshooting、and Mod information,http://ylvania.org/elin_dev_e.html}
 
 {topic, Elin Update Information}
-■ 3/2 2026 EA 23.282 Stable Patch 3
-
-[Changes]
-* When the PC is carrying Churyu, cats will now prioritize gathering around the PC.
-* Fixed an issue where the death location icon was not being displayed on the global map.
-* Slimes can no longer use "Devour" while affected by anorexia.
-* The feat "Beloved" no longer applies to split fiancés.
-* Added the "Stats" command to the console.
-
-[Notes]
-* If no major issues are found, development will move back to Nightly builds.
-
-■ 3/2 2026 EA 23.282 Stable Patch 2
-
-[Changes]
-* Fixed an issue where typing nyan in chat did not trigger *nyan*.
-
-■ 3/2 2026 EA 23.282 Stable Patch 1
-
-[Changes]
-* Fixed an issue where entering "@" in chat without a following number would cause an error.
-
-■ 3/2 2026 EA 23.282 Stable
-(Translated by ChatGPT)
-
-[Additions and Changes]
-* Added a chat key to key settings (default: Return Key). Pressing it in-game allows the PC to speak any line of dialogue.
-* Entering @ followed by a number (e.g., @1) at the start of chat now makes another party member speak the line.
-* Entering "nyan" in chat now displays the current number of cats lured with Churyu. Also improved how cats lured with Churyu are counted.
-* Enter and Backspace can now be assigned in key settings.
-* Wedding rings and collars given during a proposal are now upgraded to mythical quality (no additional enchants; mainly for destruction protection. Existing ones will change upon reforging).
-* "Intimate" actions with drunk characters or a fiancé/fiancée can now be performed inside tents.
-* Changed the default material of the furniture "Champagne Tower" to Topaz.
-* Renamed the ability "French Kiss" to "Deep Kiss."
-* Added Chinese achievement text.
-
-[Fixes]
-* Fixed an issue where underwater effects would appear during wedding dialogue if the ceremony quest was initiated underwater.
-* Other minor fixes and adjustments.
-
-[Notes]
-
-* The quality change for wedding rings is somewhat experimental. For the next stable version, considering introducing Garok’s Hammer (which would add enchants in addition to upgrading quality).
-
-■ 3/1 2026 EA 23.281 Stable
+■ 3/21 2026 EA 23.287 Stable
 
 After updating the stable version, Mods from previous versions may stop working or behave strangely. If you notice unusual behavior, please try disabling Mods and test again.
 
 [Highlights]
-* Added proposal and marriage features. Weddings can now be held at the Old Church.
-* Made the "Slime" race playable. By preying on others, you can acquire body parts, skills, and abilities.
-* Implemented Steam achievements. Added 15 new achievements.
-* Renamed the action "Pee" to "Bathe."
-* Wandering priests can now rarely spawn on outdoor maps.
-* Updated the mod framework. Thanks, DK!
+* Added the Roster Board. Party members can now be selected from a list of residents across all bases, and party setups can be saved and recalled.
+* Mad Millionaires can now appear at a low chance when towns are regenerated.
+* Your beloved will send you a letter one year after a proposal.
+* Items can now be purchased from the Keeper of the Garden using influence.
+* Changed the cherry blossom colors in Mifu Village to the autumn style. Also changed the color of flower petals while worshipping Kizuami to the autumn style.
+* Dramatically improved the processing speed of list-type UIs that display NPCs, such as the Resident Board and Roster Board.
+* Updated and enhanced the Mod framework. Thanks DK!
 
 [New Content]
-* Updated the in-game gallery.
-* Updated ability icons.
-* Added the player-acquirable feat "Fast Eater." Also granted to certain NPCs such as the Gluttonous Walrus.
-* Added the ability "Song of the End."
-* Added the unique NPC Stardust Diva "Mimululu No.9," placed in Palmia. Mimululu now sells certain cassette tapes.
-* Added the condition "Shadowform" and the ability "Shadowform." NPC "Shade" may sometimes contain other monsters inside.
-* Added the weapon "Leek."
-* Added the weapon "Cake Cutter."
-* Added the armor "Wedding Dress." Recipe included.
-* Added the armor "Wedding Veil." Recipe included.
-* Added the armor "Tuxedo." Recipe included.
-* Added the item "Message in a bottle." Spawns on beaches and in the sea.
-* Added the item "Marriage License." Sold by notaries.
-* Added the item "Divorce Paper." Sold by notaries.
-* Added the instrument "Ocarina." Recipe included.
-* Added 2 types of "Mannequin" furniture.
-* Added 2 types of "Shower Head" furniture. Recipes included.
-* Added 2 types of "Plamo" furniture.
-* Added "Table" furniture.
-* Added 3 types of "Assorted Sweets" furniture.
-* Added 1 type of "Small Potted Plant" furniture.
-* Added 2 types of "Long Bench" furniture.
-* Added "Music Box" furniture.
-* Added 2 types of "Votive Candle Stand" furniture.
-* Added "Rose Window" furniture. Recipe included.
-* Added "Statue of the Creator" furniture. Included in the initial recipe list. May receive additional uses in user maps in the future.
-* Added the vehicle "Flying Nimbus."
-* Added Red Book "Lesser Deity: Strife." Placed in the Seeker's Keep.
-* Added Red Book "Lesser Deity: Trickery." Placed in the  Seeker's Keep.
-* Added Red Book "Lesser Deity: Moonshadow." Placed in  Seeker's Keep.
-* Added Red Book "The Fox Tribes." Added to both Mifu and Nefu villages.
-* Added 3 monsters.
-* Added 1 friendly NPC.
-* Added hymns of Kumiromi and Ehekatl to the game.
-* Added 2 music box tracks (1 currently unused).
-* Added console commands "ResetAchievement(id)" and "ResetAllAchievement()."
-
-[Marriage]
-* If you possess a engagement ring or collar, you can now propose to companions via the "Actually…" dialogue option.
-* On a successful proposal, a message is sent to the Palmia Times log.
-* After your first successful proposal, Mimululu begins selling the Kumiromi and Ehekatl cassette tapes.
-* Added the feat "Beloved," granted to fiancés.
-* Rings or collars given to a fiancé become attuned to them and can only be equipped by that fiancé. They also gain an additional rune slot.
-* Using a Scroll of Reconstruction on an attuned ring or collar will regenerate it as bound again, retaining the rune slot bonus.
-* Attuned engagement rings or collars cannot be used for proposals or duplicated.
-* Attuned engagement rings or collars cannot be equipped simultaneously in multiples.
-* Added new dialogue when engaging in intimate actions with a fiancé. Fiancés no longer charge money for such interactions.
-* Marriage history is now displayed on the PC character sheet.
-* Fiancés in the same party may fight if there are multiple.
-* Added the feat "Flowers in Both Arms." Added as a starting feat for the Eulderna and Juere races, allowing multiple fiancés.
-* Added a wedding quest and the Old Church map. You can hold a wedding there by speaking to your fiancé.
-* Added the field effect "Bottomless Banquet," always active during weddings.
-* Speaking to your fiancé during the wedding grants the weapon "Cake Cutter."
-* Added the ability "Kiss," learned upon completing the wedding quest.
-* Added new text when speaking to attendees or your fiancé during the wedding.
-* Added wedding congratulatory lines from the gods.
-* Engagements can now be dissolved by submitting Divorce Papers.
-
-[Slime]
-* Adjusted initial skills and stats for the Slime race.
-* Added the feat "Predatory Evolution" to Slimes (effect applies to player only).
-* Set the maximum level of "Predatory Evolution" to 8. Gene slot limit starts at -6 and increases with each level. Leveling format is similar to the Fox maid.
-* With "Predatory Evolution," eating genes directly grants their effects, consuming feat points based on gene cost.
-* Required feat points for gene consumption reduced to 1/20 of original gene cost.
-* Eating a recessive gene removes the most recently acquired gene. Eating a brain gene shuffles all acquired genes.
-* Added the ability "Devour," automatically learned when possessing "Predatory Evolution."
-* Using "Devour" on a target absorbs its genes without consuming feat points. The target immediately becomes hostile.
-* If no valid gene is obtained after multiple rolls, a recessive gene is acquired instead.
-* When using "Devour" while not hungry, a message is displayed. On success, grants the same food effect as eating an egg.
-* The PC now uses learned abilities in auto-combat. Spells learned via genes do not consume stock.
-* Learned abilities gain experience even without stock.
-* Some abilities, such as "Hand of Weakening," are now used by the player in auto-combat.
-* The "Maconomy" effect now always applies to learned abilities, even without sufficient stock.
-* Genes containing the feat "Sacred Twilight" cannot be recovered as recessive genes (PC only), and such genes cannot be absorbed via predation.
-* The feat "Fox Maiden" cannot be applied to the PC via genes. The feat "Curse of the Manor" and the ability "Devour" can no longer appear on genes.
+* Added a "Launch Console" shortcut to the key settings in the Settings window.
+* Added a Kumiromi music box track.
+* Added the ability "Money Slap".
+* Added the ability "Oren Toss".
+* Added the ability "Money Dump".
+* Added sound effects to the ability "Draw". Also added several magic sound effects for buffs and similar effects.
+* Added the material "Cloud".
+* Added the item "Lost Wedding Ring Notice".
+* Added the item "★Garokk's Hammer". Added as a Small Medal prize (limited stock; more stock may be added later through quests).
+* Added the item "Scroll of Silver Cat Migration". Added to the Keeper's stock.
+* Added the item "Scroll of Epithet". Added to the Keeper's stock.
+* Added the item "Scroll of Family Tree Forgery". Added to the Keeper's stock.
+* Added "Cloud" furniture.
+* Added 8 types of "Garden Stone" furniture.
+* Added "Roster Board" furniture.
+* Added a wall-mounted version of the "Roster Board".
+* Added the map object "Stepping Stone".
+* Added the tile "Cloud Floor".
+* Added the tile "Cloud Block".
+* Added the tile "Alien Block".
+* Added the tile "Alien Floor".
+* Added the tile "Mushroom Floor" (previously existed only as a platform).
+* Added 1 neutral NPC (Mad Millionaire).
+* Added the achievement "Heh heh heh...".
+* Added the achievement "Ah, the Scent of This Herb".
+* Added the achievement "I-It's Not Like I'm Expecting Anything from You or Anything!".
+* Added the achievement "My Name Is Onev, Mother of All Living Things in Ylva".
+* Added the achievement "*Rin*".
+* Added the achievement "There, there~ I'll pat you!".
+* Added the achievement "This Isn't My Real Big Brother!!!".
+* Added and replaced the icon for the achievement "Eh...? No...".
 
 [Additions and Changes]
-* Added visual effects to certain intimate actions (Succubi enhanced).
-* Slightly improved the Village of Atonement (Added landmines, lighting changes based on elevation).
-* When a Mani follower’s ally dominates a machine, it now becomes that ally’s minion instead of the PC’s.
-* Piety no longer decreases when offering if Piety exceeds Faith skill.
-* Faith skill enchantments now appear less frequently on equipment.
-* When eligible to receive apostles or divine gear from God, offering now displays a hint via divine message.
-* When fishing, there is now a 1/1000 chance the fish will be stolen.
-* Allies will accept attuned equipment even if marked as important.
-* Even when worshiping Eyth of Void, divine message ("…") is displayed.
-* Added the throwBall tag for beach ball-like trajectories. Applied to bouquets.
-* Performance rewards now animate along the same arc when thrown.
-* While using a song stance, the corresponding song ability gains experience. Tooltips now display stance power.
-* Negative skills and abilities can no longer appear on genes.
-* Set the maximum required experience for leveling to 100 million.
-* Improved event dialogue window UI (altars, engagement, etc.). Refined altar dialogue text.
-* When using a rod while invisible, invisibility now has a 50% chance to be dispelled.
-* In December, town residents now wear Santa hats.
-* Forestry signs placed near others reduce growth speed.
-* Book indices are now generated only when needed (improves load time).
-* Improved HP widget text size and added margin/font size settings.
-* Height and weight now display with comma separators.
-* Improved name display for fake blocks and fake objects.
-* The status "Rebirth" now prevents death from "Death Sentence," but is consumed.
-* Added sound effects to "Headpat." Cannot pat from a distance any more.
-* Added a cooldown to "Death Sentence."
-* "Dream Bug" is now hidden and unusable without the "Moonlit Kin" feat.
-* With the "Aquatic" feat, the PC can breathe underwater.
-* Adjusted "Efficient Feeder" effect (+25% → +30%).
-* "Rune Vessel" tooltip text grays out when all rune slots are already used.
-* Added the feat "Healing Instinct" to NPC "Healer."
-* Added rare drop "Shiva’s Tail" to NPC "Shiba Crab."
-* Replaced the graphic for NPC "Shade."
-* Updated snow graphics.
-* Updated Chinese translations.
+* Entering Little Garden or the Garden of Eternity now displays the total number of Little Sisters and Silver Cats on the map.
+* Harvesting crops for harvest requests now grants Weight Lifting experience to party members based on the number and weight of the crops.
+* Weddings can now be held again after remarrying.
+* Nearby sounds now still play even while the PC is blind.
+* The PC can no longer kiss themselves. If the PC has a pet currently being ridden (parasitizing), targeting yourself will instead kiss that pet.
+* During intimate actions or shearing, not only companions but also their minions will now refrain from attacking the PC's target.
+* Some abilities, such as Charge, are no longer affected by gene replacement from slime predation and will not be forgotten once learned. This is now also stated in the tooltip when playing as a slime.
+* Slightly improved and fixed the underground map of the Derphy brothel.
+* Marked some characters such as Billy and Renton as unique characters internally, where they had not previously been flagged as such.
+* Reading a Scroll of Faith now raises Piety only when Piety is lower than the Faith skill.
+* Steam achievements are no longer checked while the game is being played offline.
+* Expanded the character limit for in-game chat. Multi-line input is now split and output line by line. Decorative tags are now also removed from text shown in the log.
+* When playing as a Slime, spells with depleted stock are now still shown in the ability list if they have been learned as abilities.
+* The "Peaky" feat can now appear on the Horse race at a low chance.
+* Added "a large bonus to riding experience" to the effects of the "Peaky" feat.
+* The feat "Magic Mastery" can no longer be obtained through genes.
+* Added a non-inheritable-on-crafting tag to the trait "Eco".
+* Even when the "Automatically Continue Performing" option is enabled, performing will now stop if the character is suffocating.
+* The console command "Stats" now displays the total number of migrated Little Sisters and Silver Cats.
+* Changed the console commands "ChangeJob" and "ChangeRace" into cheat commands.
+* Updated the snow graphics.
+* Updated the Chinese translation.
 
 [Fixes]
-* Fixed an issue where negative-level funnels and bits could be summoned.
-* Fixed Scavenger feat Lv3 causing enemies to avoid traps.
-* Fixed divine body pillow effects not applying when sleeping in a bed placed on the ground.
-* Fixed incorrect display of temporary main attribute potential bonuses during character creation.
-* Fixed tooltip layout misalignment.
-* Fixed hit-rate overflow.
-* Fixed overflow when using rods.
-* Various minor fixes and adjustments.
+* Fixed an issue where switching equipment sets could sometimes cause an error.
+* Fixed overflows in multiple processes.
+* Fixed the red book "About the Foxfolk" placed in Mifu Village being incorrectly flagged as NPC-owned.
+* Fixed various other minor issues and made small adjustments.
 
 [Notes]
-* Slime and Predatory Evolution mechanics may continue to change. Some abilities may revert to auto-combat-only use.
-* Gene integration for non-Slime PCs may be still implemented in the future. Predatory Evolution lays the groundwork for this system.
-* Mimululu cannot currently be invited as a resident. Her cassette shop may require specific quest completion in the future.
-* Marriage features will continue to expand. Additional date spot maps and multiple wedding venues may be interesting.. It may even become possible for players to create and upload their own wedding venues.
-* A legacy carryover system of Elona is under consideration but would be a long-term update. Rather than passing down genes with your spouse, the idea is for the two of you to cultivate the world’s seeds and saplings together—allowing the world itself (maps and residents you created) to carry over.
+* The Roster Board turned into a fairly large update, so this Stable release is coming a little earlier than usual.
+* Mod support features are currently being heavily enhanced by DK. Going forward, we'd also like to improve compatibility with future base-game version updates where possible.
+* As for the Keeper of the Garden's prizes, since catching Silver Cats can be tedious, the current plan is to keep them limited to achievement-style rewards and certain furniture, so that collecting them does not become necessary.
+* As for Garokk's Hammer, a way to obtain it again through quests or similar is planned.
+* For fixed seeds used by Garokk's Hammer and similar features, I am considering adding an option under "World's Law" to disable fixed seeds.
