@@ -1,8 +1,8 @@
-未知的疾病,,0
+Unknown Disease,,0
 {center}
 
-罹患以太病之后记得喝下这瓶药。
+If you contract Ether Disease, drink this.
 
-我们对以太病知之甚少。似乎被称为以太的物质在体内蓄积就会发病。
+Not much is known yet about this illness. It seems to develop when a substance called ether accumulates in the body.
 
-遗憾的是，在我们如今呼吸的空气中就有微量的以太存在。人类也许快要灭亡了。
+Unfortunately, it appears that even the air we breathe contains trace amounts of this ether. The end of humanity may be near.

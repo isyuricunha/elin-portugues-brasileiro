@@ -1,24 +1,24 @@
-谜之挑战书,独眼男,0
+Strange Letter of Challenge,Man with a scar,0
 
-        嗨，正在阅读此文的冒险者。你好啊。
+Hey there, adventurer. Glad you’re taking the time to read this.
 
-        虽然有些唐突，请问你是否曾与神战斗过呢？
+Let me ask you something—have you ever faced a god?
 
 
-        在提里斯大陆·北提里斯的东南方有个叫做『风沉睡之所』的地方。那里有一位曾经背叛众神而后被众神击败并被封印起来的神。
+Down southeast of North Tyris, there’s a place where the winds rest. That’s where you might run into a god who once defied the heavens, failed, and got sealed away.
 
-        尽管封印已经让那位背叛的神明无法发挥往日的力量，但对方依然是众神之一。贸然挑战，只会让你一败涂地。鲁莽不可取，所以不建议你未经准备便去挑战。但如果你已经到了战无可战，认为「我已无人能敌」的程度，那便到了该去挑战他的时候了。
-
-{p}
-
-        即便是神，被剑砍中也会流血。以精湛的战技正面挑战固然很好，不过瞄准对方的弱点也不失为一种有效的手段。哪怕之前曾经战败过，只要不停挑战，总有一天能将他击败。不要放弃，用力量与智慧去不断地挑战他吧。
-
-        放心，就算解开他的封印，他也不会对世界有什么威胁的。将他困在那里的不仅有诸神的封印，还有曾经被他夺走刀剑之人们的强烈执念。所以你可以安心前去挑战他。
-
-        如果能击败将凡人视为蝼蚁的傲慢古神，那就一定能造就一篇了不起的英雄传说。怎么样，你有兴趣了吧？
+Sure, this god is far from his prime, but he's no easy opponent. Go in swinging without being ready, and you’ll just get crushed. No fun in a one-sided massacre, is there? So, make sure you’re well prepared. When you’ve fought far and wide, and you’re thinking, “There’s no one left in this world who can take me on,” that’s when you're ready to take on this challenge.
 
 {p}
 
-        我打心里期待你的进化能在某日超越神明！
+Even gods bleed if you cut deep enough. You're free to go head-on with your honed skills, or maybe you’ll play some tricks. You may lose once, but defeat isn't the end if you keep coming back. As long as you continue to evolve, you’ll win eventually. Just don’t let up—give it everything you’ve got and keep pushing forward.
 
-P.S. 如果将神击败后，还是渴望战斗的话，就将他的心脏带到混沌祭坛进行献祭吧。这样一来，你们也许能再次相见哦？
+And don’t sweat it about breaking his seal. He’s not going anywhere, and he isn't going to turn into a world-ending threat. His seal and the will of those who had their swords taken from him will be keeping him in his place. You have my word—I’ll be watching.
+
+If you manage to take down that arrogant ancient god who looks down on mortals, that'll be quite the saga. Interested now?
+
+{p}
+
+I’m counting on you to achieve something incredible—something that even surpasses the divine. I’ll be looking forward to it!
+
+P.S. Oh, and if you manage to win but still want more, try offering the god's heart at the Altar of Chaos. You just might get what you want.

@@ -1,91 +1,91 @@
-卡普尔：港口停有不明船只
-今早，一只不知从何而来并且船员构成也不明确的船只停泊于卡普尔港。船上的未知的象形文字引起了广泛关注，为了解开该谜团相关人士正着手展开调查。
+Mysterious Ship Docks at Kapul Port
+This morning, an unidentified ship with unclear origins and crew docked at Kapul. The ship bears unknown hieroglyphics, piquing interest, with ongoing investigations to decipher the mystery.
 @port,guard_m-1
 
-帕罗米亚城墙修复完毕
-在上一次大战中损坏的帕罗米亚王国城墙已完成修复。这使市民的安心感倍增。
+Restoration of Palmia's Castle Walls
+The repair of Palmia Kingdom's castle walls, damaged in a recent war, is now complete, enhancing the city residents' sense of security.
 @gate,UN_nola
 
-约恩异变，庄家歉收令人担忧
-平静祥和的农村约恩，今年的收成不知为何相比往年大幅减少。农民对目前的状况感到头疼不已。
+Harvest Shortage Concerns
+The tranquil farming village of Yowyn faces a significant reduction in this year's harvest compared to usual, leaving farmers grappling with this unexplained phenomenon.
 @farm
 
-诺耶尔发生雪崩
-诺耶尔遭遇大雪崩，村庄附近的路道遭受损害，数十名村民也失去音信。当地已向帕罗米亚王国提出了紧急救援申请。
+Avalanche Strikes Noyel
+Noyel has been hit by a severe avalanche, cutting off communication with dozens of villagers. Damage to nearby roads has led to urgent aid requests to the Palmia Kingdom.
 @snow,UN_zane
 
-鲁米艾斯特，知名乐团消失事件
-在艺术与音乐之都鲁米艾斯特发生了一起知名乐团连夜突然消失的离奇事件。乐团成员皆为艾莱亚族，其失踪的原因目前尚不明了。
+Famous Band Vanishes in Lumiest
+A popular band composed entirely of eleas disappeared overnight in the city of arts. The reasons behind the band's disappearance remain unknown.
 @city
 
-约恩的猫发生奇妙现象
-在平静祥和的农村约恩，夜间发生了猫群聚集的奇妙现象。一部分人认为这或许是魔法师公会的手笔。
+Bizarre Phenomenon of Gathering Cats
+In the tranquil farming village of Yowyn, there is a peculiar phenomenon of cats gathering in groups at night. There are rumors that it might be the work of the Mages Guild.
 @farm
 
-希望在何方？
-针对以往赋税繁重的状况，帕罗米亚王国发表了税制改革计划。对此市民们发出了期待和不安的声音。
+Can we hope?
+The Kingdom of Palmia unveils plans for a rigorous tax system overhaul. Citizens express a mix of hope and apprehension as expectations run high.
 @royal,UN_zane
 
-市民会梦见纸羊吗？
-为应对战时粮食紧缺的问题，帕罗米亚时报向帕罗米亚议会提出了用可食用材料来印刷报纸的提议。据参加议会的贵族透露，贾比王子对此提议破音惊呼「好主意！」。
+Do Citizens Dream Of Paperytic Lamb?
+A plan to print edible Palmia Times as a wartime food solution has been introduced to Palmia Parliament. 'A brilliant idea!' exclaimed Prince Xabi, according to a nobleman present at the session.
 @royal,UN_xabi
 
-颇具人气的库莱姆酒推出新风味！
-库莱姆酒推出新风味「东洋香料」。浓郁香料与奢侈水果所搭配出的绝妙调味已然俘虏成年人的味蕾。本品一经推出在各地区都很快陷入脱销状态。
+New Flavor Hits Crim Ale!
+Crim Ale introduces its newest flavor, 'Oriental Spice'. The perfect balance of aromatic spices and luxurious fruits sure to captivate the adult palate. Stocks are quickly depleting nationwide.
 @tavern
 
-斯塔莎公主在宫廷发表最新时装
-从梅鲁恩来到帕罗米亚宫廷的斯塔莎公主为众人展示了其设计的新颖时装。宫内众人皆为其美丽而惊叹不已，新的流行趋势正在人群中蔓延。
+Princess Stasha Unveils Latest Court Fashion
+Princess Stasha, of Mayroon origin, unveiled her newest fashion at the court of Palmia. The court was left in awe of her beauty, initiating a new trend in fashion.
 @royal,UN_stasha
 
-斯塔莎公主，向料理发起挑战
-斯塔莎公主在宫廷的晚间宴会上展示了其自制的料理。真可谓是技惊四座，这又掀起了新一轮的斯塔莎热潮。
+Cooking Challenge Conquered by Princess Stasha
+Princess Stasha showcased her self-made dishes at a court dinner party. Her exceptional skill and sophistication have astounded everyone, creating a new wave of Stasha mania.
 @royal,UN_stasha
 
-约恩马真乃冒险者的救世主！
-据传言某位被怪物群包围的旅行者由于乘上了突然出现的约恩马从而死里逃生。他对这匹勇敢的马表达了由衷的谢意，并为其献上了满满一大桶草料。
+Yowyn Horse Rescues Traveler!
+A traveler, cornered by monsters, was saved by the sudden intervention of a Yowyn horse. The grateful man expressed his thanks and presented the brave horse with a bucketful of fodder.
 @farm
 
-雪波球人气飙升！
-在北部诺耶尔村饲养的雪波球，由于其可爱的外表以及治愈效果而大受欢迎。虽不知道为何能从它们身上采集到兔子毛，而这或许也是其魅力之一。
+Snow Putit's Popularity Soars High!
+Snow Petit, a common pet from Noyel, is gaining popularity for its irresistible cuteness and calming effect. The mystery of it shedding rabbit fur perhaps enhances its charm.
 @snow
 
-斯塔莎公主，宫内人气飙升
-来自梅鲁恩的公主处事谦和待人亲切，牢牢地抓住了宫内众人的心，其人气之高如今甚至出现了以她命名的俱乐部。为我国带来新风气的公主也深深被国民所爱。
+Princess Stasha: Swift Rise to Popularity
+The genuine nature and affability of Princess from Mayroon has captivated the court's heart, inspiring fan clubs. Her refreshing demeanor has made her an adored figure nationwide.
 @royal,UN_stasha
 
-贾比王子的丑闻被再度点燃
-在卡普尔的酒席上，醉酒的王子透露出了给某位美女的情书中的一部分内容。现已判明那位女性并非其未婚妻斯塔莎公主，宫廷上下一片混乱。目前王子尚未对此事公开表态。
+Court Chaos: Prince's Scandal Reignited
+Prince Xabi, in a drunken state at a Kapul party, revealed a love letter not meant for his fiancée, Princess Stasha. The court awaits the prince's official response.
 @royal,UN_xabi
 
-王子再次引发宫内骚动
-关于贾比王子在这次新婚前夕与斯塔莎公主的密会疑云，其真相终于浮出水面。令人意想不到的是，这次密会的目的是为了安慰得了思乡病的公主。为此宫廷中也有不少人对王子改观了。
+Prince Shakes Court Again
+Prince Xabi is now suspected of secret meetings with his soon-to-be-married Princess Stasha. However, it turns out he was merely comforting her homesickness.
 @royal,UN_xabi
 
-冰雪节的英雄
-在诺耶尔举行的冰雪节上，路过的冒险者用雪建造了惟妙惟肖的雪雕逗孩子们开心。她作为冰雪节的英雄得到了村民的祝福。
+Snow Festival Hero
+At Noyel's snow festival, an adventurer passing by created a stunning snow statue, bringing delight to the children. The villagers honored her as the hero of the festival.
 @snow
 
-暴食海狮的恐怖之处，一夜之间清空存粮
-卡普尔港发生了异常情况。仓库中存粮被一夜之间清空的事件频频发生。经过调查发现是暴食海狮所为。相关部门正在紧急招募冒险者。
+Hungry Sea Lion Terror: Food Stocks Vanish Overnight
+Port Kapul is facing an unusual situation with food storages emptied overnight. Investigations revealed hungry sea lions are to blame. Adventurers are being urgently recruited.
 @port
 
-鲁米艾斯特，号召冒险者参加音乐节
-音乐与艺术之都鲁米艾斯特，号召诸位冒险者参加即将开幕的音乐节。冒险者们将用音乐歌颂一段段雄壮的冒险故事。
+Lumiest Invites Adventurers to Music Festival
+Lumiest, the city of music and arts, has called on adventurers to participate in an upcoming music festival. Epic tales of adventurers are set to be sung.
 @tavern
 
-新的冒险舞台
-无法地带特尔斐的妓院人气飙升。在冒险者们之间，这个诱惑与危险交错的城市已经成为新的冒险舞台。
+New Adventures Begin!
+The brothel in Derphy is experiencing a surge in popularity. The outlaw town, where danger and temptation intermingle, has become the new stage for adventurers.
 @tavern
 
-帕罗米亚上空飞舞的新「财富」
-新王国为彰显其技术力制造了帕罗米亚的首个飞空艇赌场——好运金铃号。船内场地联手帕罗米亚老字号赌场「幸运·饼干」共同构造出了一片全新的梦幻娱乐场地，将为赌博爱好者带来新的刺激。
+New 'Fortune' Dances Above Palmia
+Fortune Bell, the first casino airship in Palmia, built by the New Kingdom to flaunt its technology. In partnership with Palmia's established casino 'Fortune Cookie', the dream leisure ship promises new excitement to casino lovers.
 @casino
 
-飞空赌场，市民间流露出不安的声音
-一部分帕罗米亚市民对赌场飞空艇「好运金铃号」的航行感到不安。由于害怕其不知何时会突然掉下来，这个巨大的飞行物也被人们私下叫成了「浮空爆弹」。
+Citizens Concerned Over Flying Casino
+The casino airship, 'Fortune Bell,' has alarmed citizens of Palmia. The fear that it might crash without warning has led to the airship being referred to as a 'bomb in the sky.'
 @casino
 
-退任卫兵们的未来在天上
-负责运营新王国建造的飞空赌场的「幸运·饼干」开始大量招募任职过守卫的人员。国王泽茵也乐于见到赌场为国家提供就业岗位。
+Fortune Calls Ex-Guards To The Sky
+Former guards are being massively recruited by "Fortune Cookie," the operators of the airship casino built by the New Kingdom. King Zane applauds this employment surge.
 @casino,UN_zane,guard_m-1

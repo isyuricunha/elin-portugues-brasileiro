@@ -1,6 +1,7 @@
-卢茨的日记 6,原勇者卢茨,0
+Journal of Lutz Volume 6,Lutz the Former Hero,0
 
-镐子等道具，都有<color=green>硬度</color>的属性。用坚硬的材料制造的镐子甚至可以砸碎铁块。但用木镐的话，如果挖掘技术不够高，可能连路边的石块都难以开采。
-暂且先回森林中的基地吧。只要用为此准备的<color=green>黑色玄武岩</color>，应该就可以制造能挖掘岩盐的镐子了。
+Tools like pickaxes have something called hardness. A pickaxe made from a tough material can crush even iron ore, but with a wooden pickaxe, unless you're incredibly skilled at mining, you won’t even scratch the surface of ordinary stones.
 
-- 边境森林的原勇者卢茨
+It's time to return to my forest base. If I use that black basalt stone I've been saving for moments like this, I should be able to make a pickaxe that can dig through that rock salt.
+
+- Lutz, the Former Hero in the Remote Forest

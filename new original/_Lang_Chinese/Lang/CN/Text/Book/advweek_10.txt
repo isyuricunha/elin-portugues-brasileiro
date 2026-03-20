@@ -1,51 +1,47 @@
-冒险者周刊 第10期 《投资》,苏婆婆,10,1
+Adventurer's Weekly #10: Investing,Grandma Shu,10,1
 
-<i>欢迎阅读『冒险者周刊』。关于冒险者们都在意的钱该怎么花的问题，今天婆婆我会为大家解答的。</i>
+<i>Welcome to Adventurer's Weekly, where I answer you youngins' questions on money.</i>
 
 
-今天的信，是来自一位港口城镇卡普尔的姑娘呢。
+Today's letter comes all the way from a lass in Port Kapul: <color=blue>"Grandma Shu, now that I've some money, I'm thinking of investing in some businesses. Which ones will give me the highest return?"</color>
 
-<color=blue>「苏婆婆，我存了点钱，想找个地方投资。怎么投资才能得到最高的回报？」</color>
+Ah, to be young, naive, and utterly ignorant. Girl, investment doesn't make you money. You think you can throw some orens at a shopkeeper and that sucker has to pay out to you forever?
+{p}
+Oh, if only — I could've retired fifty years earlier. Maybe that's how things work in Yerl where it's every man for himself, but here in North Tyris we've yet to replace our hearts with mechanical abominations.
+
+
+<b>Business vs Town</b>
+
+First thing you youngins need to know is that you can either invest in individual shops, or to a town as a whole at a secretary. Add a shop's level to the town's, and you get its actual level.
+{p}
+The difference might not seem important to you youngins, but let's say you take a liking to a business and want to invite the owner home. Well, if you invested in the town, your investment's not transferable. Same thing with investing in a shop — anything happens to the shopkeeper, like you banishing the poor soul from your town, you're not getting your money back.
+
+You can see how that might be a problem, eh?
+
+Other thing to note is that investments to towns don't count for merchants' guild contribution. Don't ask me why, those were the rules when I joined and still were when I retired.
 
 {p}
-啊啊，年轻真好啊。纯洁、无知、还天真。听好了姑娘，投资是不会让钱增加的。你就给店主那么点钱，却想让对方一辈子给你分红？ 怎么可能有这种事情。如果真能这样，婆婆我五十年前就能隐居了。
+<b>Benefits</b>
 
+So if you don't invest to make money, what good does it do you? Well, higher-levelled shops stock more goods, and better ones at that. What "better" means depends on the shop: inns sell more nutritious dishes, blacksmiths carry more powerful gear, magic shops stock rarer spells. There was a promising bakery in Palmia Grandma Shu threw a couple million at; when I next visited, they'd the best bread outside of the palace.
 
-■店铺与城镇
-
-年轻人首先要记住这一点，那就是投资可以针对个别的店铺，也可以针对整个城镇进行。找城镇的秘书投资可以提升城镇的整体规模，找店主对商店投资可以提升店铺的规模。
-
-做买卖的时候，店铺的规模并不是只看店铺本身的规模，城镇的规模也会加算到里面。
+Now, there ain't no guarantee. A low-level shop can still carry something really rare, while a high-level one might not have what ya want; there's no threshold at which this or that starts appearin'. Nevertheless, the higher the shop's level, the more likely you'll see what you want, if only by virtue of having more goods in stock.
 {p}
-你觉得没差？ 那你是没想过要把喜欢的店主叫到自己据点来吧？ 如果你是对城镇投资了很多钱，但后来为了方便把店主请到据点来了，那理所当然地就会失去城镇投资部分的规模奖励了，对吧？
+Investing will also earn you influence in that town — unsurprisingly, going around handing out money gains you goodwill.
 
-但如果在单个商店里做投资的话，确实那家店铺的规模会变得很大，但是其他店铺的发展还是会很慢。
 
-如何，很棘手吧？
+<b>Investment Tips</b>
 
-还有一点就是，对城镇的投资不会被计入对商人公会的贡献度。你问为什么？ 因为当初婆婆我打拼的时候规矩就已经是这样啦。
+Now youngin', Grandma Shu's going to be blunt: no matter how you cut it, investing's gonna take a LOT of money, and you'll never have enough. That being said, there're ways to make your orens work a little harder.
 
+Everyone knows being good at investing makes it cheaper. What they don't know is having a pretty face also helps. Charisma's about half as effective, but looking good's much easier than knowin' what them big financial words that're coming out of yer mouth actually mean.
 {p}
-■好处
+Investin' in a town and its shops is counted separately, so if the cost of either is getting too high you might want to switch to the other for a while.
 
-把钱都投资出去有什么意义呢？答案很简单。如果店铺的规模提升的话，商品的数量和品质都会提高。当然认为什么是「好」取决于店铺本身。比如旅馆会提供更有营养的料理，铁匠会提供更强的武器，魔法店则能提供更稀有的魔法书。婆婆我曾经对帕罗米亚的面包店投资了数百万，后来我去的时候，店里卖的竟是放在宫殿里也不会逊色的豪华面包。
+Some kinds of shops can only get so good when it comes to product quality. Others don't have limits. Don't keep investing in the first hoping to get better products on the shelves.
 
-不过投资也是有不确定性的。好比一些小规模的店铺里有时也会进到稀有货，那些大规模的店铺里也不尽然全都是想要的极品货。只能说规模变大，货物数量也会增多，遇到想要的商品的可能性会更大一些就是了。
+That's all the advice Grandma Shu has for you, simple enough that even my cow-shaped granddaughter can understand. Now go out there and make yourself a pillar of the local economy!
 
-还有就是，进行投资也能增加你在对应城镇的影响力。毕竟你在哪儿消费，哪儿的人就对你热情嘛。
+***
 
-{p}
-■投资的心得
-
-老实说，投资是个无底洞，赚多少钱可能都不够投。不过即便如此，投资也有投资的高效门道。
-
-首先「投资」技能越高，投资费用就会越低。还有个没什么人知道的窍门，就是容貌也会对投资产生影响。「魅力」对投资价格的影响程度虽然只有投资技能的一半，但是比起学习复杂的金融知识，亲切地笑一笑总要容易得多。
-
-对城镇与商店的投资要多多权衡。当一方的费用过高了，就可以暂时换成投资另一方。
-{p}
-不同的店铺有各自的品质数量上限。所以对那些没出息的店铺不停地投资也是纯属浪费。
-
-以上，就是连我迟钝孙女都能明白的简单投资讲座。好了，你也去成为一方的经济支柱吧！
-
-
-<i>- 下一期将会拜访魔法师公会，学习「团队与魔法」！</i>
+<i>- In next week's issue, we'll be heading to the mages' guild to learn more about the finer details of spellcasting in a group!</i>

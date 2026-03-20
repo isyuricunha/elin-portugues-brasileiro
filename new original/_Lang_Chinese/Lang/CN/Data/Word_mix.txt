@@ -1,9 +1,9 @@
-3,A+D
-4,A2+D
-20,NAME+的+D
-15,ALIAS+的+D
-60,$god+的+D
-60,$god+D
-8,$parent+的+D
-8,$parent+D
-1,$adv+D
+3,#merge+A
+10,D+ of +ALIAS
+60,D+ of +$god
+120,D+ for +$god
+120,$god+'s +D
+8,D+ of +$parent
+12,D+ for +$parent
+12,$parent+'s +D
+1,#merge+$adv

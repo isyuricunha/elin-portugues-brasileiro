@@ -1,45 +1,48 @@
-冒险者周刊 第4期《异常状态》,修女·特蕾丝,10,1
+Adventurer's Weekly #4: Statuses,Mother Therese,10,1
 
-<i>欢迎阅读『冒险者周刊』。我们每周都会为各位冒险者带来令人心潮澎湃的话题！
+<i>Welcome to Adventurer's Weekly, where we cover topics near and dear to your brave hearts.
 
-本周是来自朱亚教会的修女·特蕾丝提供的关于属性和异常状态的预防与治疗相关讲座！</i>
+This week, we've invited Mother Therese from the Church of Jure to write about preventing and curing elemental statuses.</i>
 
 
-好了，迷途的小猫们。来到光明照耀之处吧！参与这样的讲座也算是我们教会每月公益活动的一环。我们朱亚教会时刻向生病的人与受伤的人敞开治愈的大门。当然，如果大家能保持健康，不需要我们的帮助才是最好的。
-
+Come hither stray kittens, I shall guide you to the light. As part of our monthly community service, the Church of Jure is conducting outreach amongst adventurers. While our doors are always open to the sick and wounded, it's our hope that you remain healthy and have no need of our services.
 {p}
-■关于异常状态
-稍微解释一下吧。很多冒险者会弄混属性造成的异常状态与诅咒。所谓异常状态，是指特定属性造成伤害时赋予的效果。另一方面，诅咒是特定魔法带来的效果，两者的预防和治疗方法都是不一样的。
+<b>Statuses</b>
 
-异常状态的强度与攻击带有的属性威力成正比，还会因攻击的种类受到一定修正。例如触摸类魔法的修正值很高，比起剑类的攻击更容易造成异常状态。
+It's necessary to go over this briefly, because many adventurers confuse elemental statuses with hexes. Statuses are effects associated with certain elements, and applied when someone takes damage of said element. On the other hand, hexes are effects caused by unique spells. This distinction is important because statuses and hexes require different methods of prevention and treatment.
 
-如果多次受到相同属性的攻击放任不管，异常状态就会叠加恶化，最终变成性命攸关的事态。有很多新人冒险者都是因为被漂浮之眼多次麻痹，到最后什么都没做就殒命了…。
-
+A status' severity derives from an attack's elemental power, which is proportional to its damage and adjusted by its source. For example, touch spells inflict statuses more readily than sword spells.
 {p}
-■预防
-朱亚教会有着「预防胜于治疗」的古老格言。能导致无法行动的异常状态都有着致命的威胁，正因如此，预防才是最重要的。
+If untreated, statuses will worsen from additional elemental attacks, potentially having disastrous effects. Too many novice adventurers have lost their lives to floating eyes constantly paralyzing them, rendering them helpless.
 
-最好的防御手段，是能让异常状态直接无效化的装备附魔，如毒无效、麻痹无效等。如果有条件也可以配备多种异常状态无效化的附魔，但要注意的是重复的异常状态无效化是没有意义的。冒险者之间也有人把这种异常无效化附魔配置的查漏补缺比作一种需要对号入座的谜题。
 
-第二重要的防护手段是属性抗性。既能减少对应属性的伤害也能使属性威力降低，如果能无效化某个属性，就能防止与该属性相关的异常状态。特别是对于「眩晕」这种不存在无效化附魔的异常状态，这种方法就会很有用。
+<b>Prevention</b>
+
+It's a common saying in the Church of Jure that prevention is better than cure, and the same is true of statuses. Not suffering a status to begin with means saving precious time in combat when every moment counts, especially when it comes to statuses that prevent you from acting.
 {p}
-第三则是能够防止特定异常状态的魔法。例如「猫眼」能防止失明。请使用这类魔法，来填补装备防护上的空缺吧。
+Your first line of defence against statuses are equipment enchantments that directly negate statuses like poison and paralysis. Having one of these enchantments for each status is vital, but further enchantments confer no additional benefit, so adventurers often liken it to solving a puzzle.
 
-如果实在没办法防御，就要靠能力值带来的抗性抵抗了。例如失明可以靠「感知」的能力来提供抗性。希望大家都能遵从朱亚大人的教诲，好好劳动、好好吃饭、保持健康的身体，这才是保护身体不受伤害的最佳方式。
+The next layer of protection comes from elemental resistances: the lower an attack's damage, the less its elemental power. Becoming immune to an element will also protect you from its associated status; this is helpful with statuses like dim which have no negation enchantments.
 
+Third, several spells will negate particular statuses. For example, cat's eye will prevent blind. Use these to patch holes that your equipment doesn't cover.
 {p}
-■治疗
-倘若受到状态异常态也不要慌张。中招后也有应对的方法。
+Finally, when all else fails, your attributes can confer a degree of resistance to several statuses. For example, blind is resisted by perception. Like everyone else, adventurers benefit from Lady Jure's teachings: work hard, eat well, and thereby build innate resistance to harmful statuses.
 
-有些异常状态可以通过魔法直接抵消，例如「英勇」能够解除混乱。
 
-所有恢复手段都会减少异常状态的强度，如果不需要恢复HP的话，「肉体复苏」和「精神复苏」也能是用来快速消除异常状态的有效手段。
+<b>Cure</b>
 
-其他也有一些特殊的治疗方法。如精神系以外的伤害能够唤醒睡着的人，「濡湿」能够消除火伤，红色药草能治疗出血，青色药草能够解毒。
+Even if you've been inflicted with a status, don't panic. You can still remedy the situation.
+
+Casting a spell that nullifies a status will immediately cure it; for example, casting hero will immediately cure confusion.
 {p}
-至于阻碍行动的异常状态，则更需要依靠同伴的帮助。
+Any source of healing will reduce the status' strength, eventually removing it. However, if you don't need to recover HP, using restore body or mind as appropriate is much more effective at curing statuses.
 
-…感谢您的阅读。希望阅读本期杂志的各位，时刻都能被朱亚大人所庇护。
+Certain statuses can be removed in special ways. For example, taking non-mind damage will wake sleepers, while wet will counteract burning. Red and blue herbs will cure bleeding and poison.
 
+Since several statuses prevent you from acting, having friends around who can help you in a bad situation is always good.
+{p}
+Thank you for bearing with me. I'll pray for everyone reading to remain in Lady Jure's grace.
 
-<i>- 下一期会介绍利用常见的异常状态，为冒险助力的方法。</i>
+***
+
+<i>- In next week's issue, we'll be seeing how practical application of a simple status effect can help adventurers!</i>

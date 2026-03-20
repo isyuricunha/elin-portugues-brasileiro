@@ -1,67 +1,69 @@
-黎明与灰,沉浸在悲伤中的姑娘,0
+Dawn and Ash,A Grieving Daughter,0
 
-<b>记忆</b>
+<b>Memories</b>
 
-…为什么，我在写着这些东西呢？
+…Why do I write this?
 
-事到如今，想要恢复父亲的名誉已经是不可能的了，就连记得当时发生过什么的神，也所剩无几了。
+I cannot clear Father's name.
 
-也许记述真相只是出于我的任性或执念。人们都说衰退之神极为邪恶——但父亲不是这样的。
+Only a few gods remember what happened.
+
+Perhaps it is my selfish desire to pen the truth. The Forgotten Gods were said to be particularly evil, but not Father.
 {p}
-<b>守护者</b>
+<b>Guardian</b>
 
-父亲是指引古代狐族文明的守护神，给予所有民众灵感。父亲给予凡人们建言，而非支配他们，这是为了让他们靠自己的抉择成长。
+Father was the patron deity of an ancient foxfolk civilization, inspiring all its people. Although he advised mortals, he never ruled, allowing them to grow from their own decisions.
 
-父亲深爱着他的人民。所以，他才让王家的血统与自己的神血相融合，给予那国家神的御印。而我就是因此诞生的——我的母亲是王的妹妹。
+Because he loved this people, Father mingled his blood with that of the ruling family, granting them a divine mandate over their nation. I was born as a result, my mother the king's sister.
 
-父亲总说，我的诞生让他想起他在伊尔瓦最初的记忆。
+He always said my birth reminded him of his first memory of Ylva.
 {p}
-我在父亲身边被抚养长大，从父亲的睿智中学习。我们守望着凡人，但却不是他们中的一员。即使母亲老了，我也没有衰老。我因母亲的死而叹息，父亲告诉我，我们生而不同。大概父亲也与那些被他帮助过的王一样，渴望有后继者能够继承自己的事业，并将其发扬光大。
+I grew up at Father's side, learning his wisdom; we watched over mortals, but were not them. While Mother aged, I did not; I mourned her death, but Father helped me understand we are different. Perhaps, like the kings he advised, he desired a successor, someone who could inherit his legacy and build upon his works.
 
 
-<b>启迪</b>
+<b>Inspiration</b>
 
-希望你能够理解。神明与凡人同样暴戾残酷。而父亲耗费了漫长岁月，试图改变这一切。
+You must understand. Gods and mortals are equally violent and cruel. Father worked so hard, so long, to change that.
 {p}
-凡人的生命短暂。记忆会消退，书本会腐朽。正因如此，作为神的父亲才会想要努力防止他们退步，防止他们犯下祖先曾犯过的错误。在父亲的引导下，他的文明徐徐前行，一代接一代人，筑起进步的基石。
+Mortals are short-lived. Their memories fail, their books crumble; as a god, Father kept them from backsliding, ensured they would not repeat their ancestors' mistakes. With Father's guidance, his civilization could move forward little by little, one generation building upon the last.
 
-神没有继承的概念。很多神都认为自己不需要继承者。可是父亲却不这么认为，他觉得长者就该爱子孙，子孙也该爱再之后的子孙。这样延绵不绝，就能与国王的民众一样不断积累传承。
+Inheritance is something the divine does not do: selfish gods see no need for successors. Father hoped that I would cherish my children as he did me, and that would continue; he wanted us to build upon each other like mortals did.
 
-这份进步是缓慢的，每向前一步都伴随着巨大的努力和痛苦，但这才是值得骄傲的高洁文明。父亲和我都为此感到骄傲。
+It was slow, and every step forward was paid for in great effort and suffering, but it was a noble and virtuous civilization Father and I were proud of.
 {p}
-但我们迟迟没能等到开悟的时刻到来，频频的纷争总是会破坏父亲的事业。斗争能带来成长的思想很快就带来了结果，战争如火一般迅速扩散，熊熊燃烧。但这结果是什么？是力量吗？那么它又该如何使用？
+Yet there is no enlightenment, because strife kept undoing Father's work. That ideology of growth through conflict yields quick results; a fire spreads quickly and burns brightly. But progress, towards what goal? Power, but how will it be used?
 
-争端将怪物们集结起来，唆使它们互相吞弑。低语声向它们许诺，胜者将得以超越，然而那承诺终是虚妄。从死亡与暴力中诞生之物，无法理解任何其他法则。拒绝了父亲指引的凡人们，即便真能弑神，又与昔日之主有什么不同呢。
+Strife gathers monsters and orders them to devour each other, promising transcendence to the victor. But the promise is empty: creatures born of death and violence know nothing else. Having rejected Father's way, even if humans overthrow the gods, they will be no better than their masters were.
 {p}
-<b>告白</b>
+<b>Confession</b>
 
-…那么，我为什么要写这个呢。
+…So why do I write this?
 
-众神认为，父亲只是个沉溺于野心的恶徒。
+The gods think Father was simply evil and ambitious.
 
-叔叔和婶婶，他们都嘲笑父亲是个梦想家。
+Uncle and Aunt think he was deluded by unrealistic ideals.
 
-但是真相是—害死父亲的人，就是我。
+The truth is, I murdered Father.
 
-父亲爱人民。但如果没有我，父亲就不会介入众神的战争。他想要的不过是一片小小的、没有纷争的伊尔瓦之地，一个神与凡人共同繁荣的居所。然而更重要的是—他有了女儿。如果你有孩子就会明白，你会为了孩子不惜去撼天动地。
+Father loved his people, but if I had not existed, he would have not manipulated the divine war. He desired but a small part of Ylva without conflict, where gods and humans can flourish together… but more importantly, he had a daughter. Would you not move heaven and earth to give your children a future?
 {p}
-为了我，父亲打破了不用暴力的誓言，而那也给他招来了毁灭。
+For my sake, Father broke his abstinence from violence, and it destroyed him.
 
 
-<b>无望无惧</b>
+<b>No Hope, No Fear</b>
 
-六个纪元过去了。
+Six ages of Ylva have passed.
 
-父亲守护的狐族文明已经不在了。父亲静静守护的圣域如今也化为灰烬。我是那些人民中唯一留下的火种，唯一知晓父亲理想的人。
+The foxfolk civilization that Father watched over is gone; only ashes remain of the small sanctuary he quietly caretook. I am the sole remnant of that people, the only one who knows what Father hoped to achieve.
 
-我已不会流泪。我戴上了石面具，内心空无一物。怨恨父亲的命运毫无意义。想到为我而战的父亲，在此选择死亡或许是一种不孝，但是失去了神明的神使又有什么意义？
+I have no more tears. My face is stone, my heart empty. Resenting Father's fate is futile. It would be unfilial to give up and die when Father fought so hard for me, but without a god, what purpose does an apostle have?
 {p}
-偶尔，我也会遇见拥有觉醒之心的凡人。这时就会有一个念想对我低语，或许我能引导他们超越野兽，或许可以与他们共同生活，带领他们登上更高的境界。我继承了神与王的血脉，却要放弃父亲的遗志，这是多么可悲啊。
+Sometimes I see promising mortals, and wonder if I could inspire them to be more than beasts, to work together and reach higher. Inspiration… no, it is enlightenment. I bear the blood of gods and kings; it is shameful to have given up on Father's struggle.
 
-但我深知神与凡人没有未来，已毫无希望。
+But knowing gods and humans have no future, I have no hope.
 
-天生万物以养神与人。
+Heaven bestows innumerable treasures upon both gods and men.
 
-神与人无一德以报天。
+Neither has a single virtue with which to repay its blessings.
 
-我已目睹到一切会在纷争的烈焰中湮灭的命运，我已毫无恐惧。
+Having seen their inevitable extinction in the flames of strife, I have no fear.

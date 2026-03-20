@@ -1,48 +1,48 @@
 $livestock
-{topic,居民与家畜}
-您可以让旅途中结交的同伴作为居民居住在据点中。居民上限主要由盟约之石的等级决定，数量超过上限之后居民的工作效率会变差。在剧情中加入的独特居民，不计入居民数之内。
+{topic,Residents and Livestock}
+You can house companions you meet during your journey as residents at your bases. The maximum number of residents is primarily dependent on the level of the Hearth Stone, and exceeding this limit will reduce the efficiency of the residents' work. Unique residents who join through the storyline do not count towards the resident limit.
 
-另外，您可以在居民告示板使用「使其成为家畜」，将任何居民作为家畜饲养。虽然家畜也不会计入居民数量，但家畜无法进行部分行动，如邀请为同伴，或贩卖道具等。
+By selecting a resident from the Resident Board and choosing "Make Livestock," you can freely keep residents as livestock. Livestock also do not count towards the resident limit, but they will be unable to perform certain actions such as joining you on adventures or trading items.
 
-{topic,居民的工作}
-居民有各自的固定工作和兴趣，根据其种类，可以强化据点技能，交纳生产物品。部分工作与兴趣需要特定的环境来进行，把鼠标移动到居民告示板的工作标志上即可查看。
+{topic,Resident Jobs and Hobbies}
+Each resident has unique jobs and hobbies, which, depending on their type, can enhance the base's skills or provide supplies. Some jobs and hobbies require specific conditions to be met, which can be checked by hovering over the resident's job icon on the Resident Board.
 
-工作与兴趣的效率，主要根据居民的相关技能以及床铺的品质决定。如果据点中安装了无主的床铺，居民会自动将其占有。
+The efficiency of jobs and hobbies primarily increases with the resident's relevant skill level and the quality of their bed. If there is an unclaimed bed at the base, residents will automatically occupy it.
 
-{topic,家畜与牧草}
-把牧草放到地面或公用容器中，就可以给家畜投喂饲料。被投喂饲料的家畜可以产出蛋和奶，用剪刀剪掉的毛也可以再生，给据点提供各种好处。
+{topic,Livestock and Fodder}
+You can feed livestock by placing pasture on the ground or in a shared container. Well-fed livestock will produce eggs, milk, regrow wool after being sheared, and provide various benefits to the base.
 
-家畜不会占有床铺，家畜的产物品质主要由家畜的等级决定。
+Livestock do not occupy beds, and the quality of the products they produce primarily depends on their level.
 
 $policy
-{topic,政策与运营力}
-政策条令可为据点增加各种功能。新政策可以通过阅读计划书获得，然后使用家园告示板来制定政策。制定好的政策可以随时间获得经验值，其效果也会增强。
+{topic,Policies and Admin Points}
+Policies are ordinances that can add various functions to your base. New policies can be obtained by reading the plans, and they can be enacted from the Home Board. Enacted policies will gain experience points over time, increasing their effectiveness.
 
-制定政策需要使用运营力，政策合计值超过运营力时则无法制定更多政策。运营能力主要通过盟约之石的等级提升来获取。
+Each policy requires a certain amount of admin points to be enacted, and if the total exceeds your base's admin points, you will not be able to enact any more policies. Admin points can mainly be obtained by upgrading the Hearth Stone.
 
-{topic,据点技能}
-与政策不同，据点技能只要拥有就可以发挥效果。据点技能也可以通过阅读计划书获取，用家园告示板来确认。
+{topic,Home Skills}
+Unlike policies, home skills are effective just by possessing them. Home skills can also be obtained by reading the plans and can be checked from the Home Board.
 
-据点技能可以在家园告示板使用金块升级。另外，部分居民拥有提升据点技能的工作或兴趣。
+Home skills can be upgraded from the Home Board using gold bars. Additionally, some residents have jobs or hobbies that increase home skills.
 
 $elec
-{topic,关于电力}
-随着冒险的推进，您会得到冰箱或路灯等家电。据点中必须通电才能让这些家电正常工作。
+{topic,About Electricity}
+As you progress through your adventure, you may acquire electric appliances such as refrigerators or streetlights. To operate these appliances, your base needs to be connected to a power source.
 
-只要有发电机等电源，就可以自动为据点内所有的家电供电。不过，根据电源种类的不同，一些安装在室外的设备可能会因为恶劣天气等原因暂时短路。
+If you have a power source installed, such as a generator, electricity will automatically be supplied to all electric appliances within your base. However, depending on the type of power source, if placed outdoors, it may short-circuit temporarily due to bad weather.
 
-{topic,代表性的电源}
-{pair|强制劳动机|这是可以让居民进行发电的设备。被分配到这里发电的居民，除某些工作或兴趣之外，不会从事其他的工作·兴趣。}
-{pair|发电机|只要安装好就可以自动发电的装置。大部分发电机会因被水弄湿以及暴露在恶劣天气中而短路。}
-{pair|兴趣或工作|居民在一些工作和兴趣活动中也会产生电力，如「运动」或「吸烟」等。发电量会根据居民工作与兴趣的熟练度提升，这是最轻松的获取电力方式。}
+{topic,Common Power Sources}
+{pair|Wheel of Pain|This equipment generates a steady amount of electricity by assigning residents to it. However, assigned residents will no longer be able to engage in most jobs or hobbies.}
+{pair|Generator|This equipment automatically generates electricity when installed. Many generators will short-circuit if exposed to water or bad weather.}
+{pair|Hobbies and Jobs|Some resident activities, such as “Exercise” or “Smoking,” generate electricity. The amount of electricity produced increases with the resident’s proficiency in that activity, making it a simple way to ensure a stable power supply.}
 
-{topic,得到发电机的方法}
-将来可以随着故事的发展、通过任务或通过制造来获取发电机。现在虽然可以用暂定的配方制作，但其他的手段就只有通过许愿或家具征收等少数方式获取。还请等待故事和任务的更新。
+{topic,How to Obtain Generators}
+Generators will eventually become available through story progression or as quest rewards. Currently, they can be crafted using a provisional recipe, but beyond that, they can only be obtained through certain methods such as wishes or furniture collection. Please look forward to updates to the story and quests.
 
 $civility
-{topic,居民素质}
-据点有居民素质这项趣味性的概念，这项数值会根据居民的兴趣、工作以及据点的政策而增减。
+{topic,Resident Civility}
+Bases have a flavor-based concept called "Civility," which fluctuates depending on the residents' hobbies, jobs, and the base's policies.
 
-居民素质主要影响居民意识上对垃圾的处理方法。居民素质高的情况下，居民会把垃圾分类丢弃，相反居民素质低的时候，居民不但不会把垃圾进行分类，还会随地乱扔。
+Civility primarily affects the residents' awareness of proper waste management. Residents with high civility sort and dispose of their trash responsibly, while those with low civility not only fail to sort their garbage but may even litter carelessly.
 
-关于垃圾的问题，虽然也有制定禁止居民乱扔垃圾的政策这样的短期解决方法，但从长期来看，选择能提高居民素质的政策才更为有效。
+When it comes to waste management issues, a short-term solution is to implement policies that prohibit littering by residents. However, in the long run, adopting policies aimed at raising the civility of residents proves to be more effective.

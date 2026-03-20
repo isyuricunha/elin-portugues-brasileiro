@@ -1,42 +1,43 @@
-冒险者周刊 第7期 《共生》,约恩特派记者赛利亚,10,1
+Adventurer's Weekly #7: Symbiosis,Yowyn Correspondent Celia,10,1
 
-<i>欢迎阅读『冒险者周刊』。我们每周都会为各位冒险者带来令人心潮澎湃的话题！
+<i>Welcome to Adventurer's Weekly, where we cover topics near and dear to your brave hearts.</i>
 
-继续上周的话题，特派记者赛利亚将向厩务长帕里斯先生咨询与骑乘有密切关联的「共生」！</i>
 
-<color=brown>赛利亚：这次也请您多多关照了，厩务长先生。</color>
+Last week, we asked Stablemaster Varis to introduce us to riding, and today we're pursuing a closely related topic: symbiosis.
 
-帕里斯：您客气了，记者小姐。（笑）毕竟也算是免费帮我们宣传了本地的生意。
+<color=brown>Celia: Thanks for having us again, Stablemaster.</color>
+
+Varis: Very much welcome, miss. (Laughs) You're doing free advertising for the local businesses, after all.
 {p}
-<color=brown>赛利亚：那么事不宜迟，请继续上次的话题，教教我关于共生的知识吧。这技能对冒险者都有什么好处？</color>
+<color=brown>Celia: Well then! Following up on last week's interview, what can you tell us about symbiosis, and how can it help adventurers?</color>
 
-帕里斯：共生与骑乘类似，简单来讲就是「让宠物来骑乘你」，和你骑乘宠物正好相反。
+Varis: Symbiosis is similar to riding — you can think of it as your pet riding you, instead of you riding your pet.
 
-<color=brown>赛利亚：哇啊！ 就是说宠物可以用与我相同的速度行动吗？</color>
+<color=brown>Celia: Wow! So does that mean your pet gets to move as quickly as you do, too?</color>
 
-帕里斯：很遗憾，和您想的稍微有点不同。共生的宠物，是以自己原本的速度和你的速度的平均值来行动的。但是和骑乘不同，不能享受额外的速度加成。
-{p}
-<color=brown>赛利亚：既然聊到了「骑乘」，难道可以同时进行骑乘和共生吗？</color>
-
-帕里斯：嗯嗯，当然可以。三者会聚在同一个格子里。对你的攻击当然也会击中坐骑和共生对象，反之亦然。而且共生也有着许多与骑乘一样的优点，比如共生的对象受到致命伤也只会晕倒不至于死亡，还比如能适用于坐骑的魔法效果也会适用于共生对象。
-
-与此同时，共生也会对你的命中率和咏唱有一定的负面影响，影响程度取决于共生技能的高低。还需要注意的是，同时进行共生和骑乘的话就会同时受到两边的负面效果影响。
-{p}
-<color=brown>赛利亚：那么共生和骑乘有什么不同？</color>
-
-帕里斯：这个嘛，共生的宠物会更加频繁的攻击，所以适合选取高火力的宠物。与骑乘不同，共生对象即使在你移动的时候也可以攻击，不需要太去在意对方的速度也算是一个优点。
-
-<color=brown>赛利亚：原来如此。</color>
-
-帕里斯：共生的宠物不能靠自己移动，所以选那些有远距离攻击能力的宠物比较好。这样一来在和敌人保持距离作战的时候就会很有优势。
-{p}
-<color=brown>赛利亚：最后，能告诉我您推荐什么宠物作为共生对象吗？</color>
-
-帕里斯：嗯，虽然没有约恩马那种简单直接的适宜选项…但妹猫算是个不错的选择吧。因为妹猫虽然速度快力量强，但耐力却不太行，不适合骑乘，是典型的更适合共生的宠物，就是不太容易弄到。以前在约恩确实也有卖来着….不过嘛，也是因为出了各种情况现在没有了。
-
-<color=brown>赛利亚：这样啊。如果能把骑乘与共生很好的结合起来，冒险也会变得很轻松吧。今天也很感谢您有益的建议。</color>
-
-帕里斯：您客气了，记者小姐。
+Varis: Unfortunately not. A pet hosted on you keeps its own speed. However, it does receive a portion of all speed modifiers you have, good or bad; spells, equipment, that sort of thing. Not the bonus you get from mounts, though.
 
 {p}
-<i>- 下一期，将传授给诸位冒险者「经营商店」的秘诀！</i>
+<color=brown>Celia: You just said "mounts". Does this mean you can ride and symbiose at the same time? </color>
+
+Varis: Yes! The three of you can occupy the same space. An attack aimed at you has a chance of hitting your mount or symbiote, and the same is true if your hosted ally is targeted. Many of riding's benefits are shared with symbiosis — being knocked out instead of dying, ride spells affecting all of you, that sort of thing. Similar penalties to accuracy and casting spells also apply when you symbiose, only governed by its own skill. If you're riding and hosting, both sets of penalties apply, so be careful!
+{p}
+<color=brown>Celia: With the skills being so similar, maybe it's better to focus on the differences instead.</color>
+
+Varis: Well, symbiotes are more aggressive — hosting a powerful yet frail pet is a good idea. Unlike riding, it can continue acting even while you're moving, and you don't have to worry about speed differences since it isn't limited by you.
+
+<color=brown>Celia: I see.</color>
+
+Varis: Since a symbiote can't move on its own, giving it some kind of ranged attack is also a good idea in case you want to keep your distance from enemies.
+{p}
+<color=brown>Celia. All this has been very helpful, Stablemaster. One last thing: can you suggest some pets that would make good symbiotes?</color>
+
+Varis: Hmm. We don't have any obvious yet easy choices like yowyn horses… maybe a cat sister. They're pretty fast and strong, but are bad for riding and can't endure much punishment. I'd say they're a good example of what symbiosis is designed for, even if they're a little hard to acquire. We used to sell them in Yowyn, but then… well, it's complicated.
+{p}
+<color=brown>Celia: We can all understand. Well, thank you for another informative interview, Stablemaster — with clever use of riding and symbiosis together, I'm sure our adventurers will be finding it easier to manage their allies.</color>
+
+Varis: The pleasure's all mine, miss.
+
+***
+
+<i>- In next week's issue, we'll be teaching you adventurers how to manage your own business!</i>

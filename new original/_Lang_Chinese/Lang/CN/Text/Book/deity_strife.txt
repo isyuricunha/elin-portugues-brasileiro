@@ -1,41 +1,39 @@
-下位神：战祸,历史学者西奥露西亚,0
+Lesser Deities: Strife,Theolucia - Scholar of History,0
 
-关于战祸之神耶万有很多谜团。虽然他是曾经参加过诸神战争的古老神明，但是有关他名字的文献却少之又少。
+Little is known about the god of strife. Though Yevan is an ancient deity said to have taken part in the wars against the Forgotten Gods, there are remarkably few surviving texts that record his name. Yet as war spread in the wake of the Zanan–Eulderna conflict and the founding of Yerl, Yevan’s worship has, over the past few centuries, gradually gathered support among radical revolutionaries and militant sects.
 
-然而从零散的信息中可以看出，伴随着泽纳恩与艾沃达纳的战争，还有耶鲁的建国，数世纪间的战火蔓延让耶万的信仰逐渐得到了过激革命家和扩军主义者的支持。
-
-与得到战士和军人广泛支持的欧巴德斯相反，信仰耶万的人被视为异端者、过激派。由于思想激进，此信仰从未成为过主流，但与其他神相比，其信徒却更为虔诚。
+In stark contrast to Opatos, who is widely revered among warriors and soldiers, those who venerate Yevan are often treated as heretics or extremists. His creed has never become a mainstream faith, but it is marked by an intensity uncommon even among the devout.
 {p}
-■异端的信仰
+<b>Rogue God of Conflict</b>
 
-耶万不像大多数下位神那样，有着「来自特定种族或团体的支持」。另外，这位神本身也不重视传播信仰的行为。
+Unlike most lesser deities, Yevan has no devoted race, no unified order, and no organized priesthood. Nor does the god himself seem to place much importance on spreading his influence. If anything, he appears far more fascinated by the affairs of mortals.
 
-耶万的教诲，被凝聚为了短短的一句话。
+Yevan imparts only a single teaching to those who seek his guidance:
 
-<i>克服考验，提升自我，不问过程。</i>
+<i>Overcome your challenges. The path you take is your own.</i>
 
-模糊到了这种程度的教义虽然非常罕见，但从这句话中也可以推测出耶万信仰的思想。他应该青睐那些在伊尔瓦的混沌中坚守信念、确立自我、不断前行、通过斗争实现升华之人。去者不留，来者不拒。或许战祸之神的意图，只是希望凡人能更进一步变强。
+Such ambiguity is rare within the pantheon. From this lone maxim, however, the core of Yevan’s philosophy can be inferred. He urges mortals to decide their own way of being, to press forward by conviction, and to refine themselves through struggle.
 {p}
-■不可思议的传闻
+<b>Strange Rumors</b>
 
-为了深入探究，我从大陆各地收集了与耶万信仰相关的文献。其中值得特别提及的内容摘录如下。
+To deepen my understanding, I have gathered several accounts and rumors that may relate to the god of strife:
 
-- 风沉睡之所
+- Where Winds Rest
 
-在提里斯大陆远离人烟的地方，封印着一位被夺走力量的衰退之神，据说有一位与耶万相关的神秘人物在守护这里。不仅如此，还有煞有其事的传言说那人是在那里等待着一位能够打倒被封印之神的人出现。
+Whispers speak of a secluded site on the continent of Tyris where one of the Forgotten Gods now stripped of power lies sealed away. The place is said to be watched over by a mysterious figure tied to Yevan. Some insist this watcher is constantly assessing passersby, searching for a champion strong enough to defeat what sleeps behind the seal.
 {p}
-- 试炼神龛
+- Shrines of Trial
 
-在奈菲亚的深处，有时会发现触摸后会召来凶恶怪物的神龛。这些神龛的设计与可追溯到第六纪的耶万信仰遗址十分相似，考虑到战祸之神的教义中有着「与强者的战斗是一种应该跨越的考验」的思想，可以推测神龛也是战祸之神力量的一部分。
+Deep within certain Nefias stand ominous shrines that summon vicious monsters upon touch. Their design bears an uncanny resemblance to relics of Yevan worship dating back to the Sixth Era. If one accepts the belief that battle against the strong is itself a trial meant to be overcome, these shrines may represent a fragment of the god’s power.
 
--武者的梦
+- The Dreaming Gladiator
 
-在卡鲁恩曾经有位武者说出了「世上已无人与我比肩」的豪言壮语。但相传从某一天开始，他就开始在梦中被一位穿着古代服装的独眼男子不断挑战，结果每次都被对方打败。自那之后他就戒除了傲慢，将自身武艺锻炼到了更高的境界。
+A renowned warrior of Karune once boasted that “no being alive could match his strength.” Soon after, he began to dream of a hooded, scarred man clad in archaic garments—an adversary who challenged him again and again, and each time defeated him. The writings that survive claim the warrior’s arrogance was broken by these dreams, and that he thereafter reached greater heights than before.
 {p}
--消失的士兵们
+- The Vanished Soldiers
 
-在西埃尔新历的首次大乱，即泽纳恩与艾沃达纳的战争中，很多耶万信徒都加入了泽纳恩军队。传闻有部分英勇作战、负伤倒下的士兵在第二天就消失得无影无踪，对此，双方阵营都出现过「这些人是被战祸之神看中，被带去了神的领域」的说法。
+During the great war between Zanan and Eulderna, many Zanan followers of Yevan fought on the front lines. Among those who fought most fiercely and fell grievously wounded, some were said to vanish without a trace by the following day. Soldiers on both sides whispered that the lord of strife had taken those he favored into his realm.
 
-这些故事看似零乱，但如果假设都与耶万有关的话，也不难窥见他是在寻求着「不断挑战之人」的事实。
+No conclusive evidence binds these tales together. Yet if we assume even a portion of them are true, a consistent pattern emerges: Yevan seeks those who continue to challenge, advance, and progress.
 
-对很多人来说，战祸之神可能是带来死亡的异端之神。但从信奉者的角度来看，或许也会是一位严酷的庇护者吧。
+To many, the god of strife is an heretical bringer of death. However, to his devotees, he may also be something else entirely: a brutal yet empathetic supporter of the mortals, holding the utmost faith in their limitless potential.

@@ -1,2 +1,3 @@
-新日记
-        从今天起决定 每天都要写日记！
+Diary
+
+I'll start writing in my diary from today on!

@@ -1,15 +1,19 @@
-{topic,欢迎来到Elin体验版测试！}
-欢迎来到Elin，感谢大家游玩体验版！
+{topic, Welcome to Elin's Demo!}
+Welcome to the Elin Demo!
 
-体验版的限制事项有以下两条。
+The content in this demo reflects the state of the game as of December 2, 2024, and is subject to significant updates in the future.
 
-* 玩家可以获得的专长点数（等级）最多为10点。
-* 据点等级最高为3级。
+There are limitations in the demo version:
 
-那么，请好好享受伊尔瓦的世界吧！
+* Players can only earn up to 10 feat points (levels).
+* The base level is capped at Level 3.
+* Network features are disabled.
 
-<i>※本作品为开发早期发布作品。游戏内容在今后会有很大的变化。</i>
+Take your time and enjoy exploring the world of Ylva!
 
-{topic,Elin的更新情报}
-{link,问题与回答请到这里(Ylvania),http://ylvania.org/elin_dev.html}
-{link,曾经的更新一览在这里(Ylvapedia),https://ylvapedia.wiki/wiki/Elin:%E6%9B%B4%E6%96%B0%E5%B1%A5%E6%AD%B4}
+<i>※ Please note that Elin is in Early Access and still under heavy development.</i>
+
+{topic, Elin Information}
+{link,Discord - Elin Community、Questions、General Discussion,https://discord.gg/elona}
+{link,Ylvapedia - Elin Wiki、Walkthrough、Update Log,https://ylvapedia.wiki/wiki/Main_Page}
+{link,Dev Room(Official) - Elin Links、Troubleshooting、and Mod information,http://ylvania.org/elin_dev_e.html}

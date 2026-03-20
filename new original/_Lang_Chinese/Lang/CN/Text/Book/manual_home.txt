@@ -1,3 +1,2 @@
-家园运营手册,开拓者
-
-        让我来传授你成功运营家园的秘诀吧！
+Home Development Manual
+I shall teach you all you need to develop a successful home.

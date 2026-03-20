@@ -1,59 +1,59 @@
-﻿奇迹的治疗
-究竟是神的庇护还是未知的魔法力量。身患重病的村民在诺耶尔教会仅用一个晚上就大获痊愈。据说事后人们在教会的床上发现了一片美丽的羽毛。
+Miraculous Healing at Noyel Church
+In Noyel's church, a gravely ill villager miraculously recovered overnight. Was it divine intervention or a magic? A single beautiful feather was reportedly found on the church floor.
 @snow
 
-治愈之羽？诈骗案突然增加
-谎称是治愈女神之羽的虚假商品开始在市场泛滥，受骗者不断增加。王都呼吁民众在见到可疑的商品后应立刻向守卫报告。
+Divine Feather Scam
+Fake feathers of the Goddess of Healing are flooding the market, leading to an increase in victims. Authorities in the royal city urge reporting of suspicious products.
 @city,guard_m-1
 
-欧巴德斯在梦中翻身导致大地摇晃？
-昨夜在北部地区观测到了强烈的震动。相关信徒不断传言是欧巴德斯在睡觉时翻身了。
+Opatos Turns, Earth Shakes
+A large tremor was detected in the northern region last night. Followers of Opatos report it as Earth God turning in his sleep.
 @city
 
-如风一般
-一名璐璐薇的男性信徒为成为风跳下悬崖。据目击者称，该男性全裸地嚎唱着“风之子们哟！”便跳下了悬崖。不知该男子最后是否安全落地，又或是真的变成了风。
+Leap to Become the Wind
+A follower of Lulwy jumped off a cliff attempting to become wind. Eyewitnesses say he was naked and sang "Children of the wind!" as he flew. He was unharmed, but it remains unknown if he became the wind.
 @port
 
-遗忘女神，商人们的新伙伴
-不断有商人在面对税务调查时声称自己的记忆因为雅卡夏的力量消失了。商业领域对遗忘女神的信仰正在逐步扩散。
+Goddess of Oblivion: Merchants' New Partner
+During tough tax inspections, an increasing number of merchants are claiming their memories were erased by Goddess of Oblivion, Yakasha. The faith seems to be spreading in the business world.
 @room
 
-喵喵很可爱，猫cosplay热潮
-在艾赫卡托尔信徒之间突然流行起了对猫的cosplay。信徒们为了得到女神的恩惠招来幸运，每天都会戴上猫耳和尾巴。北提里斯的人们对此纷纷露出笑容。
+Purrfectly Cute: Cat Cosplay Craze
+A cat cosplay trend is quickly taking root among followers of Ehekatl. Donning cat ears and tails daily to attract her blessings and luck, they're bringing smiles to faces across North Tyris.
 @city
 
-信徒化作猫？现代的信仰形式
-艾赫卡托尔信徒以猫咪cosplay的模样造访教会的景象已不是什么稀奇事。教会内部针对「应该对信仰的表达方式容许到何种程度」一事出现了意见分歧。
+From Devotees to Cats? The Modern Shape of Faith
+Ehekatl followers embracing cat cosplay while attending church is now a common sight. However, opinions within the church walls are divided on "how far to tolerate the forms of faith."
 @room
 
-新开发的自动人偶，机械爱好者们的灼热视线
-为了对抗艾沃达纳的魔道装甲「魔像」，耶鲁开发了新型自动人偶。还没有完成就已经吸引了玛尼信徒们的热烈视线，他们殷切期待着不远将来就能看到机器人之间的战斗。
+Tech Devotees Excited for Yerl's New Automata
+Yerl's upcoming automata, a rival to Eulderna's 'Golem', is already igniting excitement among the followers of Mani. A robot face-off is highly awaited.
 @labo
 
-植物命名大会召开
-在探索途中的某段时间里，信仰库米罗妮的冒险者突然举办了对稀有植物的命名大会。无数的冒险者聚集在一起参与了这场大张旗鼓的命名竞争。获胜作品是「绿之艾沃达纳」。
+Plant-Naming Contest
+In the midst of exploration, a sudden naming contest was held by a Kumiromi devotee who sighted a rare plant. Adventurers gathered for a lively naming showdown, which crowned 'Green Euldarna' as the winner.
 @road
 
-伊兹帕鲁特，受到女性的狂热支持
-一向多是被权威主义者和学者崇拜的元素之神在近年来新增了大量女性信仰者。据女信徒称，她们尤其对元素之神「赤发之公爵」这个浪漫别名感到着迷。
+Itzpalt Gains Niche Female Fan Base
+Often worshipped by scholars and autocrats, God of Element has recently begun to attract female followers. Notably, the romantic alias 'Red-haired Duke' seems to have become an object of adoration.
 @room
 
-元素信徒，在学会上给出惊人的发表
-伊兹帕鲁特信徒在学会上发表了新的学说「六元素理论」。这篇论文不仅轰动学界，同时也成为了信徒之间对学术举一反三的契机。
+Itzpalt Follower Presents Shocking New Theory
+A follower of Itzpalt introduced the 'Six Elements Theory' at a conference, causing a shockwave through academia. The theory has sparked fresh interpretations among believers.
 @labo
 
-森林保护的活动
-崇拜自然的库米罗妮的信徒们，自发的开始了保护森林的活动。他们希望能在与奇特怪物共存的前提下保护并恢复森林生态。
+Forest Protection Movement
+Followers of Kumiromi have begun a forest preservation initiative. Amidst unique monsters, they are dedicated to the regeneration and conservation of forest ecosystems.
 @road
 
-贤者的学校
-伊兹帕鲁特信徒创设了独自的教育体系。此时受到广大学着和教育者们的关注，一部分人已将其称为「贤者的学校」。
+School of Sages
+Believers of Itzpalt have founded a distinctive educational framework, hailed as the 'School of Sages'. This novel approach is drawing attention among academic and teaching circles.
 @labo
 
-库米罗妮之子，和孤独树木对话的奇妙仪式
-终于揭开了库米罗妮信徒奇妙仪式的面纱。他们会通过与孤独矗立的古木对话，从而和植物心灵相通。
+Children of Kumiromi Talk to Lonely Trees
+An odd ritual of Kumiromi followers, in which they talk to solitary old trees to bond with plant life, has been revealed.
 @road
 
-孤独信徒的小小奇迹
-住在北提里斯郊外的一位艾琳信徒用尽全部创建了一片属于她自己的圣地。据说在这片带有小型祭坛的区域周边所有野生动物和魔物都能和平相处。
+Small Wonder of a Lonely Believer
+A solitary follower of Elin living in North Tyris' outskirts has created her own sanctuary. Around her dedicated little altar, wildlife and monsters coexist peacefully.
 @road

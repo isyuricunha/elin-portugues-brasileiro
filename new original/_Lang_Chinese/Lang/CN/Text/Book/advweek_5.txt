@@ -1,57 +1,84 @@
-冒险者周刊 第5期 《濡湿》,特派记者奥林,10,1
+Adventurer's Weekly #5: Getting Wet,Specwing Correspondent Orryn,10,1
 
-<i>欢迎阅读『冒险者周刊』。我们每周都会为各位冒险者带来令人心潮澎湃的话题！</i>
+<i>Welcome to Adventurer's Weekly, where we cover topics near and dear to your brave hearts.</i>
 
 
-今天我们将和米芙冒险者弥悠纪同行，了解一些预算有限的新手冒险者的特别技巧。那么弥悠纪，能请你介绍一下都带了哪些装备吗？
-
-「嗯…悠纪因为没有钱，所以只带了简单的东西…。绷带、宠物的饭…还有喷壶…」
-
+Today, we're following mifu adventurer Miyuki into a nefia to learn some tips for novice adventurers on a budget. Can you introduce the things you brought, Miyuki?
+<color=brown>
+Well… Yuki-chan doesn't have much money, so she brought only simple supplies…
+Bandages, kibble, her watering can…
+Don't laugh, Mr. Reporter!
+Yuki-chan's watering can has saved her many times!
+</color>
 {p}
-喷壶？是那种家庭用的喷壶吗？这也是要常带在身上的吗。
+That's interesting! Isn't a watering can something you use at home? We'll see how it's useful in a nefia!
 
-「不要笑嘛！悠纪被这个喷壶救了好多次呢！」
+***
 
-是吗，呵呵呵，那就让我们看看它在奈菲亚里能发挥什么作用吧
+Miyuki crept into the ruins. A wild fire hound appeared!
 
-弥悠纪踏入了遗迹。
+Miyuki poured the watering can over herself and approached the fire hound dripping wet.
+<color=brown>
+Roar~
+</color>
+A huge burst of flame engulfed Miyuki.
 
-突然出现了火焰猎犬！弥悠纪迅速用喷壶把自己打湿，湿漉漉地发起冲锋。
+But because she was wet, the fire's damage was weakened and her things weren't burned.
 
-「咕噜噜噜…！」
+No fireproof blanket!
 {p}
-巨大的烈焰包裹了弥悠纪。但多亏全身湿透，火焰威力大减，随身物品也完好无损。因此连耐热毯都没带，却能安然无恙。
+With its attacks ineffective, the fire hound was quickly defeated.
 
-火焰猎犬的攻击没有起效，转眼就被击败。看来喷壶确实有用。
+Looks like the watering can really helped!
 
-接下来出现的是辣汉！
+***
 
-弥悠纪身手敏捷地把水泼了上去。
+Oh no! It's a hot guy!
 
-「呼————！」
+Miyuki quickly poured water onto the hot guy. The hot guy was drenched.
+
+"Fooooo!"
+
+Being wet, the hot guy couldn't explode and was safely defeated.
 {p}
-湿透的辣汉无法自爆，就这样被安全地制服了。喷壶再次立大功。
+Looks like Miyuki's watering can saved her again!
 
-这时从暗中飞出了药水！弥悠纪虽然避开了，但却看不到投掷药水的魔物在哪。
+***
 
-她取出喷壶在身边洒水。浸湿的地面让南瓜怪物现出了原形。
+Suddenly, a potion flew out from the darkness!
 
-找到了！弥悠纪挥动铜的短剑砍了上去。
+Miyuki quickly dodged, but couldn't see the monster responsible.
 
-「呀啊！」
+Grabbing her watering can, she sprayed water everywhere.
 
-因为南瓜怪物湿透了，短剑的电击威力也随之增加，让南瓜怪物触电倒下了。
+The entire room became wet with puddles, and the monster stepped in one. Coated with water, the pumpkin couldn't stay invisible.
 {p}
-喷壶三次拯救了弥悠纪。看来哪怕日用品，只要用好了也是厉害的武器。
+Now that she could see her enemy, Miyuki sliced the pumpkin with her copper dagger.
+<color=brown>
+Hiyaa!
+</color>
+Wetness made the dagger's lightning damage extra effective!
 
-……哎呀，弥悠纪踩到陷阱陷到了墙壁里！虽然幸运地没有受伤，但半截身子卡在墙里拔不出来。
+The pumpkin was electrocuted and defeated!
 
-「记者先生…能帮我拿一下包里的喷壶吗？」
+Wow, that's the third time the watering can saved Miyuki. I should consider how everyday things can be helpful as an adventurer!
 
-好的好的…。那我要把手伸过来噜~
+***
+<color=brown>
+Oh no! Yuki-chan stepped on a trap and was teleported into a wall!
+</color>
+{p}
+<color=brown>Yuki-chan isn't hurt, but she's kind of stuck halfway in this hole…
 
-「呀啊~♡坏蛋~♡ 」
+Could Mr. Reporter please get her watering can from her bag and help her out?
 
+Okay, that's it, but… where are you going, Mr. Reporter?
 
-<i>……下一期将探访约恩村知名马厩，为您揭秘骑乘对冒险者会有怎样的帮助！</i>
+Wait, that's not —
 
+Kyaa~♡ So slippery~♡
+</color>
+
+***
+
+<i>......In next week's issue, we'll be at one of Yowyn's famous horse auctions and learning just how riding can help you as an adventurer!</i>

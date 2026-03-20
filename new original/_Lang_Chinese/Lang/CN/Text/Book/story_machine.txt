@@ -1,41 +1,49 @@
-钢之传说,玛尼研究家
+The Tale of Steel,Mani Researcher
 
-■序章：幼时之影
+<b>Prologue: Shadows of Childhood</b>
 
-        玛尼是耶鲁一位老钟表匠的养子，他在铁与齿轮的熏陶下长大。
+Adopted by an old watchmaker in Yerl, Mani was raised surrounded by the scent of iron and gears.
 
-        玛尼的义父常把对生活的不满发泄在他身上，有时也会打骂他。玛尼常会被父亲的暴力逼到家中的角落，后来地下室就成为了他的整个世界。玛尼在这昏暗的空间里对机械滋生出了无限的爱与理解。只要他出手，不管怎样复杂的机械都能被迅速拆解、赋予新生。
+His foster father vented his daily frustrations on Mani, sometimes resorting to physical punishment.
+
+Relegated to a corner, the basement became his living space and his world. In this dimly lit space, Mani cultivated an endless affection and understanding for machinery.
+
+Under his hands, even the most complex machines were swiftly dismantled and given new life.
 {p}
-■青年期：登峰造极的技术
 
-        时光流转，玛尼之名开始在耶鲁技工之间广为流传。
+<b>Youth: Mastering the Pinnacle of Technology</b>
 
-        他制造的自动机械以卓绝的精密度与独特的美感著称，其价格也是天文数字。
+As time passed, Mani's name became widely known among the engineers of Yerl.
 
-        玛尼在此期间靠着纯粹的才能创造了大量作品。这些技术成果的结晶也为后来耶鲁机械兵的诞生奠定了基础。
+The automata he created were highly esteemed for their exceptional intricacy and unique aesthetics, fetching astronomical prices.
+
+The creations Mani produced during this period were the crystallization of his pure talent and technical skill, and were said to have laid the foundation for Yerl's mechanical soldiers in the future.
 {p}
-■名声：小插曲点缀的人生
 
-        玛尼的一生中有各种奇闻轶事。
+<b>Fame: A Life Adorned with Episodes</b>
 
-        譬如，他曾用自动机械让耶鲁的首都陷入混乱。
+Mani's life was colored with numerous anecdotes.
 
-        另外，女王命令他修理时钟塔的时候，他竟把塔上所有的机械零件都拆散分解，让女王与宫廷中人震惊到瞠目结舌。然而玛尼又轻松地将它们恢复原状，据说自那之后时钟塔比从前更加准确了。
+For instance, he once used an automaton to plunge the capital of Yerl into chaos.
 
-        有传闻称他年轻时就已经将自己的左臂替换成了机械臂。
+Also, when ordered by the queen to repair the clock tower, he scattered all its mechanical parts from the top, leaving the queen and the court speechless. However, Mani masterfully reassembled them, and the clock tower was said to have kept time more accurately than ever before.
 
-        这些故事都进一步提高了他的名声，让他为人传颂。
+Legends also remain of his younger days when he replaced his left arm with a mechanical one.
+
+These episodes further elevated his fame, becoming tales passed down among people.
 {p}
-■消失：谜团重重的离去
 
-        玛尼一生中最大的谜团，就是他的突然失踪。
+<b>Disappearance: Enveloped in Mystery</b>
 
-        这名与钢铁为伴的“异端分子”在某天突然就消失得无影无踪，随后也传出了不少风言风语。有人说他是在将自己身体机械化的途中自取灭亡了，有人说他去了异世界，也有人说他是为了伟大的计划隐姓埋名了……
+The greatest mystery of Mani's life was his sudden disappearance.
 
-        只有后世的人们才知道，他是靠着那无穷的探求精神，以自己的知识与技术踏入到了人类无法触及的领域。
+The Steel Heretic vanished one day without a trace, leaving behind various rumors embellished with extravagant details. Tales circulated of him vanishing in the process of mechanizing his body, embarking on a journey to another world, or hiding away for a grand plan.
+
+However, future generations would come to know that he had ventured into realms beyond human reach, armed with his knowledge, technical prowess, and insatiable curiosity.
 {p}
-■遗产：不朽的启示
 
-        作为机械之神，玛尼的传说仍被传颂着。玛尼依然在为耶鲁的技术人员提供灵感。
+<b>Legacy: An Immortal Inspiration</b>
 
-        他的钢之传说是所有追求科学与知识之人的永恒之光。
+Mani, still spoken of as the god of machines, remains an unchanging source of inspiration for the engineers of Yerl.
+
+His tale shines as an eternal light for all who pursue science and knowledge.

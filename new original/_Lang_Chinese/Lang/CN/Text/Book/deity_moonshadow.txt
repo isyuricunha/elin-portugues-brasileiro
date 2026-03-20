@@ -1,31 +1,30 @@
-下位神：月影,历史学者西奥露西亚,0
+Lesser Deities: Moonshadow,Theolucia - Scholar of History,0
 
-酷爱歌舞的涅芙女神穗罗女是米芙神吉须阿弥的妹妹。近年来公众对涅芙的关注度上升，她兼具母性光辉与虚幻美感的身姿得到了大家的喜爱。不难看出原因，涅芙的女神在特征上与艾赫卡托尔有着若干相似之处，很可能让她从幸运女神在当今宗教社会的影响力中受惠。
+The goddess of nefu who adores song and dance, Horome is the younger sister of the mifu god Kizuami. Interest in the nefu has recently grown, and with it Horome's popularity for her maternal yet ephemeral visage. It's not hard to see why: the nefu goddess shares several superficial traits with Ehekatl, and may have benefited from the Goddess of Luck's dominance in today's religious society.
 {p}
-<b>涅芙的女神</b>
+<b>Goddess of Nefu</b>
 
-和哥哥一样，穗罗女也是种族神，几乎所有的涅芙都信仰她。传说中她性格腼腆，远离俗世，有时会化身人形混迹于世间，但因为不喜欢欺骗，所以不会久留。
-据说最能纯粹地表现出这位女神本质的，就是穗罗女在月光中舞剑的身姿。其凄美的舞姿被作为接受神明启示的艺术传抄于后世，连信徒都未必能有幸亲眼得见。
+Like her brother, Horome is a racial deity; almost all nefu worship her. According to their legends, she is shy and reclusive, sometimes taking on human guises to mingle with mortals, yet never staying long as she dislikes deception. The portrayal of Horome's moonlight sword dance is the purest essence of the goddess, a picture of tragic beauty rarely glimpsed by her faithful and subsequently captured in divinely inspired art.
 
-穗罗女这样教导信徒。
+Horome teaches her worshippers:
 
-・强度与美不可分割，形式与功能无法分开。
-・怀孕与健康的孩子是值得尊崇的祝福。
-・知识不仅在封闭的书房里，也存在于生活实践中。
-・我们拥有的一切都不是为了个人的享受，而是要为了托付给未来一代。
+* That strength is inseparable from beauty and form from function,
+* That pregnancies and happy children are blessings to be cherished,
+* That knowledge lies not only in closeted study, but practical experience of the world,
+* That what we have is not ours to use as we please, but held in stewardship for future generations.
 {p}
-她的教导渗透到了涅芙的生活中。例如关于孩子的教义，如果考虑到他们长寿、繁殖缓慢的特质就不难理解。重视实践的态度，使涅芙生活的方方面面都成为了信仰的一部分，这种信仰不局限于每周一次的礼拜形式，而是渗入到了生活的每个瞬间。涅芙努力让自己和周边的一切都能使人感到愉快，以此表现出穗罗女的美。
+Horome's teachings are specifically tailored to the nefu; for example, her stance on children is obvious considering that the nefu are long-lived and slow to breed. The emphasis on practical application means every aspect of nefu life is an act of worship — a religion that is lived in each moment instead of merely a weekly service at church. Nefu strive to make themselves and their surroundings pleasant to the senses, seeking to mirror Horome's beauty.
 
-和米芙不同，他们的巫女不是世袭制。而是会从年轻女性中选出最能体现理想女神形象的作为巫女的继承人。这就意味着她的武和美都要达到极致，并且能生下（或者确信能生下）很多孩子，了解人与社会并有着丰富的经验。
+Unlike the mifu, their priestess is not a hereditary position. Instead, a successor is picked from amongst the young women who exemplify the ideal of femininity as embodied by their goddess: one who has mastered arts both martial and aesthetic, who has borne (or is certain to bear) many children, and has a wealth of experience in dealing with the world and its people.
 {p}
-<b>剑舞</b>
+<b>Sword Dances</b>
 
-穗罗女信仰的中心是剑舞。舞者会通过操演剑舞的方式来再现其中的故事，期间舞者将代入女神，从她的视角体验过去。因此涅芙的剑舞都被视为宗教仪式。动作来源于剑术，但舞蹈本身是纯粹的表演性剧目。
+At the heart of Horome worship are sword dances — by going through the forms and re-enacting the stories they embody, the dancer steps into the role of the goddess and experiences the past through her eyes. As such, all nefu sword dances are considered religious rites; while the motions are recognizable as having basis in swordsmanship, the dances are purely performative.
 
-配合着音乐舞动的剑舞通常是由一位舞者来表演的，但在祭典的时候，也会出现全村参演的例外情况。从剑的长度、典礼的服装，再到每位舞者的仪容神态，任何一处细节都不会被轻视，因为在舞者看来，随着旋律的每一步舞动都将是在演绎女神故事的一部分。
+Set to music, most sword dances only involve one dancer, notable exceptions being the ones performed during their festivals in which the entire village participates. There is no detail too small to be overlooked: everything from the length of the sword to the ritual costume and one's personal grooming is important as the dancer becomes part of the story being told through melody and motion.
 {p}
-通过剑舞，涅芙一边「体验」自己的历史和传承一边进行着学习。这种方法符合穗罗女的教义，也与南提里斯的一些朱伊安族口口相传的传说相通。现任的巫女以及继承者承担着掌握所有已知剑舞的责任，这样才能在必要时将其传授给其他涅芙。
+Through sword dances, the nefu learn their past and folklore by experiencing it, a method that keeps to Horome's teachings and resembles the oral traditions of several Juere tribes in South Tyris. The current priestess and any successor in training are responsible for mastering all known sword dances; they then impart this knowledge to other nefu as required.
 
-但作为历史学徒的我却不免担忧，这样大量的知识如果只是交由前后任来单传，是很容易失传的。然而涅芙回答说，所有的剑舞都起源于穗罗女自己，是由神示授予的。这种说法倒也不令人感到难以置信，毕竟她们的舞蹈是那样精妙，让人类的与之相比都显得如同木偶戏一般。或许在她们看来，即便涅芙的舞蹈因意外失传了，也一定会由女神再次赐予吧。
+As a scholar of history, I found it concerning that such knowledge should be the responsibility of at most two people and how easily it might be lost. The nefu answered that each sword dance originates with Horome herself and was granted to them by divine revelation — easy to believe, as human dances feel stiff and wooden by comparison. Should anything happen, the goddess would simply hand down the knowledge again.
 
-如此的虔诚确实令人印象深刻。但是作为学者，心里还是会有一丝不安。
+Such piety is truly impressive, but as an academic the answer still does not sit right with me…

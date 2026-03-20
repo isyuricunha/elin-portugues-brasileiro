@@ -1,43 +1,45 @@
-衰退之神　第一卷,战祸的使者「尤瑞卡」,0
+The Forgotten Gods Volume 1, Eureka - Firebrand of Strife,0
 
-被忘却的众神（或称「衰退的众神」、「黄昏的众神」）都是在第三纪到第六纪众神战争中与〈柱〉敌对的神明。那场动摇世界的众神战争甚至改变了星球的形态，并促成了后来的〈永恒盟约〉，也让我的主人耶万走上了现在的道路。
+The forgotten gods, also known as the fading gods or gods of twilight, were deities who opposed the Pillars during the divine wars of the third and sixth ages of Ylva. These cataclysmic conflicts reshaped the planet, gave rise to the Eternal Covenant, and led Lord Yevan to his current path.
 
-战斗的胜负有一半都在于了解对手。我主命令我，记录下这些神的教义与动机。如果他们或者他们的继任者再出现于这个混乱的时代，我们就能做到知己知彼，百战不殆。
+Since understanding one's enemy is half the battle, he has requested that I make a record of these gods, their teachings and their motivations lest they or their heritors return in this troubled age. Know one's enemy and know oneself, and you will emerge victorious in a hundred battles.
+
 {p}
-<b>喻部</b>
+<b>Yufu</b>
 
-在过去是被称为「启蒙之喻部」的神，如今在人界与神界都近乎被遗忘。在第二次众神战争中与〈柱〉敌对，但是没有直接参加战斗。
+Once known as Yufu of Inspiration, this deity has been almost completely forgotten in both mortal and divine worlds. Despite opposing the pillars during the second divine war, he did not engage in direct battle.
 
-喻部在第五纪到第六纪守护着伊尔瓦的一个小国，向信徒教授着以下内容。
+Yufu was the patron deity of a modest civilization on Ylva during the fifth and sixth ages, and taught his followers to:
 
-* 凡事都需追求完美—任何错误都不能放过。
-* 将彼此的成果作为基石，跨越个体的界限。
-* 从一切事物中汲取灵感，对自己与未来的子孙抱有希望。
-* 避免纷争—即使是为了正义，暴力也会玷污灵魂。
+* Seek perfection in everything — no fault is too small to be corrected.
+* Build upon each others' works and thus reach beyond one's individual grasp.
+* Be inspired by all existence, and have hope for oneself and future generations.
+* Eschew strife — violence, even if just, stains the soul.
 {p}
-喻部的狂热信徒们称自己因这些教义而得到「启迪」，他们主张自卫杀人也是罪恶的。
+Yufu's most devout followers, having been "enlightened" by such inspiration, claimed taking lives even in self-defense was sinful.
 
 
-<b>妄想</b>
+<b>Delusion</b>
 
-乍看似乎是无害且充满善念的思想，但是深入发掘之后，这种信念其实是极其有害且阴险的。
+While harmless if misguided at a first glance, upon deeper examination these beliefs are revealed to be extremely damaging and insidious.
 
-所谓完美的概念其实是不切实际的，为了不落后于他人，我们总是会在努力中不断地成长。而且，普遍来看也不可能存在完美的概念。就比如对某些敌人有效的策略，对其他敌人就未必通用。
+Perfection is not achievable. No such state exists, we must constantly strive and grow or fall behind others. Nor is there any universal perfection: a strategy effective against one foe may not work against another.
 {p}
-缓慢的成长看似有道理，但终究不合实际。进步的速度太慢，就是与停滞同义。我不否认喻部的文明取得了暂时的成功。但那不过是得益于孤立与神的庇护。当失去那份庇护时，他们很快就在竞争中失败、灭亡了。
+Slow, gradual growth may appear plausible but is ultimately impractical; the rate of advancement is insufficient and tantamount to stagnation. While I do not deny that Yufu's civilization found some success, this was only because of its isolation and a god's patronage. Once these protections were removed, it was quickly outcompeted and vanished.
 
-并且，非暴力主义是与伊尔瓦的现实情况相去甚远的妄想。就算我同意暴力与争斗会荼毒心灵和灵魂—尽管从属于我主耶万的我不该那么想—但不进行争斗的话，有时只会招致更悲惨的结果。这才不是什么和平。不过是对邪恶视而不见的、伪善的无作为。
+Pacifism is so far removed from the realities of Ylva as to be delusional. Even if I agree violence and strife will poison my mind and soul — in following Lord Yevan, I obviously do not — the consequences of <b>not</b> intervening will be more disastrous. This is not peace, it is hypocritical inaction in the face of evil.
 {p}
-喻部的教导乍看之下让人觉得很高洁，但其实是一种不扎根于现实的理想主义。面对战场，我们必须精准客观，不应有一厢情愿的幻想。
+While sounding noble, Yufu's teachings are overly idealistic and have no grounding in reality. Our view of any battlefield must be accurate and impartial, unclouded by wishful thinking.
 
-讽刺的是，喻部在第二次众神战争中站在了〈衰退之神〉一侧。他口口声声向人们宣扬着自己的「教义」，自己却背离了其「精神」。
+I note with grim satisfaction that in siding with the forgotten gods during the second divine war, Yufu obeyed the letter but not the spirit of his own teachings.
 
-也因此，这个曾经象征着黄金黎明的神，也成了黄昏众神中的一员，实在是讽刺。
+For these reasons, a god who was represented by golden dawn is ironically counted as amongst the gods of twilight.
+
 {p}
-<b>注记</b>
+<b>Notes</b>
 
-收集这份情报实在过于困难。有关喻部的记忆几乎都消逝了，只有些狐族零星记得，但是他们都不愿意细说。调查结束后我确信，除了狐族的记录外，所有关于喻部存在的证据皆在伊尔瓦数个纪元中被有意地抹除了。
+Gathering information on this subject has been tiresome, as almost all memory of Yufu has vanished; only the fox tribes remember, and they refuse to discuss the matter in detail. Having concluded my investigation, I am convinced all evidence of Yufu's existence not held by the fox tribes has been deliberately erased over the last several ages of Ylva.
 
-恐怕是喻部的兄弟姐妹们为了不让喻部的领域被〈柱〉剥夺，致使他进一步让家族蒙羞，所以协定后做了「内部处理」吧。
+My suspicion is that in exchange for not having Yufu's domain revoked by the Pillars and publicly shaming his family, his siblings agreed to deal with the matter themselves, keeping it an internal affair.
 
-值得注意的一点是，喻部还有一个使徒。那是他的女儿，被称为「九尾天狐」。关于她的行踪尚不明确，但从与我交谈过的旅人那里得到了一个传闻，有人在圣树附近目击到了相似的人。虽然我什么都没能找到，但是无法排除她幸存下来的可能性。
+Also of note is that Yufu had one apostle: his daughter, a "nine-tailed heavenly fox". While she is not accounted for, tourists I spoke to mentioned rumors of such a creature being sighted near the sacred tree. While I found nothing myself, the possibility of her survival cannot be discounted.
