@@ -1,13 +1,13 @@
 Updated Language Files:
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/General.xlsx
-version:2663  text:2660  
+version:2672  text:2669  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/List.xlsx
-version:110  text:109  
+version:111  text:110  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Game.xlsx
-version:1001  text:1000  
+version:1004  text:1003  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Word.xlsx
 version:484  name:484  
@@ -16,7 +16,7 @@ version:484  name:484
 version:12  text:12  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Chara.xlsx
-version:554  name:554  detail:1  aka:228  
+version:556  name:556  detail:1  aka:230  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/CharaText.xlsx
 version:128  calm:96  fov:15  aggro:88  dead:99  kill:87  
@@ -28,10 +28,10 @@ version:15  name:15  detail:0
 version:38  name:35  detail:0  aka:6  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Thing.xlsx
-version:2432  name:2432  detail:491  unit:2432  unknown:73  roomName:114  name2:81  
+version:2450  name:2450  detail:500  unit:2450  unknown:77  roomName:114  name2:81  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Element.xlsx
-version:1047  name:1047  detail:693  altname:18  textPhase:342  textExtra:395  textInc:63  textDec:61  textAlt:47  adjective:0  levelBonus:4  
+version:1050  name:1050  detail:693  altname:18  textPhase:342  textExtra:395  textInc:63  textDec:61  textAlt:47  adjective:0  levelBonus:4  
 
 (No Changes) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Calc.xlsx
 
@@ -44,21 +44,21 @@ version:90  name:90  detail:20
 version:137  name:137  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Material.xlsx
-version:114  name:114  altName:54  
+version:115  name:115  altName:55  
 
 (No Changes) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/SpawnList.xlsx
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Block.xlsx
-version:205  name:204  detail:3  
+version:207  name:206  detail:3  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Floor.xlsx
-version:130  name:129  detail:0  
+version:132  name:131  detail:0  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/CellEffect.xlsx
 version:8  name:7  detail:0  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Obj.xlsx
-version:144  name:144  detail:0  
+version:145  name:145  detail:0  
 
 (Updated) C:\Projects\Elinyad\Assets\StreamingAssets\Package\_Lang_Chinese\Lang\CN/Game/Faction.xlsx
 version:12  name:12  detail:0  textType:0  
