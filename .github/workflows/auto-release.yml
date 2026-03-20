@@ -46,12 +46,24 @@ jobs:
               minor=${BASH_REMATCH[2]}
               patch=${BASH_REMATCH[3]}
 
-              # Increment patch version
+              # Increment patch version until we find an unused tag
               new_patch=$((patch + 1))
               new_tag="v${major}.${minor}.${new_patch}"
+              
+              # Keep incrementing until we find a tag that doesn't exist
+              while git ls-remote --tags origin "$new_tag" | grep -q "$new_tag" 2>/dev/null; do
+                new_patch=$((new_patch + 1))
+                new_tag="v${major}.${minor}.${new_patch}"
+              done
             else
               # Fallback if version format is not recognized
               new_tag="v1.0.0"
+              # Also check if fallback exists and increment if needed
+              counter=0
+              while git ls-remote --tags origin "$new_tag" | grep -q "$new_tag" 2>/dev/null; do
+                counter=$((counter + 1))
+                new_tag="v1.0.${counter}"
+              done
             fi
 
             echo "tag_name=${new_tag}" >> "$GITHUB_OUTPUT"
@@ -67,15 +79,22 @@ jobs:
           if [[ "${GITHUB_REF:-}" != refs/tags/* ]]; then
             tag_name="${{ steps.set_tag.outputs.tag_name }}"
 
-            # Configure git user for tag creation
-            git config user.name "GitHub Actions"
-            git config user.email "actions@github.com"
+            # Check if tag already exists locally and remotely
+            if git rev-parse "$tag_name" >/dev/null 2>&1; then
+              echo "Tag $tag_name already exists, skipping creation"
+            elif git ls-remote --tags origin "$tag_name" | grep -q "$tag_name"; then
+              echo "Tag $tag_name already exists remotely, skipping creation"
+            else
+              # Configure git user for tag creation
+              git config user.name "GitHub Actions"
+              git config user.email "actions@github.com"
 
-            # Create annotated tag
-            git tag -a "$tag_name" -m "Automated release $tag_name"
+              # Create annotated tag
+              git tag -a "$tag_name" -m "Automated release $tag_name"
 
-            # Push tag to repository
-            git push origin "$tag_name"
+              # Push tag to repository
+              git push origin "$tag_name"
+            fi
           fi
 
       # DO MY BUILD HERE
