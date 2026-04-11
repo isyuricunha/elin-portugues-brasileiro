@@ -21,85 +21,106 @@ A tradução é feita por um humano, e não IA. As partes indicadas como "Traduz
 Aqui está a tradução completa das mudanças:
 
 {topic, Informações De Atualização Do Elin}
-■ 21/03/2026 EA 23.287 Estável
+■ 11/04 2026 EA 23.295 Estável
 
-Após atualizar para a versão estável, mods de versões anteriores podem parar de funcionar ou apresentar comportamentos estranhos. Se notar algum comportamento incomum, tente desativar os mods e teste novamente.
+Após atualizar para a versão estável, mods de versões anteriores podem parar de funcionar ou apresentar comportamentos estranhos. Se notar algo incomum, tente desativar os mods e teste novamente.
 
-[Destaques]
-* Adicionado o Quadro de Companheiros. Agora é possível selecionar membros do grupo a partir de uma lista de residentes em todas as bases, e as configurações do grupo podem ser salvas e recuperadas.
-* Mad Millionaires (Milionários Malucos) podem aparecer em baixa chance durante a regeneração das cidades.
-* Seu(sua) amado(a) enviará uma carta um ano após uma proposta.
-* Agora é possível comprar itens com o Guardião do Jardim usando influência.
-* Alteradas as cores das flores de cerejeira na Vila de Mifu para o estilo outonal. Também alterada a cor das pétalas durante a adoração à Kizuami para o estilo outonal.
-* Melhoria significativa na velocidade de processamento das interfaces do tipo lista que exibem NPCs, como o Quadro de Residentes e o Quadro de Companheiros.
-* Atualizado e aprimorado o framework de mods. Obrigado, DK!
+---
+**[Destaques]**
+* **Mercadores Viajantes** agora podem aparecer ocasionalmente no mapa global. Seu inventário agora varia de acordo com o tipo de mercador. Mercadores Viajantes também agora têm garantia de aparecer em mapas de festivais de cada estação.
+* Um **assassino fantasma** agora pode aparecer raramente quando cidades são regeneradas.
+* Agora é possível **se disfarçar como um bebê**. Enquanto na forma de bebê, a opção de diálogo **"Mamãe!"** aparecerá em conversas com NPCs.
+* Você agora pode **se tornar uma mamãe** ao falar com NPCs bebês ou NPCs no estado de bebê.
+* Adicionadas **raças bestiais**, como **Ratkin** e **Ravian**.
+* Quando você possui uma **Licença de Aventureiro Avançado**, o nível dos inimigos em encontros de símbolos no mapa global agora escala com sua **fama**.
+* O bônus de Yevan, **Chamas da Discórdia**, foi aprimorado.
+* Recursos relacionados a **mods** foram expandidos e melhorados, além de correções de bugs existentes.
 
-[Novo Conteúdo]
-* Adicionado um atalho para a "Console de Inicialização" nas configurações de teclas na janela de Configurações.
-* Adicionada uma faixa musical da Kumiromi para o music box.
-* Adicionada a habilidade "Tapa-Mil".
-* Adicionada a habilidade "Arremesso de Ouro".
-* Adicionada a habilidade "Jogada de Dinheiro".
-* Adicionados efeitos sonoros à habilidade "Desenho". Também foram adicionados vários efeitos sonoros mágicos para buffs e efeitos semelhantes.
-* Adicionado o material "Nuvem".
-* Adicionado o item "Aviso de Anel de Casamento Perdido".
-* Adicionado o item "★Martelo de Garokk". Disponível como prêmio de medalha pequena (estoque limitado; mais estoque pode ser adicionado posteriormente por meio de missões).
-* Adicionado o item "Pergaminho da Migração do Gato Prateado". Disponível no estoque do Guardião.
-* Adicionado o item "Pergaminho de Epíteto". Disponível no estoque do Guardião.
-* Adicionado o item "Pergaminho de Falsificação da Árvore Genealógica". Disponível no estoque do Guardião.
-* Adicionados móveis de "Nuvem".
-* Adicionados 8 tipos de móveis "Pedra do Jardim".
-* Adicionado o móvel "Quadro de Companheiros".
-* Adicionada uma versão de parede do "Quadro de Companheiros".
-* Adicionado o objeto de mapa "Pedras para Pisar".
-* Adicionado o bloco "Piso de Nuvem".
-* Adicionado o bloco "Bloco de Nuvem".
-* Adicionado o bloco "Bloco Alienígena".
-* Adicionado o bloco "Piso Alienígena".
-* Adicionado o bloco "Piso de Cogumelo" (que já existia apenas como plataforma).
-* Adicionado 1 NPC neutro (Mad Millionaire).
-* Adicionada a conquista "Heh heh heh...".
-* Adicionada a conquista "Ah, o Cheiro Desta Erva".
-* Adicionada a conquista "É...? Não é como se eu estivesse esperando algo de você ou algo assim!".
-* Adicionada a conquista "Meu nome é Onev, mãe de todas as coisas vivas em Ylva".
-* Adicionada a conquista "*Rin*".
-* Adicionada a conquista "Lá, lá~ Vou te dar um tapinha!".
-* Adicionada a conquista "Este não é meu irmão mais velho de verdade!!!".
-* Adicionada e substituída o ícone da conquista "Eh...? Não...".
+---
+**[Novo Conteúdo]**
+* Adicionada a raça **"Ratkin"**.
+* Adicionada a raça **"Ravian"**.
+* Adicionada a raça **"Lobisomem"**.
+* Adicionada a proeza **"Falsa Face"**.
+* Adicionada a proeza **"Instinto Assassino"** (concedida a alguns NPCs).
+* Adicionada a proeza **"Missionário do Amor"**.
+* Adicionada a proeza **"Criatura Triste"**.
+* Adicionada a habilidade **"Disfarce Humano"**.
+* Adicionado o efeito de status **"Disfarce Humano"**. Também foram feitos ajustes variados no status **"Mímico"**.
+* Adicionado o **Livro Vermelho** *"Edição Semanal do Aventureiro 18: Gerenciamento de Grupo"*.
+* Adicionado o **Livro Vermelho** *"Edição Semanal do Aventureiro 19: Vampiros"* (disponível no estoque de Moyer).
+* Adicionado o **Livro Vermelho** *"Edição Semanal do Aventureiro 20: Reciclagem"* (disponível no estoque de Moyer).
+* Adicionado o item **"Livro de Registro"** (no estoque de Loytel). Ajustados também os preços dos itens de Loytel.
+* Adicionado o item **"Leite Materno"** (experimental).
+* Adicionado o item **"Poção de Degeneração"** (vendida por Rodwyn).
+* Adicionado o móvel **"Estátua de Jure (Colosso)"**.
+* Adicionados **3 tipos** de móvel **"Caixa de Som"**.
+* Adicionado o móvel **"Palco"**.
+* Adicionado o móvel **"Porta Alienígena"** (incluída receita).
+* Adicionados **2 tipos** de móvel **"Decoração de Doce"**.
+* Adicionados **2 tipos** de móvel **"Refletor"**.
+* Adicionado o instrumento **"Gaita"** (incluída receita).
+* Adicionadas **trilhas exclusivas** para a **"Gaita"**.
+* Adicionadas **variações** para o tile **"Bloco Alienígena"**.
+* Adicionado o tile **"Bloco Alienígena (Diferente do Acima)"**.
+* Adicionados **3 tipos** de tile **"Parede Alienígena"**.
+* Adicionados **3 tipos** de tile **"Pilar Alienígena"**.
+* Adicionados **3 tipos** de tile **"Chão Alienígena"** (incluídos sons de passos molhados).
+* Adicionados **2 tipos** de tile **"Chão de Palco"**.
+* Adicionados **4 NPCs**.
+* Adicionados **2 monstros**.
 
-[Adições e Mudanças]
-* Ao entrar no Jardim Pequeno ou no Jardim da Eternidade, o número total de Irmãs Pequenas e Gatos Prateados é exibido no mapa.
-* Colher safras para pedidos de colheita agora concede experiência em Levantamento de Peso aos membros do grupo, com base na quantidade e peso das safras.
-* Casamentos podem ser realizados novamente após um novo casamento.
-* Sons ao redor continuam a tocar mesmo enquanto o PC está cego.
-* O PC não pode mais se beijar. Se o PC estiver montando um pet atualmente (parasitando), mirar em si mesmo fará com que beije o pet.
-* Durante ações íntimas ou tosquia, não apenas os companheiros, mas também seus subordinados não atacarão o alvo do PC.
-* Algumas habilidades, como "Carga", não são mais afetadas pela substituição de genes por predação de slimes e não serão esquecidas após serem aprendidas. Isso agora também está mencionado na dica de ferramenta ao jogar como slime.
-* Pequenas melhorias e correções no mapa subterrâneo do bordel de Derphy.
-* Alguns personagens, como Billy e Renton, foram marcados como personagens únicos internamente, onde antes não haviam sido sinalizados como tal.
-* Ler um Pergaminho de Fé agora aumenta a Piedade apenas quando a Piedade é menor que a habilidade Fé.
-* Conquistas do Steam não são mais verificadas enquanto o jogo é jogado offline.
-* Expandido o limite de caracteres para o chat no jogo. A entrada de múltiplas linhas agora é dividida e exibida linha por linha. Tags decorativas também são removidas do texto exibido no log.
-* Ao jogar como um Slime, magias com estoque esgotado ainda são exibidas na lista de habilidades se já tiverem sido aprendidas.
-* A característica "Peaky" agora pode aparecer em corridas de cavalos em baixa chance.
-* Adicionado um "grande bônus à experiência de montaria" aos efeitos da característica "Peaky".
-* A característica "Domínio Mágico" não pode mais ser obtida através de genes.
-* Adicionada uma tag de "não herdável na fabricação" à característica "Eco".
-* Mesmo com a opção "Continuar Automaticamente a Realização de Ações" ativada, a execução parará se o personagem estiver sufocando.
-* O comando de console "Stats" agora exibe o número total de Irmãs Pequenas e Gatos Prateados migrados.
-* Os comandos de console "ChangeJob" e "ChangeRace" foram alterados para comandos de trapaça.
-* Atualizados os gráficos de neve.
-* Atualizada a tradução para o chinês.
+---
+**[Adições e Alterações]**
+* Definido o **nível máximo** do bônus de Yevan, **"Chamas da Discórdia"**, para **5**. Seus efeitos foram alterados para **aumento de dano físico** e **aumento do limite de dano físico**. A dica agora mostra os efeitos atuais com mais clareza.
+* Quando **"Chamas da Discórdia"** está no **nível 1 ou superior**, seu efeito de drenagem de SP agora aumenta gradualmente.
+* Quando **"Chamas da Discórdia"** está no **nível 2 ou superior**, agora pode se espalhar para aliados.
+* Quando **"Chamas da Discórdia"** está no **nível 3 ou superior**, a **resistência a sangramento** agora aumenta gradualmente.
+* NPCs **neutros** agora podem aparecer aleatoriamente em mapas externos de beira de estrada.
+* Adicionado um **limite** para o potencial ganho com *succubus play* e *baby play*, já que usar *baby play* em NPCs como o **Mestre do Jardim** poderia maximizá-lo instantaneamente.
+* Você **não ganha mais** experiência em potencial se morrer durante *succubus play* ou *baby play*.
+* Enquanto adorar **Horome**, **qualquer um** agora pode se tornar sua mamãe. Além disso, seguidores de Horome não se tornam mais uma **Criatura Triste**, mesmo repetindo *baby play*.
+* NPCs gerados no mapa global agora são exibidos como **"???"** no nome (experimental, já que o NPC real é gerado durante o encontro do símbolo).
+* **Monstros únicos** e NPCs similares não são mais gerados aleatoriamente no mapa global.
+* Se um NPC gerado em um encontro de símbolo tiver a proeza **Bebê**, esse NPC **não escalará mais** com base no nível de fama do jogador em alguns casos.
+* Escolher repetidamente **"Vou te atacar"** ao falar com mercadores viajantes agora **diminui o karma**, em vez de aumentá-lo.
+* Ajustados levemente os valores de **Força** de algumas raças não jogáveis.
+* NPCs **não compram nem vendem mais** em mapas do usuário.
+* Adicionada **Culinária** como habilidade inicial para a raça **"Juere"**.
+* Adicionada **"Cauda de Lobo"** como drop raro para NPCs da raça **"Lobisomem"**.
+* Concedida a proeza **"Criatura Triste"** ao NPC **"Raphael"**.
+* Ajustados os preços dos itens do **Guardião do Jardim**.
+* Adicionada **"Nuvem"** ao estoque do Guardião do Jardim e alterado o limite de estoque de cada item para **99**.
+* Adicionados **diversos colossos divinos** ao estoque do Guardião do Jardim.
+* O item **"Incubadora"** agora também pode ser usado dentro de tendas.
+* Placas decorativas agora também podem ser usadas dentro de tendas, e seus designs podem ser alterados.
+* Placas como a de refeição agora também funcionam dentro de tendas.
+* No widget **"Informações de Status"**, a direção em que textos e ícones são exibidos agora muda dependendo da posição do pivô.
+* (Versão em inglês) Alterado o nome de *"resident list"* para *"resident ledger"*.
+* Atualizada a tradução para chinês.
 
-[Correções]
-* Corrigido um problema em que a troca de conjuntos de equipamentos podia causar um erro.
-* Corrigidos estouros em diversos processos.
-* Corrigido o livro vermelho "Sobre os Povofolclore" na Vila de Mifu sendo incorretamente marcado como propriedade de NPC.
-* Corrigidos diversos outros problemas menores e feitas pequenas ajustes.
+---
+**[Relacionado a Mods]** (Agradecimentos a DK)
+* Expandida a funcionalidade de mods relacionada a **texturas e sprites**.
+* Adicionado suporte a **texturas de neve** para skins personalizados.
+* Adicionado suporte a **animações** para sprites personalizados.
+* Corrigido o comportamento ao fazer upload de mods enquanto joga em uma conta **Steam Family**.
+* Corrigido um problema em que os nomes de mods inscritos às vezes falhavam ao ser recuperados do Steam.
+* Corrigidos problemas relacionados a mods de linguagem.
+* Outras adições e correções de recursos relacionados a mods.
 
-[Observações]
-* O Quadro de Companheiros tornou-se uma atualização bastante grande, por isso esta versão estável está sendo lançada um pouco mais cedo do que o usual.
-* Os recursos de suporte a mods estão sendo fortemente aprimorados por DK. No futuro, também gostaríamos de melhorar a compatibilidade com futuras atualizações da versão base do jogo, sempre que possível.
-* Quanto aos prêmios do Guardião do Jardim, como capturar Gatos Prateados pode ser trabalhoso, o plano atual é mantê-los limitados a recompensas do tipo conquista e certos móveis, para que a coleta não se torne necessária.
-* Quanto ao Martelo de Garokk, um meio de obtê-lo novamente por meio de missões ou semelhantes está planejado.
-* Para seeds fixas usadas pelo Martelo de Garokk e recursos semelhantes, estou considerando adicionar uma opção em "Lei do Mundo" para desativar seeds fixas.
+---
+**[Correções]**
+* Corrigido um problema em que efeitos de ataque de **drenagem de resistência** e **drenagem de mana** não estavam sendo aplicados em ataques desarmados.
+* Corrigido um problema em que alguns itens, como uma **marmita feita com carinho**, não podiam ser colocados no chão.
+* Corrigido um problema em que o alvo de **Telecinese** mudava se um aviso de mana aparecesse enquanto a habilidade estava sendo usada.
+* Corrigido um problema em que o efeito do **Apito de Cessar-Fogo** poderia desaparecer ao dormir.
+* Corrigidas algumas linhas da história em que **Kettle** era descrito como enxergando com os olhos, apesar de ser cego. Também corrigidos alguns erros de digitação no **Palmia Times**.
+* Corrigidos vários *overflows* de processamento.
+* Outras correções e ajustes menores.
+
+---
+**[Notas]**
+* É intencional que o **karma aumente** ao escolher **"Vou te atacar"** em mercadores viajantes, já que é mais educado do que atacar sem aviso.
+* Para **assassinos fantasmas**, mais mecânicas e recursos relacionados podem ser adicionados até a próxima versão estável.
+* As **habilidades e atributos** das novas raças bestiais ainda estão planejadas para serem ajustadas por um tempo.
