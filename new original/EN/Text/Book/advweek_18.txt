@@ -1,0 +1,51 @@
+Adventurer's Weekly #18: Partying Up,Sergeant Kzar,10,1
+
+<i>Welcome to Adventurer's Weekly, where we cover topics near and dear to your brave hearts.</i>
+
+
+Hey, kids, today's topic is adventuring parties, so I'll get to it. Forming a balanced party greatly improves your effectiveness as party members bolster each other; we use these squad tactics in the special forces.
+
+{p}
+<b>Roles</b>
+
+Novice adventurers are glad to just have numbers, but as fame and threats alike grow, party composition becomes selective. Everyone wants to deal damage, but no one wants to heal.
+
+Your adventuring party needs to:
+
+* Absorb blows. This means drawing and taking hits without dying. For the first, taunting will suffice early on; later, supplementary equipment and feats become available. The second is achieved by improving one's defense and resistances, increasing one's health pool through life and endurance, and equipment that grants related abilities.
+{p}
+
+* Heal. It's best to have a healer dedicated to tending wounds. Ideally, this is someone with a powerful cure spell and healing instinct. Healing over time helps, but it shouldn't be your healer's only spell; it doesn't have the responsiveness and power a direct heal has. Reviving fallen allies is a valuable skill to have.
+
+* Deal damage. The most popular role; "I slew the dragon" turns far more heads than "I ate blows while some other guy slew the dragon" or "I healed the guy who slew the dragon". Your party should have a mix of physical and magical damage to be prepared for anything a nefia can throw at you; elemental damage often has accompanying statuses, so consider having these folks also debuff.
+{p}
+* Buff and debuff. Often overlooked, buffs and debuffs can turn a dangerous enemy manageable. Tailor these to your party — warriors and gunners benefit from weakness and bane, while a caster-heavy group prefers nightmare and elemental scar. Buffs are more generic, since everyone can benefit from more defense.
+
+
+One person can fill multiple roles — you can have a dedicated healer who does a bit of damage when healing's not needed. Ensure all your bases are covered, and you'll be fine.
+{p}
+<b>Management</b>
+
+Back in my day, gathering a squad together meant a lot of running around, but now this new roster function makes forming adventuring parties easy. It gathers people even if they're in different cities and makes disbanding easy once the job's done; adventurers who like each other can register themselves as a group to easily form up again.
+
+You can get a roster board or book from any frontier inspector. I admit it's convenient, but a veteran like me can't help but feel there's the loss of a human element when inviting people face to face. I suppose it's inevitable with the New Kingdom's ascendancy…
+
+{p}
+<b>Formation</b>
+
+Since you're reading this, I'll assume you're the party leader, the one taking point through the nefia while everyone tags behind. That's just how it is, if you're a backliner you can fall back once you engage enemies.
+
+Stick together; a group is as fast as its slowest member. Tell your allies to stay close and leash them to keep pace with you. In an emergency such as someone triggering a teleport trap, mass teleport will gather and reposition your party.
+
+Nefia are often cramped, with corridors and chokepoints impeding effective positioning. Smaller adventuring groups use these to even their odds against enemy swarms, but they pose a problem for larger parties. Create space to maneuver by digging or blowing up walls.
+{p}
+Too many frontliners will get in each others' way. Give everyone a ranged weapon so they can do <b>something</b> at all times. Know everyone's preferred distance, and assign roles accordingly. Anyone idle may as well be dead.
+
+
+<b>Summary</b>
+
+People are like equipment: having them is not enough, you need to know how to use them correctly. A well-organized party will overcome far greater challenges than a rabble hoping to overwhelm a nefia with numbers.
+
+***
+
+<i>- In our next issue, we'll examine yet another societal menace: vampires!</i>
