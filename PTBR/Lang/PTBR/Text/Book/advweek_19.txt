@@ -1,58 +1,56 @@
-Adventurer's Weekly #19: Vampires,Head Editor Hans,10,1
+Edição Semanal do Aventureiro #19: Vampiros,Editor-Chefe Hans,10,1
 
-<i>Welcome to Adventurer's Weekly, where we cover topics near and dear to your brave hearts. </i>
+---
+<i>Bem-vindos à Edição Semanal do Aventureiro, onde tratamos de assuntos que tocam os corações destemidos de vocês.</i>
 
+*A edição desta semana é patrocinada pela Guarda Municipal de Palmia.*
 
-This week's issue is sponsored by the Palmian city guard.
+---
+**Terrores que esvoaçam na noite!**
+**Predadores à espreita nas sombras!**
+
+Histórias sobre vampiros remontam a séculos. Com esses antigos não-mortos sendo avistados recentemente por toda Tyris, é hora de separar fato de ficção!
+
+---
+
+### **<b>Sangue</b>**
+
+A sede vampírica é lendária; todas as histórias concordam que eles não podem comer comida normal e, em vez disso, devem beber sangue. Quase qualquer um pode ser uma vítima, desde que possa sangrar; construtos são exceções óbvias, mas em algumas histórias até criaturas imunes a sangramento, como ouriços, escapam da predação.
 {p}
+Vampiros veem o sangue como nós vemos o vinho, declarando de forma mórbida que indivíduos têm certos "sabores"; eles conseguem perceber as características do sangue de alguém com um olhar, e vampiros experientes discernem ainda mais informações.
 
-Terrors that flap in the night!
+Vampiros se beneficiam de vítimas mais fortes, como se fosse uma refeição de qualidade; isso é ainda mais potencializado pela erudição do vampiro e sua habilidade de sugar sangue. As reações das vítimas à predação variam: de vergonha e nojo a achar o ato prazeroso. Isso já levou a histórias de romances entre vampiros e humanos, onde estes últimos são mantidos por perto como uma refeição deliciosa e nutritiva!
 
-Predators lurking in the dark!
-
-Tales of vampires are date back centuries. With these ancient undead recently sighted all over Tyris, it's time to separate fact from fiction!
-
-
-<b>Blood</b>
-
-Vampiric thirst is legendary; all the tales agree that they cannot eat normal food and instead must drink blood. Almost anyone can be a victim, so long as it can bleed; constructs are obvious exceptions, but in some tales bleed-immune creatures like hedgehogs escape predation too.
+Eu mesmo não entendo, mas as pessoas gostam desse tipo de romance, então...
 {p}
-Vampires view blood as we do wine, morbidly declaring individuals to have certain flavors; they can sense someone's blood traits at a glance, with experienced vampires discerning more information.
+Curiosamente, temperar comida com **catchup** a torna adequada para vampiros. A Guilda dos Magos afirma que isso implica que vampiros não precisam necessariamente de sangue, mas sim de algum aspecto metafísico, já que comida com a *aparência* de sangue é suficiente. Não é tão nutritiva quanto sangue real, mas é menos suspeita do que morder o pescoço de alguém ou carregar bolsas de sangue por aí.
 
-Vampires benefit from stronger victims akin to a quality meal; this is further increased by the vampire's learning and blood suck ability. Victims' reactions to predation vary from shame and disgust, to finding the act pleasurable; this has led to stories of romances between vampires and humans, where the latter is kept around as a delicious and nutritious meal!
+---
 
-I don't understand it myself, but people like these kinds of novels, so…
+### **<b>Outras Habilidades</b>**
+
+* Como **senhores da noite**, vampiros ganham atributos das 17h às 5h; essa mudança é rápida, mas não instantânea. Não importa se o vampiro está realmente exposto à luz solar; assim como a comida com catchup, sua sensibilidade ao dia e à noite — até mesmo subterrâneos — sugere que a conexão é **metafísica**, não material.
+
+* Vampiros frequentemente se transformam em **morcegos** para viajar; nessa forma, não temem a luz solar e são extremamente evasivos, mas também ficam **incrivelmente frágeis**. Apesar de rápidos e furtivos, um único golpe de sorte pode matá-los facilmente.
+
+---
+
+### **<b>Identificação e Proteção</b>**
+
+Muitos não-mortos superiores são indistinguíveis dos vivos à primeira vista, então cabe a um olho atento desmascarar vampiros:
+
+* **Vampiros ficam molhados** para evitar queimar na luz solar. Cuidado com pessoas que derramam líquidos sobre si mesmas, andam sob chuva ou nadam sem motivo!
+* **Vampiros são fracos contra fogo** e frequentemente usam equipamentos com resistência a fogo em excesso; alguém coberto da cabeça aos pés em escamas de dragão é definitivamente suspeito!
+* Existem **encantamentos em elmos** que protegem não-mortos da luz solar — um sinal revelador.
 {p}
-Curiously, seasoning food with ketchup makes it fit for vampires. The Mages' Guild claims this implies that vampires don't need blood per se, but rather some metaphysical aspect since food with the <i>appearance</i> of blood is enough. It's not as filling as actual blood, but is more inconspicuous than seizing someone's neck or carrying blood bags around.
+* **Cuidado com morcegos carregando ferramentas, armas ou outros itens!** Estar transformado não impede vampiros de agir normalmente!
+* Alguns vampiros, com medo de refeições ruins, recorreram à ciência — **furar estranhos com seringa para coletar sangue** não é comportamento normal!
+* Vampiros negligentes o suficiente para cochilar desprotegidos sob a luz solar sofrem muito. Qualquer um que insista em "camas de caixão temáticas" merece atenção.
 
-{p}
-<b>Other Abilities</b>
+---
+A maioria dos mitos sobre repelir vampiros tem pouco fundamento; por exemplo, a crença antiga de que a **água de Jure derrete vampiros é falsa**. No entanto, **figurinhas sagradas de Jure**, disponíveis no Festival da Noite Sagrada de Noyel, realmente desencorajam a predação vampírica. Medidas comuns contra não-mortos — **fogo, bênçãos sagradas e ruína de não-mortos** — também são eficazes.
 
-* Being lords of the night, vampires gain stats from 5 pm to 5 am; this change is swift but not instant. Whether a vampire is actually exposed to sunlight doesn't matter; like ketchup food, their sensitivity to day and night even underground suggests the connection is metaphysical rather than material.
+Vampiros **não são inerentemente maus**, com registros de vários cidadãos modelo; lutar contra a tentação de ver todos como meras refeições é um nobre esforço de vontade. Infelizmente, a maioria dos vampiros não faz essa distinção; após várias mortes recentes, a **Guarda Municipal de Palmia** pede a todos que denunciem qualquer atividade suspeita.
 
-* Vampires often transform into bats to travel; in this form, they do not fear sunlight and are highly evasive, but are also extremely weak and frail. Despite being fast and stealthy, a single lucky hit may easily kill them.
-
-{p}
-<b>Identification and Protection</b>
-
-Many higher undead are indistinguishable from the living at a glance, so it falls to the discerning eye to unmask vampires:
-
-*Vampires will stay wet to avoid burning in sunlight. Beware of people pouring liquids over themselves, walking in rain, or swimming for no reason!
-
-*Vampires are weak to fire and often equip far too much fire resistance equipment; someone clad from head to toe in dragonscale is definitely suspicious!
-
-*There are headgear enchantments that protect undead from sunlight — a dead giveaway.
-{p}
-*Beware of bats carrying tools, weapons, or other items! Being transformed does not prevent vampires from acting normally!
-
-*Some vampires fearful of bad meals have turned to science — randomly jabbing strangers with blood draw syringes is not normal behaviour.
-
-*Vampires negligent enough to doze off in sunlight unprotected suffer greatly. Anyone insisting on so-called "novelty" coffin beds warrants concern.
-{p}
-Most myths about repelling vampires have little basis; for example, the long-held belief that Jure water melts vampires is false. However, sanctified figurines of Jure, available at Noyel's Holy Night Festival, do discourage vampire predation. Common measures against undead — fire, holy and undead bane — are also effective.
-
-Vampires are not innately evil, with records of several model citizens; battling the temptation to see everyone as merely a meal is a noble effort of will. Unfortunately, most vampires don't make that distinction; following several recent deaths, the Palmian city guard urges all to report any suspicious activity.
-
-***
-
-<i>- In the next issue, we'll discuss recycling and how you can benefit from keeping Ylva clean!</i>
+---
+<i>— Na próxima edição, discutiremos reciclagem e como você pode se beneficiar mantendo Ylva limpa!</i>
