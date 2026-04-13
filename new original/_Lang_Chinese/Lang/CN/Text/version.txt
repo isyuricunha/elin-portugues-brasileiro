@@ -11,100 +11,85 @@ Welcome to Elin, and thank you for participating in the Early Access(EA)! We pla
 {link,Dev Room(Official) - Elin Links、Troubleshooting、and Mod information,http://ylvania.org/elin_dev_e.html}
 
 {topic, Elin Update Information}
-■ 4/11 2026 EA 23.295 Stable
+■ 3/21 2026 EA 23.287 Stable
 
 After updating the stable version, Mods from previous versions may stop working or behave strangely. If you notice unusual behavior, please try disabling Mods and test again.
 
 [Highlights]
-* Traveling Merchants can now occasionally appear on the global map. Their inventory now varies by merchant type. Traveling Merchants are also now guaranteed to appear on festival maps for each season.
-* A phantom killer can now rarely appear when towns are regenerated.
-* It is now possible to disguise yourself as a baby. While in baby form, the dialogue option "Mommy!" will now appear in conversations with NPCs.
-* You can now become a mommy when talking to baby NPCs or NPCs in a baby state.
-* Added beastfolk races such as Ratkin and Ravian.
-* When you have an Advanced Adventurer License, enemy levels in global map symbol encounters now scale with your fame.
-* Buffed Yevan's boon, Flames of Strife.
-* Expanded and improved mod-related features, and fixed existing bugs.
+* Added the Roster Board. Party members can now be selected from a list of residents across all bases, and party setups can be saved and recalled.
+* Mad Millionaires can now appear at a low chance when towns are regenerated.
+* Your beloved will send you a letter one year after a proposal.
+* Items can now be purchased from the Keeper of the Garden using influence.
+* Changed the cherry blossom colors in Mifu Village to the autumn style. Also changed the color of flower petals while worshipping Kizuami to the autumn style.
+* Dramatically improved the processing speed of list-type UIs that display NPCs, such as the Resident Board and Roster Board.
+* Updated and enhanced the Mod framework. Thanks DK!
 
 [New Content]
-* Added the race "Ratkin."
-* Added the race "Ravian."
-* Added the race "Werewolf."
-* Added the feat "False Face."
-* Added the feat "Killing Instinct." Granted to some NPCs.
-* Added the feat "Missionary of Love."
-* Added the feat "Sad Creature."
-* Added the ability "Human Guise."
-* Added the status "Human Guise." Also made various adjustments to the "Mimic" status.
-* Added Red Book "Adventurer's Weekly Issue 18: Party Management."
-* Added Red Book "Adventurer's Weekly Issue 19: Vampires." Added to Moyer's stock.
-* Added Red Book "Adventurer's Weekly Issue 20: Recycling." Added to Moyer's stock.
-* Added the item "Roster Ledger." Added to Loytel's stock. Also adjusted the prices of Loytel's wares.
-* Added the item "Mother Milk" (experimental).
-* Added the item "Potion of Degeneration." Now sold by Rodwyn.
-* Added the furniture "Jure Statue (Colossus)."
-* Added 3 types of furniture "Speaker."
-* Added the furniture "Stage Platform."
-* Added the furniture "Alien Door." Recipe also added.
-* Added 2 types of furniture "Candy Decoration."
-* Added 2 types of furniture "Spotlight."
-* Added the instrument "Harmonica." Recipe also added.
-* Added exclusive performance tracks for the "Harmonica."
-* Added variations to the tile "Alien Block."
-* Added the tile "Alien Block (Different from the Above)."
-* Added 3 types of tile "Alien Wall."
-* Added 3 types of tile "Alien Pillar."
-* Added 3 types of tile "Alien Floor." Added squishy footstep sounds.
-* Added 2 types of tile "Stage Floor."
-* Added 4 NPCs.
-* Added 2 monsters.
+* Added a "Launch Console" shortcut to the key settings in the Settings window.
+* Added a Kumiromi music box track.
+* Added the ability "Money Slap".
+* Added the ability "Oren Toss".
+* Added the ability "Money Dump".
+* Added sound effects to the ability "Draw". Also added several magic sound effects for buffs and similar effects.
+* Added the material "Cloud".
+* Added the item "Lost Wedding Ring Notice".
+* Added the item "★Garokk's Hammer". Added as a Small Medal prize (limited stock; more stock may be added later through quests).
+* Added the item "Scroll of Silver Cat Migration". Added to the Keeper's stock.
+* Added the item "Scroll of Epithet". Added to the Keeper's stock.
+* Added the item "Scroll of Family Tree Forgery". Added to the Keeper's stock.
+* Added "Cloud" furniture.
+* Added 8 types of "Garden Stone" furniture.
+* Added "Roster Board" furniture.
+* Added a wall-mounted version of the "Roster Board".
+* Added the map object "Stepping Stone".
+* Added the tile "Cloud Floor".
+* Added the tile "Cloud Block".
+* Added the tile "Alien Block".
+* Added the tile "Alien Floor".
+* Added the tile "Mushroom Floor" (previously existed only as a platform).
+* Added 1 neutral NPC (Mad Millionaire).
+* Added the achievement "Heh heh heh...".
+* Added the achievement "Ah, the Scent of This Herb".
+* Added the achievement "I-It's Not Like I'm Expecting Anything from You or Anything!".
+* Added the achievement "My Name Is Onev, Mother of All Living Things in Ylva".
+* Added the achievement "*Rin*".
+* Added the achievement "There, there~ I'll pat you!".
+* Added the achievement "This Isn't My Real Big Brother!!!".
+* Added and replaced the icon for the achievement "Eh...? No...".
 
 [Additions and Changes]
-* Set the maximum level of Yevan's boon "Flames of Strife" to 5. Its effects have been changed to physical damage increase and physical damage cap increase. The tooltip now also shows the current effects more clearly.
-* When "Flames of Strife" is level 1 or higher, its SP drain effect now gradually increases.
-* When "Flames of Strife" is level 2 or higher, it can now spread to allies.
-* When "Flames of Strife" is level 3 or higher, bleed resistance now gradually increases.
-* Neutral NPCs can now spawn randomly on roadside outdoor maps.
-* Added a cap to the potential gained from succubus play and baby play, since using baby play on NPCs such as the Garden Master could instantly max it out.
-* You no longer gain experience toward potential if you die during succubus play or baby play.
-* While worshipping Horome, anyone can now become your mama. Also, Horome followers no longer become a Sad Creature even if they repeat baby play.
-* NPCs generated on the global map are now displayed as "???" by name (experimental, since the actual NPC is generated during the symbol encounter).
-* Unique monsters and similar NPCs no longer generate randomly on the global map.
-* If an NPC generated in a symbol encounter has the Baby feat, that NPC will no longer scale based on the PC's fame level in some cases.
-* Repeatedly choosing "I'm going to attack you" when talking to travel merchants now lowers karma instead of raising it.
-* Slightly adjusted the Strength values of some non-playable races.
-* NPCs no longer buy or sell on user maps.
-* Added Cooking as a starting skill for the race "Juere."
-* Added Wolf Tail as a rare drop for NPCs of the race "Werewolf."
-* Gave the feat "Sad Creature" to the NPC "Raphael."
-* Adjusted the prices of the Keeper of the Garden's goods.
-* Added "Cloud" to the Keeper of the Garden's stock, and changed the stock count of each item to 99.
-* Added the various god colossi to the Keeper of the Garden's stock.
-* The item "Incubator" can now also be used inside tents.
-* Decorative signs can now also be used inside tents, and their designs can be changed.
-* Signboards such as the dining sign can now also function inside tents.
-* In the widget "Status Info," the direction in which text and icons are displayed now changes depending on the pivot position.
-* (English version) Changed the name of "resident list" to "resident ledger."
+* Entering Little Garden or the Garden of Eternity now displays the total number of Little Sisters and Silver Cats on the map.
+* Harvesting crops for harvest requests now grants Weight Lifting experience to party members based on the number and weight of the crops.
+* Weddings can now be held again after remarrying.
+* Nearby sounds now still play even while the PC is blind.
+* The PC can no longer kiss themselves. If the PC has a pet currently being ridden (parasitizing), targeting yourself will instead kiss that pet.
+* During intimate actions or shearing, not only companions but also their minions will now refrain from attacking the PC's target.
+* Some abilities, such as Charge, are no longer affected by gene replacement from slime predation and will not be forgotten once learned. This is now also stated in the tooltip when playing as a slime.
+* Slightly improved and fixed the underground map of the Derphy brothel.
+* Marked some characters such as Billy and Renton as unique characters internally, where they had not previously been flagged as such.
+* Reading a Scroll of Faith now raises Piety only when Piety is lower than the Faith skill.
+* Steam achievements are no longer checked while the game is being played offline.
+* Expanded the character limit for in-game chat. Multi-line input is now split and output line by line. Decorative tags are now also removed from text shown in the log.
+* When playing as a Slime, spells with depleted stock are now still shown in the ability list if they have been learned as abilities.
+* The "Peaky" feat can now appear on the Horse race at a low chance.
+* Added "a large bonus to riding experience" to the effects of the "Peaky" feat.
+* The feat "Magic Mastery" can no longer be obtained through genes.
+* Added a non-inheritable-on-crafting tag to the trait "Eco".
+* Even when the "Automatically Continue Performing" option is enabled, performing will now stop if the character is suffocating.
+* The console command "Stats" now displays the total number of migrated Little Sisters and Silver Cats.
+* Changed the console commands "ChangeJob" and "ChangeRace" into cheat commands.
+* Updated the snow graphics.
 * Updated the Chinese translation.
 
-[Mod-Related] (Thanks to DK)
-* Expanded mod functionality related to textures and sprites.
-* Added snow texture support for custom skins.
-* Added animation support for custom sprites.
-* Fixed the behavior when uploading mods while playing on a Steam Family account.
-* Fixed an issue where the names of subscribed mods could sometimes fail to be retrieved from Steam.
-* Fixed issues related to language mods.
-* Other mod-related feature additions and fixes.
-
 [Fixes]
-* Fixed an issue where stamina drain and mana drain attack effects were not being applied to unarmed attacks.
-* Fixed an issue where some items, such as a lovingly made lunchbox, could not be placed on the ground.
-* Fixed an issue where the target of Telekinesis would change if a mana warning dialog appeared while using Telekinesis.
-* Fixed an issue where the effect of the Ceasefire Whistle could wear off when going to sleep.
-* Fixed some lines in the story where Kettle was described as seeing things with his eyes even though he is blind. Also fixed some typos in the Palmia Times.
-* Fixed several processing overflows.
-* Other minor fixes and adjustments.
+* Fixed an issue where switching equipment sets could sometimes cause an error.
+* Fixed overflows in multiple processes.
+* Fixed the red book "About the Foxfolk" placed in Mifu Village being incorrectly flagged as NPC-owned.
+* Fixed various other minor issues and made small adjustments.
 
 [Notes]
-* It is intended that karma increases when choosing "I'm going to attack you" on traveling merchants, since it is better manners than attacking without warning.
-* For phantom killers, more gimmicks and related features may be added by the next stable release.
-* The skills and abilities of the newly added beastfolk races are still planned to be adjusted for a while.
+* The Roster Board turned into a fairly large update, so this Stable release is coming a little earlier than usual.
+* Mod support features are currently being heavily enhanced by DK. Going forward, we'd also like to improve compatibility with future base-game version updates where possible.
+* As for the Keeper of the Garden's prizes, since catching Silver Cats can be tedious, the current plan is to keep them limited to achievement-style rewards and certain furniture, so that collecting them does not become necessary.
+* As for Garokk's Hammer, a way to obtain it again through quests or similar is planned.
+* For fixed seeds used by Garokk's Hammer and similar features, I am considering adding an option under "World's Law" to disable fixed seeds.
