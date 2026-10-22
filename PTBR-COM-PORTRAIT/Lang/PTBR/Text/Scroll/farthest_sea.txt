@@ -1,4 +1,4 @@
-Diário do Viajante,,0  
-{center}  
+Diário de Andarilho,,0
+{center}
 
-Não existe um lugar chamado Mar Distante neste mundo.  
+Não existe tal lugar como o Mar Mais Distante neste mundo.

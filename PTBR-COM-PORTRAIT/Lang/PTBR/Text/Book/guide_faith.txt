@@ -1,47 +1,47 @@
-Vida Religiosa,Mãe
+Vida Religiosa,Madre
 
-Venham cá, gatinhos perdidos, eu os guiarei para a luz. Hoje é o último dia do seu aprendizado, depois do qual vocês estarão velhos o bastante para seguir um deus. Como essa decisão influenciará o resto de suas vidas, vamos revisar tudo o que aprendemos nesta aula final.
+Venham cá, gatinhos perdidos, eu vou guiá-los até a luz. Hoje é o último dia de vocês na escola, depois do qual vocês, crianças, estarão velhas o suficiente para seguir um deus. Como essa decisão vai marcar o resto das suas vidas, vamos revisar tudo o que aprendemos nesta aula final.
 
 
 <b>Os Pilares e Você</b>
 
-Adorar um deus significa elevar essa divindade a um lugar especial em seu coração. Através do vínculo da sua fé, você poderá receber bênçãos divinas e permitir que seu deus atue através de você.
+Adorar um deus significa elevar essa divindade a um lugar especial no seu coração. Pelo vínculo da sua fé, você poderá receber bênçãos divinas e permitir que seu deus aja por meio de você.
 {p}
-Para começar, você deve considerar seu futuro e escolher um deus cujas bênçãos combinem com suas aspirações de vida. Alguns exemplos comuns são:
+Para começar, você deve considerar o seu futuro e escolher um deus cujas bênçãos combinem com as suas aspirações de vida. Alguns exemplos comuns:
 
-* Eruditos, magos: Itzpalt do Elemento
-* Agricultores, tecelões: Kumiromi da Colheita
-* Caçadores, criadores: Lulwy do Vento
+* Estudiosos, magos: Itzpalt do Elemento
+* Fazendeiros, tecelões: Kumiromi da Colheita
+* Caçadores, rancheiros: Lulwy do Vento
 * Guerreiros, ferreiros: Opatos da Terra
 
-Claro, há muitas razões para adorar uma divindade em particular, mas considerações práticas e pessoais devem ser ponderadas entre si.
+Claro, há muitas razões para adorar um deus em particular, mas considerações práticas e pessoais devem ser pesadas umas contra as outras.
 
-Uma vez feita sua escolha, você precisa encontrar um altar dessa divindade — peregrinos viajam aos Campos da Trégua ao norte de Palmia para esse propósito. Após alcançar um, você pode ser admitido na seita divina.
+Depois de escolher, você precisa achar um altar do deus em questão: peregrinos viajam ao Recinto da Trégua ao norte de Palmia para isso. Ao alcançar um, você pode ser admitido no seio divino.
 {p}
 <b>Deveres Religiosos</b>
 
-Simplesmente adorar um deus fortalecerá seu vínculo com o passar dos dias. Contudo, há muito que você pode fazer para forjar ativamente um relacionamento com o divino:
+Só adorar um deus já fortalece o vínculo conforme os dias passam. Porém, há muito que se pode fazer para forjar uma relação ativa com o divino:
 
-* Reze todo dia. O requisito mais básico de todo adorador; rezar restaurará você e aprofundará sua fé.
+* Reze todo dia. O requisito mais básico de todo fiel: rezar restaura você e aprofunda a sua fé.
 
-* Faça oferendas. Cada divindade tem itens favorecidos que servem como ofertas apropriadas. Entregue-os a um altar do seu deus.
+* Faça oferendas. Cada divindade tem itens preferidos que servem de oferenda adequada. Entregue-os a um altar do seu deus.
 
-* Leia pergaminhos da fé. Esses pergaminhos raros farão de você um farol de poder divino.
+* Leia pergaminhos de fé. Esses pergaminhos raros marcam você como um farol de poder divino.
 {p}
-Sua fé é seu potencial divino, mas é um copo vazio a ser preenchido por suas ações. Os Pilares na verdade não precisam de oferendas, mas o ato de sacrifício e devoção serve como um condutor entre nós e eles. Lembre-se, fé <b>e</b> obras são necessárias para receber plenamente as bênçãos divinas.
+Sua fé é o seu potencial divino, mas é uma taça vazia a ser cheia com os seus atos. Os Pilares não precisam de oferendas de verdade, mas o ato de sacrifício e devoção serve de conduto entre nós e eles. Lembre: fé <b>e</b> obras são necessárias para receber por inteiro as bênçãos divinas.
 
 {p}
 <b>Altares</b>
 
-Além da adoração e do sacrifício, os altares têm outros propósitos. Antes de tudo, pode-se oferecer uma garrafa de água pura para ser abençoada por seu deus — note: água comum não resiste à santificação. Além disso, não ofereça água pura a outra divindade por engano — ela será amaldiçoada!
+Além de adoração e sacrifício, os altares têm outros fins. Primeiro de tudo, dá para ofertar uma garrafa de água pura para ser abençoada pelo seu deus: note que água comum não suporta a santificação. E não oferte água pura a outra divindade por engano: ela virá amaldiçoada!
 
-Se encontrar um altar de outro deus, você pode tentar reivindicá-lo para o seu. Para isso, prepare um sacrifício poderoso — quanto mais pesado, melhor — e ofereça-o no altar opositor. Quanto melhor a oferta, maior a chance de sucesso; se seu deus reivindicar o altar, certamente seu esforço será reconhecido. Falhe, e receberá punição divina.
+Se você encontrar um altar de outro deus, pode tentar reivindicá-lo para o seu. Para isso, prepare um sacrifício poderoso: quanto mais pesado, melhor; e oferte-o no altar rival. Quanto melhor a oferenda, maior a chance de sucesso; se o seu deus reivindicar o altar, seu esforço certamente será reconhecido. Falhe, e você receberá castigo divino.
 
-Alguns altares, como os dos Campos da Trégua, são protegidos e não podem ser contestados.
+Alguns altares, como os do Recinto da Trégua, são protegidos e não podem ser disputados.
 
 {p}
-<b>Mudar de Deus</b>
+<b>Mudando de Deus</b>
 
-Mudar de deus não é algo a se tomar levianamente — a traição é sempre punida com rigor divino. Ainda assim, se estiver decidido, encontre um altar de sua nova divindade e comece a adorá-la como antes. Esteja ciente de que será carregado com o peso de seus pecados na proporção de quanto seu deus anterior confiava em você… e receber punições adicionais enquanto já está censurado pelos deuses significa morte inevitável.
+Mudar de deus não é coisa a ser levada de leve: traição é sempre recebida com castigo divino. Ainda assim, se você estiver decidido, ache um altar da nova divindade e comece a adoração como fez antes. Saiba que você carregará o peso dos seus pecados na proporção de quanto o deus anterior confiava em você… e receber mais castigo já censurado pelos deuses significa morte inevitável.
 
-Aula encerrada; rezem com afinco — há sempre uma chance de salvação. Amanhã, começamos nossa jornada aos Campos da Trégua.
+Aula encerrada, e orem com fé; sempre há chance de salvação. Amanhã, começamos a jornada ao Recinto da Trégua.

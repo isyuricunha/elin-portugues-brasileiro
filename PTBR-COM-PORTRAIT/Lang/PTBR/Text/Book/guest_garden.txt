@@ -1,11 +1,22 @@
-Lista de Convidados, Administrador do Jardim,0,2
+Registro de Hóspedes,Guardião do Jardim,0,2
 
-■ Ano 263 do Calendário de Xiel ～ A Bruxa das Sombras "Velna"
+■ Sierra Terre 263 〜 Bruxa das Sombras "Verna"
 
-<i>Uma bruxa com asas negras. Essas asas são o preço de seu poder descontrolado. Quando as abre, uma sombra profunda cobre tudo ao redor, e as pessoas a chamam de "Bruxa das Sombras". Sempre que alguém menciona seu nome às escondidas, revela tanto escárnio quanto medo do desconhecido. No entanto, ela é muito diferente da imagem que circula: uma bruxa distante de qualquer maldade.
+<i>Uma bruxa que carrega asas negras nas costas. Aquelas asas apareceram como o preço da magia fora de controle dela. Quando as abre por inteiro, o entorno é engolido em escuridão funda, e o povo chama essa cena de "a Sombra". Sempre que o nome dela é sussurrado, é sempre acompanhado de tons de medo e desprezo pelo antinatural. Mas, contrariando essa impressão, ela própria está longe de ser má.
 
-Encontrei-a em uma aldeia durante sua viagem solitária e a convidei como hóspede para o Jardim Eterno. Ela não demonstrou surpresa, mais parecia desfrutar do momento de repouso no jardim.</i>
+Tendo partido de uma certa vila em desespero, foi recebida por mim como hóspede do Jardim. Ela mostrou pouca surpresa, e parecia contente em saborear livremente um momento de respiro aqui no jardim.</i>
 {p}
-■ Ano 517 do Calendário de Xiel ～ A Dupla de Elrua
 
-<i>Uma jovem Elrua gentil e bela e um jovem Elrua barulhento. Os dois ainda não sabem do destino cruel que os aguarda. Pelo menos, espero que este jardim lhes proporcione um breve momento de paz.</i>
+■ Sierra Terre 517 〜 Par de Elea
+
+<i>Uma bela e gentil donzela elea, e um jovem elea animado de cabelos verdes. Esses jovens ainda não conhecem o destino duro que os aguarda. Ao mínimo, desejo que saboreiem um breve momento de repouso aqui neste jardim.</i>
+
+
+■ Sierra Terre 511 〜 Garotinha elean
+
+<i>As destinadas a mudar o mundo trilham um caminho ladeado de sacrifícios sem nome. Teria ela nascido para virar oferenda à história? Não: seria destino cruel demais.</i>
+
+{p}
+■ Sierra Terre ??? 〜 Dois Jovens Misteriosos
+
+<i>Para ser preciso, esses indivíduos não são convidados. Em algum ponto, eles simplesmente se esgueiraram no jardim sem ser notados. Aquele recém-chegado do reino divino: um ser nada ortodoxo de poder considerável, ainda vestindo a forma que tinha quando era humano. Mas o fato de versões do mesmo ser, de linhas do tempo diferentes, coexistirem aqui é um fenômeno que nem eu consigo compreender. Me diverte, então escolho deixar como está.</i>

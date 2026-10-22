@@ -1,23 +1,24 @@
-Carta Estranha de Desafio,Homem com uma cicatriz,0  
+Carta de Desafio Estranha,Homem com uma cicatriz,0,5
 
-Ei, aventureiro. Fico feliz que tenha tirado um tempo para ler isto.  
+E aí, aventureiro. Que bom que você tá gastando o tempo para ler isto.
 
-Deixa eu te perguntar uma coisa—você já enfrentou um deus?  
+Deixa eu te perguntar uma coisa: você já encarou um deus?
 
-Ao sudeste de North Tyris, há um lugar onde os ventos descansam. É lá que você pode encontrar um deus que uma vez desafiou os céus, falhou e foi selado.  
 
-Claro, esse deus está longe do seu auge, mas não pense que será fácil. Se entrar de peito aberto sem estar preparado, será esmagado. Não tem graça em um massacre unilateral, certo? Então, certifique-se de estar pronto. Quando tiver lutado pelos quatro cantos do mundo e pensar: “Não há mais ninguém à minha altura,” aí sim você estará preparado para esse desafio.  
+Lá ao sudeste de Tyris do Norte, tem um lugar onde os ventos descansam. É aí que você pode se deparar com um deus que desafiou os céus, falhou e acabou selado.
 
-{p}  
+Claro, esse deus está longe do auge, mas não é adversário fácil. Entrar batendo sem estar pronto e você só vai ser triturado. Massacre unilateral não tem graça, né? Então garanta que está bem preparado. Quando você tiver lutado por todo canto, e pensar "não sobrou ninguém neste mundo que me encare", aí sim você está pronto para este desafio.
 
-Mesmo deuses sangram se forem cortados fundo o suficiente. Você pode enfrentá-lo de frente com suas habilidades afiadas, ou talvez prefira jogar sujo. Pode perder uma vez, mas a derrota não é o fim se continuar voltando. Enquanto continuar evoluindo, eventualmente vencerá. Apenas não pare—dê tudo de si e siga em frente.  
+{p}
 
-E não se preocupe em quebrar o selo dele. Ele não vai a lugar nenhum, e também não vai se tornar uma ameaça ao mundo. Seu selo e a vontade daqueles que tiveram suas espadas tomadas por ele o manterão no lugar. Dou minha palavra—eu estarei observando.  
+Até deus sangra se você cortar fundo o bastante. Você pode encarar de frente com as perícias lapidadas, ou talvez armar algumas pegadinhas. Pode perder uma vez, mas a derrota não é o fim se você continuar voltando. Enquanto continuar a evoluir, vai ganhar eventualmente. Só não afrouxe: dê tudo o que tem e siga empurrando.
 
-Se conseguir derrotar esse deus antigo arrogante que menospreza os mortais, essa será uma grande história. Interessado agora?  
+E não sofre por quebrar o selo dele. Ele não vai a lugar nenhum, nem vai virar ameaça de fim de mundo. O selo dele e a vontade dos que tiveram as espadas tomadas por ele vão mantê-lo no lugar dele. Palavra minha: estarei observando.
 
-{p}  
+Se você conseguir derrubar aquele deus antigo arrogante que olha os mortais de cima, vai ser uma saga e tanto. Interessou-se?
 
-Estou contando com você para realizar algo incrível—algo que até mesmo os deuses jamais imaginaram. Estarei ansioso para ver!  
+{p}
 
-P.S. Ah, e se conseguir vencer e ainda quiser mais, tente oferecer o coração do deus no Altar do Caos. Talvez consiga exatamente o que procura.  
+Estou contando com você para realizar algo incrível, algo que até supere o divino. Estarei aguardando!
+
+P.S. Ah, e se você ganhar mas ainda quiser mais, tente ofertar o coração do deus no Altar do Caos. Talvez você ganhe o que quer.

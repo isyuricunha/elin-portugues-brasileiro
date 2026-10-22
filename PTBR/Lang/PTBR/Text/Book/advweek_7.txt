@@ -1,42 +1,43 @@
-Semanário do Aventureiro – Edição 7 《Simbiose》, Repórter Especial Célia em Yoen,10,1
+Jornal do Aventureiro nº 7: Simbiose,Correspondente em Yowyn Celia,10,1
 
-<i>Bem-vindo à leitura do 『Semanário do Aventureiro』. Toda semana trazemos para vocês tópicos de tirar o fôlego!
+<i>Bem-vindo ao Jornal do Aventureiro, onde cobrimos temas próximos e queridos aos seus corações valentes.</i>
 
-Dando continuidade ao assunto da semana passada, a repórter especial Célia volta a consultar o mestre de estábulo Paris sobre o tema intimamente ligado à montaria: a 「Simbiose」！</i>
 
-<color=brown>Célia: Mais uma vez, conto com a sua ajuda, senhor mestre de estábulo.</color>
+Na semana passada, pedimos ao estábulo-mestre Varis que nos apresentasse a montaria, e hoje seguimos um tema intimamente ligado: a simbiose.
 
-Paris: Ora, não há de quê, senhorita repórter. (sorri) Afinal, de certa forma também é uma propaganda gratuita para os negócios da nossa vila.
+<color=brown>Celia: Obrigada por nos receber de novo, senhor estábulo-mestre.</color>
+
+Varis: Muito bem-vindos, senhorita. (Risos) Vocês estão fazendo publicidade grátis para os negócios locais, afinal.
 {p}
-<color=brown>Célia: Sem mais demora, poderia continuar o assunto da última vez e me ensinar sobre a Simbiose? Que benefícios essa habilidade traz aos aventureiros?</color>
+<color=brown>Celia: Pois bem! Seguindo a entrevista da semana passada, o que nos conta sobre a simbiose, e como ela pode ajudar os aventureiros?</color>
 
-Paris: A Simbiose é semelhante à montaria. Simplificando, é como 「deixar que o mascote monte em você」 — o oposto de você montar no mascote.
+Varis: Simbiose é parecida com montaria: pense nela como o seu bicho montando você, em vez de você montando o seu bicho.
 
-<color=brown>Célia: Uau! Então isso significa que o mascote pode agir com a mesma velocidade que eu?</color>
+<color=brown>Celia: Uau! Então o bicho passa a andar tão rápido quanto você também?</color>
 
-Paris: Infelizmente, não exatamente. Um mascote em Simbiose age com a média entre a própria velocidade e a sua. Diferente da montaria, não há ganho extra de velocidade.
-{p}
-<color=brown>Célia: Já que estamos falando de 「montaria」, é possível usar montaria e Simbiose ao mesmo tempo?</color>
-
-Paris: Sim, sim, é possível. Os três compartilham o mesmo espaço. Um ataque contra você também atinge tanto a montaria quanto o companheiro em Simbiose, e o contrário também é verdadeiro. Além disso, a Simbiose compartilha muitas vantagens da montaria: o mascote em Simbiose, mesmo gravemente ferido, apenas desmaia em vez de morrer; e magias que afetam montarias também se aplicam ao parceiro em Simbiose.
-
-Mas há desvantagens: a taxa de acerto e a conjuração ficam prejudicadas, dependendo do nível da sua habilidade de Simbiose. E se você usar montaria e Simbiose juntos, sofrerá os efeitos negativos de ambos ao mesmo tempo.
-{p}
-<color=brown>Célia: Então quais são as principais diferenças entre montaria e Simbiose?</color>
-
-Paris: Bem… mascotes em Simbiose atacam com mais frequência, por isso é melhor escolher mascotes de alto poder ofensivo. Ao contrário da montaria, um parceiro em Simbiose pode atacar mesmo enquanto você se move — não é preciso se preocupar tanto com a velocidade dele, o que é uma vantagem.
-
-<color=brown>Célia: Entendi.</color>
-
-Paris: Outro ponto é que mascotes em Simbiose não podem se mover sozinhos. Por isso, é melhor escolher mascotes com ataques à distância. Isso dá uma vantagem enorme quando você quer manter distância do inimigo durante o combate.
-{p}
-<color=brown>Célia: Por fim, poderia recomendar algum mascote ideal para a Simbiose?</color>
-
-Paris: Hm, não existe uma opção tão simples e direta como os cavalos de Yoen para montaria… mas as Gatas-Meninas são uma boa escolha. Elas são rápidas e fortes, mas com pouca resistência — não servem bem como montaria, mas são perfeitas para Simbiose. O problema é que são raras de encontrar. Antigamente até vendíamos algumas em Yoen… mas, bem, certas circunstâncias mudaram isso.
-
-<color=brown>Célia: Entendi. Então, se conseguirmos combinar bem a montaria com a Simbiose, as aventuras ficarão muito mais fáceis. Muito obrigada pelos conselhos valiosos de hoje.</color>
-
-Paris: Eu que agradeço, senhorita repórter.
+Varis: Infelizmente não. Um bicho hospedado em você mantém a velocidade própria. Porém, recebe uma parte de todos os modificadores de velocidade que você tem, bons ou ruins; feitiços, equipamento, esse tipo de coisa. Menos o bônus de montaria, esse não.
 
 {p}
-<i>- Na próxima edição, revelaremos aos aventureiros os segredos de como 「gerenciar uma loja」！</i>
+<color=brown>Celia: Você disse "montarias". Isso significa que dá para montar e simbiotar ao mesmo tempo?</color>
+
+Varis: Sim! Os três podem ocupar o mesmo espaço. Um ataque mirado em você tem chance de acertar sua montaria ou seu simbiota, e o vale se o alvo for o aliado hospedado. Muitos benefícios da montaria valem para a simbiose: ser nocauteado em vez de morrer, feitiços de montaria afetando todos, esse tipo de coisa. Penalidades similares de acerto e conjuração também valem na simbiose, regidas pela perícia própria. Se estiver montando E hospedando, os dois conjuntos de penalidades valem: cuidado!
+{p}
+<color=brown>Celia: Com as perícias tão parecidas, talvez seja melhor focar nas diferenças.</color>
+
+Varis: Bem, simbiotas são mais agressivos: hospedar um bicho poderoso porém frágil é boa ideia. Diferente da montaria, ele continua agindo mesmo enquanto você se move, e você não se preocupa com diferenças de velocidade, pois ele não é limitado por você.
+
+<color=brown>Celia: Entendi.</color>
+
+Varis: Como o simbiota não anda sozinho, dar a ele algum tipo de ataque à distância também é boa ideia, caso queira manter distância dos inimigos.
+{p}
+<color=brown>Celia. Foi tudo muito útil, senhor estábulo-mestre. Uma última coisa: sugeriria alguns bichos que ficassem bons como simbiotas?</color>
+
+Varis: Hum. Não temos escolhas óbvias e fáceis como os cavalos yowyn... talvez uma irmã-gata. São bem velozes e fortes, mas ruins de montaria e aguentam pouco castigo. Diria que são um bom exemplo do que a simbiose foi feita para, embora sejam meio difíceis de conseguir. Já vendemos em Yowyn, mas então... bem, é complicado.
+{p}
+<color=brown>Celia: Todos entendemos. Obrigada por mais uma entrevista esclarecedora, senhor estábulo-mestre: com o uso esperto de montaria e simbiose juntas, tenho certeza de que nossos aventureiros acharão mais fácil gerenciar os aliados.</color>
+
+Varis: O prazer é todo meu, senhorita.
+
+***
+
+<i>- Na edição da próxima semana, ensinaremos vocês aventureiros a administrar o próprio negócio!</i>

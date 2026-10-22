@@ -1,23 +1,23 @@
-As Intenções do Império do Deserto  
-O conflito contínuo continua a criar uma tensão delicada entre o Novo Reino e o Império. Informações vazadas de Yerl revelaram que o império está avançando secretamente na reconstrução das aeronaves Cyran.  
-@desert,UN_isygarad  
+As intenções do Império do Deserto
+O conflito em curso continua a criar tensão delicada entre o Novo Reino e o Império. Inteligência de Yerl vazou a informação de que o império avança secretamente na reconstrução dos dirigíveis de Cyran.
+@desert,UN_isygarad
 
-Yerl Anuncia Nova Armadura Mágica Reflexiva  
-O Novo Reino anuncia o desenvolvimento de 'Miraja', uma armadura mágica reflexiva. Esse novo avanço demonstra a prontidão de Yerl e seus progressos estratégicos na tecnologia de defesa mágica.  
-@labo  
+Yerl anuncia armadura mágica refletiva nova
+O Novo Reino anuncia o desenvolvimento de "Miraja", uma armadura mágica refletiva. O desenvolvimento novo significa a preparação de Yerl e o avanço estratégico dela na tecnologia de defesa mágica.
+@labo
 
-Desvendando o Mistério de Cyra  
-Yerl inicia uma pesquisa sobre a fonte de energia das aeronaves Cyran. Cientistas especulam que essa energia enigmática possivelmente envolve 'Éter'. Eles estão buscando cooperação com Mysilia, onde os destroços da aeronave estão enterrados.  
-@labo  
+Desvendando o mistério de Cyra
+Yerl inicia a pesquisa sobre a fonte de energia do dirigível de Cyran. Os cientistas especulam que essa energia enigmática possivelmente envolve o "Éter". Eles buscam a cooperação de Mysilia, onde os destroços do dirigível jazem enterrados.
+@labo
 
-Temível Armadura Mágica 'Golem'  
-O império implantou o antigo 'Golem' na linha de frente de Yerl. O Golem amplifica as habilidades de seu operador mago, tornando-se uma força esmagadora. Yerl está desenvolvendo rapidamente autômatos não mágicos como contra-medidas contra o Golem.  
-@labo,UN_isygarad  
+Armadura mágica temível "Golem"
+O império despachou o antigo "Golem" para as linhas de frente de Yerl. O Golem amplifica as habilidades do operador mago, representando um poder avassalador. Yerl desenvolve rápido autômatos não mágicos como contramedida ao Golem.
+@labo,UN_isygarad
 
-Rainha do Gelo Convida Aventureiros para uma Recepção Real  
-A Rainha de Mayroon organizou um evento, convidando aventureiros de Tyris para seu palácio. Os convidados ficaram encantados com a beleza da rainha e o misterioso país da neve.  
-@snow  
+Rainha do Gelo convida aventureiros para recepção real
+A rainha de Mayroon arquitetou um evento, convidando aventureiros de Tyris ao palácio dela. Os presentes ficaram encantados com a beleza da rainha e o país de neve misterioso.
+@snow
 
-Aventureiro, Espírito do Cacto e uma História de Amor  
-Notícias de um aventureiro que se apaixonou por um espírito do cacto no Sul de Tyris se espalharam. Numerosos aventureiros agora estão visitando o sul de Tyris.  
-@desert  
+Aventureiro, espírito de cacto e uma história de amor
+A notícia de um aventureiro apaixonado por um espírito de cacto em Tyris do Sul se espalhou. Numerosos aventureiros agora visitam o sul de Tyris.
+@desert

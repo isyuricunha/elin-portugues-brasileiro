@@ -1,51 +1,51 @@
-Semanário do Aventureiro #17: Furto,Senhora Persephone,10,1
+Jornal do Aventureiro nº 17: Furtividade,Senhora Persephone,10,1
 
-<i>Bem-vindo ao Semanário do Aventureiro, onde escrevo para vocês queridões da minha propriedade rural.</i>
+<i>Bem-vindo ao Jornal do Aventureiro, onde escrevo para vocês, queridos, da minha propriedade no campo.</i>
 
 
-Embora eu seja rica o suficiente para ser uma dama de lazer pelos meus anos restantes, aposentadoria fica entediante e a proposta de Hans foi… interessante. Ele tem sido um bom amigo, então vou ensinar a vocês queridos algumas dicas dos meus dias de juventude.
+Sou rica o bastante para ser uma dama de ócio pelo resto dos dias, mas aposentadoria enjoa e a proposta do Hans era… interessante. Ele é um bom amigo, então ensinarei a vocês, queridos, umas dicas dos meus tempos moços.
 
-Vocês prometem usar esse conhecimento legalmente, certo?
+Vocês prometem usar esse conhecimento legalmente, né?
 {p}
-<b>Batedor de Carteira</b>
+<b>Batedor de Carteiras</b>
 
-Simplesmente colocando, roubo. Saquear o tesouro de um dragão fundamentalmente não é diferente de limpar os bolsos de um orc.
+Simplesmente roubo. Pilhar o tesouro de um dragão não é fundamentalmente diferente de vibrar a carteira de um orc.
 
-Primeiro, você precisa de força e habilidade suficientes. Um ponto de força vale 0.1s, enquanto habilidade de batedor de carteira vale 0.2s. Contanto que esses combinados excedam o peso do item, serve.
+Primeiro, precisa de força e perícia suficientes. Um ponto de força vale 0.1s, enquanto a perícia de batedor vale 0.2s. Contanto que a soma exceda o peso do item, funciona.
 
-Depois, você precisa evitar ser notado por qualquer um que possa se opor à sua pequena ladroagem. Contanto que ninguém possa te ver, está tudo bem, você não precisa se preocupar em — ahem — "fazer barulho alto". Ser invisível ajuda, mas não garantirá sucesso. Cegar, confundir, adormecer ou paralisar testemunhas <b>garantirá</b>, mas aí você tem outros problemas.
+Depois, precisa evitar ser notado por quem possa se opor ao seu pequeno furto. Contanto que ninguém veja, está bem: não precisa se preocupar com — ahem — "fazer barulho". Invisibilidade ajuda, mas não garante. Cegar, confundir, adormecer ou paralisar testemunhas <b>garante</b>, mas aí você tem outros problemas.
 {p}
-Claro, você sempre pode matar todo mundo ou mandá-los embora com uma varinha de teleporte, mas isso é tão Hans. Eca.
+Claro, você poderia matar todo mundo ou teleportá-los com uma varinha, mas isso é coisa do Hans. Eca.
 
-Agora, vocês queridos nunca fariam coisas horríveis como furtar lojas ou roubar casas, certo?
+Vocês, queridos, jamais fariam coisas horríveis como roubar lojas ou invadir casas, né?
 
-Comece com objetos leves e desprotegidos, e vá subindo. Quando você for tão bom quanto eu, estará roubando armas das mãos de seus inimigos e armadura de suas costas enquanto desvia de golpes. Confie em mim, seus amigos magos vão te agradecer por se livrar daquele anel anti-magia.
+Comece com objetos leves e desguardados, e vá subindo. Quando for boa como eu, roubará armas das mãos dos inimigos e armaduras das costas deles enquanto desvia de golpes. Confie em mim: seus amigos magos vão agradecer por se livrar daquele anel antimagia.
 
 {p}
-<b>Abertura de Fechaduras</b>
+<b>Arrombamento</b>
 
-A menos que você não se importe em pagar as taxas exorbitantes de um informante, você vai querer essa habilidade para abrir os baús trancados que encontrar em nefias. Para começar, você precisará de gazuas: sem nenhuma, você só pode destravar baús com classificação de até metade da sua habilidade. Com elas, isso se torna sua habilidade+10 — muito melhor, hmm?
+A menos que não se importe com os honorários exorbitantes do informante, você vai querer esta perícia para abrir os baús trancados das nefias. Para começar, precisa de chaves-mestras: sem elas, só abre baús com dificuldade até metade da sua perícia. Com elas, vira perícia+10: muito melhor, não?
 
-Lojas gerais podem vender gazuas, mas a Guilda dos Ladrões sempre as tem em estoque para membros. Nos velhos tempos, eu entrava sorrateiramente e comprava algumas das máquinas de venda…
+Armazéns vendem chaves-mestras, mas a Guilda dos Ladrões sempre tem estoque para membros. Nos meus tempos, me esgueirava para lá e comprava das máquinas de venda…
 
-Um grande obstáculo que vocês queridos têm com abertura de fechaduras é começar. Alguns juram por baús de prática, mas isso é lento demais para mim. Baús de aposta darão um pouco de experiência, mas não são econômicos.
+O grande pesadelo de vocês no arrombamento é começar. Alguns juram pelas caixas de treino, mas é lento demais para mim. Baús de aposta dão um pouco de experiência, mas não compensam o custo.
 {p}
-O que eu fiz foi vasculhar negociantes de sucata por baús elaboradamente trancados: informantes não podem abrir esses, e são uma prática muito boa. Uma vez que você comece, nunca precisará tocar em um baú de prática, graças aos deuses. Baús elaboradamente trancados podem ter coisas muito boas neles também, então você consegue mais do que apenas experiência.
+O que eu fazia era garimpar negociantes de sucata por baús de trava elaborada: informantes não abrem esses, e são excelente treino. Depois que começa, nunca mais precisa de caixa de treino, graças aos deuses. Baús de trava elaborada podem ter coisas boas dentro também, então você ganha mais que experiência.
 
-Palavra de conselho: você nunca pode ter habilidade demais, então ter um conjunto de equipamento de abertura de fechaduras que você pode vestir antes de classificar seus saques de nefia é uma boa ideia tanto para novatos quanto para especialistas.
+Um conselho: nunca se tem perícia demais, então ter um conjunto de equipamento de arrombamento para vestir antes de vasculhar os espólios das nefias é boa ideia para novatos e veteranos.
 {p}
 <b>Furtividade</b>
 
-Hans nunca gostou de se esgueirar por nefias, mas até ele teve que admitir que ser capaz de escolher suas lutas é útil. Mover-se furtivamente depende da sua habilidade versus a percepção e detectar oculto de inimigos próximos: quanto mais perto você está de alguém, mais difícil é permanecer escondido, e inimigos já em combate estão mais alertas para serem surpreendidos.
+O Hans nunca gostou de esgueirar-se pelas nefias, mas até ele admitia que poder escolher as lutas ajuda. Mover-se em furtividade depende da sua perícia contra a percepção e a perícia de busca dos inimigos próximos: quanto mais perto, mais difícil permanecer escondido, e inimigos já em combate estão mais alertas.
 
-Furtividade é um esforço melhor empreendido sozinho; basta um idiota para descobrirem todos vocês. Se você deve se esgueirar em grupo, a furtividade de todos é testada individualmente, então não deve haver elos fracos. Quando bem feito, você pode deslizar por uma nefia e trabalhar seu caminho até pontos de interesse sem ser incomodado por seus habitantes.
+Furtividade é atividade para fazer sozinho: basta um idiota para descobrirem todos. Se precisar se esgueirar em grupo, a furtividade de cada um é testada individualmente: não pode haver elo fraco. Bem feito, dá para atravessar uma nefia e chegar aos pontos de interesse sem ser incomodado pelos habitantes.
 {p}
 <b>Conclusão</b>
 
-É incrível como tantas habilidades associadas à criminalidade são úteis para aventureiros perfeitamente corretos, não é? As pessoas nos desprezam, mas olham para o outro lado quando nossos serviços são necessários… ah bem. Sou uma dama respeitável agora, e tenho certeza que nenhum de vocês queridões vai aprontar com o que aprenderam hoje.
+É notável como tantas perícias associadas ao crime são úteis para aventureiros perfeitamente íntegros, não é? O povo nos despreza, mas olha para o outro lado quando precisa dos nossos serviços… enfim. Agora sou uma dama respeitável, e tenho certeza de que nenhum de vocês, queridos, vai aprontar com o que aprendeu hoje.
 
-Até a próxima, então.
+Até a próxima.
 
 ***
 
-<i>- Na nossa próxima edição, vamos dar uma olhada em como formar grupos de aventura eficazes!</i>
+<i>- Na próxima edição, veremos como formar grupos de aventura eficazes!</i>

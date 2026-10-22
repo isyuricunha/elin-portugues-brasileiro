@@ -1,12 +1,12 @@
 Você Pode Cozinhar!,O Chef de Ferro
 
-Já viu pratos em restaurantes elegantes e pensou: "Queria poder comer isso todo dia?"
+Já viu pratos em restaurantes finos e pensou: "quem dera comer isso todo dia?"
 
-Você pode, se cozinhar você mesmo!
+Pode, se cozinhar você mesmo!
 
 <b>Utensílios</b>
 
-Primeiro, você precisará de um local para cozinhar. Fogueiras e panelas servem para refeições simples, mas você vai querer uma cozinha totalmente equipada para fazer pratos profissionais.
+Primeiro, precisa de um lugar para cozinhar. Fogueiras e panelas servem para refeições simples, mas você vai querer uma cozinha completa para fazer pratos profissionais.
 
 {p}
 
@@ -20,37 +20,37 @@ Um chef deve ter o seguinte:
 * Forno
 * Micro-ondas
 
-O que segue também é útil no preparo de ingredientes:
+Estes também ajudam a preparar ingredientes:
 
-* Moinho
+* Moinho de pedra
 * Prateleira de maturação
 * Máquina de espresso
 
-Também é uma boa ideia ter um regador cheio caso você tente cozinhar algo difícil demais e acabe provocando um incêndio!
+Também é bom ter um regador cheio, caso tente cozinhar algo difícil demais e um incêndio comece!
 
 {p}
 <b>Receitas</b>
 
-Em seguida, você precisará saber cozinhar. Infelizmente, chefs guardam receitas como dragões guardam seu ouro — a concorrência é acirrada, e você terá que criar suas próprias ideias. Se cozinhar bastante, pode se inspirar a criar pratos semelhantes, ou pode desmontar o prato assinatura de um rival com um martelo para ver como é feito.
+Agora, precisa saber cozinhar. Infelizmente, chefs guardam receitas como dragões guardam ouro: a competição é acirrada, e você vai ter que ter ideias próprias. Cozinhando muito, pode se inspirar para criar pratos parecidos, ou desmontar o prato assinatura de um rival com um martelo para ver como é feito.
 
-Claro, isso pressupõe que você tenha a habilidade culinária para entender o que está acontecendo. Ainda nada? Procure santuários da roda que dizem conceder inspiração criativa.
+Claro, isso assume que você tem a perícia de culinária para entender o que está acontecendo. Ainda nada? Procure os santuários de roda, que dizem conceder inspiração criativa.
 
 
 <b>Ingredientes e Preparo</b>
 
-Boas refeições começam com bons ingredientes: colheitas e peixes de alta qualidade de agricultores e pescadores experientes, carne marmorizada de monstros raros, temperos caseiros e mais.
+Refeições boas começam em ingredientes bons: plantações e peixes de alta qualidade de fazendeiros e pescadores experientes, carne marmoreada de monstros raros, temperos caseiros e mais.
 {p}
-Ao escolher ingredientes, preste atenção à sua qualidade e características; apenas um ingrediente precisa ser de alta qualidade, mas as características de todos os ingredientes são somadas durante o cozimento.
+Ao escolher ingredientes, preste atenção na qualidade e nos traços; só um ingrediente precisa ser de alta qualidade, mas os traços de todos se somam ao cozinhar.
 
-Você é o que come, então planeje refeições que combinem com seu estilo de vida. Por exemplo, lutadores gostam de comidas ricas e gordurosas que aumentam a força, enquanto magos apreciam sobremesas doces e picantes que ampliam a magia.
+Você é o que come, então planeje refeições que combinem com o seu estilo de vida. Lutadores, por exemplo, gostam de comida rica e gordurosa que reforça força, enquanto magos apreciam sobremesas doces e picantes que realçam magia.
 
-Agora, você precisa preparar a refeição. Novos chefs devem começar com pratos simples e tentar receitas mais difíceis à medida que suas habilidades crescem; um novato não conseguirá criar uma refeição complexa e de alta qualidade, não importa o quê. Quanto mais você aprimorar suas habilidades e receitas, mais seus ingredientes o levarão; depois de prática suficiente, você criará maravilhas culinárias que ofuscarão os restaurantes mais sofisticados de Palmia!
+Agora, prepare a refeição. Chefs novos devem começar com pratos simples e tentar receitas mais difíceis conforme as perícias crescem; um verde não cria uma refeição complexa e de alta qualidade nem que queira. Quanto mais você melhora as perícias e as receitas, mais longe os ingredientes o levam; com prática suficiente, você estará criando maravilhas culinárias para superar os restaurantes mais finos de Palmia!
 
 {p}
-<b>À Mesa</b>
+<b>Jantar</b>
 
-Falando dos restaurantes de Palmia, cozinhar não acaba quando a comida fica pronta. Aquelas casas chiques sabem que um bom ambiente à mesa torna a refeição mais saborosa; você pode fazer o mesmo designando um local de refeições com a placa apropriada. A comida também fica melhor com o estômago vazio — fome é o melhor tempero, afinal.
+Falando em restaurantes palmianos, cozinhar não acaba quando a comida fica pronta. Aqueles bistrós finos sabem que uma atmosfera de jantar boa deixa a refeição mais saborosa; você pode fazer o mesmo designando um ponto de refeição com a placa apropriada. Comida também tem gosto melhor de estômago vazio: fome é o melhor tempero, afinal.
 
-Sirva porções de tamanho sensato e tente não comer demais. Acredite, não há nada pior do que ter que jogar fora metade de uma refeição altamente nutritiva e saborosa porque você não consegue comer mais.
+Sirva porções de tamanho sensato e tente não comer demais. Confie em mim: não há nada pior que jogar fora metade de uma refeição altamente nutritiva e saborosa porque não cabe mais.
 
-<i>Bom apetite!</i>
+<i>Bon appetit!</i>

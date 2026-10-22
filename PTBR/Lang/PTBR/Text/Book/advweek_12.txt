@@ -1,53 +1,66 @@
-Aventuras Semanais – Edição 12 《Runas》, Lumiest, Repórter Jesta,10,1
+Jornal do Aventureiro nº 12: Runas,Correspondente em Lumiest Jaystar,10,1
 
-<i>Bem-vindo à leitura do 『Aventuras Semanais』. Desta vez, utilizei a oficina da Guilda dos Magos para experimentar a forja de runas. Exemplos práticos ajudam mais que longas explicações.</i>
+<i>Bem-vindo ao Jornal do Aventureiro, onde cobrimos temas próximos e queridos aos seus corações valentes.</i>
 
-A forja de runas consiste em extrair encantamentos de um equipamento e transferi-los para outro. Essa técnica é útil para todos os aventureiros, especialmente para aqueles que dependem fortemente de equipamento em combate.
 
-Nesta edição, extrairei a resistência ao Escuro de botas antigas de prata de qualidade mítica e a transferirei para novas botas de pelúcia.
+Nesta edição, alugamos uma oficina na Guilda dos Magos para ter experiência prática com forja de runas. Em vez de uma explicação longa, o editor-chefe concordou que é melhor ilustrar o processo com um exemplo prático.
+{p}
+No essencial, a forja de runas extrai um encantamento de uma peça de equipamento e aplica em outra. Qualquer um que queira tirar o máximo do equipamento deveria se interessar, mas aventureiros dependentes de equipamento, como guerreiros, são os que mais ganham.
+
+O meu velho par de botas de prata nível milagre está meio ultrapassado. Quero mover a resistência a trevas dele para as minhas botas novas de cashmere. Parece simples, não é?
 
 {p}
-<b>Extração de Encantamentos</b>
+<b>Extração</b>
 
-Primeiro, crie um molde de runa na bancada de decoração. Dois pontos são importantes:
+O primeiro passo da forja de runas é criar um molde de runa apropriado numa mesa de acessórios. Dois pontos de atenção:
 
-・É necessário o "Cristal" correspondente à qualidade do item de extração.  
-・O molde de runa deve ser mais duro que o material do item alvo.
+* O molde precisa de um cristal capaz de extrair encantamentos do nível do equipamento.
 
-Para extrair encantamentos de equipamentos de qualidade mítica, normalmente usa-se um molde feito com "Cristal Solar", mas a Guilda já esgotou o estoque. Portanto, utilizaremos um molde feito com "Cristal de Mana", capaz de extrair runas de equipamentos lendários, feito de aço, mais duro que a prata do item de origem.
+* O material do molde deve ser mais duro que o material do equipamento.
 
-Com o molde pronto, aplique-o ao equipamento. O encantamento selecionado será absorvido pelo molde, enquanto o equipamento original se transformará em cinzas, restando apenas a runa com resistência ao Escuro.
+Um cristal solar é exigido para um molde nível milagre, mas como a guilda precisa deles para o experimento mais recente, não sobrou nenhum; um molde nível divino feito com cristal mágico serve também. Para o material principal do molde, o aço é mais duro que a prata, então escolhi uns lingotes de aço.
+
+Pronto! Estamos prontos para extrair o encantamento.
+{p}
+A extração é direta: foque o molde de runa no equipamento e deixe o encantamento fluir para ele. Isso destrói o equipamento original: agora tenho uma runa de resistência a trevas, e minhas velhas botas de prata viraram cinza alquímica.
+
+
+<b>Infusão</b>
+
+Agora, infundir minhas botas novas. Minha runa de resistência a trevas não pode ser aplicada às botas de cashmere como estão: o encantamento de material do cashmere, resistência ao frio, impede que runas de resistência sejam infundidas. Logo, preparei dois martelos de material: cromita e cashmere.
+{p}
+Primeiro, mudo o material das botas para cromita (removendo o encantamento de resistência) e aplico a runa de resistência a trevas. Quando o encantamento estabiliza, martelo as botas de cromita de volta para cashmere, e minhas botas novas ficam com resistência ao frio e a trevas. Agora que as botas novas têm runa infundida, não aceitam mais nenhuma runa.
+
+Essa é a premissa básica da forja de runas: extrair do velho, aplicar no novo. Parece simples, mas como acabamos de ver com os encantamentos de resistência conflitantes, pode não ser direto.
 
 {p}
-<b>Inscrição da Runa</b>
+<b>Nuances</b>
 
-Agora, inscreva a runa nas novas botas. É simples: aplique o molde com o encantamento sobre o equipamento para concluir a inscrição.
+Os encantamentos de itens são complexos e geram muitas regras em como a forja de runas funciona. Embora não entendamos por completo por que tais limitações existem, é preciso segui-las.
 
-No entanto, há algumas regras. Runas de resistência não podem ser inscritas em equipamentos que já possuam resistência da mesma categoria. Por exemplo, as novas botas de pelúcia já possuem resistência ao Frio; para inscrever a resistência ao Escuro, será necessário alterar o material das botas com ferramentas como o martelo de material, removendo a resistência original e permitindo a inscrição da nova runa.
+Extração:
 
-Esse processo de extrair encantamentos de um item antigo e transferi-los para um novo é a operação básica da forja de runas. Parece simples, mas na prática exige atenção às limitações de material e resistência.
+* Itens nível artefato são poderosos demais para ter runas extraídas ou aplicadas. A infusão é possível se o encantamento de runa extra está presente, ou se a runa é sem lei.
+
+* Encantamentos especiais como velocidade e vida não podem ser extraídos.
+
+* Encantamentos de material são extraídos na força padrão, então o aprimoramento ou dano do equipamento não importa.
+{p}
+Infusão:
+
+* Só uma runa pode ser infundida por equipamento. O encantamento de runa extra, como nas roupas de runa, aumenta esse limite.
+
+* Runas de resistência não podem ser aplicadas a equipamentos com encantamentos de resistência.
+
+* Quando o equipamento é infundido com um encantamento que já tem, a força é sobrescrita, não somada.
+
+* Encantamentos com restrição de tipo de equipamento só podem ser aplicados aos mesmos tipos.
+
+* Runas sem lei não contam no limite de runas.
 
 {p}
-<b>Regras e Limitações</b>
+Todo aventureiro deveria considerar a forja de runas: ela permite combinar os melhores aspectos do nosso equipamento e cobrir fraquezas, e é também um meio de salvar o espólio das nefia.
 
-Existem diversas regras a serem seguidas na manipulação de encantamentos.
+***
 
-<i>～ Regras de Extração ～</i>
-
-・Itens de artefato antigo não permitem extração nem inscrição de runas.  
-・Encantamentos especiais como "Velocidade" e "Vitalidade" não podem ser extraídos.  
-・Encantamentos derivados do material não são afetados pelo nível de aprimoramento do equipamento; apenas os valores base são extraídos.
-
-{p}
-<i>～ Regras de Inscrição ～</i>
-
-・Em princípio, um equipamento só pode receber uma runa, mas se possuir a propriedade "Contêiner de Runas", é possível inscrever runas adicionais, inclusive em artefatos antigos.  
-・Não é possível inscrever runas de resistência em equipamentos que já possuam resistência da mesma categoria.  
-・Se o equipamento já tiver encantamento do mesmo tipo, o valor será sobrescrito, não acumulado.  
-・Encantamentos específicos de certos slots só podem ser inscritos nos mesmos tipos de slots.  
-・Runas não contam para o limite de inscrições e podem ser aplicadas em artefatos antigos.
-
-{p}
-Todo aventureiro deve dominar a forja de runas, permitindo ajustar a força do equipamento e lidar de forma flexível com os itens encontrados em Nefia.
-
-<i>- Na próxima edição, exploraremos os festivais de North Teris e suas atrações!</i>
+<i>- Na próxima edição, visitaremos os festivais de Tyris do Norte e as atrações deles!</i>

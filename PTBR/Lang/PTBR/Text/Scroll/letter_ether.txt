@@ -1,8 +1,8 @@
-Doença Desconhecida,,0  
-{center}  
+Doença Desconhecida,,0
+{center}
 
-Se você contrair a Doença do Éter, beba isto.  
+Se contrair Doença de Éter, beba isto.
 
-Ainda se sabe pouco sobre essa enfermidade. Parece se desenvolver quando uma substância chamada éter se acumula no corpo.  
+Pouco se sabe ainda sobre essa doença. Ela parece se desenvolver quando uma substância chamada éter se acumula no corpo.
 
-Infelizmente, até o ar que respiramos parece conter pequenas quantidades desse éter. O fim da humanidade pode estar próximo.  
+Infelizmente, parece que até o ar que respiramos contém traços desse éter. O fim da humanidade pode estar próximo.

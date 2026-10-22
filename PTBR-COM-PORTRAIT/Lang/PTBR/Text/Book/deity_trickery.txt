@@ -1,38 +1,38 @@
-Deuses Menores: Trickery,Theolucia - Estudiosa Da História,0
+Divindades Menores: Trapaça,Theolucia, erudita de História,0,5
 
-Embora os sete Pilares sejam conhecidos em todo Ylva e atraiam a maior parte da fé, existem divindades menores que servem sob eles, são veneradas por grupos menores de povos específicos e governam domínios mais estreitos e especializados.
+Enquanto os sete Pilares são conhecidos por toda Ylva e colhem a maior fé, existem divindades menores que servem sob eles, são adoradas por grupos menores de povos selecionados e governam domínios mais estreitos e especializados.
 
-Nesta série, tenho como objetivo apresentar ao leitor as religiões menores de Ylva.
+Nesta série, pretendo apresentar ao leitor as religiões menores de Ylva.
 {p}
-<b>Deus Dos Mifu</b>
+<b>Deus dos Mifu</b>
 
-Kizuami Da Trickery é, indiscutivelmente, o deus dos mifu; quase todos os mifu o veneram, e poucos fora das tribos das raposas professam sua fé. Não é que ele não interfira no mundo, mas sua mão é sutil e ele não ostenta sua divindade.
+Kizuami da Trapaça é incontestavelmente o deus dos mifu; quase todos os mifu o adoram, e poucos fora das tribos raposas professam a fé dele. Não é que ele não mexa nas engrenagens do mundo, mas a mão dele é sutil e ele não ostenta a divindade.
 
-Os seguidores de Kizuami são ensinados:
+Os seguidores de Kizuami aprendem:
 
-*A experienciar a vida em toda a sua riqueza, a buscar novas experiências e jamais se entediar,
-*A aceitar bênçãos e maldições igualmente, e a compreender que nenhuma das duas é eterna,
-*A não desprezar seus defeitos, mas, ao contrário, buscar transformá-los em forças,
-*A ser inventivos e tornar coisas quebradas e sem valor em algo útil,
-*A entender que, ao mudar a própria perspectiva e as próprias ações, algum bem pode surgir até mesmo do maior dos desastres.
+*Viver a vida em toda a sua riqueza, buscar experiências novas e nunca se entediar,
+*Aceitar bênçãos e maldições por igual, e entender que nenhuma é eterna,
+*Não desprezar as próprias falhas, mas buscar transformá-las em forças,
+*Ser inventivo e tornar úteis as coisas quebradas e sem valor,
+*Entender que, mudando a perspectiva e as ações, algum bem pode sair até da maior catástrofe.
 {p}
 
-<i>"Não Existe Verão Eterno."</i> De acordo com as lendas das tribos das raposas, Kizuami proferiu essas palavras ao matar seu irmão Yufu, mas os mifu de hoje preferem o seguinte mantra:
+<i>"Não existe verão eterno."</i> Segundo as lendas das tribos raposas, Kizuami disse essas palavras ao matar o irmão Yufu, mas os mifu de hoje preferem o seguinte mantra:
 
-<i>"Não Há Vida Sem Morte, Não Há Céu Sem Inferno, Não Há Encontro Sem Despedida, Não Há Alegria Sem Tristeza."</i>
+<i>"Não há vida sem morte, nem céu sem inferno, nem encontro sem despedida, nem alegria sem tristeza."</i>
 
-No fundo, é a filosofia de um deus que viveu entre os mortais, testemunhou seus nascimentos e mortes, vivenciou suas emoções e aceitou sua natureza efêmera. Um deus que não buscou ganhar mais tempo para seus mortais favoritos, mas que valorizou o que tinham juntos; um deus que não se desanimou com a rapidez com que suas chamas se apagavam, mas que se maravilhava com a intensidade com que ardiam.
+No fim, é a filosofia de um deus que viveu entre mortais, assistiu aos seus nascimentos e mortes, sentiu suas emoções e aceitou a natureza fugaz deles. Um deus que não buscou comprar mais tempo para os mortais que prezava, mas valorizou o que tinham juntos; um deus que não se desanimou com a rapidez com que as chamas deles morriam, mas se maravilhou com o brilho com que queimavam.
 {p}
-É — ou ao menos os mifu acreditam ser — a filosofia que um deus deve ter para abraçar plenamente a riqueza que os mortais possuem em seu tempo de vida. Em nossas lendas dos Pilares, os deuses são profundamente abalados pela morte e pela despedida — Itzpalt e Odina, Kumiromi e Ehekatl — e, excetuando as grandes guerras divinas da terceira e da sexta eras, raramente perdem seus pares. Mas para que o divino se aproxime repetidamente de mortais de vida curta, é necessária uma mentalidade que aceite a perda. Por baixo da caprichosa jovialidade do Trapaceiro há uma melancolia estoica que o mantém bem-humorado diante das tragédias do nosso mundo; muitas lendas mifu o retratam se encarnando em Ylva sob diversas formas em busca de romance.
+É, ou pelo menos os mifu acreditam, a filosofia que um deus precisa ter para abraçar de vez a riqueza que os mortais possuem durante o tempo de vida. Nas nossas lendas dos Pilares, os deuses são profundamente abalados pela morte e pela despedida: Itzpalt e Odina, Kumiromi e Ehekatl; e salvo as grandes guerras divinas da terceira e da sexta era, raramente perdem os pares. Mas para o divino se aproximar repetidamente de mortais de vida curta, é preciso uma mentalidade que aceite a perda. Sob a malandragem brincalhona do Trapaceiro jaz uma melancolia estoica que o mantém leve diante das tragédias do nosso mundo; muitas lendas mifu o retratam encarnando em Ylva nos mais variados disfarces, em busca de romance.
 
-Há temas semelhantes na adoração a Kumiromi, mas eles se relacionam ao ciclo de vida, morte e renascimento no mundo natural, enquanto os temas de Kizuami dizem respeito aos aspectos espirituais e sociais da existência.
+Há temas parecidos na adoração de Kumiromi, mas eles dizem respeito ao ciclo de vida, morte e renascimento do mundo natural, enquanto os temas de Kizuami dizem respeito aos aspectos espirituais e sociais da existência.
 {p}
 <b>Arroz</b>
 
-O arroz possui grande significado espiritual para os mifu; as oferendas a Kizuami incluem macarrão de farinha de arroz, saquê e mochi. A Vila Mifu cultiva enormes quantidades de arroz com múltiplas colheitas por ano; eles atribuem essa abundância à providência divina.
+O arroz tem grande significado espiritual para os mifu; as oferendas a Kizuami incluem macarrão de farinha de arroz, saquê e mochi. A Vila Mifu cultiva quantidades enormes de arroz, com múltiplas colheitas todo ano; eles atribuem essa abundância à providência divina.
 
-Não há uma conexão óbvia entre o arroz em si e os ensinamentos religiosos de Kizuami, ainda assim ele é tido em grande reverência, e o deus é sempre retratado segurando espigas de arroz. Observei os mifu cuidando de seus arrozais, e cada etapa, da semeadura à colheita, é realizada em solene contemplação e dedicação, como se fosse parte de algum ritual. Não... com a própria sacerdotisa trabalhando e a sensação de tensão no ar, tenho certeza de que toda a vila estava tecendo algum grande rito que eu não conseguia perceber plenamente.
+Não há conexão óbvia entre o arroz em si e os ensinamentos religiosos de Kizuami, e ainda assim ele é mantido em grande reverência, e o deus é sempre retratado segurando hastes de arroz. Observei os mifu cuidando das várzeas, e cada passo, da semeadura à colheita, é realizado com contemplação solene e diligência, como se fosse parte de um ritual. Não… com a própria sacerdotisa deles penando e o arrepio no ar, tenho certeza de que a vila inteira estava tecendo algum grande rito que eu não pude perceber por completo.
 {p}
-Haverá poder divino no arroz? No ato de cultivá-lo? Na terra onde é plantado? Não tenho resposta para o que percebi, a não ser que a mão de um deus estava de alguma forma em jogo. Fui convidada para o festival em seguida e educadamente pedi respostas à sacerdotisa deles, mas saí de lá com ainda mais perguntas.
+Há poder divino no arroz? No ato de cultivá-lo? Na terra onde é plantado? Não tenho resposta para o que senti, senão que a mão de um deus estava de algum modo em jogo. Fui convidada ao festival depois e pedi respostas educadamente à sacerdotisa deles, mas só saí com mais perguntas.
 
-Agora que reflito sobre isso, não me lembro do que exatamente ela disse...
+Agora que penso nisso, não lembro o que ela disse exatamente…

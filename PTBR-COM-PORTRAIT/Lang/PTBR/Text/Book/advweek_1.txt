@@ -1,40 +1,54 @@
-Revista do Aventureiro - Edição 1 《Nefia e Você》, Editor-chefe: Hans,10,1
+Jornal do Aventureiro nº 1: Nefia e Você,Editor-Chefe Hans,10,1
 
-<i>Bem-vindo à 『Revista do Aventureiro』. Todas as semanas traremos para vocês, aventureiros, temas de tirar o fôlego!</i>
+<i>Bem-vindo ao Jornal do Aventureiro, onde cobrimos temas próximos e queridos aos seus corações valentes.</i>
 
 
-Como primeira edição memorável, o tema desta semana é o motivo de vocês terem pisado em Nortiris: as 「Nefias」.
+Para a edição de estreia, falaremos do motivo pelo qual vocês aventureiros estão em Tyris do Norte: as nefia.
 
-As chamadas Nefias são ruínas deixadas por civilizações antigas, verdadeiros locais onde riquezas e conhecimentos adormecem. Devido aos movimentos da crosta terrestre, elas surgem e desaparecem constantemente no solo de Nortiris. Essas ruínas, sem fim e misteriosas, aguardam por aventureiros como vocês!
+As "nefia" são as ruínas de civilizações passadas, que guardam riquezas e conhecimento antigos. Em Tyris do Norte, essas ruínas são constantemente desenterradas e reenterradas por movimentos da crosta, gerando um número inesgotável de masmorras à espera de aventureiros para revelar seus segredos.
+
+Embora as nefia variem bastante, depois de entrevistar aventureiros, confirmamos alguns traços que todas possuem:
 {p}
-A partir dos relatos de inúmeros aventureiros, podemos identificar algumas características em comum das Nefias.
-
 <b>Nível de Perigo</b>
-Quanto maior o nível da Nefia, mais perigosa ela será — mas também maiores serão as recompensas. No entanto, não é uma regra absoluta: até mesmo Nefias de baixo nível podem abrigar inimigos poderosos. Nunca subestime uma ruína.
+Mais perigo e mais riqueza jazem nas nefia de nível mais alto. Essa relação não é estrita: muitos aventureiros foram pegos de surpresa por monstros poderosos em nefia de nível baixo.
 
-<b>Andares (Profundidade)</b>
-As Nefias costumam ter entre 2 e 5 andares, e quanto mais fundo se avança, maior o perigo que se encontrará.
+<b>Profundidade</b>
+As nefia têm de dois a cinco andares. A cada andar adicional, o nível da nefia sobe um.
 
-<b>Senhor da Nefia</b>
-No andar mais profundo, sempre há uma criatura chamada de 「Senhor da Nefia」. São monstros extremamente poderosos, guardiões dos tesouros e com um forte instinto territorial. Diz-se que, se um aventureiro recuar nesse último andar, eles imediatamente fugirão levando os tesouros consigo.
+<b>Chefe</b>
+No fundo de cada nefia espreita o chefe dela: um monstro forte que guarda os tesouros.
 
+Os aventureiros dizem que, apesar de inimigos formidáveis, os chefes de nefia valorizam a santidade dos próprios lares; se o aventureiro sai do andar mais fundo, o chefe aproveita a chance de fugir com os tesouros, sabendo que a casa já não é segura.
 {p}
-■ Como encontrar uma Nefia
-Como as Nefias de Nortiris aparecem e desaparecem repentinamente, a busca por elas é sempre muito competitiva. Livrarias vendem mapas produzidos às pressas, e os aventureiros trocam informações de avistamentos entre si.
+<b>Localizando Nefia</b>
 
-Especialmente ao norte de Palomia, onde há muitos terremotos, é uma região famosa por concentrar Nefias. Todos os dias, aventureiros vasculham os horizontes com lunetas e binóculos, em busca de novas aparições.
+As nefia em constante mudança de Tyris do Norte geram uma corrida dos aventureiros para descobrir e explorar as ruínas antes que desapareçam de novo. As livrarias locais vendem mapas desenhados às pressas de nefia próximas, enquanto os aventureiros trocam notícias de avistamentos.
 
-■ Tipos de Nefia
-Ruínas: O tipo mais comum. Ao destruir paredes e pisos, é possível obter grandes quantidades de pedra. Cheia de armadilhas, entulho e destroços por todo lado.
-
-Planícies e Florestas: Repletas de vida e animais. As armadilhas são raras, mas os monstros reaparecem rapidamente. Por serem áreas abertas, sofrem influência do clima e do horário. Árvores raras e vinhas podem ser coletadas, e especialistas em agricultura podem até encontrar colheitas de alta qualidade.
+Certas regiões de Tyris do Norte, como o norte de Palmia, são particularmente sujeitas aos terremotos que desenterram nefia, e os aventureiros examinam essas áreas regularmente com telescópios e lunetas na esperança de descobrir locais que valham explorar.
 {p}
-Cavernas: Ricas em minerais. É possível extrair metais e gemas das paredes e de grandes blocos rochosos, além de coletar pedras raras em estalactites. A atenção ao peso da bagagem é essencial aqui.
+<b>Tipos de Nefia</b>
 
-Ruínas Mecânicas: Restos de antigas civilizações tecnológicas. Ao destruir paredes, podem ser obtidos sucatas de cobre, ferro ou cromo, além de substâncias químicas e fragmentos de vidro. Muitos aventureiros permanecem longos períodos nesses locais.
+*Ruínas: sem destaques, geralmente consideradas o tipo básico de nefia. Grandes quantidades de pedra podem ser adquiridas desmontando paredes e piso. Destroços comuns. Muitas armadilhas.
 
-Ruínas Submarinas: Nefias que surgem no fundo do mar. É indispensável ter habilidade de respiração aquática para explorá-las. Tochas feitas com madeira de coral podem ajudar, mas poções ou equipamentos milagrosos são muito mais confiáveis. Níveis baixos de natação reduzem bastante a velocidade na água, e explorar ruínas submarinas avançadas exige proficiência maior. Vale lembrar que aqui os inimigos são quase todos aquáticos. Quanto aos recursos, podem ser obtidos corais, algas marinhas profundas, enxofre, pedras raras e madeira de coral. Ostras também podem guardar tesouros inesperados.
+*Campos e Florestas: viçosas e verdes, muitos animais. Poucas armadilhas, mas os monstros reaparecem rápido. Ao ar livre, então clima e hora do dia ainda importam.
+
+Árvores raras podem ser achadas, e trepadeiras coletadas das paredes. Minérios disponíveis como pedras grandes. Fazendeiros habilidosos podem descobrir canteiros de plantações selvagens de alta qualidade.
+
+*Cavernas: ricas em minerais. Veios de minério e gemas nas paredes e pedras grandes de minério fazem desta nefia um bom lugar para minerar. Estalagmites podem render tipos raros de pedra. Tenha capacidade de carga de sobra.
 {p}
-Se uma Nefia se mostrar complicada demais, recue sem hesitar. Estar vivo é o verdadeiro capital de qualquer aventura. Enquanto houver vida, sempre haverá uma próxima chance!
+*Maquinários: restos de civilizações tecnológicas passadas. Não parece ter incidência maior de monstros-máquina.
 
-<i>- Na próxima edição: uma análise detalhada sobre 「Potenciais Ocultos」.</i>
+Sucata de cobre, ferro e cromita desmontando pisos e paredes. Vazamentos químicos podem ser recolhidos como líquido, e fragmentos de vidro coletados para fundição. Alguns aventureiros passam dias nessas nefia.
+
+*Ruínas Submersas: aparecem no oceano e são bem diferentes dos outros tipos. Requer respiração aquática; uma tocha de madeira de coral funciona, mas existem opções melhores, como poções e artefatos.
+
+A natação afeta a velocidade numa faixa de -50% a +25%, com nefia de nível mais alto exigindo maior perícia. Os monstros das ruínas submersas estão todos em casa na água. Note que aventureiros montados levam penalidade dupla se montaria e cavaleiro forem ruins de natação.
+{p}
+Recursos notáveis incluem coral, alga profunda, enxofre, tipos raros de pedra e madeira de coral. Mariscos gigantes podem conter tesouros inesperados.
+
+
+Se uma nefia estiver difícil demais, não hesite em recuar; sua vida vem primeiro. Enquanto estiver vivo, haverão outras aventuras.
+
+***
+
+<i>- Na edição da próxima semana, apresentaremos o conceito de potencial em detalhe.</i>

@@ -1,59 +1,59 @@
-Cura Milagrosa na Igreja de Noyel
-Na igreja de Noyel, um morador gravemente enfermo se recuperou milagrosamente durante a noite. Teria sido intervenção divina ou magia? Uma única bela pena foi supostamente encontrada no chão da igreja.
+Cura milagrosa na igreja de Noyel
+Na igreja de Noyel, um morador gravemente doente se recuperou milagrosamente da noite para o dia. Foi intervenção divina ou magia? Uma única pena bela foi supostamente achada no chão da igreja.
 @snow
 
-Golpe da Pena Divina
-Penas falsas da Deusa da Cura estão inundando o mercado, levando ao aumento de vítimas. Autoridades na cidade real recomendam a denúncia de produtos suspeitos.
+Golpe da pena divina
+Penas falsas da Deusa da Cura inundam o mercado, levando a um aumento de vítimas. As autoridades da cidade real pedem o reporte de produtos suspeitos.
 @city,guard_m-1
 
-As Voltas de Opatos, a Terra Treme
-Um grande tremor foi detectado na região norte na noite passada. Seguidores de Opatos afirmam que foi o Deus da Terra se mexendo em seu sono.
+Opatos vira, a terra estremece
+Um grande tremor foi detectado na região norte na noite passada. Seguidores de Opatos relatam ser o Deus da Terra virando no sono.
 @city
 
-Salto para se Tornar o Vento
-Um seguidor de Lulwy saltou de um penhasco tentando se tornar o vento. Testemunhas afirmam que ele estava nu e cantava "Crianças do vento!" enquanto voava. Ele não se feriu, mas não se sabe se ele se tornou o vento.
+Salto para virar o vento
+Um seguidor de Lulwy pulou de um penhasco tentando virar vento. Testemunhas dizem que ele estava nu e cantava "Filhos do vento!" enquanto voava. Ele saiu ileso, mas segue desconhecido se virou vento.
 @port
 
-Deusa do Esquecimento: A Nova Parceira dos Comerciantes
-Durante rigorosas inspeções fiscais, um número crescente de comerciantes afirma que suas memórias foram apagadas pela Deusa do Esquecimento, Yakasha. A fé parece estar se espalhando no mundo dos negócios.
+Deusa do Esquecimento: novo parceiro dos mercadores
+Durante fiscalizações de imposto duras, um número crescente de mercadores alega que as memórias foram apagadas pela Deusa do Esquecimento, Yakasha. A fé parece se espalhar no mundo dos negócios.
 @room
 
-Fofura Purrfeita: A Febre do Cosplay de Gatos
-Uma tendência de cosplay de gato está rapidamente se enraizando entre os seguidores de Ehekatl. Usando orelhas e caudas de gato diariamente para atrair suas bênçãos e sorte, eles estão arrancando sorrisos por todo o Norte de Tyris.
+Fofura nota gato: febre do cosplay felino
+Uma tendência de cosplay de gato está fincando raízes rápido entre os seguidores de Ehekatl. Vestindo orelhas e caudas de gato diariamente para atrair as bênçãos e a sorte dela, eles arrancam sorrisos por toda Tyris do Norte.
 @city
 
-De Devotos a Gatos? A Forma Moderna da Fé
-Ver seguidores de Ehekatl adotando o cosplay de gato enquanto frequentam a igreja tornou-se algo comum. No entanto, as opiniões dentro dos muros da igreja estão divididas sobre "até onde tolerar as formas de fé."
+De devotos a gatos? A forma moderna da fé
+Seguidores de Ehekatl abraçando o cosplay de gato ao frequentar a igreja já é cena comum. Porém, as opiniões dentro dos muros da igreja se dividem sobre "até onde tolerar as formas da fé".
 @room
 
-Devotos da Tecnologia Empolgados com os Novos Autômatos de Yerl
-Os autômatos vindouros de Yerl, rivais do 'Golem' de Eulderna, já estão despertando entusiasmo entre os seguidores de Mani. Um confronto robótico é altamente aguardado.
+Devotos da tecnologia aguardam o novo autômato de Yerl
+O autômato que Yerl prepara, rival do "Golem" de Eulderna, já acende a empolgação entre os seguidores de Mani. Um duelo de robôs é muito aguardado.
 @labo
 
-Concurso de Nomeação de Plantas
-No meio de uma exploração, um devoto de Kumiromi que avistou uma planta rara organizou um repentino concurso de nomeação. Aventureiros se reuniram para uma animada disputa de nomes, que coroou 'Green Euldarna' como vencedor.
+Concurso de nomes para plantas
+No meio de uma exploração, um concurso repentino de nomes foi feito por uma devota de Kumiromi que avistou uma planta rara. Aventureiros se reuniram para um confronto animado de nomes, que coroou "Euldarna Verde" como vencedora.
 @road
 
-Itzpalt Ganha Nicho de Fãs Femininas
-Frequentemente adorado por estudiosos e autocratas, o Deus do Elemento recentemente começou a atrair seguidoras. Notavelmente, o apelido romântico 'Duque Ruivo' parece ter se tornado um objeto de adoração.
+Itzpalt ganha base de fãs feminina de nicho
+Muito adorado por estudiosos e autocratas, o Deus do Elemento começou recentemente a atrair seguidoras femininas. Notavelmente, o apelido romântico "Duque Ruivo" parece ter virado objeto de adoração.
 @room
 
-Seguidor de Itzpalt Apresenta Nova Teoria Chocante
-Um seguidor de Itzpalt apresentou a 'Teoria dos Seis Elementos' em uma conferência, causando uma onda de choque na academia. A teoria despertou novas interpretações entre os fiéis.
+Seguidor de Itzpalt apresenta teoria nova chocante
+Um seguidor de Itzpalt apresentou a "Teoria dos Seis Elementos" num congresso, causando onda de choque na academia. A teoria despertou interpretações novas entre os fiéis.
 @labo
 
-Movimento de Proteção Florestal
-Seguidores de Kumiromi iniciaram uma iniciativa de preservação florestal. Em meio a monstros únicos, eles estão dedicados à regeneração e conservação dos ecossistemas florestais.
+Movimento de proteção da floresta
+Seguidores de Kumiromi iniciaram uma ação de preservação da floresta. No meio de monstros únicos, dedicam-se à regeneração e à conservação dos ecossistemas florestais.
 @road
 
 Escola dos Sábios
-Os fiéis de Itzpalt fundaram uma estrutura educacional distintiva, aclamada como a 'Escola dos Sábios'. Essa abordagem inovadora está atraindo atenção entre os círculos acadêmicos e de ensino.
+Fiéis de Itzpalt fundaram um quadro educacional singular, saudado como a "Escola dos Sábios". Essa abordagem nova chama atenção nos círculos acadêmicos e de ensino.
 @labo
 
-Crianças de Kumiromi Conversam com Árvores Solitárias
-Foi revelado um ritual peculiar dos seguidores de Kumiromi, no qual eles conversam com antigas árvores solitárias para se conectar com a vida vegetal.
+Filhos de Kumiromi falam com árvores solitárias
+Foi revelado um ritual curioso dos seguidores de Kumiromi, em que eles conversam com árvores velhas solitárias para criar laço com a vida vegetal.
 @road
 
-Pequena Maravilha de um Devoto Solitário
-Uma seguidora solitária de Elin, que vive nos arredores do Norte de Tyris, criou seu próprio santuário. Ao redor de seu pequeno altar dedicado, a vida selvagem e os monstros coexistem pacificamente.
+Pequena maravilha de uma fiel solitária
+Uma fiel solitária que vive nos arredores de Tyris do Norte, criou o próprio santuário. Ao redor do altarzinho dedicado dela, a vida selvagem e os monstros coexistem em paz.
 @road

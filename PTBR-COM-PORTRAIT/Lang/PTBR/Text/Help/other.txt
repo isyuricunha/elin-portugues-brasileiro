@@ -1,22 +1,22 @@
 $fanwork
-{topic,Introdução}
-Não estabelecemos restrições específicas para obras derivadas ou para o compartilhamento/transmissão de vídeos, mas, por favor, entenda que a criação e o lançamento são de inteira responsabilidade sua. Como Elin utiliza muitos recursos gratuitos, reserve um momento para ler o arquivo credit.txt incluído na pasta principal do jogo.
+{topic, Introdução}
+Não impomos restrições particulares a obras derivadas ou a compartilhamento/streaming de vídeo, mas, por favor, entenda que a criação e a divulgação são inteiramente sua responsabilidade. Como Elin usa muitos recursos gratuitos, reserve um momento para ler o arquivo credit.txt incluído na pasta principal do jogo.
 
-{topic,Ficções de Fãs}
-Não há restrições para Ficções de Fãs, seja para uso comercial ou não comercial. Não é necessário entrar em contato conosco.
+{topic, Ficções de fã}
+Não há restrições a ficções de fã, sejam de uso comercial ou não comercial. Não é preciso entrar em contato.
 
-{topic,Streaming de Vídeo}
-Da mesma forma, não há restrições para o compartilhamento/transmissão de vídeos, seja para uso comercial ou não comercial. Você não precisa entrar em contato conosco. No entanto, para spoilers que possam potencialmente arruinar a experiência do jogo para os espectadores, como spoilers de pontos-chave da trama, pedimos gentilmente que exiba um aviso antes do spoiler.
+{topic, Streaming de vídeo}
+Da mesma forma, não há restrições a compartilhamento/streaming de vídeo, seja para uso comercial ou não comercial. Você não precisa entrar em contato. Porém, para spoilers que poderiam arruinar a experiência do jogo para os espectadores, como o spoiler do enredo principal, pedimos gentilmente que exiba um aviso antes do spoiler.
 
-{topic,Passo a Passo e Guias de Jogo}
-Também não há restrições quanto a isso. Assim como na transmissão de vídeo, pedimos gentilmente que trate os spoilers significativos de forma apropriada. Contudo, para sites de walkthrough, não há necessidade de avisos excessivos de spoilers.
+{topic, Walkthroughs e guias de jogo}
+Também não há restrições aqui. Como no streaming de vídeo, pedimos gentilmente que trate spoilers significativos de modo apropriado. Porém, para sites de walkthrough, não é preciso avisos excessivos de spoiler.
 
-{topic,Proibições, etc.}
-A distribuição não autorizada de materiais de imagem do jogo, bem como seu uso para treinamento ou edição de IA, é proibida. No entanto, modificar (sem utilizar IA) ou usar materiais de imagem do jogo para uso dentro de Elin ou para transmissão de vídeo, e incluí-los em mods para Elin, é permitido.
+{topic, Proibições, etc.}
+A distribuição não autorizada de materiais de imagem do jogo, assim como o uso deles para treinamento ou edição por IA, é proibida. Porém, modificar (sem usar IA) ou usar materiais de imagem do jogo para uso dentro de Elin ou streaming de vídeo, e incluí-los em mods de Elin, é permitido.
 
 $gallery
-{topic,Números e Criadores}
-As pinturas da coleção de arte são numeradas de acordo com categorias. Pode ser interessante especular como elas são numeradas a partir das pinturas coletadas. Obras de 0 a 899 são de um artista conhecido como NZ, enquanto as de 900 a 999 são de um artista chamado MT.
+{topic, Numeração e os artistas}
+As pinturas da coleção de arte são numeradas por categorias. Pode ser interessante especular como são numeradas a partir das pinturas coletadas. As obras de 0 a 899 são de um artista conhecido como NZ, enquanto as de 900 a 999 são de um artista chamado MT.
 
-{topic,Proibições, etc.}
-A distribuição não autorizada de imagens do livro de arte, bem como seu uso para treinamento ou edição de IA, é proibida.
+{topic, Proibições, etc.}
+A distribuição não autorizada de imagens do livro de arte, assim como o uso delas para treinamento ou edição por IA, é proibida.

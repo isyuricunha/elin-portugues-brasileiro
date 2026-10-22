@@ -1,45 +1,45 @@
 Fisgado!,O Rei Pescador
 
-Então, você se interessa por pesca? Não é má ideia, já que North Tyris está absolutamente cheio de peixes de todos os tipos, nya; nunca passei fome nos quarenta anos em que sigo Lady Ehekatl.
+Então, você está interessado em pescaria? Não é má ideia, já que Tyris do Norte está absolutamente fervendo de peixes de todo tipo, nya; nos quarenta anos seguindo a Lady Ehekatl, nunca passei fome.
 
 
 <b>Preparativos</b>
 
-Primeiro, você precisará aprender a pescar; pode aprender a habilidade em Yowyn. Uma vez que você entenda paw-sitivamente o que está fazendo, precisará de isca e uma vara para começar a pescar.
+Primeiro, precisa saber pescar; dá para aprender a perícia em Yowyn. Quando você entender direitinho o que está fazendo, vai precisar de isca e de uma vara para começar.
 
-Isca é simples: amasse ossos, vísceras e outros pedaços de monstro até virar algo que os peixes amem, nya. Muitos cogumelos que crescem em North Tyris têm textura carnuda e servem como isca, se você for do tipo sensível.
-
-{p}
-Quanto às varas, novatos se viram com uma corda amarrada num galho, mas isso não serve para um profissional, nya. Uma vara feita de materiais mais duros cansará menos enquanto você pesca, então melhore-a quando puder.
-
-
-<b>Localização</b>
-
-Agora, você pode pescar em qualquer lugar de North Tyris — não existe água tão pobre que não tenha vida. Porém, usar bem seu tempo e isca exige ir onde os peixes são abundantes, e isso significa o oceano, nya. Port Kapul é um bom ponto de partida: não há monstros e a estalagem oferece cama e comida depois de um dia de pesca. Depois, você pode vender sua pesca no mercado ou enviá-la para casa via caixa de entrega.
-
-Dito isso, a cidade é muito lotada. Se puder, arranje um terreno à beira d'água num purr-ime ponto de pesca!
+Isca é simples: amasse ossos, vísceras e outros pedaços de monstro em algo que os peixes amam, nya. Muitos cogumelos que crescem em Tyris do Norte têm textura carnuda e servem como isca razoável, se você for do tipo enjoado.
 
 {p}
-Sua recompensa por todo esse esforço são muito mais peixes: a chance de uma captura de sorte, onde Lady Ehekatl abençoa sua linha com tantos peixes quanto ela aguentar, é dez vezes maior em uma praia ou ponto de pesca no oceano do que em alguma pequena poça! Você economiza tempo e isca, e aprende a pescar muito mais rápido, nya!
+Quanto às varas, novatos se viram bem com uma corda amarrada num galho, mas isso não serve para um profissional, nya. Uma vara de materiais mais duros cansa menos enquanto você pesca, então faça upgrade quando puder.
 
 
-<b>A Emoção da Captura</b>
+<b>Local</b>
 
-Depois de arremessar a linha, o resto fica por conta de Lady Ehekatl. No começo, você pegará apenas lixo e peixinhos, mas peixes maiores e melhores virão até você conforme melhora com a vara, nya. Ao longo dos anos, também já puxei todo tipo de tesouro da água!
+Agora, dá para pescar em qualquer lugar de Tyris do Norte: não existe água tão ruim que não tenha nada vivo nela. Porém, usar bem o tempo e a isca exige ir aonde os peixes são abundantes, e isso significa o mar, nya. Porto Kapul é um bom começo: não há monstros, e a estalagem dá quarto e comida depois de um dia de pesca. Depois, você vende a pesca no mercado ou manda para casa pela caixa de entregas.
 
-Ah, claro! Peixes estragam muito rápido, então traga uma ou duas caixas térmicas para guardar sua pesca!
+Dito isso, a cidade é apertada demais. Se puder, garanta uma propriedade à beira-d'água num excelente lugar de pesca!
 
 {p}
-Às vezes, você fisga um peixe grande demais para carregar — é aí que recomendo ter uma tábua de corte. Com uma, dá para fatiar algo como uma baleia ou um tubarão até caber no transporte, para que você não seja esmagado, nya.
+A recompensa por todo esse incômodo é muito mais peixe: a chance de uma pesca da sorte, em que a Lady Ehekatl abençoa sua linha com tantos peixes quanto ela aguenta, é dez vezes maior numa praia ou num ponto de pesca oceânico do que numa poça miúda! Você poupa tempo e isca, e melhora na pescaria muito mais rápido, nya!
+
+
+<b>Emoção da Pesca</b>
+
+Depois de lançar a linha, o resto é com a Lady Ehekatl. No começo, você só pega tralha e peixinho miúdo, mas peixes maiores e melhores vão dar as caras conforme você melhora com a vara, nya. Ao longo dos anos, já tirei da água todo tipo de tesouro!
+
+Ah, verdade! Peixe apodrece muito rápido, então traga uma ou duas caixas térmicas para guardar a pesca!
+
+{p}
+Às vezes, você fisga um peixe grande demais para carregar: aí eu recomendo ter uma tábua de corte. Com uma, você fatia uma baleia ou tubarão ao tamanho, para não ficar esmagado, nya.
 
 
 <b>Depois</b>
 
 Agora que você tem seus peixes, o que fazer com eles?
 
-Se seguir Lady Ehekatl como eu, transportadores pagarão metade a mais por peixe fresco, então essa é uma boa opção, nya! A molecada hoje em dia curte "bonito flakes wine"… parece sacrílego fazer isso com as bênçãos de Lady Ehekatl, mas as pessoas pagam bem por um gosto do oceano.
+Se você segue a Lady Ehekatl como eu, os despachantes pagam metade a mais por peixe fresco, então é uma boa, nya! Os garotos de hoje também estão todos em "vinho de flocos de bonito"… parece sacrilégio fazer isso com as bênçãos da Lady Ehekatl, mas o povo paga bem por um gostinho do mar.
 
 {p}
-Se me perguntar, você deveria comer o peixe! Com quarenta anos de experiência, minhas pescas são lendárias — seja flocos de bonito, molho de soja ou fatias de peixe, tudo é delicioso, nya! Peixes são especialmente bons para sua destreza e aprendizado, mas todo mundo pode aproveitá-los!
+Se quer meu conselho, coma o peixe! Com quarenta anos de experiência, minhas pescarias são lendárias: sejam flocos de bonito, molho de soja ou fatias de peixe, tudo delicioso, nya! Peixe faz especialmente bem para destreza e aprendizado, mas todo mundo pode aproveitar!
 
-Então vá pescar! Que a bênção de Lady Ehekatl esteja com você, nya!
+Então vá pescar! Que a bênção da Lady Ehekatl esteja sobre você, nya!

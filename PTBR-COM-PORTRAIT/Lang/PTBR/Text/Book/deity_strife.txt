@@ -1,39 +1,39 @@
-Deuses Menores: Conflito,Theolucia - Estudiosa Da História,0
+Divindades Menores: Conflito,Theolucia, erudita de História,0,5
 
-Pouco se sabe sobre o deus do conflito. Embora Yevan seja uma divindade antiga que se diz ter participado das guerras contra os Deuses Esquecidos, há surpreendentemente poucos textos sobreviventes que registram seu nome. Ainda assim, com a guerra se espalhando na esteira do conflito Zanan-Eulderna e da fundação de Yerl, a adoração a Yevan, ao longo dos últimos séculos, foi gradualmente ganhando apoio entre revolucionários radicais e seitas militantes.
+Pouco se sabe sobre o deus do conflito. Embora Yevan seja uma divindade antiga, dita ter tomado parte nas guerras contra os Deuses Esquecidos, sobrevivem notoriamente poucos textos que registram o nome dele. Mas, com a guerra se espalhando no rastro do conflito Zanan-Eulderna e da fundação de Yerl, a adoração de Yevan vem, ao longo dos últimos séculos, reunindo apoio gradualmente entre revolucionários radicais e seitas militantes.
 
-Em nítido contraste com Opatos, amplamente reverenciado entre guerreiros e soldados, aqueles que veneram Yevan são frequentemente tratados como hereges ou extremistas. Seu credo nunca se tornou uma fé difundida, mas é marcado por uma intensidade incomum até mesmo entre os devotos.
+Em contraste gritante com Opatos, amplamente venerado entre guerreiros e soldados, os que veneram Yevan costumam ser tratados como hereges ou extremistas. O credo dele nunca se tornou fé mainstream, mas é marcado por uma intensidade rara até entre os devotos.
 {p}
-<b>Deus Renegado Do Conflito</b>
+<b>Deus Foragido do Conflito</b>
 
-Ao contrário da maioria das divindades menores, Yevan não possui uma raça dedicada, nenhuma ordem unificada e nenhum sacerdócio organizado. Tampouco o próprio deus parece dar muita importância à expansão de sua influência. Se algo, ele parece muito mais fascinado pelos assuntos dos mortais.
+Diferente da maioria das divindades menores, Yevan não tem raça devota, ordem unificada nem sacerdócio organizado. Nem o próprio deus parece dar muita importância a espalhar a influência. Se é que se pode dizer algo, ele parece muito mais fascinado pelos assuntos dos mortais.
 
-Yevan transmite apenas um único ensinamento àqueles que buscam sua orientação:
+Yevan transmite um único ensinamento aos que buscam a orientação dele:
 
-<i>Supere Seus Desafios. O Caminho Que Você Trilha É Seu.</i>
+<i>Vença os seus desafios. O caminho que você segue é seu.</i>
 
-Tal ambiguidade é rara no panteão. Desse único preceito, contudo, é possível inferir o cerne da filosofia de Yevan. Ele exorta os mortais a decidirem por si mesmos seu modo de ser, a avançarem por convicção e a se aperfeiçoarem por meio da luta.
+Tamanha ambiguidade é rara no panteão. Dessa máxima solitária, porém, o núcleo da filosofia de Yevan pode ser inferido. Ele exorta os mortais a decidir o próprio modo de ser, a avançar por convicção e a se refinar na luta.
 {p}
 <b>Rumores Estranhos</b>
 
-Para aprofundar minha compreensão, reuni alguns relatos e rumores que podem estar relacionados ao deus do conflito:
+Para aprofundar meu entendimento, reuni vários relatos e rumores que podem se relacionar ao deus do conflito:
 
-- Onde Os Ventos Repousam
+- Onde os Ventos Descansam
 
-Sussurros falam de um local isolado no continente de Tyris onde um dos Deuses Esquecidos, agora desprovido de poder, jaz selado. Diz-se que o lugar é vigiado por uma figura misteriosa ligada a Yevan. Alguns insistem que esse guardião avalia constantemente os passantes, em busca de um campeão forte o suficiente para derrotar o que dorme por trás do selo.
+Sussurros falam de um local reservado no continente de Tyris onde um dos Deuses Esquecidos, hoje sem poder, jaz selado. O lugar, dizem, é vigiado por uma figura misteriosa ligada a Yevan. Alguns insistem que esse vigia avalia constantemente os passantes, buscando um campeão forte o bastante para derrotar o que dorme atrás do selo.
 {p}
-- Santuários Da Provação
+- Santuários de Provação
 
-Nas profundezas de certas Nefias existem santuários sombrios que convocam monstros ferozes ao toque. Seu design guarda uma semelhança perturbadora com relíquias do culto a Yevan que datam da Sexta Era. Se aceitarmos a crença de que o combate contra os fortes é em si uma provação a ser superada, esses santuários podem representar um fragmento do poder do deus.
+No fundo de certas nefias erguem-se santuários sinistros que convocam monstros ferozes ao toque. O desenho deles guarda semelhança perturbadora com relíquias da adoração de Yevan que remontam à Sexta Era. Aceitando-se a crença de que batalhar contra os fortes é em si uma prova a ser vencida, esses santuários podem representar um fragmento do poder do deus.
 
 - O Gladiador Sonhador
 
-Um renomado guerreiro de Karune certa vez se vangloriou de que "nenhum ser vivo poderia igualar sua força". Logo depois, ele começou a sonhar com um homem encapuzado e marcado por cicatrizes, vestido com trajes arcaicos — um adversário que o desafiava repetidamente e, a cada vez, o derrotava. Os escritos que sobreviveram afirmam que a arrogância do guerreiro foi quebrada por esses sonhos, e que ele, a partir de então, alcançou patamares ainda maiores do que antes.
+Um guerreiro renomado de Karune certa vez se ufanou de que "nenhum ser vivo igualava a força dele". Logo depois, começou a sonhar com um homem de capuz, cicatrizes e vestes arcaicas: um adversário que o desafiava repetidamente e o derrotava a cada vez. Os escritos que sobrevivem dizem que a arrogância do guerreiro foi quebrada por esses sonhos, e que ele então alcançou alturas maiores que antes.
 {p}
 - Os Soldados Desaparecidos
 
-Durante a grande guerra entre Zanan e Eulderna, muitos seguidores zanan de Yevan lutaram nas linhas de frente. Entre os que combateram com mais ferocidade e caíram gravemente feridos, alguns teriam desaparecido sem deixar rastro no dia seguinte. Soldados de ambos os lados sussurravam que o senhor do conflito havia levado os seus favoritos para seu reino.
+Durante a grande guerra entre Zanan e Eulderna, muitos seguidores zananianos de Yevan lutaram na linha de frente. Entre os que lutaram com mais fúria e caíram gravemente feridos, alguns, dizem, sumiram sem deixar traço até o dia seguinte. Soldados de ambos os lados sussurravam que o senhor do conflito havia levado para o seu reino aqueles de que gostava.
 
-Nenhuma evidência conclusiva une esses relatos. No entanto, se assumirmos que ao menos uma parte deles é verdadeira, um padrão consistente emerge: Yevan busca aqueles que continuam a desafiar, avançar e progredir.
+Nenhuma evidência conclusiva amarra essas histórias. Mas, se assumirmos que mesmo uma fração delas é verdade, um padrão consistente emerge: Yevan busca os que continuam a desafiar, avançar e progredir.
 
-Para muitos, o deus do conflito é um herético portador da morte. Porém, para seus devotos, ele pode ser algo completamente diferente: um apoiador brutal, porém empático, dos mortais, depositando a mais plena confiança em seu potencial ilimitado.
+Para muitos, o deus do conflito é um portador herético de morte. Para os devotos dele, porém, ele pode ser outra coisa inteiramente: um apoiador brutal, porém empático, dos mortais, que deposita neles a mais absoluta fé em seu potencial ilimitado.

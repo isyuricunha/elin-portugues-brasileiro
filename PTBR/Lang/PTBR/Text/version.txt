@@ -1,105 +1,208 @@
 {if,cn}
-{topic, Bem-vindo a Elin!}
-Bem-vindo a Elin e muito obrigado por participar do Acesso Antecipado (EA)! Vou valorizar o feedback de cada jogador e usá-lo para aprimorar a experiência do jogo.
+{topic, 欢迎游玩Elin！}
+欢迎游玩Elin，并且十分感谢您参与抢先体验(EA)！我会重视每位玩家的意见，并用于改善游戏内容体验。
 {endif}
 {if,!cn}
-{topic, Bem-vindo a Elin!}
-Bem-vindo a Elin, e obrigado por participar do Acesso Antecipado (EA)! Planejamos recolher o máximo de feedback dos jogadores possível e refletí-lo no jogo.
+{topic, Bem-vindo ao Elin!}
+Bem-vindo ao Elin, e obrigado por participar do Early Access (EA)! Planejamos coletar o máximo de feedback dos jogadores e refleti-lo no jogo.
 {endif}
-{link,Discord - Comunidade Elin、Perguntas、Discussão Geral,https://discord.gg/elona}
-{link,Ylvapedia - Wiki do Elin、Guia、Registro de Atualizações,https://ylvapedia.wiki/wiki/Main_Page}
-{link,Sala do Dev (Oficial) - Links do Elin、Solução de Problemas、e informações sobre Mods,http://ylvania.org/elin_dev_e.html}
-
+{link,Discord - Comunidade do Elin、Perguntas、Discussão Geral,https://discord.gg/elona}
+{link,Ylvapedia - Wiki do Elin、Passo a Passo、Registro de Atualizações,https://ylvapedia.wiki/wiki/Main_Page}
+{link,Sala de Dev (Oficial) - Links do Elin、Solução de Problemas、e informações de Mods,http://ylvania.org/elin_dev_e.html}
 {topic, Tradução para Português Brasileiro}
-E ai!
-Eu sou o Yuri, eu traduzi esse jogo para você, para mim e para quem mais quiser.
+E aí!
+Eu sou o Yuri, eu traduzi este jogo para você, para mim e para quem mais quiser.
 Se divirta! E, se puder, considere fazer uma doação, pois atualmente, dependo disso.
-A tradução é feita por um humano, e não IA. As partes indicadas como "Traduzido pelo ChatGPT", é dos desenvolvedores do jogo.
+A tradução foi refeita do zero, linha por linha, sem tradutor automático.
 {link,Discord - Comunidade、Perguntas、Conversas em Geral,https://discord.com/invite/aYbWBr4}
 {link,Website - Meus links, projetos, e infos,https://yuricunha.com}
+{link,Pix - Chave: pix@yuricunha.com,mailto:pix@yuricunha.com}
 
-Aqui está a tradução completa das mudanças:
 
-{topic, Informações De Atualização Do Elin}
-■ 21/03/2026 EA 23.287 Estável
-
-Após atualizar para a versão estável, mods de versões anteriores podem parar de funcionar ou apresentar comportamentos estranhos. Se notar algum comportamento incomum, tente desativar os mods e teste novamente.
+{topic, Informações de Atualização do Elin}
+■ 10/5 2026 EA 23.352 Estável
+Depois de atualizar para uma versão Estável, há uma boa chance de Mods feitos para versões anteriores pararem de funcionar ou se comportarem de forma inesperada. Se notar comportamento estranho, tente desativar seus Mods primeiro.
 
 [Destaques]
-* Adicionado o Quadro de Companheiros. Agora é possível selecionar membros do grupo a partir de uma lista de residentes em todas as bases, e as configurações do grupo podem ser salvas e recuperadas.
-* Mad Millionaires (Milionários Malucos) podem aparecer em baixa chance durante a regeneração das cidades.
-* Seu(sua) amado(a) enviará uma carta um ano após uma proposta.
-* Agora é possível comprar itens com o Guardião do Jardim usando influência.
-* Alteradas as cores das flores de cerejeira na Vila de Mifu para o estilo outonal. Também alterada a cor das pétalas durante a adoração à Kizuami para o estilo outonal.
-* Melhoria significativa na velocidade de processamento das interfaces do tipo lista que exibem NPCs, como o Quadro de Residentes e o Quadro de Companheiros.
-* Atualizado e aprimorado o framework de mods. Obrigado, DK!
+* Adicionado um novo slot de equipamento, "Relíquia", e a relíquia "★Embriólito". Após progredir na história do Lar, o slot de Relíquia pode ser destravado falando com certo NPC.
+* Um certo NPC da história abriu uma Loja de Mandrágoras Secas. Vários itens podem ser obtidos em troca de ★Mandrágonas Secas derrubadas por monstros únicos. Alguns itens vendidos antes na Oficina de Miral e Garokk também foram movidos para a Loja de Mandrágoras Secas.
+* Em níveis altos da perícia Desempenho, agora há chance de pedidos de apresentação aparecerem com nível de perigo escalado conforme a perícia de Desempenho.
+* O vigor consumido por habilidades de combate agora é tratado como perda temporária de vigor e recupera com o tempo. Habilidades com custo temporário de vigor agora também indicam isso nas dicas.
+* Quebrar uma roda de hamster agora faz um hamster sair.
 
-[Novo Conteúdo]
-* Adicionado um atalho para a "Console de Inicialização" nas configurações de teclas na janela de Configurações.
-* Adicionada uma faixa musical da Kumiromi para o music box.
-* Adicionada a habilidade "Tapa-Mil".
-* Adicionada a habilidade "Arremesso de Ouro".
-* Adicionada a habilidade "Jogada de Dinheiro".
-* Adicionados efeitos sonoros à habilidade "Desenho". Também foram adicionados vários efeitos sonoros mágicos para buffs e efeitos semelhantes.
-* Adicionado o material "Nuvem".
-* Adicionado o item "Aviso de Anel de Casamento Perdido".
-* Adicionado o item "★Martelo de Garokk". Disponível como prêmio de medalha pequena (estoque limitado; mais estoque pode ser adicionado posteriormente por meio de missões).
-* Adicionado o item "Pergaminho da Migração do Gato Prateado". Disponível no estoque do Guardião.
-* Adicionado o item "Pergaminho de Epíteto". Disponível no estoque do Guardião.
-* Adicionado o item "Pergaminho de Falsificação da Árvore Genealógica". Disponível no estoque do Guardião.
-* Adicionados móveis de "Nuvem".
-* Adicionados 8 tipos de móveis "Pedra do Jardim".
-* Adicionado o móvel "Quadro de Companheiros".
-* Adicionada uma versão de parede do "Quadro de Companheiros".
-* Adicionado o objeto de mapa "Pedras para Pisar".
-* Adicionado o bloco "Piso de Nuvem".
-* Adicionado o bloco "Bloco de Nuvem".
-* Adicionado o bloco "Bloco Alienígena".
-* Adicionado o bloco "Piso Alienígena".
-* Adicionado o bloco "Piso de Cogumelo" (que já existia apenas como plataforma).
-* Adicionado 1 NPC neutro (Mad Millionaire).
-* Adicionada a conquista "Heh heh heh...".
-* Adicionada a conquista "Ah, o Cheiro Desta Erva".
-* Adicionada a conquista "É...? Não é como se eu estivesse esperando algo de você ou algo assim!".
-* Adicionada a conquista "Meu nome é Onev, mãe de todas as coisas vivas em Ylva".
-* Adicionada a conquista "*Rin*".
-* Adicionada a conquista "Lá, lá~ Vou te dar um tapinha!".
-* Adicionada a conquista "Este não é meu irmão mais velho de verdade!!!".
-* Adicionada e substituída o ícone da conquista "Eh...? Não...".
+[Conteúdo Adicionado]
+* Adicionadas configurações relacionadas à simulação de progressão de tempo do Lar na aba Experimental da janela de Configurações.
+* Desbloqueado o mapa "Torre Antiga".
+* Adicionado um novo slot de equipamento, "Relíquia".
+* Adicionada uma nova categoria de equipamento, "Relíquia".
+* Adicionado o feitiço "Míssil".
+* Adicionado o feitiço "Toque Curativo".
+* Adicionado o dote "Juntos!" a monstros marshmallow e irmãzoides.
+* Adicionado o item "★Elixir do Olvido".
+* Adicionada receita para a "★Droga de Cápsula Azul".
+* Adicionado o item "★Embriólito". Uma receita também foi adicionada.
+* Adicionado o item "★Caderno de História Negra".
+* Adicionado o item "★Caderno da Morte".
+* Adicionada a "Caixa de Kumiromilk" (atualmente obtível só por desejos).
+* Adicionada a "Caixa de Horomilk" (atualmente obtível só por desejos).
+* Adicionada a arma de arremesso "Apagador de Lousa". Uma receita também foi adicionada.
+* Adicionado o móvel "Mesa Longa Grandiosa".
+* Adicionado o móvel "Estante Enorme".
+* Adicionada a "Lareira".
+* Adicionados 2 tipos de móvel "Mapa de Estratégia".
+* Adicionado o móvel "Escultura Excêntrica".
+* Adicionada a "Escada de Biblioteca".
+* Adicionado o móvel "Poltrona". Uma receita também foi adicionada.
+* Adicionado o móvel "Sofá". Uma receita também foi adicionada.
+* Adicionada a "Tocha de Parede". Uma receita também foi adicionada.
+* Adicionados 3 tipos de móvel "Moldura de Arte".
+* Adicionado o móvel "Estátua Estranha", com 21 skins.
+* Adicionado o móvel "Capa de Pano", com 5 skins.
+* Adicionado o móvel "Conjunto de Panelas Penduradas".
+* Adicionado o móvel "Conjunto de Bebidas Finas".
+* Adicionada 1 variação direcional para o móvel "Barril".
+* Adicionados 2 tipos de móvel "Cadeira Grossa". Receitas também foram adicionadas.
+* Adicionado o móvel "Cadeira de Ossos". Uma receita também foi adicionada.
+* Adicionado o móvel "Carteira Escolar". Uma receita também foi adicionada.
+* Adicionado o móvel "Cadeira Escolar". Uma receita também foi adicionada.
+* Adicionado o móvel "Cavalo de Pulo", com 2 skins. Uma receita também foi adicionada.
+* Adicionado o móvel "Cesta de Bolas", com 2 skins. Uma receita também foi adicionada.
+* Adicionado o móvel "Divisória". Uma receita também foi adicionada.
+* Adicionado o móvel "Modelo de Anatomia Humana". Uma receita também foi adicionada.
+* Adicionada a "Amostra de Cérebro".
+* Adicionados 2 tipos de móvel "Colchão". Receitas também foram adicionadas.
+* Adicionado o móvel "Porta Grandiosa". Uma receita também foi adicionada.
+* Adicionado o móvel "Moldura de Porta Grandiosa". Uma receita também foi adicionada.
+* Adicionado o piso "Bloco de Pedra".
+* Adicionados 2 tipos de piso "Campo de Flores".
+* Adicionado o piso "Meia-Escada de Pedra".
+* Adicionada a planta "Mato" (suporta variações de cor).
+* Adicionadas 3 variações gráficas para plantas "Rosa" em floração.
+* Adicionado o NPC "Gareth, Porteiro da Torre Antiga".
+* Adicionado o NPC "Garotamaton" (requisitos de fusão e mecânicas relacionadas podem seguir sendo ajustados).
+* Adicionados 2 tipos de NPCs neutros.
+* Adicionados 3 NPCs amistosos (Cães de Wynan).
+* Adicionados 3 tipos de monstros.
+* Adicionado 1 monstro raro.
+* Adicionado 1 animal (hamster).
 
 [Adições e Mudanças]
-* Ao entrar no Jardim Pequeno ou no Jardim da Eternidade, o número total de Irmãs Pequenas e Gatos Prateados é exibido no mapa.
-* Colher safras para pedidos de colheita agora concede experiência em Levantamento de Peso aos membros do grupo, com base na quantidade e peso das safras.
-* Casamentos podem ser realizados novamente após um novo casamento.
-* Sons ao redor continuam a tocar mesmo enquanto o PC está cego.
-* O PC não pode mais se beijar. Se o PC estiver montando um pet atualmente (parasitando), mirar em si mesmo fará com que beije o pet.
-* Durante ações íntimas ou tosquia, não apenas os companheiros, mas também seus subordinados não atacarão o alvo do PC.
-* Algumas habilidades, como "Carga", não são mais afetadas pela substituição de genes por predação de slimes e não serão esquecidas após serem aprendidas. Isso agora também está mencionado na dica de ferramenta ao jogar como slime.
-* Pequenas melhorias e correções no mapa subterrâneo do bordel de Derphy.
-* Alguns personagens, como Billy e Renton, foram marcados como personagens únicos internamente, onde antes não haviam sido sinalizados como tal.
-* Ler um Pergaminho de Fé agora aumenta a Piedade apenas quando a Piedade é menor que a habilidade Fé.
-* Conquistas do Steam não são mais verificadas enquanto o jogo é jogado offline.
-* Expandido o limite de caracteres para o chat no jogo. A entrada de múltiplas linhas agora é dividida e exibida linha por linha. Tags decorativas também são removidas do texto exibido no log.
-* Ao jogar como um Slime, magias com estoque esgotado ainda são exibidas na lista de habilidades se já tiverem sido aprendidas.
-* A característica "Peaky" agora pode aparecer em corridas de cavalos em baixa chance.
-* Adicionado um "grande bônus à experiência de montaria" aos efeitos da característica "Peaky".
-* A característica "Domínio Mágico" não pode mais ser obtida através de genes.
-* Adicionada uma tag de "não herdável na fabricação" à característica "Eco".
-* Mesmo com a opção "Continuar Automaticamente a Realização de Ações" ativada, a execução parará se o personagem estiver sufocando.
-* O comando de console "Stats" agora exibe o número total de Irmãs Pequenas e Gatos Prateados migrados.
-* Os comandos de console "ChangeJob" e "ChangeRace" foram alterados para comandos de trapaça.
+* Monstros únicos como Bahamut agora derrubam várias Mandrágonas Secas dependendo da força deles.
+* Adicionados colchões como materiais opcionais para algumas camas.
+* Quando a opção Lei do Mundo, que restringe ações de exploração em mapas de usuários, está ativa, NPCs não podem mais ser recrutados em mapas de usuários. O Chicote de Ovo também não pode mais ser usado lá.
+* Ícones de cama e indicadores similares agora também aparecem na aba Hóspedes do Quadro de Moradores.
+* Melhorado o tratamento de volume quando múltiplos itens adjacentes que produzem sons ambiente, como fontes, são colocados juntos.
+* Ao colocar itens, segurar Shift e usar a rodinha do mouse agora pode definir a altura deles abaixo de 0.
+* Melhorada a velocidade de processamento ao gerar NPCs Forma do Caos de nível alto.
+* Melhorado o desempenho de vários processos durante a simulação de progressão de tempo do Lar.
+* A simulação de progressão de tempo do Lar durante o sono agora é limitada a no máximo uma semana por vez. O tempo restante é simulado na próxima vez que dormir ou quando visitar aquele Lar.
+* Ao exibir destaques de mira para feitiços e efeitos similares, pisos com paredes, escadas etc. agora destacam o chão.
+* NPCs com comportamento de cura ociosa, como curandeiros e sacerdotes, não curam mais enquanto no grupo se o HP já estiver cheio.
+* Adicionada a tag "notMeAgain", que impede habilidades de invocação de invocar um NPC com o mesmo ID do conjurador. Foi aplicada ao NPC "Necromante".
+* Melhorado o escape de strings na caixa de chat do Times de Palmia.
+* Mudar a configuração do "Modo Aracnofobia" agora muda imediatamente os gráficos das aranhas já presentes no mapa.
+* Ao desenhar mapas com a opção "Esconder Telhados" ativa, objetos externos acima de certa altura deixam de ser renderizados.
+* Melhoradas as posições de exibição de alguns empalhados e cartas, incluindo a Moto do Kaneda.
+* Quando uma "Rosa" está em floração, a variação dela agora pode ser alternada com o clique do meio no Modo Construção.
+* Ajustada a taxa de geração de NPCs do tipo lojista.
+* Adicionado um modo "Desativar Auto-Ocultar Item" ao menu "Editar Célula" no Modo Construção.
+* Quando um item de parede é colocado num piso, móveis e outros objetos colocados com altura de 1 ou mais deixam de projetar sombras.
+* Adicionado o traço Alta Pureza a vários itens que podem ser produzidos por alquimia.
+* Artefatos agora recebem um "★" no nome quando fabricados também.
+* O máximo configurável de colunas do inventário subiu de 20 para 40. O máximo também pode ser mudado por `maxInvColumn` no config.txt.
+* O dano elemental máximo causado a um alvo agora depende da resistência do alvo.
+* Habilidades que não podem ser esquecidas depois de aprendidas agora dizem isso nas dicas mesmo quando não se joga como a raça "Gosma".
+* NPCs de nível 50 ou menos agora usam o tipo de escala "Desenvolvimento Tardio" mesmo quando escala de nível é aplicada a eles.
+* Apresentações agora têm menos chance de sucesso quando há um abismo grande entre sua perícia de Desempenho e o nível do alvo. O máximo de oren obtível por apresentações agora também depende da sua perícia de Desempenho.
+* O PC agora sempre consome vigor ao atravessar paredes ou outros pisos que normalmente não se atravessam.
+* Durante o combate, a IA não usa mais teleporte quando o alvo atual já está dentro do alcance ideal e não está adjacente.
+* Ao usar Teleporte Curto no combate, a IA prioriza teleportar para uma posição onde o alvo atual esteja na linha de visão.
+* A IA agora usa os feitiços Revivificação Mental e Revivificação Física durante o combate.
+* Ativar a Mímica agora cancela qualquer postura ativa.
+* Adicionada fraqueza de resistência ao fogo à raça "Deus (Mani)".
+* Personagens com o dote "Lesmítico" agora podem ser torturados pelos Torturadores de Caracol. Antes, isso era decidido só pela raça.
+* O dote "Nirvana" não é mais gerado como gene, pois pode ser adquirido voluntariamente.
+* O teto de redução de dano do dote "Metal" mudou para 99,9%.
+* O dote "Proteção da Raposa" pode de novo ser gerado como gene.
+* Melhorada levemente a descrição do bônus de experiência do dote "Raça Rara", cuja redação era idêntica à do Aprendiz Veloz.
+* Adicionada a tag "Não pode ser esquecida depois de aprendida" à habilidade "Maconomia".
+* Adicionados tempos de espera às habilidades "Grito da Alma" e "Grito Triste".
+* Crisais invocados pela habilidade "Útero das Trevas" agora são sempre hostis.
+* A habilidade "Chuva de Oren" não é mais atribuída aleatoriamente a aventureiros e NPCs similares.
+* Adicionado o domínio Ilusão ao feitiço "Espada".
+* Ajustado o comportamento do feitiço "Incógnito".
+* Adicionadas perícias de foice aos NPCs "Ceifador" e "Morte".
+* Ajustadas as habilidades do NPC "Mímico".
+* O NPC "Putit da Floresta" agora pode ser tosquiado.
+* O NPC "Imoutomaton" não nasce mais aleatoriamente.
+* Dado ao NPC "Necromante" o dote "Laço de Sangue" e mudadas algumas habilidades dele.
+* Mudadas as habilidades do NPC "Gatinha Branca".
+* Removido o limite de uso pelo PC do item "Experiência de Kumiromi".
+* Melhorado o desempenho ao ordenar contêineres enormes como o "★Baú de Estocagem".
+* O "★Baú de Estocagem" agora pode exibir mais de 9 páginas. A navegação de páginas também foi melhorada.
+* Corrigidos múltiplos erros de digitação e outros problemas na tradução em inglês.
+* Atualizada a tradução em chinês.
 * Atualizados os gráficos de neve.
-* Atualizada a tradução para o chinês.
+
+[Mudanças nos Genes de Mani]
+* As dicas de genes agora ordenam dotes e habilidades por tipo.
+* As dicas de genes agora indicam quando uma habilidade vale para todo o grupo.
+* O gene de Mani agora pode ser escolhido entre 3 opções.
+* O gene de Mani agora pode ser re-rolado com uma Cápsula Azul.
+* O gene de Mani agora é gerado como "Gene Sintético", com lógica separada dos genes dominantes.
+* O custo do gene de Mani agora é reduzido pela metade e depois por mais 10.
+* O gene de Mani agora tem alta chance de receber habilidades especiais ou dotes aleatórios.
+* Quando o nível de geração da Estátua de Mani está baixo, o gene de Mani não rola mais da lista dedicada de habilidades e dotes. (Em níveis de geração baixos, certas habilidades e dotes como "Sem Coração" eram atribuídos toda vez.)
+* Feitiços que não pertencem a nenhum domínio e são conhecidos só por NPCs específicos, como o Míssil Infernal da Gatinha Branca, agora ficam fora do sortimento do gene de Mani.
+
+[Mudanças de Mod] (Por DK)
+* A funcionalidade do Mod "ModConfigGUI" (autor: xTracr) foi integrada ao jogo base.
+* Aprimoradas a interface e a funcionalidade do Visualizador de Mods.
+* Mudada a estrutura de dados do mapa de `byte[]` para `int[]`, com suporte a pisos adicionados por Mods e classes auxiliares adicionais.
+* Melhorado o efeito de "Aplicar anti-aliasing aos retratos" na aba Experimental das Configurações e ativado por padrão. Retratos de alta resolução agora também podem ser exibidos com limpeza.
+* Adicionado tratamento de erro para casos em que uma DLL necessária não é encontrada ao carregar um Mod.
+* A escala de textura de NPCs agora pode ser definida individualmente por `pref`.
+* Corrigido um bug relacionado ao volume padrão de sons personalizados de Mods.
+* Feitas várias outras correções e melhorias relacionadas a Mods.
+
+[Renomeações e Ajustes Gráficos]
+* Substituídos os ícones das habilidades "Canhão Quântico" e "Remover Bênção".
+* Adicionado um ícone para a habilidade "Fundir".
+* Substituído o ícone do feitiço "Míssil".
+* Substituídos os gráficos dos itens "Moeda de Ouro Estranha".
+* Substituídos os gráficos dos itens "Pergaminho".
+* (Versão japonesa) Mudado o nome do NPC "Grande Múmia" para "Grande Múmia".
+* (Versão em inglês) Itens do tipo Bloco de Editor renomeados para nomes como "Bloco Especial".
 
 [Correções]
-* Corrigido um problema em que a troca de conjuntos de equipamentos podia causar um erro.
-* Corrigidos estouros em diversos processos.
-* Corrigido o livro vermelho "Sobre os Povofolclore" na Vila de Mifu sendo incorretamente marcado como propriedade de NPC.
-* Corrigidos diversos outros problemas menores e feitas pequenas ajustes.
+* Corrigido um problema em que NPCs amistosos ficavam hostis se os ataques de área deles ou efeitos similares atingissem o PC.
+* Corrigido um problema em que hóspedes com camas atribuídas não dormiam nelas ao visitar um Lar.
+* Corrigido um problema em que a barraca de festival podia reaparecer se você entrasse numa instância de missão após recolher a barraca durante o festival e voltasse depois que o festival tivesse acabado.
+* Corrigido um erro que podia ocorrer ao fazer um ovo de onsen no fogão enquanto exausto, morrendo de excesso de trabalho no mesmo momento em que o ovo explodia.
+* Corrigido um problema em que a habilidade "Fundir" fundia um personagem a mais. O número correto é 8 personagens por fusão.
+* Corrigido um problema em que os destaques de móveis e outros objetos que ocupam múltiplos pisos podiam às vezes ser exibidos incorretamente.
+* Corrigido um problema em que o gado podia tomar comida dos contêineres do Lar mesmo sem a política do Lar "Privilégios do Gado" ativada.
+* Corrigida a ordem de exibição do estado "Fumando", que estava agrupado com as bênçãos.
+* Corrigido um problema em que aventureiros mortos numa cidade podiam reviver imediatamente na mesma cidade.
+* Corrigido um problema em que habilidades já aprendidas por genes ou meios similares não podiam ser usadas pela tecla de atalho de ataque à distância.
+* Corrigido um erro que ocorria ao clicar com o botão do meio em empalhados ou cartas sem conteúdo atribuído, como os obtidos por desejos.
+* Corrigido um erro que ocorria ao usar o feitiço "Telecinesia" com Poder de Telecinesia 0.
+* Corrigido um problema em que o material de um item copiado com o conta-gotas do Modo Construção às vezes não aparecia no item copiado.
+* Corrigido um problema em que os destaques de móveis grandes como fontes podiam permanecer visíveis no Modo Construção. Também corrigido um problema em que móveis grandes colocados em ambientes internos podiam ser vistos de fora.
+* Corrigido um erro que ocorria ao usar o Quadro de Moradores depois que o Loytel se movia durante a missão "Ouro Nas Entranhas".
+* Corrigido um problema em que o contraste dos retratos podia às vezes ficar incorreto durante conversas.
+* Corrigido um problema em que a ordem das músicas não podia mais ser mudada com os botões subir/descer ao editar uma playlist no "Gramofone".
+* Corrigido um problema em que o aviso "Companheiros Demais" às vezes não aparecia quando o grupo ultrapassava o limite com um companheiro de dote "Desviante" presente.
+* Corrigido um problema em que o mesmo material podia às vezes aparecer mais de uma vez na lista de seleção de materiais ao fabricar.
+* Corrigido um erro raro que podia ocorrer ao calcular caminhos.
+* Corrigido um problema em que reviver um bicho no Salão de Casamentos o fazia entrar no grupo.
+* Corrigido um estouro de valor ao aplicar debuffs.
+* Corrigido um erro que podia às vezes ocorrer quando moradores reviviam durante o sono.
+* Corrigidos valores de Z incorretos para itens colocados em móveis do tipo mesa redonda.
+* Corrigido um problema em que processar uma quantidade dividida de materiais de um contêiner com "Auto-Ordenar" ativo fazia o processamento começar para cada pilha.
+* Corrigidos e ajustados vários problemas no modo Um Bloco.
+* Outras correções e ajustes menores.
 
-[Observações]
-* O Quadro de Companheiros tornou-se uma atualização bastante grande, por isso esta versão estável está sendo lançada um pouco mais cedo do que o usual.
-* Os recursos de suporte a mods estão sendo fortemente aprimorados por DK. No futuro, também gostaríamos de melhorar a compatibilidade com futuras atualizações da versão base do jogo, sempre que possível.
-* Quanto aos prêmios do Guardião do Jardim, como capturar Gatos Prateados pode ser trabalhoso, o plano atual é mantê-los limitados a recompensas do tipo conquista e certos móveis, para que a coleta não se torne necessária.
-* Quanto ao Martelo de Garokk, um meio de obtê-lo novamente por meio de missões ou semelhantes está planejado.
-* Para seeds fixas usadas pelo Martelo de Garokk e recursos semelhantes, estou considerando adicionar uma opção em "Lei do Mundo" para desativar seeds fixas.
+[Notas]
+* Sobre Desempenho, estamos considerando adicionar recursos como aprender canções conforme o nível de perícia na próxima atualização Nightly.
+* Também esperamos estrear Garotamatons com regularidade.

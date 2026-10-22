@@ -1,33 +1,55 @@
-Revista do Aventureiro - Edição 3 《Sorte》, Correspondente especial em Palomia: Kawa,10,1
+Jornal do Aventureiro nº 3: Sorte,Correspondente em Palmia Kawa,10,1
 
-<i>Bem-vindo à 『Revista do Aventureiro』. Todas as semanas traremos para vocês, aventureiros, temas de tirar o fôlego!</i>
+<i>Bem-vindo ao Jornal do Aventureiro, onde cobrimos temas próximos e queridos aos seus corações valentes.</i>
 
 
-Nesta edição, direto do navio 「Sino Dourado da Sorte」 em Palomia, vamos falar sobre uma força misteriosa: a 「Sorte」.
+Na edição desta semana, escrevo do Sino da Fortuna sobre o tema sorte.
 
-Primeiro, um fato surpreendente — a sorte não influencia os minijogos do 「Sino Dourado da Sorte」.  
-Caça-níqueis e vinte-e-um exigem muito mais técnica e timing do que sorte pura. Eu mesmo ainda estou tentando dominar os truques dessas jogatinas.
+Um lugar assim é tudo sobre boa fortuna, não é? Principalmente quando o editor-chefe considera minha visita despesa de trabalho…
 
+A sorte sempre foi um tema misterioso entre os aventureiros: há muito rumor e fofoca sobre o que ela faz <b>exatamente</b>.
 {p}
-■ A verdade sobre a sorte  
-De acordo com as freiras da Igreja de Ehekatol, muitas das crenças populares sobre sorte estão equivocadas.  
+Por exemplo: dá para acreditar que a sorte não afeta nenhum dos jogos do Sino da Fortuna? É verdade! Seja arremesso de putit, caça-níquel ou blackjack, a sorte não importa!
 
-A sorte não melhora a qualidade dos tesouros encontrados em Nefias.  
-Também não aumenta a chance de esquivar de ataques.  
-E não influencia nem a 「Lua da Sorte」 nem a pescaria.  
+Na verdade, aprendi a sincronizar o caça-níquel para tirar o jackpot com boa confiança!
 
-Então… o que ela realmente muda?  
-Sua principal função é o 「rerrolar do dado」. Cada ponto de sorte concede 1% de chance de rolar novamente o dado, aplicando o resultado mais alto. Isso significa mais dano causado, mais pontos de cura e maior redução de dano recebido (PV).  
+E tenho certeza absoluta de que os crupiês das mesas de blackjack não estão "fazendo nada"!
 
-Já no caso do azar, o rerrolar aplica o menor valor obtido no dado.
-
+A sorte é misteriosa mesmo!
 {p}
-■ Outros efeitos  
-A sorte aumenta a chance de obter prêmios em baús e diminui a probabilidade de que equipamentos sejam amaldiçoados.  
+Para entender melhor a sorte, o ideal é perguntar aos especialistas. Havia umas freiras da Igreja de Ehekatl pregando com cosplay de gato, então paguei bebidas a elas no bar e perguntei sobre o domínio da deusa delas.
 
-■ Como aumentar a sorte  
-Ore a Ehekatol, carregue moedas da sorte ou utilize equipamentos feitos de mica.  
+<b><i>Elas também eram fofas, mas esse não é o ponto!</i></b>
 
-Melhorar sua aparência e manter um bom estado de espírito também ajudam. Acho que está na hora de eu voltar pro vinte-e-um.  
+Acontece que a maioria dos rumores que o povo acredita sobre a sorte não é verdade. Ela não aumenta a qualidade do espólio numa nefia, nem ajuda a desviar de ataques inimigos. Não aumenta a chance de um mês de sorte, nem ajuda a pescar peixes melhores. Alguns desses são de fato bênçãos da Lady Ehekatl e não têm a ver com a sorte em si, e o resto é só fofoca.
+{p}
+Então, o que a sorte FAZ?
 
-<i>- Na próxima edição, uma matéria enviada pela Igreja de Jure: 「Prevenção e Tratamento de Estados Anormais」.</i>
+O mais importante: ela permite que "dados" sejam re-rolados: cada ponto de sorte é 1% de chance disso, e sorte acima de 100 permite mais re-rolagens, até 20 vezes! Perguntei às freiras o que "dados" de fato são, mas talvez eu tenha me distraído durante a explicação. Enfim, resumo o que a sorte realmente afeta, graças a esses "dados":
+
+*Dano e cura causados.
+*Mitigação de dano por VP.
+
+Note que sorte negativa funciona igual, só que o pior das re-rolagens é o escolhido: cuidado com maldições de ruína!
+{p}
+A sorte também afeta a chance de um baú de aposta pagar e a resistência a ter equipamento amaldiçoado, embora isso não tenha a ver com "dados".
+
+Pode parecer pouco, mas dano, cura e mitigação são vitais para aventureiros, e poder escolher o melhor entre dois resultados é coisa grande!
+
+Então, como vocês aventureiros podem ficar mais sortudos?
+
+Bom, a grande é cultuar a Lady Ehekatl! As freiras eram fofas, mas não <i>tão</i> fofas… no fim das contas, <b>é só cosplay, né?</b>
+
+Mas comprei umas moedas da sorte com elas!
+{p}
+Para quem não sabe, as moedas da sorte são moedas de edição limitada cunhadas na casa da moeda de Palmia em 467 para celebrar a vitória da Guerra dos Dez Anos, gravadas com a imagem divina da própria Lady Ehekatl.
+
+Só de ter o sorriso dela por perto já me sinto um pouco mais sortudo!
+
+Você também pode usar equipamento de mica para um pouco mais de sorte. Sabia que os altares da Lady Ehekatl são feitos de mica? É verdade! Embora se é sortudo por causa da deusa, ou a deusa gosta porque é sortudo, não sei…
+{p}
+Enfim, acho que vou ficar um pouco mais na mesa de blackjack, então me despeço por aqui!
+
+***
+
+<i>- Na edição da próxima semana, vamos à Igreja de Jure aprender sobre prevenir e curar estados elementais!</i>

@@ -1,0 +1,46 @@
+Jornal do Aventureiro nº 21: Resistências,Correspondente em Lumiest Jaystar,10,1
+
+<i>Bem-vindo ao Jornal do Aventureiro, onde cobrimos temas próximos e queridos aos seus corações valentes.</i>
+
+
+Nesta semana, analisamos de perto as resistências elementais.
+
+Como aventureiro, você vai encontrar monstros que não tentam só morder e arranhar. Pode ser queimado, congelado, chocado, molhado com ácido, envenenado e mais; muitas habilidades de monstros caem em algum domínio elemental.
+{p}
+O dano dessas habilidades ignora VP; a armadura mais robusta de toda Ylva não faz nada contra um raio. Em vez disso, a resistência é o que mitiga o dano elemental.
+
+
+Mas o que é resistência? Simplificando, é quão bem você suporta certo elemento. Se a resistência vem de equipamento, dotes, fé, feitiços ou outra fonte, a soma final é pesada contra o dano correspondente.
+
+A resistência é dividida em estágios: só quando há mudança suficiente no valor para mudar de estágio a mitigação muda também. Pequenas diferenças podem não ter efeito nenhum.
+{p}
+Os estágios e os multiplicadores de dano são:
+
+-10 ou menos: 2x
+-9 a -5: 1,5x
+-4 a 4: 1x
+5 a 9: 0,5x
+10 a 14: 0,33x
+15 a 19: 0,25x
+20 ou mais: 0x
+
+Pode-se notar que a maior eficiência ocorre ao alcançar 5 de resistência, mas sempre se pode ter mais. Além disso, efeitos elementais não ocorrem a 20 de resistência, a menos que o atacante cultue Kizuami. Uma nota: a resistência mágica também reduz parcialmente todo dano elemental, o que a torna particularmente valiosa.
+{p}
+Com a ampla gama de elementos que se pode encontrar, muitos aventureiros se dedicam a resolver o quebra-cabeça das resistências: achar jeitos de ganhar imunidade a tantos elementos quanto possível por qualquer meio. Com uso esperto de runas, vários veteranos chegaram perto, mas é impossível ser impermeável a todo dano elemental via resistências.
+
+Por quê?
+
+
+Primeiro, as resistências de alguns domínios são limitadas a ponto de não alcançar 20, como ácido, ou simplesmente não existem, no caso de impacto.
+{p}
+O outro problema é que monstros têm contramedidas: os mais comuns são feitiços como cicatriz elemental e pesadelo. Resistências de fé podem ser excomungadas, e resistências de feitiço removidas; feitiços de espada penetram dois estágios de resistência, até o mínimo de 0.
+
+Por fim, as raças antigas de Ylva, como dragões e demônios, são capazes de manejar elementos superiores que penetram as resistências em um estágio: não se ganha resistência tanta a ponto de ser impermeável ao dano deles.
+{p}
+Resolver o quebra-cabeça das resistências é mais fácil para os elementos básicos: proteção contra fogo, gelo e raio está disponível até para aventureiros de nível médio através de materiais como escama e lã. Resistências mais exóticas, porém, tendem a vir em quantidades menores, por meios cada vez mais difíceis. Embora o ideal seja um conjunto de resistências que dê o máximo de imunidades possível, tal meta nem sempre é alcançável na prática, e conjuntos de equipamento diferentes para várias situações ajudam.
+
+No fim, conhecimento é a melhor defesa: entender os monstros que provavelmente encontrará e as capacidades deles fornece a base para decidir contra quais elementos se proteger. Afinal, não faz sentido esperar fogo numa ruína submersa!
+
+***
+
+<i>- Na próxima edição, finalmente destacaremos o casamento!</i>

@@ -1,90 +1,90 @@
-Diretrizes de Missões, O Conselho de Tyris
+Diretrizes de Missões,Conselho de Tyris
 
-Devido a um aumento acentuado no número de aventureiros nos últimos anos, bem como a casos relacionados de fraude em nossos tribunais, as nações de Mysilia, Palmia e Mayroon concordaram em padronizar o formato dos pedidos nos quadros de avisos por toda North Tyris.
+Devido ao acentuado aumento no número de aventureiros nos últimos anos, assim como casos de fraude correlatos nos nossos tribunais, as nações de Mysilia, Palmia e Mayroon concordaram em padronizar o formato dos pedidos de quadro de avisos em toda Tyris do Norte.
 
-Embora não seja proibido contratar aventureiros fora do escopo desses pedidos, tanto o aventureiro quanto o cliente terão dificuldade em obter recurso legal caso surjam disputas.
+Embora não seja proibido contratar aventureiros fora do escopo destes pedidos, tanto aventureiro quanto contratante terão dificuldade em obter reparação legal em caso de disputa.
 
 Os tipos de pedido aprovados são os seguintes:
 
 {p}
-<b>Aquisição</b>
+<b>Procura</b>
 
-O aventureiro deverá adquirir o(s) item(ns) declarado(s). Note que o nome do item deve corresponder exatamente ao indicado no pedido. Se for solicitado um "ferramenta", então uma "ferramenta" deve ser fornecida, não uma "enxada" ou um "machado".
+O aventureiro deve obter o(s) item(ns) indicado(s). Note que o nome do item deve corresponder exatamente ao indicado no pedido. Se pedem uma "ferramenta", deve-se entregar uma "ferramenta", não uma "enxada" ou um "machado".
 
-Quando for solicitada uma categoria de itens, o pedido será marcado com "categoria" no canto inferior direito. Um pedido de categoria para "pão" pode ser cumprido por "hambúrguer" ou "torta".
+Quando uma categoria de itens é pedida, o pedido é marcado com "categoria" no canto inferior direito. Um pedido de categoria "pão" pode ser cumprido com "hambúrguer" ou "torta".
 
-Ao receber, orens adicionais serão pagos proporcionalmente ao valor do item.
+No recebimento, orens adicionais serão pagos na proporção do valor do item.
 
 {p}
 <b>Apresentação</b>
 
-O aventureiro deverá se apresentar em um local dentro de um limite de tempo. Membros da audiência satisfeitos e insatisfeitos acrescentam e subtraem pontos, respectivamente. Não há recompensa adicional por exceder a cota.
+O aventureiro deve se apresentar num palco dentro do limite de tempo. Membros da plateia satisfeitos e insatisfeitos somam e subtraem pontos, respectivamente. Não há recompensa adicional por superar a cota.
 
-* Para melhores resultados, recomenda-se tocar para grandes plateias.
+* Para melhores resultados, sugere-se apresentar para plateias grandes.
 
-* Aventureiros com alta habilidade musical podem aceitar pedidos mais difíceis.
+* Aventureiros com perícia de música alta podem aceitar pedidos mais difíceis.
 
 {p}
 <b>Colheita</b>
 
-O aventureiro deverá colher em um local dentro de um limite de tempo. Apenas as colheitas colocadas na caixa de entrega contam para a cota. As recompensas são baseadas no peso entregue. Colheitas que estiverem com o aventureiro ao final do pedido podem ser confiscadas.
+O aventureiro deve colher plantações num local dentro do limite de tempo. Só plantações na caixa de entrega contam para a cota. As recompensas são baseadas no peso entregue. Plantações em mãos do aventureiro no fim do pedido podem ser confiscadas.
 
-* Priorize a colheita de alto peso.
+* A prioridade de colheita deve ir para as plantações de peso alto.
 
-* Se a cota for atingida, sair não fará o pedido falhar.
+* Se a cota já foi atingida, sair não falha o pedido.
 
-* Aventureiros com alta habilidade de coleta podem aceitar pedidos mais difíceis.
+* Aventureiros com perícia de coleta alta podem aceitar pedidos mais difíceis.
 
 {p}
 <b>Entrega</b>
 
-O aventureiro deverá entregar um item ao destinatário até o tempo combinado. Uma vez aceito, falhar na missão será considerado fraude postal.
+O aventureiro deve entregar um item ao destinatário no prazo combinado. Uma vez aceito, falhar a missão será considerado fraude postal.
 
-* O cliente não é responsável pela capacidade do aventureiro de carregar o item, nem por considerar o limite de tempo razoável.
+* O contratante não responde pela capacidade do aventureiro de carregar o item, nem por se o prazo é considerado razoável.
 
-* Se o item for perdido, o aventureiro pode providenciar um substituto e entregá-lo em seu lugar.
+* Se o item se perder, o aventureiro pode obter um substituto e entregar este.
 
-* O uso de teletransportes é proibido.
+* O uso de teleportes é proibido.
 
 {p}
 <b>Escolta</b>
 
-O aventureiro deverá escoltar alguém até o local indicado dentro do tempo combinado. Uma vez aceito, qualquer morte do escoltado fará o pedido falhar e o aventureiro será responsabilizado.
+O aventureiro deve escoltar alguém até o local indicado no prazo combinado. Uma vez aceito, qualquer morte do escoltado falha o pedido e o aventureiro é responsabilizado.
 
-* Quando em local perigoso, o escoltado deve estar próximo ao aventureiro antes de partirem para evitar abandono e, consequentemente, a falha do pedido.
+* Em local perigoso, o escoltado deve estar perto do aventureiro antes de partir, para evitar abandono e a falha do pedido.
 
-* O uso de teletransportes é proibido.
+* O uso de teleportes é proibido.
 
 {p}
-<b>Extermínio</b>
+<b>Exterminação</b>
 
-O aventureiro deverá exterminar todos os monstros no local. Sair antes é considerado falha.
+O aventureiro deve matar todos os monstros do local. Sair antes é considerado falha.
 
-* Aventureiros famosos podem aceitar missões mais difíceis com recompensas melhores.
+* Aventureiros famosos podem aceitar missões mais difíceis, com recompensas melhores.
 
 
-<b>Caça</b>
+<b>Caçada</b>
 
-O aventureiro deverá matar o número indicado de monstros dentro do limite de tempo. O local não importa. As recompensas são pagas pelo número e pela força dos monstros abatidos.
+O aventureiro deve matar o número indicado de monstros dentro do limite de tempo. O local não importa. Recompensas são pagas pelo número e pela força dos monstros mortos.
 
-* Quando esses pedidos especificarem um tipo de monstro, os monstros elegíveis serão indicados no diário.
+* Quando estes pedidos especificam um tipo de monstro, os monstros elegíveis serão marcados no diário.
 
 {p}
 <b>Guerra</b>
 
-O aventureiro deverá sobreviver por um período sob ataque constante de monstros. Quando esse período terminar, o aventureiro deve soar a retirada no chifre de guerra e deixar o local. As recompensas são dadas de acordo com o número de abates e as ondas sobrevividas.
+O aventureiro deve sobreviver por um período sob ataque constante de monstros. Quando o período acabar, o aventureiro deve soar a retirada na buzina de guerra e sair do local. As recompensas são dadas pelo número de mortes e de ondas sobrevividas.
 
-* O chifre de guerra pode ser carregado livremente nas mãos e movido. Pode ser usado para convocar imediatamente a próxima onda, mas isso atrasará a retirada. Invocar a próxima onda imediatamente após uma ter começado aumentará a recompensa.
+* A buzina de guerra pode ser carregada livremente nas mãos e movida. Ela pode ser usada para convocar a próxima onda imediatamente, mas atrasa a retirada. Chamar a próxima onda logo depois de uma ter começado aumenta a recompensa.
 
-* Reforços podem ser convocados em intervalos para auxiliar o aventureiro.
+* Reforços podem ser chamados em intervalos para ajudar o aventureiro.
 
 {p}
-<i>- Pós-escrito -</i>
+<i>- Post-scriptum -</i>
 
-Todos os pedidos recompensarão uma soma de moedas de platina baseada em sua dificuldade.
+Todos os pedidos recompensam uma quantia de moedas de platina conforme a dificuldade.
 
-Os pedidos são feitos conforme a demanda local. Aventureiros devem ir até onde o trabalho está. Discrição é aconselhada ao aceitar pedidos, pois a conclusão não é garantida como possível.
+Os pedidos seguem a demanda local. Aventureiros devem ir aonde o trabalho está. Recomenda-se discrição ao aceitar pedidos, pois o cumprimento não é garantido como possível.
 
-Embora um pedido possa ser cancelado pelo diário ou saindo do local, isso acarreta perda de carma e fama. Penalidades adicionais também podem ser aplicadas conforme o tipo de pedido.
+Embora um pedido possa ser cancelado pelo diário ou saindo do local, isso custa karma e fama. Penalidades adicionais podem também se aplicar conforme o tipo de pedido.
 
-Por favor, dirijam disputas ao tribunal local de pequenas causas e não tomem a justiça pelas próprias mãos.
+Por favor, encaminhe disputas ao seu juizado de pequenas causas local e não tome as coisas pelas próprias mãos.

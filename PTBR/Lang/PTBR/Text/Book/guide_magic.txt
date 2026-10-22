@@ -1,59 +1,59 @@
-Introdução à Magia
+Introdução à Magia,Desconhecido
 
-(Um conjunto de anotações de estudantes da Guilda dos Magos)
+(Conjunto de notas de aula da Guilda dos Magos)
 
-Certo, classe. O mestre da guilda me disse que vocês são alunos práticos, então preparei esta lição introdutória para vocês. Sem palestras chatas — sei que vocês estão muito mais interessados em tentar um pouco de magia de verdade. Nada de timidez; a guilda precisa de membros que façam trabalho de campo e crianças como vocês serão treinadas para a função.
+Muito bem, turma. O mestre da guilda me disse que vocês, garotos, aprendem na prática, então preparei esta aula introdutória para vocês. Sem sermão entediante: sei que vocês estão bem mais interessados em experimentar uma magia de verdade. Não sejam tímidos, a guilda precisa de membros de trabalho de campo, e garotos como vocês serão treinados para a função.
 
-Então hoje eu vou explicar a vocês a conjuração passo a passo.
+Então hoje vou guiar vocês na conjuração passo a passo.
 {p}
 <b>Aprendendo Feitiços</b>
 
-A magia começa aprendendo feitiços. Agora, ler grimórios não é como folhear o Palmia Times: sua literacia será testada, e as consequências de interpretar mal runas mágicas são mais severas que as de um tabloide. Trago comigo um dos grimórios mais simples: flecha mágica. Passe-o pela classe, quero que todos tentem lê-lo. À medida que sua literacia crescer, vocês poderão tentar ler feitiços mais complexos.
+A magia começa aprendendo feitiços. Ler grimórios não é como folhear o Jornal de Palmia: sua alfabetização será testada, e as consequências de ler errado runas mágicas são mais graves que as de um tabloide. Trouxe um dos grimórios mais simples: flecha mágica. Passem na sala, quero que todos tentem ler. Conforme sua alfabetização cresce, dá para tentar ler feitiços mais complexos.
 
-Tudo pronto? Tendo memorizado as runas, vocês estão prontos para seu primeiro feitiço. Agora, o esforço de conjurar queimará o feitiço de sua mente — não de uma vez só, mas se você não refrescar sua memória das runas, acabará por esquecê-las completamente.
+Terminaram? Com as runas memorizadas, estão prontos para o primeiro feitiço. Agora, o esforço de conjurar vai queimar o feitiço da sua mente: não de uma vez, mas se você não refrescar a memória das runas, vai esquecê-las por completo.
 {p}
-Isto é o que nós magos chamamos de "estoques", quantas vezes podemos lançar um feitiço antes que as invocações escapem das nossas mentes. Memorizar é uma habilidade: quanto mais você ler grimórios, melhor conseguirá reter conhecimento de feitiços, significando mais "estoques" por leitura.
+É o que nós magos chamamos de "estoque": quantas vezes dá para conjurar um feitiço antes de as encantações escaparem da memória. Memorização é uma perícia: quanto mais você lê grimórios, melhor retém o conhecimento de feitiços, ou seja, mais estoque por leitura.
 
-É um ciclo simples: leia grimórios, ganhe "estoques". Lance feitiços, gaste "estoques". Até crianças como vocês entendem!
+É um ciclo simples: ler grimórios, ganhar estoque. Conjurar feitiços, gastar estoque. Até crianças como vocês entendem!
 
-Antes que perguntem, sim, grimórios são caros. Se você esgotou seu estoque de feitiços, pode ser capaz de alcançar a fonte da magia enquanto sonha e ganhar um pouco de estoque de feitiços simples do seu domínio. Magos treinados podem fazer isso mesmo tendo estoque e ganhar feitiços complexos; essa façanha é considerada essencial para qualquer conjurador e poupa muitos orens aos novatos.
+Antes que perguntem: sim, grimórios são caros. Se o seu estoque se esgotou, talvez dê para alcançar a fonte da magia sonhando e ganhar um pouco de estoque de feitiços simples do seu domínio. Magos treinados fazem isso mesmo com estoque e ganham feitiços complexos; esse feito é considerado essencial para qualquer conjurador e poupa muitos orens aos novatos.
 
-Sim, a fonte da magia é um homem régio e ruivo. Sem mais perguntas, por favor.
+Sim, a fonte da magia é um homem nobre de cabelos ruivos. Sem mais perguntas, por favor.
 {p}
 <b>Conjurando Feitiços</b>
 
-Agora que aprenderam um feitiço, é hora de conjurá-lo. Você aí, no fundo! Suba e tente lançar flecha mágica no boneco.
+Agora que aprenderam um feitiço, é hora de conjurá-lo. Você aí, no fundo! Venha e tente conjurar flecha mágica no boneco.
 
-…Oh, o feitiço falhou. Não desanimem: quanto mais praticarem a conjuração, melhores ficarão. Além da habilidade geral de conjurar, lançar um feitiço o sintonizará com ele — o que chamamos de "níveis de feitiço", que aumentam a chance de sucesso e o poder do feitiço. Cada feitiço está ligado a um atributo; quanto maior ele for em relação ao nível do feitiço, mais rápido você ganha níveis naquele feitiço. Mesmo conjurações falhadas avançam os níveis do feitiço, então a prática leva à perfeição.
+…Ah, o feitiço falhou. Não desanime: quanto mais você pratica a conjuração, melhor fica. Além da perícia geral de conjuração, conjurar um feitiço o sintoniza com ele: é o que chamamos de "níveis de feitiço", que aumentam a chance de conjuração e o poder do feitiço. Todo feitiço está ligado a um atributo; quanto maior ele for comparado ao nível do feitiço, mais rápido você ganha níveis nele. Até conjurações falhas avançam os níveis de feitiço, então treinar leva à perfeição.
 {p}
-A conjuração é melhor quando você está desimpedido, e o seguinte penaliza sua conjuração:
+A conjuração rende melhor sem peso, e o seguinte penaliza sua conjuração:
 
 * Armadura pesada
 * Escudos
-* Empunhar duas armas
+* Duplo empunhamento
 * Montaria
 * Hospedagem
 
-Armadura pesada e escudos também limitam sua chance máxima de conjuração, mas você pode obter façanhas que anulam isso. Finalmente, estados como turvo e confuso prejudicarão sua conjuração.
+Armadura pesada e escudos também limitam sua chance máxima de conjuração, mas há dotes para anular isso. Por fim, estados como atordoado e confuso atrapalham a conjuração.
 
-Lembrem-se: com habilidade e façanhas suficientes, é possível superar todas as penalidades de conjuração. Entendido? Agora o resto de vocês formem uma fila pelos bonecos, e podem se revezar conjurando flecha mágica até esgotarem seu estoque.
+Lembre: com perícia e dotes suficientes, você vence todas as penalidades de conjuração. Entenderam? Agora o resto de vocês forma uma fila nos bonecos, e pode se revezar conjurando flecha mágica até esgotar o estoque.
 {p}
-<b>MP</b>
+<b>PM</b>
 
-Você aí! Está pálido, sente-se e beba isto! Melhorou?
+Você aí! Está pálido, senta e bebe isto! Melhor?
 
-…Vejo que você se excedeu. Além do estoque, a magia usa MP — conjurar feitiços sem MP vai feri-lo com reação mágica. Mesmo novatos sobrevivem a uma única conjuração em excesso sem treinar capacidade mágica, mas quanto mais negativo seu MP, mais dói.
+…Entendo, você exagerou. Além de estoque, a magia usa PM: conjurar sem PM vai machucar você com reação mágica. Até novatos sobrevivem a um único excesso sem treinar capacidade mágica, mas quanto mais negativo o seu PM, mais dói.
 
-Não tenha medo de exceder a conjuração se for questão de vida ou morte, mas saiba que descuido pode matá-lo com a mesma facilidade.
+Não tenha medo de exagerar se for questão de vida ou morte, mas saiba que a imprudência mata tão fácil quanto.
 
 {p}
 
-Para resumir a aula de hoje:
+Resumindo a aula de hoje:
 
-* Leia livros ou sonhe, ganhe "estoques".
-* Conjure feitiços, gaste "estoques" e MP.
-* Equipamento, situações e estados podem prejudicar sua conjuração.
-* Feitiços evoluem conforme você os conjura, aumentando poder e sucesso de conjuração.
-* Você pode conjurar sem MP, mas isso vai ferir você.
+* Leia livros ou sonhe, ganhe estoque.
+* Conjure feitiços, gaste estoque e PM.
+* Equipamento, situações e estados podem atrapalhar sua conjuração.
+* Feitiços ganham nível conforme você os conjura, aumentando poder e chance.
+* Dá para conjurar sem PM, mas vai doer.
 
-Espero que tenham gostado da introdução à magia de hoje. Sua turma terá essas aulas práticas regularmente, então aguardem com expectativa.
+Espero que tenham gostado da introdução à magia de hoje. Sua turma está escalada para ter essas aulas práticas com regularidade, então aguardem.

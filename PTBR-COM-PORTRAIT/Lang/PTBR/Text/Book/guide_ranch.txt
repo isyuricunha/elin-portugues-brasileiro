@@ -1,66 +1,66 @@
-História do Rancho, Desconhecido
+História de Rancho,Desconhecido
 
 <i>(Parece um memorando interno da empresa)</i>
 
-Meu negócio de criação se espalhou por Zanan a ponto de ser mais fácil escrever este manual do que instruir pessoalmente os novos gerentes, então leia com atenção. Se sua filial não for lucrativa, você terá que prestar contas a mim!
+Meu negócio de rancho cresceu por toda Zanan a ponto de ser mais fácil escrever este manual em vez de dar briefing pessoal a cada gerente novo, então leia bem. Se a sua franquia não der lucro, você vai prestar contas a mim!
 
 {p}
-<b>Infraestrutura do Rancho</b>
+<b>Infraestrutura de Rancho</b>
 
-Antes de começar, você precisará preparar a terra. Construa um celeiro bem iluminado e coloque uma placa do rancho para que os animais fiquem dentro — as paredes espessas os protegerão dos monstros errantes. Se preferir manter seus bichinhos ao ar livre, cerque-os longe das bordas da propriedade e dê-lhes um abrigo para a noite.
+Antes de começar, precisa preparar o terreno. Construa um celeiro bem iluminado e ponha uma placa de rancho para o gado ficar dentro: as paredes grossas vão protegê-lo de monstros andantes. Se prefere as bichinhas lá fora, cerque-as longe das bordas da propriedade e dê um lugar para se abrigar à noite.
 
-Se tiver pontos administrativos, faça com que os empregados organizem uma vigia de fronteira. Lembre-se: animais mortos ou infelizes não produzem, então manter seus bichinhos vivos é vital.
+Se tiver pontos de administração, faça os funcionários formar uma guarda de fronteira. Lembre: gado morto ou infeliz não produz, então manter suas bichinhas vivas é vital.
 
-Se estiver generoso, pode deixar fardos de feno para os animais dormirem, embora não seja necessário.
+Se estiver generoso, pode dar fardos de palha para o gado dormir, embora não seja necessário.
 
 {p}
 <b>Alimentação</b>
 
-Os bichinhos do rancho precisam de uma porção de pastagem por dia; sem pastagem, sem produção. Você pode colher pastagem selvagem, mas o ideal é cultivá-la — pastagem de alto nível aumenta o rendimento da planta, permitindo sustentar mais bichinhos.
+Bichas de rancho precisam de uma pastagem por dia; sem pastagem, sem produção. Dá para colher pastagem selvagem, mas é melhor cultivar a sua: pastagem de nível alto aumenta o rendimento da planta, permitindo sustentar mais bichas.
 
-Os animais não comem pastagem ainda na planta; ela precisa ser colhida e colocada em um recipiente compartilhado. O quadro inicial resume os estoques de pastagem e o consumo diário.
+O gado não come pastagem na planta; precisa ser colhida e colocada num contêiner compartilhado. O quadro de avisos resume os estoques de pastagem e o consumo diário.
 
-Você pode oferecer refeições cozidas como agrado aos seus bichinhos, mas não é necessário. Note que isso não substitui a necessidade de pastagem.
-
-{p}
-<b>Aquisição de Animais</b>
-
-Agora você precisa decidir o que criar. Os produtos do rancho incluem: ovos, leite, carne e pelagem. Escolha um tipo de animal que atenda às necessidades de produção do rancho: para novatos, recomendo os putits da neve, que produzem os quatro.
-
-A produção de leite e ovos dos bichinhos é limitada pela espécie — ranchos de dinossauros parecem impressionantes, mas não são práticos. Em geral, quanto mais baixo o animal na cadeia alimentar, melhor sua capacidade de reprodução — daí o humilde putit da neve. Embora haja ranchos por Zanan produzindo itens especializados como escama de dragão e bestas de guerra para o exército, são poucos e fortemente subsidiados pela coroa.
-{p}
-Animais iniciais podem ser comprados de domadores, ou você pode tentar capturar criaturas selvagens com bolas de monstro ou conquistá-las com uma escova. De qualquer forma, registre o animal domado como gado na lista de residentes, e pronto.
+Dá para dar refeições cozidas às bichas como guloseima, mas não é necessário. Note que isso não elimina a necessidade de pastagem.
 
 {p}
-<b>Operações de Rotina</b>
+<b>Adquirindo Gado</b>
 
-Os animais dão ovos e leite às 5h todos os dias; deixe um empregado de tarefas coletar a produção nos recipientes compartilhados. Ovos exigem uma geladeira para evitar que estraguem, mas o leite ficará bem como está.
+Agora precisa decidir o que criar. Os produtos do gado incluem: ovos, leite, carne e pelagem. Escolha um tipo de gado que sirva às necessidades de produção do rancho: para novatos, recomendo snow putits, que produzem os quatro.
 
-Bichinhos peludos devem ser tosquiados quando o pelo estiver espesso; você pode fazer antes, mas é mais eficiente esperar. Um bom par de tesouras de tosquia acelerará o trabalho, e um tônico abençoado de crescimento de pelo aumentará a produtividade.
+A produção de leite e ovos das bichas é limitada pela espécie: rancho de dinossauro parece impressionante, mas não é prático. Em geral, quanto mais baixo o animal na cadeia alimentar, melhor ele se reproduz: daí o humilde snow putit. Há ranchos por toda Zanan produzindo especialidades como escama de dragão e bestas de guerra para o exército, mas são poucos e pesadamente subsidiados pela coroa.
+{p}
+O gado inicial pode ser comprado de domadores de animais, ou você pode tentar capturar bichas selvagens com esferas de monstro ou fazer amizade com uma escova. De um jeito ou outro, registre o animal domado como gado na lista de residentes, e está pronto.
 
-Escovar regularmente manterá os animais felizes, especialmente se monstros continuarem a incomodá-los.
+{p}
+<b>Operações Rotineiras</b>
+
+O gado dá ovos e leite às 5h todo dia; tenha um funcionário de tarefas coletando a produção nos contêineres compartilhados. Os ovos precisam de geladeira para não apodrecer, mas o leite fica bom como está.
+
+Bichas peludas são tosquiadas quando o pelo está grosso; dá para fazer antes, mas é mais eficiente esperar. Uma tesoura dura acelera o trabalho, e um tônico de crescimento de pelo abençoado aumenta a produtividade.
+
+Escovar com regularidade mantém o gado feliz, principalmente se monstros ficam hostilizando.
 
 {p}
 <b>Expansão do Negócio</b>
 
-Uma vez estabelecido, é hora de fazer seu rancho crescer. Qualquer ovo posto tem uma pequena chance de ser fertilizado, e pode eclodir em um novo bichinho. Ranchos modernos usam incubadoras elétricas para acelerar o processo, mas colocar (não largar) o ovo sobre uma cama é uma solução barata, embora demorada. Se houver uma fonte termal por perto, imergir o ovo fertilizado dará resultados idênticos aos de uma incubadora após um pouco de espera.
+Uma vez estabelecido, é hora de o rancho crescer. Todo ovo posto tem pequena chance de ser fertilizado, e pode chocar numa bicha nova. Ranchos modernos usam incubadoras motorizadas para acelerar o processo, mas colocar (não jogar) o ovo numa cama é uma solução barata, se demorada. Se houver fonte termal perto, imergir o ovo fertilizado dá resultado idêntico ao da incubadora depois de uma pequena espera.
 
-Você pode alimentar os filhotes com leite para ajudá-los a crescer e dar aos seus empregados alguma experiência valiosa em domesticação.
+Dá para alimentar o gado filhote com leite para ajudá-lo a crescer e dar aos funcionários alguma experiência de doma valiosa.
 {p}
-Dito isso, não se expanda além do que pode suportar. Animais em excesso podem ser abatidos com uma faca Sbutcher para grandes quantidades de carne e pelagem (se aplicável) — boa habilidade em anatomia rende os melhores resultados. Alternativamente, eles podem ser vendidos diretamente aos visitantes do rancho ao marcá-los para venda.
+Dito isso, não se expanda além dos meios. Gado excedente pode ser abatido com uma faca de açougue para grande quantidade de carne e pelagem (quando houver): perícia de anatomia alta dá os melhores resultados. Alternativamente, podem ser vendidos direto aos visitantes do rancho marcando-os para venda.
 
-Espero ver seu relatório anual de ganhos na minha mesa após o próximo Juremas.
+Espero ver seu relatório anual de ganhos na minha mesa depois do próximo Juremas.
 
 {p}
-<i>Apêndice: Alguns Tipos de Animais e Pelagens</i>
+<i>Apêndice: Alguns Tipos de Gado e Pelagem</i>
 
-Coelho, putit da neve: caxemira
-Putit da neve dourado: ouro
+Coelho, snow putit: cashmere
+Gold snow putit: ouro
 Peixe: escama
 Dinossauros: couro
 Porcos, ovelhas: lã
 Besouro: seda
 Aranha: seda de aranha
-Dragões, dracos: escama de dragão
+Dragões, drakes: escama de dragão
 Esqueletos: osso
 Ents: tora

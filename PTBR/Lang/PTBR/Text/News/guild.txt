@@ -1,35 +1,35 @@
-"Não somos babás de Yeeks."
-Aventureiros de Kapul, fartos dos trabalhos de extermínio de monstros, iniciaram uma greve pública hoje. O problema surge porque a Guilda dos Lutadores os sobrecarrega constantemente com a tarefa de exterminar Yeeks.
+"Não somos babás de yeek."
+Aventureiros de Kapul, cansados dos trabalhos de exterminação de monstros, iniciaram hoje uma greve pública. O problema nasce da Guilda dos Lutadores sobrecarregá-los constantemente com a tarefa de exterminar yeeks.
 @city,UN_guild_doorman_fighter,UN_guild_master_fighter
 
-Roubo de Arte em Lumiest Atribuído à Guilda dos Ladrões
-Obras de arte valiosas desapareceram de um museu local em Lumiest, deixando os moradores da cidade em desespero. O roubo, suspeito de ser obra da Guilda dos Ladrões, motivou investigações intensivas do Departamento de Segurança Pública de Palmia.
+Roubo de arte em Lumiest atribuído à Guilda dos Ladrões
+Obras de arte valiosas sumiram de um museu local em Lumiest, deixando os moradores da cidade em desespero. O roubo, suspeito de ser obra da Guilda dos Ladrões, motivou investigações intensivas do Bureau de Segurança Pública de Palmia.
 @room,UN_guild_doorman_thief,UN_conery
 
-Guilda dos Magos Anuncia Novo Feitiço de Maldição
-A Guilda dos Magos anunciou um novo "poderoso feitiço de maldição". No entanto, nenhum efeito foi observado durante a coletiva de imprensa. O comentário do mago de que "a maldição certamente se manifestará depois" enfureceu os jornalistas presentes.
+Guilda dos Magos anuncia feitiço de maldição novo
+A Guilda dos Magos anunciou um novo "feitiço de maldição poderoso". Porém, nenhum efeito foi observado na coletiva. O comentário do mago, de que "a maldição certamente cairá depois", enfureceu os jornalistas presentes.
 @labo,UN_renton
 
-Campanha de Doação de Sangue Aquece os Corações dos Aventureiros
-Uma campanha de doação de sangue foi organizada pela Guilda dos Aventureiros sob os céus gelados de Noyel. Os participantes doaram sangue com compaixão para pacientes necessitados. Pequenos putits de neve, enrolados em cachecóis, incentivavam os doadores.
+Doação de sangue comovente dos aventureiros
+Uma campanha de doação de sangue foi promovida pela Guilda dos Aventureiros sob os céus frios de Noyel. Os participantes doaram o sangue com compaixão para pacientes carentes. Snow putits enrolados em cachecóis aplaudiram os participantes.
 @snow
 
-Ruínas Místicas: Vestígios da Bruxa Eterna?
-A Guilda dos Magos descobriu indícios da "Bruxa Eterna" em ruínas antigas, acreditadas como local de feitiços cósmicos, especialmente "Meteoro". Fragmentos de equipamentos com padrões de estrelas encontrados no local empolgaram estudiosos como prova de sua existência.
+Ruínas místicas: rastros da Bruxa Eterna?
+A Guilda dos Magos descobriu rastros da "Bruxa Eterna" em ruínas antigas, tidas como o local de conjuração de magias cósmicas, especialmente "Meteoro". Fragmentos de equipamento de padrão estelar achados no local empolgam os estudiosos como evidência da existência dela.
 @ruin
 
-Documentos Antigos Revelam Segredos da Bruxa Eterna
-Textos antigos recém-traduzidos lançam luz sobre a Bruxa Eterna, descrita como tendo cabelos totalmente brancos e olhos rubinus, viajando incansavelmente através das eras, inspirando aventureiros modernos.
+Documentos antigos revelam segredos da Bruxa Eterna
+Textos antigos recém-traduzidos lançam luz sobre a Bruxa Eterna, descrita com cabelos brancos puros e olhos rubinus, seguindo a jornada sem envelhecer pelas eras, dando inspiração aos aventureiros modernos.
 @labo,UN_renton
 
-Sabedoria Divina: Leitura Rápida, Noites em Claro
-Um mago de guerra adquiriu a habilidade de ler 100 livros em uma noite com o feitiço Sabedoria Divina. No entanto, como efeito colateral, ele não consegue mais dormir, recorrendo a contar carneiros como seu novo passatempo.
+Sabedoria divina: leitura rápida, noites sem sono
+Uma maga de guerra ganhou a capacidade de ler 100 livros numa noite com o feitiço Sabedoria Divina. Porém, como efeito colateral, ela já não dorme à noite, recorrendo a contar ovelhas como hobby novo.
 @city
 
-Feitiço de Invisibilidade do Mago Sai Pela Culatra
-Um mago convidado para entreter a corte Palmiana causou uma busca generalizada após lançar um feitiço de invisibilidade no animal de estimação do Rei Zane, fazendo-o desaparecer. O mago agora acredita que teria sido mais sábio tornar apenas a coleira invisível.
+Feitiço de invisibilidade de mago dá errado
+Um mago convidado para entreter a corte palmiana causou uma busca massiva depois de conjurar invisibilidade no bichinho do rei Zane, fazendo-o sumir. O mago agora acha que teria sido mais esperto tornar só a coleira invisível.
 @royal,UN_zane
 
-O Gato Sábio: Uma Jornada Felina Pelo Conhecimento
-Após ser encantado com o feitiço "Sabedoria Divina" por seu dono, um gato tornou-se excessivamente inteligente e fugiu de casa. Ele foi visto imerso em livros de filosofia na biblioteca local.
+O gato sábio: a busca felina por conhecimento
+Depois de ser enfeitado com um feitiço de "Sabedoria Divina" pelo dono, um gato ficou inteligente demais e saiu de casa. Ele já foi visto absorvido em livros de filosofia na biblioteca local.
 @room

@@ -1,9 +1,9 @@
-Semanário do Aventureiro #14: Súcubos,Editor-Chefe Hans,10,1
+Jornal do Aventureiro nº 14: Súcubos,Editor-Chefe Hans,10,1
 
-<i>Bem-vindo ao Semanário do Aventureiro, onde cobrimos tópicos próximos e queridos aos seus corações corajosos. </i>
+<i>Bem-vindo ao Jornal do Aventureiro, onde cobrimos temas próximos e queridos aos seus corações valentes. </i>
 
 
-A edição desta semana é patrocinada pela guarda da cidade de Palmia.
+A edição desta semana tem o patrocínio da guarda municipal de Palmia.
 
 {p}
 Sombrias!
@@ -12,45 +12,45 @@ Misteriosas!
 
 Sedutoras!
 
-Sim, súcubos existem. No entanto, suas habilidades são muito exageradas por aventureiros se gabando de encontros com esses "parentes do luar", e cabe à nossa revista corrigir esses equívocos.
+Sim, súcubos existem. Porém, as habilidades delas são muito exageradas por aventureiros se gabando de encontros com esses "parentes do luar", e cabe à nossa revista corrigir esses equívocos.
 
-Súcubos podem não parecer diferentes de você e eu, mas quando a escuridão cai, elas saem rastejando pela noite em busca de vítimas adormecidas e travessuras!
+Súcubos podem parecer iguais a você e a mim, mas quando anoitece saem à caça noturna de vítimas adormecidas e travessuras!
 
-Essa é a única coisa que os rumores acertam.
+É a única coisa que os rumores acertam.
 {p}
 
 <b>Habilidades</b>
 
-A habilidade da súcubo de criar larvas do sonho é bem documentada: esses insetos podem ser colocados em comida para drogar uma vítima fazendo-a gostar da súcubo como uma poção do amor. Eles também podem ser escondidos no inventário de uma vítima para compeli-la a procurar a súcubo para travessuras quando a súcubo dorme.
+A capacidade das súcubos de criar larvas de sonho é bem documentada: esses insetos podem ser misturados em comida para drogar a vítima e fazê-la gostar da súcubo como se fosse uma poção do amor. Também podem ser escondidas no inventário da vítima para forçá-la a procurar a súcubo por travessuras quando a súcubo dorme.
 
-Ironicamente, súcubos jovens frequentemente se excedem com muitas vítimas, levando à morte por exaustão. Por outro lado, súcubos experientes ignoram a necessidade de vítimas adormecidas e empregam diretamente larvas do sonho em suas travessuras contra aqueles que elas restringiram.
+Ironicamente, súcubas jovens costumam se estender demais com vítimas demais, levando à morte por exaustão. Em contrapartida, súcubas experientes dispensam vítimas dormindo e empregam diretamente as larvas de sonho em suas travessuras contra as que já imobilizaram.
 {p}
-Súcubos têm outra característica notável: aventureiros concordam que súcubos crescem com travessuras, mas não como, levando a muita especulação selvagem. Após consultar a guarda da cidade e a Guilda dos Magos, nossa revista pode confirmar que histórias de dreno de nível e tais são nada mais que fantasias eróticas de aventureiros.
+Súcubos têm outro traço notável: os aventureiros concordam que súcubas crescem com as travessuras, mas não sabem como, gerando muita especulação. Depois de consultar a guarda municipal e a Guilda dos Magos, nossa revista pode confirmar que histórias de dreno de nível e afins não passam de fantasias eróticas de aventureiros.
 
-O que <b>realmente</b> acontece durante travessuras é que a súcubo compara seus atributos base contra os de sua vítima; o atributo base mais alto da vítima acima do da súcubo é aquele em que ela ganha potencial. O custo de stamina é baseado na diferença da resistência máxima de ambas as partes.
+O que <b>acontece</b> durante a travessura é que a súcubo compara seus atributos base aos da vítima; o maior atributo base da vítima acima do da súcubo é em que ela ganha potencial. O custo de vigor se baseia na diferença de resistência máxima das duas partes.
 {p}
-Resumindo, quanto mais forte a vítima, mais a súcubo se beneficia, mas também se cansa mais rapidamente; súcubos têm que procurar vítimas cada vez mais fortes para continuar aprimorando seus atributos e não ganham benefício de vítimas mais fracas.
+Em resumo, quanto mais forte a vítima, mais a súcubo se beneficia, mas também cansa mais rápido; súcubas precisam buscar vítimas cada vez mais fortes para continuar lapidando os atributos e não ganham nada de vítimas fracas.
 
-Isso é tudo. Ao contrário da crença popular, súcubos não ganham experiência extra de atributo além do que travessuras normalmente dariam!
+É isso. Ao contrário do que se diz, súcubas NÃO ganham experiência de atributo extra além do que a travessura normalmente rende!
 
-Uma nota final: embora súcubos sejam imunes a doenças de travessuras, elas podem espalhá-las, então tenha cuidado!
+Uma última nota: embora súcubas sejam imunes a doenças da travessura, podem espalhá-las, então cuidado!
 {p}
 <b>Proteção</b>
 
-Parentes do luar são uma ameaça social: elas gostam de grandes cidades, onde se misturam entre os cidadãos e procuram vítimas. Seja invadindo casas, dominando a vontade de outros, ou espalhando doenças descuidadamente, elas se recusam a ser convencidas e persistem descaradamente em seus crimes. Aqui estão algumas dicas úteis para se proteger:
+Parentes do luar são uma ameaça social: gostam de cidades grandes, onde se misturam entre os cidadãos e buscam vítimas. Seja invadindo casas, dominando a vontade alheia ou espalhando doenças por descuido, recusam-se a ser razoados e persistem sem vergonha nos crimes. Aqui vão dicas úteis para se proteger:
 
-*Não aceite comida de estranhos. Isso é importante!
+*Não aceite comida de estranhos. Isto é importante!
 
 *Equipamento de diamante oferece alguma proteção contra travessuras.
 
-*Súcubos favorecem roupas de freiras como disfarces, então proibir a entrada de madres pode ajudar.
+*Súcubas preferem trajes de freira como disfarce, então proibir a entrada de madres pode ajudar.
 
-*Coloque um travesseiro estranho no seu quarto — um amuleto rúnico tradicional contra súcubos rastejantes noturnos. Só funciona se estiver do lado certo para cima.
+*Coloque uma almofada estranha no quarto: um ward rúnico tradicional contra súcubas noturnas. Só funciona se estiver do lado certo para cima.
 {p}
-Se você encontrar atividade de súcubos ou conhecer alguém que possa ter sido dominado com larvas do sonho, por favor faça um relatório com a guarda da cidade.
+Se encontrar atividade de súcubos ou souber de alguém que possa ter sido dominado com larvas de sonho, faça um relatório com a guarda municipal.
 
-Enquanto muitos consideram as pegadinhas dos parentes do luar inofensivas e podem até procurá-las para atividades prazerosas, seu comportamento desenfreado é uma ameaça à saúde pública e ordem.
+Embora muitos considerem as brincadeiras dos parentes do luar inofensivas e até as procurem para atividades prazerosas, o comportamento descontrolado delas é uma ameaça à saúde e ordem públicas.
 
 ***
 
-<i>- Na próxima edição, vamos investigar diferentes estilos de equipamento!</i>
+<i>- Na próxima edição, investigaremos diferentes estilos de equipamento!</i>

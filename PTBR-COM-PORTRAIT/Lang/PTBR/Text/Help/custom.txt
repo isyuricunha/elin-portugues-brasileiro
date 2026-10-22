@@ -4,59 +4,77 @@ $1
 
 $map
 {topic, O que são Mapas Personalizados?}
-Mapas personalizados são mapas que os jogadores criam e publicam. Ao utilizar itens como o Portão Lunar, você pode visitar mapas personalizados enviados por outros jogadores.
+Mapas personalizados são mapas que os jogadores criam e publicam. Usando itens como o Portão da Lua, você pode visitar mapas personalizados publicados por outros jogadores.
 
-Como os Mapas Personalizados estão atualmente em fase de testes, espere muitas mudanças e adições a este recurso. Portanto, esteja ciente de que mapas de diferentes versões do jogo podem perder a compatibilidade.
+Como os Mapas Personalizados estão numa fase de testes, espere muitas mudanças e adições a esta função. Por isso, saiba que mapas de versões diferentes do jogo podem perder compatibilidade.
 
-{topic, Enviando Mapas Personalizados}
-Ao usar a "pedra de lar" em um mapa que você possui, aparecerá um enviador dedicado dentro do jogo. Ao concordar com os termos de uso e selecionar "Enviar", você pode disponibilizar seu mapa atual para todos os jogadores online. Se você escolher "Salvar Localmente", o mapa será salvo na pasta "Elin/User/Map".
+{topic, Publicando Mapas Personalizados}
+Usar a "pedra de lar" num mapa seu abre um publicador dedicado dentro do jogo. Concordando com os termos de uso e selecionando "Publicar", você torna o mapa atual disponível a todos os jogadores online. Se escolher "Salvar Local", o mapa será salvo na pasta "Elin/User/Map".
 
-Mapas enviados são visitados aleatoriamente por jogadores utilizando o Portão Lunar. Se houver texturas de "Substituição no Mapa" em seu mapa, elas também são enviadas simultaneamente, permitindo que sejam exibidas quando outros jogadores visitam o mapa.
+Mapas publicados são visitados aleatoriamente por jogadores usando o Portão da Lua. Se houver texturas de "Substituição no Mapa" no seu mapa, elas também são publicadas ao mesmo tempo, permitindo que sejam exibidas quando outros jogadores visitarem o mapa.
 
-{topic, Especificações do Enviador}
-* No momento, os jogadores não podem excluir mapas que enviaram (este recurso está planejado para uma atualização futura).
+{topic, Especificações do Publicador}
+* No momento, os jogadores não podem apagar mapas que publicaram (esta função está planejada para uma atualização futura).
 
-* Os mapas serão automaticamente excluídos a partir da data de envio mais antiga.
+* Mapas serão apagados automaticamente começando pela data de publicação mais antiga.
 
-* Se você enviar um mapa com o mesmo ID de um já presente no enviador, o mapa existente será atualizado e a data de envio será renovada.
+* Se você publicar um mapa com o mesmo ID de um já no publicador, o mapa existente será atualizado, e a data de publicação será renovada.
 
-* Há um limite máximo para o tamanho dos mapas que você pode enviar.
+* Há um limite superior para o tamanho dos mapas que você pode publicar.
 
 
 $replace
 {topic, Visualizador de Texturas}
-Ao utilizar o Visualizador de Texturas do jogo, você pode substituir imagens facilmente. Abra o Visualizador de Texturas a partir das ferramentas do menu do sistema, clique na imagem que deseja substituir e selecione "Criar Substituição". A imagem substituída será gerada na pasta "Elin/User/Texture Replace".
+Usando o Visualizador de Texturas do jogo, você troca imagens com facilidade. Abra o Visualizador de Texturas pelas ferramentas do menu do sistema, clique na imagem que quer trocar e selecione "Criar Substituição". A imagem de substituição será gerada na pasta "Elin/User/Texture Replace".
 
-Imagens substituídas são exibidas com um fundo verde, e você pode iniciar o aplicativo associado à imagem clicando em "Abrir". Você também pode excluir a imagem substituída selecionando "Excluir".
+As imagens trocadas são exibidas com fundo verde, e você pode abrir o aplicativo associado à imagem clicando em "Abrir". Você também pode apagar a imagem de substituição selecionando "Apagar".
 
 {topic, Substituições no Mapa}
-No Visualizador de Texturas, você também pode criar "Substituição no Mapa". Estas são imagens de substituição que se aplicam apenas ao mapa em que você está, tendo prioridade sobre as imagens de substituição regulares e as substituídas por mods. Observe que as substituições no mapa são válidas apenas nos dados salvos do mundo em que você está jogando atualmente.
+Pelo Visualizador de Texturas, você também pode criar "Substituição no Mapa". Estas são imagens de substituição que se aplicam só ao mapa em que você está, e têm prioridade sobre imagens de substituição regulares e as trocadas por mods. Note que as substituições no mapa só valem nos dados de salvamento do mundo em que você está jogando.
 
-Quando você envia um mapa com imagens de substituição no mapa, elas também são enviadas e serão exibidas para outros jogadores.
+Quando você publica um mapa com imagens de substituição no mapa, elas também são publicadas e serão exibidas a outros jogadores.
 
-{topic, Arrastar & Soltar para substituir}
-Você pode adicionar imagens de substituição criadas por outros jogadores ao jogo arrastando e soltando os arquivos diretamente na tela do jogo. Se desejar adicioná-las manualmente, por favor, coloque os arquivos de imagem na pasta "Elin/User/Texture Replace".
+{topic, Arrastar e soltar para trocar}
+Você pode adicionar imagens de substituição criadas por outros jogadores ao jogo arrastando e soltando os arquivos direto na tela do jogo. Se quiser adicioná-las manualmente, ponha os arquivos de imagem na pasta "Elin/User/Texture Replace".
 
 
 $terms
-{topic, Enviador no Jogo - Termos de Uso}
-A seguir, o termo "usuário" refere-se às pessoas que utilizam o enviador no jogo, enquanto "conteúdo gerado pelo usuário" refere-se aos mapas, mods ou outros conteúdos criados pelos usuários e compartilhados através do enviador.
+{topic,Publicador do Jogo - Termos de Uso}
+Abaixo, o termo "usuário" refere-se a indivíduos que usam o publicador do jogo, enquanto "conteúdo gerado pelo usuário" refere-se a mapas, mods ou outro conteúdo criado por usuários e compartilhado pelo publicador.
 
-1. Todo o conteúdo gerado pelo usuário está sujeito à remoção sem aviso prévio se contiver material que viole a ordem pública e os bons costumes, for malicioso ou se desviar significativamente do cenário do mundo do jogo.
+1. Todo conteúdo gerado pelo usuário está sujeito a remoção sem aviso se contiver conteúdo que viole a ordem pública e os bons costumes, seja malicioso, ou desvie significativamente do cenário do mundo do jogo.
 
-2. O usuário que publica o conteúdo gerado pelo usuário é o único responsável por sua divulgação e por quaisquer consequências decorrentes do download do conteúdo por terceiros através do enviador. Se o conteúdo enviado contiver programas maliciosos (como vírus ou malware), violar a ordem pública e os bons costumes ou incluir elementos nocivos que causem danos a terceiros, à Lafrontier ou à noa, o usuário em questão arcará com total responsabilidade por eventuais compensações. Lafrontier e noa reservam-se o direito de excluir tal conteúdo sem aviso prévio e de tomar as medidas legais necessárias.
+2. O usuário que publica conteúdo gerado pelo usuário responde sozinho pela divulgação dele e por quaisquer consequências decorrentes de terceiros baixarem o conteúdo pelo publicador. Se o conteúdo publicado contiver programas maliciosos (como vírus ou malware), violar a ordem pública e os bons costumes, ou incluir elementos nocivos que causem dano a terceiros, à Lafrontier ou à noa, o usuário em questão arcará com integral responsabilidade de indenização. A Lafrontier e a noa reservam-se o direito de apagar tal conteúdo sem aviso e de tomar medidas legais, se necessário.
 
-Tenha estes pontos em mente e deixe sua criatividade brilhar! Seguindo as regras e exercitando o bom senso, podemos criar uma comunidade divertida e segura onde cada jogador pode compartilhar e desfrutar de uma experiência de jogo incrível.
+Tenham estes pontos em mente e deixem a criatividade brilhar! Seguindo as regras e usando o bom senso, podemos criar uma comunidade divertida e segura, em que todo jogador pode compartilhar e desfrutar uma experiência de jogo incrível.
 
-Se você optar por usar o enviador no jogo, por favor, concorde com os termos de uso acima.
+Se você escolher usar o publicador do jogo, concorde com os termos de uso acima.
 
 $terms2
 {topic,Conteúdo Gerado pelo Usuário - Termos de Uso}
 
-O termo "Conteúdo Gerado pelo Usuário" (doravante referido como "Conteúdo") abrange mapas criados pelos usuários baixados via Portões Lunares no jogo, mods publicados no Steam Workshop e outros conteúdos semelhantes criados por terceiros não relacionados à Lafrontier. As pessoas que utilizam esse Conteúdo são denominadas "Usuários."
+O termo "Conteúdo Gerado pelo Usuário" (doravante "Conteúdo") abrange mapas criados por usuários baixados via Portões da Lua do jogo, mods publicados na Oficina Steam, e outro conteúdo similar criado por terceiros sem relação com a Lafrontier. Indivíduos que utilizam este Conteúdo são referidos como "Usuários".
 
-1. Os Usuários assumem total responsabilidade pelo uso do Conteúdo Gerado pelo Usuário. Lafrontier e noa não se responsabilizam por quaisquer danos, perda de dados, erros de sistema ou outros problemas decorrentes do uso de tal Conteúdo.
+1. Os Usuários assumem total responsabilidade pelo uso do Conteúdo Gerado pelo Usuário. A Lafrontier e a noa não respondem por danos, perda de dados, erros de sistema ou outros problemas decorrentes do uso de tal Conteúdo.
 
-2. O Conteúdo Gerado pelo Usuário não possui garantia oficial de funcionamento e pode não operar como esperado, dependendo da versão do jogo ou do ambiente do sistema. Além disso, instalar ou desinstalar mods pode resultar em dados de jogo corrompidos ou problemas de funcionalidade. Observe que o Conteúdo Gerado pelo Usuário geralmente não conta com suporte ou assistência oficiais.
+2. O Conteúdo Gerado pelo Usuário não tem garantia oficial de funcionamento e pode não operar como pretendido, dependendo da versão do jogo ou do ambiente do sistema. Além disso, instalar ou desinstalar mods pode resultar em dados do jogo corrompidos ou problemas de funcionamento. Note que o Conteúdo Gerado pelo Usuário, em geral, não é coberto por suporte ou assistência oficiais.
 
-Se você optar por utilizar o Conteúdo Gerado pelo Usuário, por favor, concorde com os termos de uso acima.
+Se você escolher usar Conteúdo Gerado pelo Usuário, concorde com os termos de uso acima.
+
+$terms3
+{topic,Diretrizes de Criação de Mods}
+Mods de Elin podem ser criados, publicados e distribuídos livremente, para fins comerciais e não comerciais. Você não precisa entrar em contato nem obter permissão do desenvolvedor. Também não há restrições ao uso de IA.
+
+Ao publicar um mod na Oficina Steam do Elin, siga as diretrizes abaixo.
+
+1. Não publique mods que violem os Termos de Serviço da Oficina Steam.
+
+2. Conteúdo que promove atividades ilegais ou discriminação é proibido.
+
+3. Ofuscar o código-fonte de um mod é proibido, pois dificulta verificar o que o mod faz.
+
+4. Coletar ou transmitir informação que identifique um jogador, ou outra informação pessoal, sem o consentimento explícito dele é proibido.
+
+Mods que não cumpram estas diretrizes podem ser removidos da Oficina Steam do Elin sem aviso prévio ou contato do desenvolvedor.
+
+Por fim, ao instalar mods, revise o conteúdo e a segurança deles e use por sua conta e risco.

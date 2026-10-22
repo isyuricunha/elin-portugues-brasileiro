@@ -1,0 +1,42 @@
+Jornal do Aventureiro nº 24: Engenharia Genética,Correspondente de Aqui Teola Dra. Mossman,10,1
+
+<i>Bem-vindo ao Jornal do Aventureiro, onde cobrimos temas próximos e queridos aos seus corações valentes.</i>
+
+
+De Aqui Teola, trago as últimas notícias em ciência e tecnologia: nesta semana, cubro uma nova moda entre aventureiros: engenharia genética.
+
+Esses bravos enfrentam perigo todo dia e precisam de toda vantagem possível; cada vez mais recorrem à ciência para ter a vantagem. A lenda diz que nosso conhecimento de engenharia genética é só uma minúscula fração sobrevivente da bioquímica avançada de Rem-Ido; mas isso é assunto para historiadores.
+{p}
+Assimilando genes estranhos, aventureiros expandem habilidades, aprendem dotes novos e até cultivam membros novos! Embora haja preocupações sobre a segurança da engenharia genética, permitam-me garantir aos leitores que tal tecnologia disponível ao público é bem testada, e quaisquer mudanças são <i>quase</i> reversíveis.
+
+
+Os fundamentos desta ciência podem ser expressos em poucos conceitos:
+
+<b>Slots de gene : </b> quanto a composição genética de um organismo pode ser alterada com segurança antes de haver risco de irreversibilidade e doenças genéticas. Determinado principalmente pela espécie, com variabilidade individual. Nem todo gene ocupa um slot: genes mais poderosos exigem múltiplos slots para compensar a perturbação na estrutura genética do organismo.
+{p}
+Por um motivo ou outro, certas espécies são particularmente aptas à alteração genética: podem ter mais slots de gene, ou acomodar genes poderosos em menos slots.
+
+<b>Pontos de dote (FP) : </b> para acomodar genes fortes, precisa de corpo e mente fortes. Só aventureiros experientes conseguem usar genes mais poderosos.
+
+Além disso, para se aventurar na engenharia genética, exige-se:
+
+<b>Uma máquina de genes : </b> Não é fácil de achar: é tecnologia avançada com consumo considerável de energia. Mas automatiza muitos processos, permitindo até amadores realizar engenharia genética complexa.
+{p}
+<b>Material genético : </b> Aventureiros normalmente obtêm matando monstros, especialmente criaturas evoluídas. Feitiços como lança ou flecha da noite do luar ajudam na coleta, mas o jeito mais confiável é arremessar uma poção de gene no alvo. Há outros jeitos de adquirir genes, mas considero pouco confiáveis para valer a menção.
+
+Genes vêm em três graus: superior, que sempre tem pelo menos um dote, habilidade ou parte do corpo; normal, que tem no máximo um; e inferior, usado para desfazer alteração. Genes inferiores também podem ser criados moendo dois genes num moinho de pedra.
+
+Há também genes de célula cerebral que funcionam diferente: não ocupam slots de gene e em vez disso alteram o comportamento do organismo. Não ocorrem naturalmente e precisam ser sintetizados.
+
+{p}
+No fim das contas, pôr essa ciência em prática é simples: garanta que o sujeito tenha FP e slots de gene suficientes, insira o sujeito e o gene na máquina, e ela faz o resto. O tempo de síntese depende do custo em FP do gene; pode ser acelerado com seringas de solvente de éter. Infelizmente, como as máquinas de genes públicas precisam ser iniciadas manualmente, não dá para editar os próprios genes por ora.
+
+Garanta que a máquina de genes esteja energizada e sem perturbação durante a síntese: qualquer interrupção anula todo o progresso. O sujeito é ejetado automaticamente da máquina quando o processo termina.
+
+Usar um gene inferior segue processo similar. Depois, o gene a remover deve ser selecionado: os custos em FP são devolvidos, mas o gene não.
+{p}
+Aventureiros melhoram perícias, habilidades, equipamento e mais: naturalmente, o próximo passo é melhorar a si mesmo no nível mais fundamental. A engenharia genética oferece uma dimensão totalmente nova de como a ciência pode ajudar os aventureiros!
+
+***
+
+<i>- Na edição da próxima semana, veremos técnicas avançadas de agricultura!</i>

@@ -1,46 +1,59 @@
-Revista do Aventureiro - Edição 2 《A Liberação do Potencial Oculto》, Editor-chefe: Hans,10,1
+Jornal do Aventureiro nº 2: Desperte Seu Potencial,Editor-Chefe Hans,10,1
 
-<i>Bem-vindo à 『Revista do Aventureiro』. Todas as semanas traremos para vocês, aventureiros, temas de tirar o fôlego!</i>
+<i>Bem-vindo ao Jornal do Aventureiro, onde cobrimos temas próximos e queridos aos seus corações valentes.</i>
 
 
-O tema desta semana é um dos fatores mais importantes que afetam a velocidade de crescimento: o 「Potencial Oculto」.
+Esta edição apresenta o conceito de potencial e como ele afeta você.
 
-Com certeza você já passou por isso: acumula experiência, mas suas habilidades e atributos não evoluem… Quando isso acontece, geralmente é porque você negligenciou a gestão do seu potencial.
+Já sentiu que está progredindo devagar numa perícia ou atributo não importa quanto treine? Provavelmente é potencial negligenciado.
+
+Simplificando, potencial é a rapidez com que se melhora; um aventureiro com 200 de potencial avança duas vezes mais rápido que um com 100. Isso significa metade do tempo e do esforço!
 {p}
-Em termos simples, o potencial representa a 「velocidade de progresso das habilidades e atributos principais」.  
-Se o potencial for de 200%, em comparação a 100%, você precisará de apenas metade do tempo e esforço para crescer.
+<b>Tipos de Potencial</b>
 
-■ Tipos de Potencial  
-O potencial é dividido em 「Potencial Básico」 e 「Potencial Temporário」.  
+Perícias e atributos têm duas formas de potencial: base e temporário.
 
-O Potencial Básico é o talento inato, raramente mudando sem circunstâncias especiais.  
+O potencial base é seu talento inato para algo, e só muda em circunstâncias especiais.
 
-O Potencial Temporário varia de acordo com treinamentos, alimentação e outras ações, acompanhando mudanças em habilidades e atributos. Ele pode até mesmo se tornar negativo.  
+O potencial temporário vem por cima: sempre que você avança em algo, o potencial temporário disso cai. Você pode ter potencial temporário negativo se, por exemplo, comer comida com penalidade de potencial.
 
-A soma dos dois valores define a velocidade real do crescimento.  
+A soma dos potenciais base e temporário define a rapidez com que você avança perícias e atributos.
+{p}
+<b>Gerenciando o Potencial</b>
+
+Ganhe potencial de perícia visitando treinadores e pagando moedas de platina; cada sessão aumenta o potencial temporário de uma perícia escolhida em pouco. Comer comida com os traços relevantes dá potencial temporário de atributo.
+
+Seus aliados também têm potencial: dar orens a eles para gastar em treinos nas cidades sobe os potenciais de perícia, e eles também ganham potencial de atributo com comida.
+
+Sabendo disso tudo, como as pessoas desperdiçam o potencial?
 
 {p}
-■ Manutenção e Gestão do Potencial  
-O potencial das habilidades pode ser aumentado em cidades, pagando moedas brancas a treinadores.  
-Já o potencial dos atributos principais pode ser elevado através da alimentação.  
+Manter o potencial se divide entre duas necessidades opostas: de um lado, potencial alto significa progresso mais rápido. Do outro, treinar fica cada vez mais caro com mais potencial temporário, e mais dele se perde ao subir de perícia.
 
-O mesmo vale para os companheiros. Se der ouro a eles nas cidades, aumentará o potencial de suas habilidades; ao alimentá-los, aumentará o potencial de seus atributos.  
+Da mesma forma, quanto mais potencial de atributo a pessoa já tem, mais difícil obter mais. Portanto, é preciso equilibrar o progresso com ganhar potencial.
 
-A questão é: quanto potencial manter? Em altos valores, o crescimento acelera bastante, mas também consome o potencial mais rapidamente, elevando o custo necessário para continuar evoluindo. Por isso, dominar o equilíbrio entre crescimento e consumo de potencial é essencial.  
+
+<b>Como e o Que Treinar</b>
+
+Depois de várias entrevistas com aventureiros, o consenso geral é que:
+
+*Perícias de combate devem ser treinadas. Até magos se beneficiam de perícias defensivas.
+{p}
+*Perícias que exigem recursos adicionais, como as de fabricação, devem ser treinadas. Em contrapartida, perícias fáceis de praticar, como música, não devem ser treinadas.
+
+*Perícias de benefício limitado, como avaliação, não devem ser treinadas depois desse ponto.
+
+*Uma boa régua para o potencial equilibrado de perícia fica em torno de 200%.
+
+Estas são só diretrizes: considere a sua situação individual e gaste suas moedas de platina com sabedoria.
 
 {p}
-■ O que treinar primeiro  
-De acordo com a maioria dos aventureiros:  
+<b>Notas Finais</b>
 
-・Habilidades de combate são indispensáveis. Para magos, habilidades defensivas também são muito úteis.  
+Como o custo de treinar sobe, os aventureiros devem buscar não só mais renda de platina, mas usar melhor o potencial. Como o potencial cai quando as perícias sobem, o ideal é treinar logo em seguida para aproveitar ao máximo.
 
-・Habilidades que geram recursos (como Forja ou Alquimia) também merecem investimento. Já habilidades que podem ser praticadas constantemente, como Música, não precisam de tanto foco.  
+Com um gerenciamento cuidadoso do potencial, aventureiros espertos otimizam a progressão em vez de bater em gargalos de desenvolvimento.
 
-・Habilidades com limite de efeito baixo (como Identificação) devem ser interrompidas ao atingir certo ponto.  
+***
 
-・Manter o potencial das habilidades em torno de 200% costuma ser o mais eficiente.  
-
-Depois de evoluir um pouco, aumente novamente o potencial e continue crescendo com eficiência. Aqueles que sabem administrar seu potencial são os que descobrem o verdadeiro segredo do desenvolvimento!  
-
-
-<i>- Na próxima edição exploraremos em profundidade o tema da 「Sorte」.</i>
+<i>- Na edição da próxima semana, falaremos de sorte: o que significa ser sortudo e como isso pode beneficiar aventureiros como você.</i>

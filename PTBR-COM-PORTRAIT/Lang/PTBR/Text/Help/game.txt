@@ -1,218 +1,219 @@
 $attribute
 {topic,Atributos Primários}
-Os seguintes atributos são conhecidos como atributos primários, e influenciam várias ações que você realiza. Os atributos primários podem ser aumentados utilizando habilidades relacionadas ou consumindo certos alimentos.
+Os atributos a seguir são chamados de atributos primários, e eles influenciam várias ações que você toma. Atributos primários podem ser aumentados usando perícias relacionadas ou consumindo certos alimentos.
 {pair|Força|Afeta o HP máximo, ataques corpo a corpo e capacidade de carga.}
 {pair|Resistência|Afeta o HP máximo e a capacidade de carga.}
 {pair|Destreza|Afeta ataques corpo a corpo, ataques à distância e defesa.}
-{pair|Percepção|Afeta a potência mágica, ataques corpo a corpo e ataques à distância.}
-{pair|Aprendizagem|Afeta a potência mágica e o MP máximo.}
-{pair|Força de Vontade|Afeta a potência mágica, o HP máximo e o MP máximo.}
-{pair|Magia|Afeta a potência mágica e o MP máximo.}
-{pair|Carisma|Afeta o número de companheiros, a negociação de bens e os investimentos.}
+{pair|Percepção|Afeta o poder mágico, ataques corpo a corpo e ataques à distância.}
+{pair|Aprendizado|Afeta o poder mágico e o MP máximo.}
+{pair|Vontade|Afeta o poder mágico, o HP máximo e o MP máximo.}
+{pair|Magia|Afeta o poder mágico e o MP máximo.}
+{pair|Carisma|Afeta o número de companheiros, a negociação de mercadorias e os investimentos.}
 
 {topic,Outros Atributos}
 {pair|HP|Sua saúde restante. Se cair abaixo de zero, você morre.}
-{pair|MP|Sua energia mágica restante. Se cair abaixo de zero, você sofrerá dano devido ao refluxo de mana.}
-{pair|SP|Sua estamina restante. Se cair abaixo de zero, você sofrerá dano. A estamina não se recupera naturalmente e requer sono para ser reposta. Seu valor máximo é determinado pela soma de todas as habilidades.}
-{pair|DV|Valor de Esquiva que representa sua capacidade de evasão. Valores mais altos facilitam evitar ataques inimigos.}
-{pair|PV|Valor de Proteção que representa sua capacidade defensiva. Valores mais altos reduzem o dano dos ataques inimigos.}
-{pair|Sorte|Sua força de sorte. Valores mais altos resultam em melhores resultados em testes baseados em dados.}
-{pair|Velocidade|Sua velocidade de ação. Valores mais altos resultam em turnos mais rápidos.}
+{pair|MP|Sua energia mágica restante. Cair abaixo de zero causa dano por contra-choque de mana.}
+{pair|Vigor|Seu vigor restante. Cair abaixo de zero causa dano. O vigor não recupera naturalmente e precisa de sono para repor. O valor máximo é determinado pela soma de todas as perícias.}
+{pair|ED|Valor de Esquiva que representa sua capacidade de desvio. Valores maiores facilitam esquivar de ataques inimigos.}
+{pair|VP|Valor de Proteção que representa sua capacidade de defesa. Valores maiores reduzem o dano dos ataques inimigos.}
+{pair|Sorte|A força da sua sorte. Valores maiores rendem resultados melhores em testes com dados.}
+{pair|Velocidade|Sua velocidade de ação. Valores maiores resultam em turnos mais rápidos.}
 
 {topic,Atributos Especiais}
-{pair|Evasão Perfeita|Isso lhe dá uma chance de % para evitar completamente ataques físicos.}
-{pair|Redução de Dano Físico|Isso reduz o dano físico em %.}
-{pair|Redução de Dano Elemental|Isso reduz o dano não físico em %.}
+{pair|Esquiva Perfeita|Dá a você % de chance de desviar completamente de ataques físicos.}
+{pair|Redução de Dano Físico|Reduz o dano físico em %.}
+{pair|Redução de Dano Elemental|Reduz o dano não físico em %.}
 
-{topic,Habilidades}
-As habilidades influenciam o sucesso e a eficácia das suas ações. Muitas habilidades são passivas e melhoram automaticamente através de ações como combate, conjuração de feitiços ou criação de itens.
+{topic,Perícias}
+As perícias influenciam o sucesso e a eficácia das suas ações. Muitas perícias são passivas e melhoram automaticamente por ações como combate, conjuração ou fabricação.
 
-Habilidades podem ser aprendidas ou treinadas por instrutores localizados em várias cidades.
+Perícias podem ser aprendidas ou treinadas com treinadores espalhados pelas cidades.
 
 {topic,Potencial}
-Atributos primários e habilidades possuem potenciais latentes, onde potenciais mais altos levam a um crescimento mais rápido das habilidades e competências.
+Atributos primários e perícias possuem potenciais latentes: potenciais mais altos levam a um crescimento mais rápido de habilidades e perícias.
 
-O potencial inclui potenciais base e bônus temporários. Bônus temporários podem ser facilmente aumentados através de ações como comer ou treinar, mas diminuem conforme as habilidades melhoram. Os potenciais base são determinados pelos atributos iniciais e pelos valores das habilidades quando os aventureiros são criados.
+Os potenciais incluem potenciais base e bônus temporários. Os bônus temporários sobem fácil por ações como comer ou treinar, mas caem conforme as habilidades melhoram. Os potenciais base são definidos pelos atributos iniciais e pelos valores de perícia quando aventureiros são criados.
 
 $condition
 {topic,Condições}
-Neste mundo, existem diversos estados que vão desde inofensivos até letais, incluindo diferentes enfermidades. Muitas condições prejudiciais se acumulam a cada ataque de enfermidade infligido, intensificando seus efeitos e prolongando o tempo de recuperação. A maioria das condições pode ser aliviada com o passar do tempo ou realizando ações de recuperação.
+Neste mundo, existem vários estados, de inofensivos a letais, incluindo diversas enfermidades. Muitas condições ruins se acumulam a cada ataque de enfermidade recebido, intensificando os efeitos e alongando a recuperação. A maioria das condições pode ser aliviada com o passar do tempo ou com ações de recuperação.
 
-Além disso, ao visitar curandeiros em cidades importantes e pagar uma taxa, quase todas as condições podem ser tratadas.
+Além disso, visitando curandeiros nas grandes cidades e pagando uma taxa, quase todas as condições podem ser tratadas.
 
-{topic,Debilitação}
-Certas ações inimigas podem reduzir temporariamente seus atributos. Embora essas reduções sejam temporárias, elas não se recuperam naturalmente com o tempo ou durante o sono, sendo necessário consumir poções para restaurar os atributos ou buscar tratamento com curandeiros em várias cidades.
+{topic,Enfraquecimento}
+Certas ações inimigas podem reduzir seus atributos temporariamente. Embora as reduções sejam temporárias, elas não voltam ao natural com o tempo nem com sono: é preciso consumir poções para restaurar atributos ou buscar tratamento com curandeiros nas cidades.
 
-{topic,Problemas Comuns e Soluções}
-A seguir, breves explicações sobre condições ruins típicas e seus remédios:
+{topic,Condições Ruins Comuns e Remédios}
+A seguir, explicações breves das condições ruins típicas e dos remédios delas:
 
-<color=#882222>Cansaço e exaustão</color>
-A fadiga se instala quando a estamina cai abaixo de um certo limiar, piorando à medida que a estamina diminui. A fadiga resulta em velocidade reduzida, e uma vez que progride para exaustão, a recuperação natural de HP e MP é desativada, e ações que consomem estamina causam dano. A fadiga pode ser aliviada dormindo (para repor a estamina).
+<color=#882222>Fadiga, Exaustão</color>
+A fadiga aparece quando o vigor cai abaixo de certo limite e piora conforme o vigor diminui. A fadiga reduz a velocidade e, quando avança para exaustão, a recuperação natural de HP e MP é desativada e ações que gastam vigor causam dano. A fadiga pode ser aliviada dormindo (para repor o vigor).
 
 <color=#882222>Sonolência</color>
-A sonolência se acumula gradualmente enquanto se está acordado e pode ser aliviada dormindo. A sonolência severa leva a uma velocidade reduzida.
+A sonolência se acumula aos poucos enquanto você está acordado e pode ser aliviada dormindo. Sonolência severa reduz a velocidade.
 
 <color=#882222>Fome</color>
-A fome aumenta continuamente, exceto durante as refeições. Ao ficar faminto, ações sofrem dano, eventualmente levando à morte. Além disso, a fome desativa a recuperação natural de HP e MP. A fome pode ser aliviada comendo.
+A fome aumenta continuamente, exceto durante as refeições. Em estado de inanição, as ações causam dano e, no fim, a morte. Além disso, a inanição desativa a recuperação natural de HP e MP. A fome pode ser aliviada comendo.
 
 <color=#882222>Veneno</color>
-Uma enfermidade que causa dano contínuo ao longo do tempo. O dano acumulado pode ser reduzido por meio da restauração da saúde.
+Uma enfermidade que causa dano contínuo com o tempo. O dano acumulado pode ser reduzido com restauração de vida.
 
 <color=#882222>Confusão</color>
-Interfere com os movimentos, ataques e conjuração de feitiços, causando diversos efeitos adversos nas ações do personagem. O dano acumulado pode ser reduzido por meio da restauração da saúde.
+Atrapalha movimento, ataques e conjuração, causando vários efeitos adversos nas ações do PC. O dano acumulado pode ser reduzido com restauração de vida.
 
 $item
-{topic,Itens e Equipamentos}
-Existem vários itens no jogo, e aqueles que podem ser equipados no corpo são chamados de equipamentos.
+{topic,Itens e Equipamento}
+Há vários itens no jogo, e os que podem ser equipados no corpo se chamam equipamentos.
 
-{topic,Descrição de Equipamentos}
-Para conveniência, parte do desempenho do equipamento é exibido em seu nome. A notação dentro dos parênteses () indica (valor dos dados + modificador de dano, modificador de acerto), e dentro dos colchetes [] indica [modificador de esquiva, modificador de proteção].
-{pair|Example|uma adaga (5d6+1, 4) [2, 3]}
+{topic,Notação do Equipamento}
+Por conveniência, parte do desempenho do equipamento é exibida no nome dele. A notação entre parênteses () indica (valor de dados + modificador de dano, modificador de acerto), e entre colchetes [] indica [modificador de esquiva, modificador de proteção].
+{pair|Exemplo|uma adaga (5d6+1, 4) [2, 3]}
 
-Ao atacar com a adaga de exemplo acima, seu dano é determinado ao rolar 5d6 (rolar um dado de seis faces cinco vezes) e adicionar um modificador de dano de +1. Além disso, sua taxa de acerto aumenta em 4. Ao defender, seu valor de esquiva (DV) aumenta em 2, e seu valor de proteção (PV) aumenta em 3.
+Ao atacar com a adaga do exemplo acima, seu dano é definido rolando 5d6 (rolando um dado de seis faces cinco vezes) e somando um modificador de dano de +1. Além disso, sua taxa de acerto aumenta em 4. Ao defender, seu valor de esquiva (ED) aumenta em 2, e seu valor de proteção (VP) aumenta em 3.
 
 {topic,Maldições e Bênçãos}
-Itens e equipamentos podem ser amaldiçoados ou abençoados. Os efeitos das maldições ou bênçãos diferem para cada item, mas na maioria dos casos, um item amaldiçoado terá o efeito oposto ao efeito pretendido do item original. O poder de um item (a força de seu efeito) tende a ser maior quando amaldiçoado ou abençoado do que em circunstâncias normais.
+Itens e equipamentos podem estar amaldiçoados ou abençoados. Os efeitos de maldições ou bênçãos variam para cada item, mas na maioria dos casos um item amaldiçoado tem o efeito oposto ao pretendido pelo item original. O poder de um item (a força do efeito dele) tende a ser maior quando amaldiçoado ou abençoado do que em circunstâncias normais.
 
-Além disso, se você equipar um item amaldiçoado, não poderá removê-lo até que a maldição seja quebrada.
+Além disso, se você equipar um item amaldiçoado, não pode removê-lo até que a maldição seja desfeita.
 
-{topic,Níveis Bônus}
-Níveis de bônus, representados por um sinal de mais como em 'Item Name +4', aumentam o desempenho geral de um item. Os efeitos do aumento dos níveis de bônus variam dependendo do tipo de item, frequentemente fornecendo bônus como aumento de poder, preço mais alto, dano de arma aumentado ou defesa de armadura aumentada.
+{topic,Níveis de Bônus}
+Os níveis de bônus, representados por um sinal de mais como 'Nome do Item +4', elevam o desempenho geral do item. Os efeitos de subir o nível de bônus variam conforme o tipo de item, geralmente dando bônus como mais poder, preço maior, mais dano de arma ou mais defesa de armadura.
 
 {topic,Encantamentos}
-Itens e equipamentos podem ser imbuídos com efeitos especiais conhecidos como encantamentos. Equipamentos particularmente raros podem vir com múltiplos encantamentos aleatórios.
+Itens e equipamentos podem ser imbuídos de efeitos especiais conhecidos como encantamentos. Equipamentos particularmente raros podem vir com múltiplos encantamentos aleatórios.
 
-{topic,Características}
-Características são indicadas com 【】, como 【Fofo】 ou 【Boa Pessoa】, e são adicionadas principalmente através do material do item ou da criação.
+{topic,Traços}
+Os traços são indicados com 【】, como 【Fofo】 ou 【Cheiro Bom】, e são adicionados principalmente pelo material do item ou pela fabricação.
 
-{topic,Raridade de Equipamentos}
-Equipamentos gerados aleatoriamente tendem a ter desempenho melhor quanto mais raros forem. Abaixo está uma lista dos níveis de raridade:
-{pair|Podre|Equipamento com desempenho abaixo da média.}
-{pair|Normal|Equipamento com desempenho médio.}
+{topic,Raridade do Equipamento}
+Equipamentos gerados aleatoriamente tendem a ter desempenho melhor quanto mais raros. Abaixo, a lista de níveis de raridade:
+{pair|Pobre|Equipamento com desempenho abaixo da média.}
+{pair|Padrão|Equipamento com desempenho médio.}
 {pair|Superior|Equipamento com desempenho acima da média. Pode vir com encantamentos aleatórios.}
 {pair|Milagroso|Equipamento raro que vem com múltiplos encantamentos aleatórios. Exibido como ☆『Nome do Item』.}
-{pair|Divino|Equipamento extremamente raro que vem com ainda mais encantamentos aleatórios do que os itens milagrosos. Exibido como ☆《Nome do Item》.}
-{pair|Artefato|Equipamento único e raro com encantamentos fixos e únicos. Exibido como ★《Nome do Item》.}
+{pair|Divino|Equipamento raríssimo que vem com ainda mais encantamentos aleatórios que os milagrosos. Exibido como ☆《Nome do Item》.}
+{pair|Artefato|Equipamento único e raro, com encantamentos fixos e exclusivos. Exibido como ★《Nome do Item》.}
 
 $identify
 {topic,Identificando Itens Não Identificados}
-Alguns itens, como poções e pergaminhos, ou equipamentos raros, podem estar em um estado não identificado quando adquiridos. Seu desempenho não muda quando usados ou equipados, mas identificá-los revelará o nome e as estatísticas do item.
+Alguns itens, como poções e pergaminhos, ou equipamentos raros, podem vir em estado não identificado. O desempenho deles não muda ao usar ou equipar, mas identificá-los revela o nome e os status do item.
 
-Para identificar um item, normalmente é necessário usar um "scroll of identify" ou utilizar os serviços de identificação de um mago na cidade. Existem métodos de identificação padrão e avançados, e artefatos só podem ser identificados através da identificação avançada.
+Para identificar um item, normalmente é preciso usar um "pergaminho de identificação" ou usar os serviços de identificação de um mago na cidade. Há identificação padrão e superior, e artefatos só podem ser identificados pela identificação superior.
+
 
 $craft
-{topic, Criação de Itens}
-Em estações de criação, você pode fabricar vários itens combinando ingredientes. As habilidades necessárias para a criação diferem dependendo da estação, e se você não possuir as habilidades necessárias ou se seu nível de habilidade for inferior ao exigido, a estamina consumida aumentará, e a qualidade do item criado pode diminuir.
+{topic,Fabricação}
+Nas estações de fabricação, você cria vários itens combinando ingredientes. As perícias necessárias variam conforme a estação, e se você não tiver as perícias necessárias ou o nível delas for menor que o exigido, o vigor consumido aumenta e a qualidade do item fabricado pode cair.
 
-Algumas estações requerem combustível para operar. Se você tiver combustível no seu inventário, ele será usado automaticamente, mas você também pode adicionar combustível manualmente ou verificar a quantidade necessária clicando no ícone de combustível.
+Algumas estações precisam de combustível para funcionar. Se tiver combustível no inventário, ele é usado automaticamente, mas você também pode adicioná-lo à mão ou checar a quantidade necessária clicando no ícone de combustível.
 
-{topic, Processamento}
-Usando estações de processamento, você pode refinar ingredientes brutos em novos itens. Um exemplo típico é a serraria, onde você pode transformar troncos em tábuas.
+{topic,Processamento}
+Usando estações de processamento, você refina ingredientes brutos em itens novos. Um exemplo típico é a serraria, onde você processa troncos em tábuas.
 
-Você pode trabalhar com vários itens em estações de processamento, e algumas estações têm múltiplas vagas onde você pode colocar os itens. Os produtos exibidos na tela não se limitam aos que você conhece inicialmente: muitos mais podem ser adicionados à lista uma vez que você os fabrica pela primeira vez. Ao usar uma estação, os itens que podem ser processados serão destacados no seu inventário, então experimente diferentes receitas.
+Você pode trabalhar com vários itens nas estações de processamento, e algumas têm múltiplos slots para colocar itens. Os produtos exibidos na tela não se limitam aos que você conhece de início: muitos mais entram na lista depois que você os fabrica pela primeira vez. Ao usar uma estação, os itens processáveis ficam destacados no seu inventário, então experimente receitas diferentes.
 
-    {topic, Mistura de Atributos}
-Alguns itens vêm com características como 【Rare】 ou 【Cute】. Essas características podem ser herdadas pelo item criado durante o processo de fabricação. Ao combinar características, você pode aumentar o preço de venda do item, aprimorar seus efeitos ou adicionar diversos bônus ao produto final.
+{topic,Misturando Traços}
+Alguns itens vêm com traços como 【Raro】 ou 【Fofo】. Esses traços podem ser herdados pelo item fabricado durante a fabricação. Combinando traços, você aumenta o preço de venda do item, aprimora os efeitos dele ou adiciona vários bônus ao produto final.
 
-Você pode verificar o efeito das características passando o mouse sobre o ingrediente e pressionando a tecla de examinar o item (padrão é 'x').
+Você pode checar o efeito dos traços passando o mouse sobre o ingrediente e apertando a tecla de examinar item (o padrão é 'x').
 
 {topic,Qualidade}
-A característica de Qualidade é uma característica especial que aprimora o desempenho básico e o preço de um item, sendo que cada item possui um valor máximo definido. Você pode verificar o valor máximo na tela de criação, e se combinar características que excedam esse máximo, o nível será limitado ao máximo. O valor máximo da característica de qualidade é determinado pela habilidade de criação relevante e pelo nível da receita.
+O traço Qualidade é um traço especial que eleva o desempenho básico e o preço do item, com um valor máximo fixo para cada item. Você confere o máximo na tela de fabricação, e se combinar traços que excedam esse máximo, o nível fica travado no teto. O valor máximo do traço de qualidade é definido pela perícia de fabricação relacionada e pelo nível da receita.
 
 {topic,Culinária}
-Ao criar ou processar, se houver características sobrepostas entre os ingredientes, a maior característica será herdada pelo item criado. No entanto, no caso da culinária, algumas características sobrepostas não são herdadas, mas sim combinadas. As características que podem ser combinadas são, principalmente, aquelas que aumentam os atributos ou potencial de habilidades, e elas são exibidas ao examinar um item (tecla x).
+Ao fabricar ou processar, se houver traços repetidos entre os ingredientes, o traço mais alto é herdado pelo item fabricado. Porém, na culinária, alguns traços repetidos não são herdados, e sim combinados. Os traços combináveis são principalmente os que elevam status ou potenciais de habilidades, e aparecem ao examinar o item (tecla x).
 
 $recipe
 {topic,Sobre Receitas}
-Para criar um item, você precisa ter aprendido a receita correspondente. Embora você comece o jogo conhecendo algumas receitas básicas, a maioria das receitas precisa ser adquirida novamente.
+Para fabricar um item, você precisa ter aprendido a receita dele. Você começa o jogo sabendo algumas receitas básicas, mas a maioria precisa ser adquirida.
 
-{topic,Condições para Obter Receitas}
-As receitas possuem condições de aquisição. Por exemplo, no caso das receitas de culinária, quanto maior sua habilidade culinária, receitas mais avançadas você poderá obter. A habilidade relacionada exigida para obter uma receita corresponde à habilidade requerida pelo equipamento usado para criar o item. Por exemplo, ao criar uma picareta, já que as picaretas são confeccionadas na bancada de um artífice, a habilidade “Crafting” usada na bancada torna-se a habilidade relacionada para a receita da picareta.
+{topic,Condições de Aquisição de Receitas}
+As receitas têm condições de aquisição. Por exemplo, nas receitas de culinária, quanto maior sua perícia de Cozinha, mais receitas avançadas você obtém. A perícia relacionada exigida para obter uma receita corresponde à perícia usada pelo equipamento que fabrica o item. Por exemplo, ao fabricar uma picareta, como picaretas são fabricadas na mesa do latoeiro, a perícia "Fabricação" usada na mesa vira a perícia relacionada da receita da picareta.
 
-{topic,Inspiração para Receitas por Ações}
-Ao realizar certas ações, você pode, às vezes, “descobrir” receitas para itens específicos com alta probabilidade. Por exemplo, minerar uma parede pode inspirar uma receita para esse tipo de parede, cavar um piso pode inspirar uma receita para piso, ou desmontar um item pode levar ao aprendizado da receita desse item.
+{topic,Inspiração de Receitas por Ações}
+Executando certas ações, às vezes você 'tem a ideia' de receitas de itens específicos com alta probabilidade. Por exemplo, minerar uma parede pode inspirar a receita daquele tipo de parede, lavrar um piso pode inspirar a receita do piso, ou desmontar um item pode ensinar a receita dele.
 
-{topic,Inspiração para Receitas ao Criar Itens}
-Também há uma baixa probabilidade de descobrir uma receita durante a criação. Nesse caso, a receita adquirida será um item aleatório da mesma categoria que o item criado.
+{topic,Inspiração de Receitas na Fabricação}
+Há também uma probabilidade baixa de ter ideias de receitas durante a fabricação. Nesse caso, a receita obtida é de um item aleatório da mesma categoria do item fabricado.
 
-{topic,Recipe Inspiração para Receitas ao Dormir}
-Também há uma alta probabilidade de descobrir receitas durante o sono. A receita obtida é selecionada aleatoriamente.
+{topic,Inspiração de Receitas no Sono}
+Há também alta probabilidade de ter ideias de receitas durante o sono. A receita ganha é escolhida aleatoriamente.
 
-{topic,Outras Formas de Obter Receitas}
-Além de ações e do sono, você pode adquirir novas receitas comprando e lendo-as ou usando os “Santuários da Roda” gerados aleatoriamente encontrados nos mapas. Esses métodos podem permitir que você obtenha receitas de nível mais alto que o usual.
+{topic,Outras Formas de Adquirir Receitas}
+Além de ações e sono, você obtém receitas novas comprando e lendo, ou usando "Santuários da Roda" gerados aleatoriamente nos mapas. Esses métodos podem permitir receber receitas de nível mais alto que o comum.
 
-{topic,Níveis de Receitas}
-Se não houver receitas elegíveis para obter quando uma receita aleatória é sorteada — como quando a exigência de habilidade não é atendida — uma receita aleatória dentre as que você já aprendeu será sorteada em seu lugar. Quando você obtém uma receita já aprendida, o nível dessa receita aumenta, concedendo bônus à qualidade máxima do item durante a criação.
+{topic,Níveis de Receita}
+Se não houver receitas elegíveis quando uma receita aleatória for sorteada (como quando o requisito de perícia não é atendido), uma receita aleatória das que você já aprende é sorteada no lugar. Quando você obtém uma receita já aprendida, o nível dela sobe, dando bônus à qualidade máxima do item durante a fabricação.
 
 $tool
 {topic,Ferramentas}
-As ferramentas que podem ser criadas, principalmente, na bancada do artífice têm vários efeitos quando empunhadas e usadas. Abaixo estão algumas ferramentas representativas e seus propósitos.
+As ferramentas fabricáveis principalmente na mesa do latoeiro têm vários efeitos quando seguradas e usadas. Abaixo, algumas ferramentas representativas e seus propósitos.
 
-{topic,Funções das Ferramentas Principais}
+{topic,Propósitos das Ferramentas Representativas}
 {pair|Picareta|Pode ser usada em paredes para minerá-las.}
-{pair|Machado|Pode ser usada para derrubar árvores e coletar plantas rapidamente.}
-{pair|Pá|Pode ser usada no solo para remover pisos ou cavar terra.}
-{pair|Enxada|Pode ser usada em terrenos de terra para criar uma fazenda.}
-{pair|Foice|Pode ser usada em plantas maduras para obter sementes.}
-{pair|Martelo|Pode ser usada para desmontar itens e obter recursos.}
-{pair|Tesouras|Pode ser usada em animais que possuem lã para tosquiá-los. Alimentar os animais com pasto fará com que a lã volte a crescer.}
-{pair|Pote Sem Fundo|Pode ser usada na água para recolhê-la, e no solo para criar uma fonte de água.}
+{pair|Machado|Pode ser usado para cortar árvores e coletar plantas rapidamente.}
+{pair|Pá|Pode ser usada no chão para remover pisos ou cavar terra.}
+{pair|Enxada|Pode ser usada em terra batida para criar uma fazenda.}
+{pair|Foice|Pode ser usada em plantas crescidas para obter sementes.}
+{pair|Martelo|Pode ser usado para desmontar itens e obter recursos.}
+{pair|Tesouras|Podem ser usadas em gado portador de lã para tosquiar. Alimentar o gado com pasto faz a lã voltar a crescer.}
+{pair|Panela Sem Fundo|Pode ser usada na água para recolhê-la, e no chão para criar uma fonte de água.}
 
 $autocombat
-{topic, Combate Automático}
-Quando você não tiver uma ação com o clique direito, poderá entrar em auto-combate ao clicar com o botão direito em criaturas neutras ou hostis. Durante o auto-combate, seu personagem lutará automaticamente com base nas configurações da seção "Strategy" da ficha do personagem.
+{topic, Auto-Combate}
+Quando você não tem ação de clique direito, pode entrar em auto-combate clicando com o botão direito em criaturas neutras ou hostis. Durante o auto-combate, seu personagem luta automaticamente conforme as configurações da seção "Estratégia" da ficha de personagem.
 
-Durante o auto-combate, a quantidade de dano que você recebe dos inimigos é ligeiramente reduzida, dependendo do valor da sua habilidade "Strategy". Além disso, contanto que você tenha estamina suficiente, é possível evitar ferimentos fatais consumindo estamina. Esse recurso pode ser usado para avaliar com segurança a força de um oponente que você está enfrentando pela primeira vez. Portanto, utilize ativamente o auto-combate em suas lutas como parte de sua estratégia de batalha.
+Durante o auto-combate, o dano que você sofre dos inimigos é levemente reduzido, dependendo do valor da sua perícia "Estratégia". Além disso, contanto que tenha vigor suficiente, você pode evitar ferimentos fatais gastando vigor. Use este recurso para medir com segurança a força de um oponente que você encara pela primeira vez. Então use o auto-combate ativamente nas suas lutas, como parte da estratégia.
 
 $party_ability
 {topic, Usando Habilidades}
-Habilidades que exibem um ícone humanóide azul no canto superior direito (como auto-aplicação) não requerem a especificação de um alvo e podem ser usadas diretamente com o clique direito.
+Habilidades que exibem um ícone humanoide azul no canto superior direito do ícone (como auto-mutilação) não exigem alvo e podem ser usadas diretamente com o clique direito.
 
-Habilidades com um ícone verde representando dois humanóides também podem ser usadas diretamente com o clique direito, mas, além disso, podem ser aplicadas em indivíduos específicos ou em todo o seu grupo.
+Habilidades com um ícone verde retratando dois humanoides também podem ser usadas diretamente com o clique direito, mas além disso podem ser usadas em indivíduos específicos ou em todo o seu grupo.
 
-Se desejar selecionar um alvo, mova a habilidade para a barra de ações, defina-a como sua ação atual e, em seguida, especifique o alvo com o cursor no mapa.
+Se quiser selecionar um alvo, mova a habilidade para a barra de ações, defina-a como ação atual e especifique o alvo com o cursor no mapa.
 
-{topic, Habilidades para Todo o Grupo}
-Você também pode direcionar membros do grupo dentro do seu campo de visão segurando o clique direito sobre o ícone, ou passando o cursor sobre você mesmo no mapa e mantendo o clique direito pressionado. Nesse caso, MP é consumido para cada alvo.
+{topic, Habilidades de Grupo}
+Você também pode mirar membros do grupo dentro da sua linha de visão segurando o clique direito no ícone, ou passando o cursor sobre você mesmo no mapa e segurando o clique direito. Nesse caso, MP é consumido para cada alvo.
 
 $autodump
-{topic,Despejo Automático}
-Auto-Dump é uma função que aloca automaticamente os itens da mochila em contêineres colocados em sua residência.
+{topic,Auto-Despejo}
+O Auto-Despejo é uma função que aloca automaticamente os itens da mochila nos contêineres colocados no seu lar.
 
-Por padrão, se houver itens em contêineres na sua residência, os mesmos itens da sua mochila serão automaticamente armazenados nesses contêineres. Alterando as configurações, você pode criar um contêiner que coleta automaticamente apenas armaduras ou livros, por exemplo. Utilize esse recurso para organizar seus itens.
+Por padrão, se houver itens nos contêineres do seu lar, os mesmos itens na sua mochila são estocados automaticamente nos contêineres. Mudando as configurações, você cria um contêiner que recolhe só armaduras ou livros, por exemplo. Use o recurso para organizar seus itens.
 
 $item_search
-{topic,Pesquisa de Itens}
-Enquanto estiver no jogo, pressionar CTRL+F abrirá a caixa de pesquisa de itens.
+{topic,Busca de Itens}
+Durante o jogo, apertar CTRL+F abre a caixa de busca de itens.
 
-Ao digitar parte do nome de um item na caixa, você verá uma lista de possíveis correspondências provenientes da sua mochila e dos itens no mapa. Itens dentro de contêineres também são incluídos na pesquisa. Clicar em um item listado irá destacá-lo em sua mochila ou contêiner. Para itens no mapa, seu personagem se moverá automaticamente até onde o item está localizado.
+Digitando parte do nome de um item na caixa, você vê uma lista de correspondências possíveis da mochila e dos itens no mapa. Itens dentro de contêineres também entram na busca. Clicar num item listado o destaca na mochila ou no contêiner. Para itens no mapa, seu personagem anda automaticamente até onde o item está.
 
-Esse recurso é especialmente útil quando você perdeu um item, como uma nota fiscal.
+O recurso é especialmente útil quando você perdeu um item, como uma fatura de imposto.
 
 $mark_important
-{topic,Marcação de Item Importante}
-Você pode designar um item como "Importante" clicando com o botão do meio em seu inventário e selecionando a ação "Marcar como Importante".
+{topic,Marcando Item Importante}
+Você pode designar um item como "Importante" clicando nele com o botão do meio no inventário e escolhendo a ação "Marcar como Importante".
 
-Itens marcados como "Importantes" não podem ser descartados ou vendidos, evitando perdas acidentais.
+Itens marcados como "Importante" não podem ser descartados nem vendidos, evitando perdas acidentais.
 
 $equip_set
-{topic,Conjunto de Equipamentos}
-Ao clicar em um slot vazio na barra de ações localizada no canto superior esquerdo da tela, onde botões como o botão de ajuda estão posicionados, e selecionar "Salvar Conjunto de Equipamentos Atual", seu equipamento atual pode ser registrado como um conjunto de equipamentos.
+{topic,Conjunto de Equipamento}
+Ao clicar num slot vazio da barra rápida no canto superior esquerdo da tela, onde ficam botões como o de ajuda, e escolher "Salvar Conjunto de Equipamento Atual", seu equipamento atual pode ser registrado como um conjunto.
 
-Conjuntos de equipamentos registrados podem ser facilmente trocados com um único clique, permitindo que você adapte seu equipamento para diversos propósitos e situações. Além disso, ao clicar com o botão direito no ícone do conjunto de equipamentos, você pode atualizar o equipamento, renomeá-lo para maior clareza ou alterar sua cor.
+Conjuntos de equipamento registrados podem ser trocados com um clique, adaptando seu equipamento a vários propósitos e situações. Além disso, clicando com o botão direito no ícone de um conjunto, você atualiza o equipamento, renomeia para clareza ou muda a cor.
 
 $auto_bed
-{topic,Uso Automático da Cama}
-Ao clicar no ícone da cama na barra de ações localizada no canto superior esquerdo da tela, onde botões como o de ajuda estão posicionados, você pode utilizar automaticamente uma cama do seu inventário. Se você tiver um travesseiro, ele será usado juntamente com a cama.
+{topic,Uso Automático de Cama}
+Ao clicar no ícone de cama na barra rápida no canto superior esquerdo da tela, onde ficam botões como o de ajuda, você usa automaticamente uma cama do inventário. Se tiver uma almofada de corpo, ela é usada junto com a cama.
 
-A cama e o travesseiro utilizados serão automaticamente retornados às suas posições originais assim que seu sono for concluído.
+A cama e a almofada usadas voltam automaticamente às posições originais quando o sono termina.
 
 $advanced_menu
 {topic,Menu Avançado}
-Ao habilitar a opção "Mostrar Menu Avançado" na aba "Game" do menu de configurações, você pode acessar vários recursos projetados para aventureiros experientes. Essa opção é desabilitada por padrão devido à complexidade do menu.
+Ativando a opção "Mostrar Menu Avançado" na aba "Jogo" do menu de configurações, você acessa vários recursos feitos para aventureiros experientes. A opção vem desativada por causa da complexidade do menu.
 
-Habilitar o menu avançado permite realizar ações como:
+Ativando o menu avançado, você pode fazer coisas como:
 
-・ Configurar a Seleção Automática a partir da sua mochila principal.
-・ Adicionar mais opções para contêineres, bem como configurações avançadas de distribuição de itens.
-・ Utilizar filtros de palavras para a distribuição de itens.
+・ Configurar o Auto-Pegar da mochila principal.
+・ Adicionar mais opções para contêineres e configurações de distribuição de itens mais avançadas.
+・ Usar filtros de palavra na distribuição de itens.

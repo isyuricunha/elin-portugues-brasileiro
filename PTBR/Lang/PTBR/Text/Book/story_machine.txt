@@ -1,49 +1,49 @@
-A Lenda do Aço,Pesquisador Mani
+O Conto do Aço,Pesquisador de Mani,100,4
 
 <b>Prólogo: Sombras da Infância</b>
 
-Adotado por um velho relojoeiro em Yerl, Mani foi criado cercado pelo cheiro de ferro e engrenagens.
+Adotada por um relojoeiro velho em Yerl, Mani foi criada cercada pelo cheiro de ferro e engrenagens.
 
-Seu pai adotivo descontava suas frustrações diárias em Mani, às vezes recorrendo a punições físicas.
+O pai adotivo descontava as frustrações diárias em Mani, às vezes recorrendo a punição física.
 
-Relegado a um canto, o porão tornou-se seu lar e seu mundo. Nesse espaço mal iluminado, Mani cultivou um carinho e compreensão infinitos pelas máquinas.
+Relegada a um canto, o porão virou o espaço de vida dela e o seu mundo. Nesse espaço de luz fraca, Mani cultivou um afeto e um entendimento sem fim pelas máquinas.
 
-Sob suas mãos, até as máquinas mais complexas eram rapidamente desmontadas e ganhavam nova vida.
+Sob as mãos dela, até as máquinas mais complexas eram desmontadas num piscar de olhos e ganhavam vida nova.
 {p}
 
-<b>Juventude: Dominando o Ápice da Tecnologia</b>
+<b>Juventude: Dominando o Cume da Tecnologia</b>
 
-Com o passar do tempo, o nome de Mani tornou-se amplamente conhecido entre os engenheiros de Yerl.
+Conforme o tempo passou, o nome de Mani ficou amplamente conhecido entre os engenheiros de Yerl.
 
-Os autômatos que ele criava eram altamente valorizados por sua complexidade excepcional e estética única, sendo vendidos por preços astronômicos.
+Os autômatos que ela criava eram muito prezados pela intrincação excepcional e pela estética única, rendendo preços astronômicos.
 
-As criações de Mani nesse período eram a cristalização de seu puro talento e habilidade técnica, e diz-se que lançaram as bases para os soldados mecânicos de Yerl no futuro.
+As criações que Mani produziu nesse período foram a cristalização do talento puro e da perícia técnica dela, e dizem ter lançado a base para os soldados mecânicos de Yerl no futuro.
 {p}
 
-<b>Fama: Uma Vida Repleta de Histórias</b>
+<b>Fama: Uma Vida Ornamentada de Episódios</b>
 
-A vida de Mani foi marcada por inúmeras histórias.
+A vida de Mani foi colorida por inúmeras anedotas.
 
-Por exemplo, certa vez ele usou um autômato para mergulhar a capital de Yerl no caos.
+Por exemplo, ela certa vez usou um autômato para lançar a capital de Yerl no caos.
 
-Além disso, quando a rainha ordenou que ele reparasse a torre do relógio, Mani espalhou todas as suas peças mecânicas do alto, deixando a rainha e a corte sem palavras. No entanto, ele as remontou com maestria, e diz-se que a torre passou a marcar o tempo com mais precisão do que nunca.
+Também, quando a rainha ordenou que consertasse a torre do relógio, ela espalhou todas as peças mecânicas do topo, deixando a rainha e a corte sem fala. Porém, Mani remontou tudo com maestria, e dizem que a torre do relógio passou a marcar a hora com mais precisão que nunca.
 
-Também há lendas de sua juventude, quando ele substituiu seu braço esquerdo por um mecânico.
+Lendas também restam dos dias mais novos, quando ela trocou o braço esquerdo por um mecânico.
 
-Esses episódios elevaram ainda mais sua fama, tornando-se histórias passadas de geração em geração.
+Esses episódios elevaram ainda mais a fama dela, virando histórias passadas entre o povo.
 {p}
 
 <b>Desaparecimento: Envolto em Mistério</b>
 
-O maior mistério da vida de Mani foi seu súbito desaparecimento.
+O maior mistério da vida de Mani foi o desaparecimento súbito.
 
-O Herege de Aço desapareceu sem deixar rastros, dando origem a diversos rumores adornados com detalhes extravagantes. Contavam que ele sumira ao tentar mecanizar seu próprio corpo, partira em uma jornada para outro mundo ou se escondera para executar um grande plano.
+A Herege de Aço sumiu um dia sem deixar traço, deixando vários rumores adornados de detalhes extravagantes. Histórias circulavam de que ela sumira no processo de mecanizar o corpo, partira para uma jornada a outro mundo ou se escondera por um grande plano.
 
-No entanto, as gerações futuras viriam a saber que ele se aventurou em domínios além do alcance humano, armado com seu conhecimento, sua perícia técnica e sua insaciável curiosidade.
+Porém, as gerações futuras viriam a saber que ela se aventurou em reinos além do alcance humano, armada com o conhecimento, a perícia técnica e a curiosidade insaciável dela.
 {p}
 
 <b>Legado: Uma Inspiração Imortal</b>
 
-Mani, ainda reverenciado como o deus das máquinas, permanece como uma fonte eterna de inspiração para os engenheiros de Yerl.
+Mani, ainda citada como a deusa das máquinas, segue como fonte imutável de inspiração para os engenheiros de Yerl.
 
-Sua lenda brilha como uma luz eterna para todos que buscam ciência e conhecimento.
+A história dela brilha como luz eterna para todos os que perseguem a ciência e o conhecimento.

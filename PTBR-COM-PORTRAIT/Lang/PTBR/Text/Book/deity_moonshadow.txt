@@ -1,30 +1,30 @@
-Deuses Menores: Sombra Da Lua,Theolucia - Estudiosa Da História,0
+Divindades Menores: Sombra Lunar,Theolucia, erudita de História,0,5
 
-A deusa das nefu que adora cantos e danças, Horome é a irmã mais nova do deus mifu Kizuami. O interesse pelas nefu cresceu recentemente, e com ele a popularidade de Horome, graças ao seu semblante maternal, porém efêmero. Não é difícil entender o porquê: a deusa nefu compartilha diversas características superficiais com Ehekatl, e pode ter se beneficiado da dominância da Deusa da Sorte na sociedade religiosa atual.
+A deusa dos nefu que adora canto e dança, Horome é a irmã mais nova do deus mifu Kizuami. O interesse pelos nefu cresceu recentemente, e com ele a popularidade de Horome, pelo rosto maternal e efêmero. Não é difícil ver por quê: a deusa nefu divide vários traços superficiais com Ehekatl, e pode ter se beneficiado do domínio da Deusa da Sorte na sociedade religiosa de hoje.
 {p}
-<b>Deusa Das Nefu</b>
+<b>Deusa dos Nefu</b>
 
-Assim como seu irmão, Horome é uma divindade racial; quase todas as nefu a veneram. De acordo com as lendas delas, ela é tímida e reclusa, às vezes assumindo disfarces humanos para se misturar aos mortais, mas nunca ficando por muito tempo, pois detesta o engano. A representação da Dança da Espada ao Luar de Horome é a essência mais pura da deusa — uma imagem de beleza trágica raramente contemplada por seus fiéis e, posteriormente, capturada em obras de arte de inspiração divina.
+Como o irmão, Horome é uma divindade racial; quase todos os nefu a adoram. Segundo as lendas deles, ela é tímida e reclusa, às vezes adotando disfarces humanos para se misturar aos mortais, mas nunca fica muito, pois detesta a mentira. A representação da dança da espada ao luar de Horome é a essência mais pura da deusa: um quadro de beleza trágica raramente visto pelos fiéis e subsequentemente capturado em arte de inspiração divina.
 
-Horome ensina seus adoradores:
+Horome ensina aos adoradores:
 
-* Que a força é inseparável da beleza e a forma, da função,
-* Que gestações e filhos felizes são bênçãos a serem valorizadas,
-* Que o conhecimento não reside apenas no estudo recluso, mas na experiência prática do mundo,
-* Que o que possuímos não nos pertence para usar como bem entendemos, mas é mantido em custódia para as gerações futuras.
+* Que força é inseparável de beleza, e forma, de função,
+* Que gestações e crianças felizes são bênçãos a ser valorizadas,
+* Que o conhecimento não está só no estudo de gabinete, mas na experiência prática do mundo,
+* Que o que temos não é nosso para usar como bem entendermos, mas mantido em custódia para as gerações futuras.
 {p}
-Os ensinamentos de Horome são voltados especificamente para as nefu; por exemplo, sua postura em relação às crianças é evidente, considerando que as nefu têm vida longa e se reproduzem lentamente. A ênfase na aplicação prática significa que cada aspecto da vida nefu é um ato de adoração — uma religião vivida a cada momento, e não apenas um culto semanal na igreja. As nefu se esforçam para tornar a si mesmas e seus arredores agradáveis aos sentidos, buscando refletir a beleza de Horome.
+Os ensinamentos de Horome são especificamente moldados aos nefu; a postura dela sobre crianças, por exemplo, é óbvia considerando que os nefu vivem muito e se reproduzem devagar. A ênfase na aplicação prática significa que cada aspecto da vida nefu é um ato de adoração: uma religião vivida em cada instante, em vez de apenas um culto semanal na igreja. Os nefu se esforçam para tornar a si mesmos e ao entorno agradáveis aos sentidos, buscando espelhar a beleza de Horome.
 
-Ao contrário das mifu, a sacerdotisa delas não ocupa um cargo hereditário. Em vez disso, uma sucessora é escolhida entre as jovens que melhor exemplificam o ideal de feminilidade encarnado por sua deusa: aquela que dominou as artes tanto marciais quanto estéticas, que gerou (ou certamente gerará) muitos filhos, e que possui vasta experiência em lidar com o mundo e com as pessoas.
+Diferente dos mifu, a posição de sacerdotisa deles não é hereditária. Em vez disso, a sucessora é escolhida entre as jovens que personificam o ideal de feminilidade encarnado pela deusa: uma que domina artes tanto marciais quanto estéticas, que gerou (ou certamente gerará) muitos filhos, e tem vasta experiência em lidar com o mundo e sua gente.
 {p}
-<b>Danças Da Espada</b>
+<b>Danças da Espada</b>
 
-No coração da adoração a Horome estão as danças da espada — ao executar as formas e reencenar as histórias que elas incorporam, a dançarina assume o papel da deusa e vivencia o passado pelos olhos dela. Assim, todas as danças da espada nefu são consideradas ritos religiosos; embora os movimentos sejam reconhecíveis como tendo base na esgrima, as danças são puramente performáticas.
+No coração da adoração a Horome estão as danças da espada: ao executar as formas e reencenar as histórias que elas encarnam, a dançarina assume o papel da deusa e vive o passado pelos olhos dela. Assim, todas as danças da espada nefu são consideradas ritos religiosos; embora os movimentos sejam reconhecíveis como tendo base na esgrima, as danças são puramente performáticas.
 
-Acompanhadas de música, a maioria das danças da espada envolve apenas uma dançarina, com exceções notáveis sendo as realizadas durante os festivais delas, nos quais toda a vila participa. Não há detalhe pequeno demais para ser ignorado: tudo, desde o comprimento da espada até a vestimenta ritual e os cuidados pessoais, é importante, pois a dançarina se torna parte da história contada por meio da melodia e do movimento.
+Ao som de música, a maioria das danças da espada só envolve uma dançarina, com exceção notável das executadas nos festivais delas, em que a vila inteira participa. Não há detalhe pequeno demais para ser negligenciado: tudo, do comprimento da espada ao traje ritual e ao asseio pessoal, é importante, pois a dançarina se torna parte da história contada por melodia e movimento.
 {p}
-Por meio das danças da espada, as nefu aprendem seu passado e folclore ao vivenciá-los, um método que está em consonância com os ensinamentos de Horome e se assemelha às tradições orais de diversas tribos Juere no Sul de Tyris. A sacerdotisa atual e qualquer sucessora em treinamento são responsáveis por dominar todas as danças da espada conhecidas; elas então transmitem esse conhecimento às demais nefu, conforme necessário.
+Por meio das danças da espada, os nefu aprendem o passado e o folclore vivendo-os, um método que segue os ensinamentos de Horome e lembra as tradições orais de várias tribos juere de Tyris do Sul. A sacerdotisa atual e qualquer sucessora em treino são responsáveis por dominar todas as danças da espada conhecidas; cabe a elas transmitir esse conhecimento aos outros nefu conforme necessário.
 
-Como estudiosa da história, considerei preocupante que tal conhecimento seja responsabilidade de no máximo duas pessoas e o quão facilmente poderia se perder. As nefu responderam que cada dança da espada tem origem na própria Horome e foi concedida a elas por revelação divina — fácil de acreditar, pois as danças humanas parecem rígidas e sem vida em comparação. Caso algo acontecesse, a deusa simplesmente transmitiria o conhecimento novamente.
+Como erudita de História, achei preocupante que tal conhecimento seja responsabilidade de no máximo duas pessoas, e quão facilmente poderia se perder. Os nefu responderam que cada dança da espada se origina da própria Horome e foi concedida a eles por revelação divina: fácil de acreditar, pois as danças humanas parecem rígidas e de madeira em comparação. Se algo acontecesse, a deusa simplesmente entregaria o conhecimento de novo.
 
-Tal devoção é verdadeiramente impressionante, mas, como acadêmica, a resposta ainda não me soa bem...
+Tamanha piedade é de fato impressionante, mas como acadêmica a resposta ainda não me satisfaz…

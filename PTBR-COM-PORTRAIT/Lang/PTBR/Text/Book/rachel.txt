@@ -1,39 +1,39 @@
-Diário Estranho,Irvan  
-{center}  
+Diário Estranho,Irvan
+{center}
 
-[Você não consegue discernir a quem pertence]  
+[Não dá para identificar o dono]
 
-Escrito pelo irmão de Rachel <danificado>  
+Escrito pelo irmão de Rachel <damaged>
 
-<Dentro deste livro apodrecido há uma carta>  
-<A carta está desbotada em todos os lugares>  
+<Dentro deste livro apodrecido há uma Carta>
+<A Carta está desbotada em toda parte>
 
-Rachel<danificado> Vou esquecer.  
+Rachel<damaged> Eu vou esquecer.
 
-Para manter a memória de<danificado>  
+Para reter a memória de<damaged>
 
-Sua doença <danificado>  
-pela medicina moderna.  
+A sua doença <damaged>
+pela medicina moderna.
 
-<danificado> saiu do controle.  
+<damaged> ela mesmo fora de controle.
 
-Não, eu sou<danificado>  
+Não, eu estou<damaged>
 
-Então  
-{p}  
-{center}  
-
-
+Então
+{p}
+{center}
 
 
 
-Suas memórias para sempre<danificado>  
 
-Jardim Secreto no campo nevado...  
 
-A localização fica ao norte 2<danificado>  
-E a partir do 4<danificado>  
+As suas memórias para sempre<damaged>
 
-Minha irmã está<danificado>  
+Jardim Secreto no campo nevado...
 
-Requiescat in pace...  
+A localização é o norte 2<damaged>
+E a partir do 4<damaged>
+
+Minha irmã está<damaged>
+
+Requiescat in pace...

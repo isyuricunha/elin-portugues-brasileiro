@@ -1,47 +1,47 @@
-【Tragédia】A Criança Sonhadora Fez Mais Uma Vítima
-Uma pequena cidade em Mysilia foi completamente obliterada sem deixar vestígios devido ao ataque de uma Criança Sonhadora assustada por um despertador. O Príncipe Efrond de Mysilia permanece em silêncio sobre o assunto.
+【Tragédia】A Criança Sonhadora aconteceu de novo
+Uma vila pequena de Mysilia foi varrida sem deixar traço pelo descontrole de uma Criança Sonhadora assustada por um despertador. O príncipe Efrond de Mysilia segue silente sobre o caso.
 @ruin,UN_ephrond
 
-Nova Variedade de Uva Revoluciona a Indústria do Vinho
-Produtores de vinho em Olvina conseguiram cultivar uma nova variedade de uva usando água de nascente. O vinho, com um sabor único, promete encantar o paladar de inúmeros turistas.
+Variedade nova de uva revoluciona a indústria do vinho
+Os produtores de vinho de Olvina conseguiram cultivar uma variedade nova de uva usando água de fonte. O vinho de sabor único feito dessa uva nova promete deleitar o paladar de muitos turistas.
 @farm,UN_sio
 
-Cerimônia Memorial para os Falecidos
-Em Mysilia, marcada pelas cicatrizes da Guerra da Década, uma cerimônia solene foi realizada. Pessoas se reuniram no cemitério comunitário, oferecendo orações silenciosas pelos que se foram e desejando paz.
+Cerimônia memorial pelos falecidos
+Em Mysilia, marcada pela Guerra da Década, uma cerimônia solene foi realizada. O povo se reuniu no cemitério comunitário, ofertando preces silenciosas pelos que caíram e ansiando por paz.
 @city
 
-Comentário sobre 'Baterias de Imposto' Gera Polêmica
-"Saudações, queridas baterias de imposto patrióticas de Palmia", declarou sarcasticamente o Príncipe Efrond de Mysilia ao cumprimentar os cidadãos palmienses no Dia da Fundação, provocando uma onda de controvérsia.
+Fala das 'baterias de imposto' cria controvérsia
+"Saudações, queridas baterias de imposto patrióticas de Palmia", saudou sarcástico o príncipe Efrond de Mysilia aos cidadãos palmianos no Dia da Fundação, acendendo uma onda de controvérsia.
 @city,UN_ephrond
 
-Relações Entre Humanos e Eleas em Deterioração
-O vínculo entre humanos e eleas está esfriando cada vez mais. O tradicional festival de observação das flores em Mysilia foi cancelado após um boicote de um grupo de humanos.
+Relações humano-elea: discórdia crescendo
+O laço entre humanos e eleas esfria cada vez mais. O querido festival conjunto de contemplação das flores em Mysilia foi cancelado por causa de um boicote de um grupo de humanos.
 @city,UN_jonan
 
-Milagre Comovente no Orfanato de Mysilia
-Uma caixa cheia de brinquedos e doces chegou anonimamente ao Orfanato de Mysilia, um refúgio para órfãos afetados pela guerra. Muitos acreditam que a compaixão do Chefe Lowell tenha tocado os espíritos da floresta.
+Milagre comovente no orfanato de Mysilia
+Uma caixa cheia de brinquedos e doces chegou sem remetente ao orfanato de Mysilia, um santuário para órfãos afetados pela guerra. Muitos acreditam que a compaixão do chefe Lowell tocou os espíritos da floresta.
 @farm,UN_lowell
 
-Orfanato de Mysilia Planta as Sementes do Futuro
-Abrigando crianças atingidas pela guerra, o Orfanato de Mysilia lançou um programa de agricultura para promover a autossuficiência. Vozes de apoio ecoam dentro e fora de Mysilia.
+Orfanato de Mysilia planta sementes do futuro
+Abrigando crianças atingidas pela guerra, o orfanato de Mysilia lançou um programa agrícola para fomentar a autossuficiência. Vozes de apoio ecoam de dentro e de fora de Mysilia.
 @farm,UN_lowell
 
-Lorde Elea em Luto
-Lorde Cetrus, símbolo da união entre humanos e eleas e herói da Guerra dos 10 Anos, se retirou da vida pública após a perda de sua amada. Com as relações inter-raciais agora instáveis, ele permanecerá em silêncio?
+Lorde elea de luto
+O lorde Cetrus, símbolo da unidade humano-elea e herói da Guerra dos Dez Anos, se recolheu do público desde a perda da amada. Com as relações entre raças agora precárias, ele ficará em silêncio?
 @ruin,UN_ineien
 
-Zanan Protesta Contra Mysilia
-O reino de Zanan repreende Mysilia por ter admitido o cavaleiro exilado Barrich. Essa ação pode provocar hostilidades, sugerindo que Zanan pretende isolar os eleas.
+Zanan protesta contra Mysilia
+O reino de Zanan reprocha Mysilia por abrigar o cavaleiro exilado Barrich. Essa ação pode provocar hostilidades, sugerindo a intenção de Zanan de isolar os eleas.
 @royal,UN_barrich
 
-'Grifo' Salva o Dia
-Griffin, a coruja companheira do Lorde Melvin, afugentou um ladrão que tentava invadir uma casa à noite. Apesar de sua aparência fofa e de ser… apenas uma coruja, mostrou a bravura digna de seu homônimo mítico.
+'Griffin' salva o dia
+Griffin, a coruja companheira do lorde Melvin, repeliu um ladrão que tentava invadir uma casa à noite. Apesar da aparência fofa e de ser… uma coruja, ele mostrou a valentia do epônimo mítico.
 @city,UN_melvin
 
-Descontos Especiais em Fontes Termais para Aventureiros
-Olvina lançou um desconto exclusivo para aventureiros. Muitos estão visitando essas fontes termais revigorantes para relaxar após suas jornadas.
+Descontos especiais de fonte termal para aventureiros
+Olvina lançou um desconto exclusivo para aventureiros. Muitos visitam essas fontes termais revigorantes para relaxar depois das missões.
 @farm
 
-Putit Perdido Vaga em Busca da Família de um Aventureiro
-Um putit perdido tem sido repetidamente avistado em casas nos arredores de Mysilia. Testemunhas sugerem que ele pode estar procurando por um certo aventureiro ou sua família.
+Putit de rua vaga em busca da família de um aventureiro
+Um putit de rua foi avistado repetidamente em casas nos arredores de Mysilia. Testemunhas sugerem que o putit pode estar procurando a família de um certo aventureiro.
 @farm

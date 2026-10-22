@@ -1,55 +1,84 @@
-Semanário do Aventureiro – Edição 5 《Encharcado》, Repórter Especial Orin,10,1
+Jornal do Aventureiro nº 5: Molhando-se,Correspondente em Specwing Orryn,10,1
 
-<i>Bem-vindo à leitura do 『Semanário do Aventureiro』. Toda semana trazemos para vocês tópicos de tirar o fôlego!</i>
+<i>Bem-vindo ao Jornal do Aventureiro, onde cobrimos temas próximos e queridos aos seus corações valentes.</i>
 
 
-Hoje vamos acompanhar a aventureira novata Miyuki, de Miv, para aprender alguns truques especiais de quem tem o orçamento apertado. Então, Miyuki, pode nos contar quais equipamentos trouxe?
-
-「Humm… Miyuki não tinha muito dinheiro, então só trouxe coisas simples… ataduras, comida pro mascote… e um borrifador…」
-
+Hoje, seguimos a aventureira mifu Miyuki numa nefia para aprender dicas de aventureiros novatos com orçamento apertado. Pode apresentar as coisas que trouxe, Miyuki?
+<color=brown>
+Bem… A Yuki-chan não tem muito dinheiro, então trouxe só suprimentos simples…
+Bandagens, ração, o regador dela…
+Não ria, Sr. Repórter!
+O regador da Yuki-chan já a salvou muitas vezes!
+</color>
 {p}
-Um borrifador? Daqueles de casa mesmo? Você sempre carrega isso com você?
+Que interessante! O regador não é coisa que se usa em casa? Veremos como ele é útil numa nefia!
 
-「Não ria! Miyuki já foi salva várias vezes graças a esse borrifador!」
+***
 
-É mesmo? Hahaha, então vamos ver como ele pode ser útil nas ruínas de Nephia.
+Miyuki se esgueirou nas ruínas. Um cão de fogo selvagem apareceu!
 
-Miyuki adentrou as ruínas.
+Miyuki derramou o regador sobre si mesma e se aproximou do cão de fogo pingando.
+<color=brown>
+Roooar~
+</color>
+Uma explosão enorme de chamas envolveu Miyuki.
 
-De repente, surge um Cão Flamejante! Miyuki rapidamente se molha com o borrifador e, encharcada, parte para a investida.
+Mas como estava molhada, o dano do fogo enfraqueceu e as coisas dela não queimaram.
 
-「Gururururuuu…!」
+Sem coberta corta-fogo!
 {p}
-As chamas envolveram Miyuki, mas graças ao corpo encharcado, o poder do fogo foi drasticamente reduzido, e seus pertences permaneceram intactos. Assim, mesmo sem um cobertor térmico, ela saiu ilesa.
+Com os ataques ineficazes, o cão de fogo foi derrotado rapidinho.
 
-O ataque do Cão Flamejante falhou, e ele foi derrotado num piscar de olhos. Parece que o borrifador realmente é útil.
+Parece que o regador realmente ajudou!
 
-Em seguida, aparece um Explosor!
+***
 
-Miyuki, ágil, jogou água sobre ele.
+Ai não! É um rapaz quente!
 
-「Huuuuuuuh——!」
+Miyuki rapidamente despejou água no rapaz quente. O rapaz quente ficou encharcado.
+
+"Fooooo!"
+
+Estando molhado, o rapaz quente não conseguiu explodir e foi derrotado em segurança.
 {p}
-Molhado, o Explosor não conseguiu se autodestruir e foi facilmente neutralizado. O borrifador salvou o dia mais uma vez.
+Parece que o regador da Miyuki a salvou de novo!
 
-Nesse momento, uma poção voou das sombras! Miyuki conseguiu desviar, mas não conseguia ver de onde a criatura estava atacando.
+***
 
-Ela borrifou água ao redor. O chão encharcado revelou a silhueta do Monstro-Abóbora.
+De repente, uma poção voou saindo da escuridão!
 
-Achado! Miyuki brandiu sua espada curta de cobre e avançou.
+Miyuki esquivou-se rápido, mas não conseguia ver o monstro responsável.
 
-「Yaaaah!」
+Pegando seu regador, ela borrifou água para todo lado.
 
-Como o Monstro-Abóbora estava encharcado, a descarga elétrica da espada ficou ainda mais poderosa, eletrocutando a criatura até a queda.
+O quarto inteiro ficou molhado de poças, e o monstro pisou numa. Coberto de água, a abóbora não conseguiu continuar invisível.
 {p}
-Três vezes o borrifador salvou Miyuki. Parece que até um item doméstico, usado com criatividade, pode se tornar uma arma formidável.
+Agora que podia ver o inimigo, Miyuki fatiou a abóbora com a adaga de cobre.
+<color=brown>
+Hiyaa!
+</color>
+A umidade fez o dano elétrico da adaga render em dobro!
 
-……Opa! Miyuki pisou em uma armadilha e acabou presa na parede! Felizmente não se feriu, mas metade do corpo ficou encravada sem conseguir sair.
+A abóbora foi eletrocutada e derrotada!
 
-「Senhor repórter… poderia pegar o borrifador na minha mochila, por favor?」
+Uau, é a terceira vez que o regador salva a Miyuki. Vale pensar em como coisas do dia a dia podem ajudar um aventureiro!
 
-Certo, certo… vou esticar minha mão até aí~
+***
+<color=brown>
+Ai não! A Yuki-chan pisou numa armadilha e foi teleportada para dentro de uma parede!
+</color>
+{p}
+<color=brown>A Yuki-chan não se feriu, mas está meio presa nesse buraco…
 
-「Kyaaa~♡ Danadinho~♡」
+O Sr. Repórter poderia pegar o regador dela na mochila e ajudá-la a sair?
 
-<i>……Na próxima edição, vamos visitar o famoso estábulo da Vila Yoen e revelar de que forma a montaria pode auxiliar os aventureiros!</i>
+Ok, por ora sim, mas… para onde o senhor vai, Sr. Repórter?
+
+Espera, isso não é—
+
+Kyaa~♡ Tão escorregadio~♡
+</color>
+
+***
+
+<i>......Na edição da próxima semana, estaremos num dos famosos leilões de cavalos de Yowyn aprendendo como montaria pode ajudar você, aventureiro!</i>

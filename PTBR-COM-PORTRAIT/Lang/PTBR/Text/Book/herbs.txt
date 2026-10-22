@@ -1,38 +1,40 @@
-Ervas Abençoadas,Dr. Schmidt  
+Ervas Abençoadas,Dr. Schmidt
 
-<b>Curaria</b> [KYURARIA AQUIFOLIUM]  
-O efeito é bem conhecido e medicinal. No entanto, a eficácia desses efeitos depende inteiramente do seu chamado estado "consagrado", que foi clinicamente comprovado como real e não apenas um efeito placebo.  
+<b>Curaria</b> [KYURARIA AQUIFOLIUM]
+O efeito é bem conhecido e medicinal. Porém, a capacidade dos ditos efeitos baseia-se inteiramente no estado dito "consagrado", que foi clinicamente provado ser um efeito real e não mero placebo.
 
-Status do Efeito: Restaurador de Vida  
+Estado do Efeito: Restauração de Vida
 
-<b>Morgia</b> [MOJIA DIPSACUS PILOSUS]  
-Poderoso estimulante hormonal. Aumenta a massa muscular, força e resistência. Em testes cegos, sujeitos receberam ervas em diferentes estados "consagrados" e obtiveram resultados variados. Isso apenas prova que os Deuses de fato existem e que toda a nossa ciência é insignificante diante de seu poder.  
+<b>Morgia</b> [MOJIA DIPSACUS PILOSUS]
+Estimulante hormonal massivo. Aumenta massa muscular, força e resistência. Sujeitos de teste cego receberam ervas em vários estados "consagrados" e, assim, receberam retornos diferentes. Isso só serve para provar que os deuses de fato existem, e que toda a nossa ciência não é nada na força deles.
 
-Status do Efeito: Aumento de Força e Resistência  
-{p}  
-<b>Mareilon</b> [MAREIRON DIPSACUS FEROX]  
-Estimulante neuroquímico. Aumenta as capacidades cognitivas. O nível do efeito depende inteiramente do estado "consagrado".  
+Estado do Efeito: Reforço de Força e Resistência
+{p}
+<b>Mareilon</b> [MAREIRON DIPSACUS FEROX]
+Estimulante neuroquímico. Aumenta as habilidades cognitivas. O nível de efeito depende inteiramente do estado "consagrado".
 
-Status do Efeito: Aprimoramento Mental  
+Estado do Efeito: Aprimoramento Mental
 
-<b>Spenseweed</b> [SUPENSUUIDO LONGIFOLIA]  
-Todos os efeitos ainda são desconhecidos, mas foi observado que aqueles que a ingerem parecem estar mais "atentos", podendo ter uma percepção ampliada. São necessários mais testes para determinar todos os efeitos colaterais.  
+<b>Spenseweed</b> [SUPENSUUIDO LONGIFOLIA]
+Todos os efeitos, até agora, são desconhecidos, embora tenha sido notado que os que a ingerem parecem mais "cônscios" e os níveis de percepção podem subir. Mais testes são necessários para determinar todos os efeitos colaterais.
 
-Status do Efeito: Percepção Aprimorada  
+Estado do Efeito: Percepção Aprimorada
 
-<b>Alraunia</b> [ARURONIA MARTYNIA LUTEA]  
-Ativada por hormônios. Afrodisíaco. Por isso, extremamente popular entre os locais. Curiosamente, também parece ter alguma capacidade de melhorar a memória. Pesquisa ainda aguardando financiamento.  
+<b>Alraunia</b> [ARURONIA MARTYNIA LUTEA]
+Ativada por hormônio. Afrodisíaca. Por isso, extremamente popular com os locais. Curiosamente, também parece ter alguma habilidade de melhorar a memória. Pesquisa pendente de subsídio.
 
-Status do Efeito: Melhora da Memória, Aumento da Libido  
-{p}  
-<b>Stomafilla</b> [SUTOMAFIRIA HYPOGAEA]  
-Ao entrar em contato com o estômago, a erva se expande e preenche a cavidade, fazendo com que o consumidor se sinta extremamente "cheio". O impacto do uso prolongado e o nível nutricional da planta ainda não foram verificados.  
+Estado do Efeito: Melhoria de memória, reforço de libido
 
-Status do Efeito: Extremamente Saciadora  
+{p}
+<b>Stomafilla</b> [SUTOMAFIRIA HYPOGAEA]
+Ao contato com o estômago, a erva expande e enche a cavidade, levando o consumidor a se sentir muito "empanturrado". O uso a longo prazo e o nível nutricional da planta ainda estão por verificar.
 
-Conforme mais espécimes forem coletados e testados, esta breve análise será atualizada.  
+Estado do Efeito: Muito Enchente
 
-Até lá,  
 
-<i>Dr. Schmidt  
-	Philosophiae Doctor Magus</i>  
+Conforme mais espécimes forem trazidos e testados, atualizaremos este breve guia.
+
+Até lá,
+
+<i>Dr. Schmidt
+	Philosophiae Doctor Magus</i>

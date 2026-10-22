@@ -1,5 +1,5 @@
-Lembra?,,0
+Você se lembra?,,0
 
 {center}
 
-Esse foi o dia em que você segurou minha mão.
+Este foi o dia em que você pegou a minha mão.

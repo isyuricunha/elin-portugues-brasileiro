@@ -1,44 +1,47 @@
-Semanário do Aventureiro – Edição 6 《Montaria》, Repórter Especial Célia em Yoen,10,1
+Jornal do Aventureiro nº 6: Montaria,Correspondente em Yowyn Celia,10,1
 
-<i>Bem-vindo à leitura do 『Semanário do Aventureiro』. Toda semana trazemos para vocês tópicos de tirar o fôlego!
+<i>Bem-vindo ao Jornal do Aventureiro, onde cobrimos temas próximos e queridos aos seus corações valentes.</i>
 
-Desta vez estamos no mercado de leilões de Yoen, que acontece apenas algumas vezes por ano. Vamos ouvir do mestre de estábulo Paris, com mais de vinte anos de experiência, o porquê desse evento ser tão concorrido.</i>
 
-<color=brown>Célia: Muito obrigada por aceitar a entrevista, senhor mestre de estábulo. Aqui está realmente lotado!</color>
-
-Paris: É uma honra, senhorita repórter. A questão é simples: a maioria dos cavalos de Yoen é destinada à realeza, e o restante vai prioritariamente para a nobreza. Isso torna raríssima a chance de um plebeu conseguir um bom cavalo. Por isso, leilões como este atraem tantos aventureiros.
+Nesta edição, reporto de um dos poucos leilões de cavalos que Yowyn faz todo ano! Mais especificamente, entrevisto o estábulo-mestre Varis, que cria os famosos cavalos yowyn há vinte anos, sobre o porquê de serem tão cobiçados!
 {p}
-<color=brown>Célia: Poderia me contar as vantagens da montaria?</color>
+<color=brown>Celia: Obrigada, senhor estábulo-mestre. Tem muita gente aqui hoje!</color>
 
-Paris: Pois bem. Antes de tudo, a velocidade do cavalo se soma diretamente à do cavaleiro. Além disso, ataques que visariam o aventureiro às vezes atingem o cavalo no lugar. E se a montaria for uma criatura alada, o cavaleiro também pode voar junto.
+Varis: Às ordens, senhorita. Bom, a coroa tem direito sobre a maioria dos cavalos yowyn, e a nobreza escolhe depois. Não temos animais de sobra para o público aproveitar com frequência os benefícios de montar um bom cavalo, então qualquer leilão atrai muitos aventureiros.
 
-A maior vantagem da montaria é aumentar a taxa de sobrevivência. Mesmo que o cavalo seja derrubado em batalha, ele apenas desmaia temporariamente. Embora o benefício da montaria cesse nesse momento, ainda é melhor do que perder um companheiro.
+
+<color=brown>Celia: Pode nos contar alguns desses benefícios?</color>
+
+Varis: Hum. Obviamente, você anda mais rápido: até a velocidade da montaria. Também, ataques mirados em você às vezes acertam a montaria no lugar. E se estiver montando uma criatura que voa, você voa junto.
 {p}
-<color=brown>Célia: Entendi. Todo aventureiro sabe o quanto a velocidade importa numa luta.</color>
+Varis: O mais importante: mantém sua montaria viva: se a montaria cair em batalha, ela fica só nocauteada por um tempo. Você perde os benefícios de montaria, mas pelo menos não fica sem um aliado.
 
-Paris: (sorri) Exatamente. Por outro lado, se o cavalo for mais lento que o cavaleiro, a montaria se torna um fardo. Mas os cavalos de Yoen são conhecidos como os mais velozes de Tyris. Até mesmo elfos podem desfrutar dessa vantagem ao cavalgar um cavalo de Yoen.
 
-No entanto, apenas um cavalo rápido não basta para chegar até Palomya. É preciso ter a 「Habilidade de Montaria」 e, além disso, o cavalo precisa ter 「Força」 suficiente para suportar o cavaleiro. Quanto mais rápido o cavalo, maiores serão esses requisitos.
+<color=brown>Celia: E todo aventureiro conhece o valor da velocidade no combate.</color>
 
-A vantagem é que os cavalos de Yoen, por serem bem treinados, são muito mais fáceis de montar e menos exigentes nesses quesitos. Mas há criaturas no mundo que nunca deveriam ser usadas como montaria.
+Varis: (Risos) De fato, senhorita. Agora, montar algo mais lento que você te atrapalha: felizmente, os cavalos yowyn são os mais velozes de toda Tyris, então até uma fada se beneficia.
 {p}
-<color=brown>Célia: Faz todo sentido! Mas se eu tivesse que cavalgar até Palomya agora, acho que meu corpo iria se despedaçar no caminho…</color>
+Varis: Agora, não dá para simplesmente subir e cavalgar até Palmia num dia: você precisa de perícia de montaria para controlar a montaria, e a besta precisa de força suficiente para carregá-lo. Quanto mais veloz a montaria, mais de ambos é preciso. Há criaturas como os nossos cavalos yowyn criadas para facilitar a montaria, o que reduz os requisitos; em contrapartida, há bestas que são montarias péssimas e não devem ser montadas sob nenhuma circunstância.
 
-Paris: A maestria em montaria leva tempo. Só cavalgando é que se adquire o hábito. No começo, o balanço pode atrapalhar ataques, e feitiços podem falhar durante a condução. Mas, à medida que cavalo e cavaleiro se entrosam, esses problemas desaparecem. Quando a sintonia é perfeita, o cavaleiro e a montaria podem lutar lado a lado, tornando-se uma força ainda mais poderosa.
 
-<color=brown>Célia: Uau! Então até o cavalo pode lutar junto?</color>
+<color=brown>Celia: Parece bem complicado! Sei que ficaria toda dolorida se tivesse de cavalgar até Palmia neste instante!</color>
 
-Paris: Sim. Quando parado, o cavalo também ataca. Durante o movimento, ele age em sintonia com você no turno de combate. Claro, assim como o cavaleiro, o cavalo também sofre penalidades ofensivas, mas com experiência ambos superam esse obstáculo.
+Varis: Ficar bom de montaria leva tempo, mas você tem de subir no cavalo e aguentar firme. No começo você vai errar tudo: ataques perdidos e feitiços falhados, mas essas penalidades vão sumindo aos poucos conforme vocês dois aprendem a trabalhar juntos. Aliás, um aventureiro montado pode ser formidável: montaria e cavaleiro lutando lado a lado.
 {p}
-Paris: Há também a questão da aplicação da magia. Se a descrição do feitiço incluir 「afeta a montaria」, então mesmo que não seja uma magia de área, também terá efeito sobre o cavalo. Por outro lado, magias de projéteis — como as flechas arcanas — atingem tanto cavaleiro quanto montaria, dobrando o dano.
+<color=brown>Celia: Uau! A montaria também luta?</color>
 
-<color=brown>Célia: Se o cavalo precisa lutar, então também precisa de equipamentos. Como o senhor organizaria isso?</color>
+Varis: Sim, a montaria luta contanto que você esteja parado; se se mexer, ela usa o turno para seguir você. Claro, sofre as mesmas penalidades ofensivas que você, mas os dois vencem isso com a experiência.
 
-Paris: Em primeiro lugar, priorize a velocidade. Que ele receba a bênção de Luluwi, e depois equipe quantos Anéis de Velocidade puder. São caros, mas valem cada moeda. Há aventureiros sem escrúpulos que chegam a induzir mutações em seus cavalos para torná-los ainda mais rápidos… mas sobre isso, prefiro nem comentar.
+Outro detalhe: como a magia funciona em montarias: feitiços com "também se aplica à montaria" beneficiam a sua montaria sem precisar ser conjurados como feitiço de grupo. A desvantagem: feitiços de flecha acertam os dois de uma vez, causando o dobro do dano.
 {p}
-<color=brown>Célia: Entendi. Foi realmente esclarecedor. Senhor Paris, o leilão está prestes a começar, vamos encerrar por aqui a entrevista de hoje.</color>
+<color=brown>Celia: Se as montarias lutam, devem ser equipadas: como você equiparia os seus cavalos, senhor estábulo-mestre?</color>
 
-Paris: Claro, claro, senhorita repórter. Espero que consiga um bom cavalo.
+Varis: Hum. Velocidade em primeiro lugar: garantiria que a montaria esteja abençoada por Lulwy. Depois, equiparia com anéis de velocidade se possível: são caros, mas valem o investimento. Já ouvi falar de aventureiros sem escrúpulos que dão mutações de todo tipo às montarias para deixá-las ainda mais velozes, mas... prefiro não pensar muito nisso.
+{p}
+<color=brown>Celia: Entendi. Foi muita informação, Sr. Varis, mas esclarece por que a montaria é tão importante para um número crescente de aventureiros. O leilão parece prestes a começar, então encerro a entrevista aqui.</color>
 
+Varis: Um prazer, senhorita.
 
-<i>― Na próxima edição, continuaremos com a companhia do mestre de estábulo de Yoen, discutindo o tema da 「Simbiose」. Um assunto intimamente ligado à montaria!</i>
+***
+
+<i>- Na edição da próxima semana, voltaremos para uma entrevista de acompanhamento com o estábulo-mestre de Yowyn sobre simbiose, um tema intimamente ligado à montaria!</i>

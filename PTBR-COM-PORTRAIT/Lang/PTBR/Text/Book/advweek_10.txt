@@ -1,47 +1,47 @@
-Aventuras Semanais – Edição 10 《Investimentos》, Vovó Su,10,1
+Jornal do Aventureiro nº 10: Investimentos,Vovó Shu,10,1
 
-<i>Bem-vindo à leitura do 『Aventuras Semanais』. Hoje, vou responder a uma das maiores dúvidas dos aventureiros: afinal, como gastar bem o seu dinheiro?</i>
+<i>Bem-vindo ao Jornal do Aventureiro, onde respondo às perguntas dos novatos sobre dinheiro.</i>
 
-A carta desta semana vem de uma jovem da cidade portuária de Kapur:
 
-<color=blue>「Vovó Su, juntei um dinheirinho e quero investir em algum lugar. Como faço para ter o maior retorno possível?」</color>
+A carta de hoje vem de longe, de uma moça de Porto Kapul: <color=blue>"Vovó Shu, agora que tenho um dinheiro, estou pensando em investir em alguns negócios. Quais dão o melhor retorno?"</color>
+
+Ah, ser jovem, ingênua e totalmente ignorante. Moça, investimento não dá dinheiro. Você acha que joga uns orens num lojista e o coitado fica te pagando para sempre?
+{p}
+Ah, se fosse: eu teria me aposentado cinquenta anos antes. Talvez em Yerl, onde é cada um por si, funcione assim, mas aqui em Tyris do Norte ainda não trocamos nossos corações por abominações mecânicas.
+
+
+<b>Negócio vs Cidade</b>
+
+A primeira coisa que vocês novatos precisam saber: dá para investir em lojas individuais ou na cidade como um todo, com a secretária. Some o nível da loja ao da cidade e você tem o nível real.
+{p}
+A diferença pode não parecer importante, mas digamos que você goste de um negócio e queira convidar o dono para casa. Bom, se investiu na cidade, seu investimento não é transferível. O mesmo vale para investir numa loja: se acontecer qualquer coisa com o lojista, como você banir a pobre alma da sua cidade, o dinheiro não volta.
+
+Dá para ver como isso pode ser um problema, né?
+
+Outro detalhe: investimentos em cidades não contam como contribuição da guilda dos mercadores. Não me pergunte o porquê: eram as regras quando entrei e continuavam quando me aposentei.
 
 {p}
-Ahhh, juventude… tão pura, tão ingênua, tão sonhadora. Escute bem, menina: investimento não vai fazer o dinheiro se multiplicar sozinho. Você dá umas moedas para o dono da loja e espera que ele te pague dividendos pelo resto da vida? Que bobagem é essa? Se isso fosse verdade, eu já teria me aposentado há cinquenta anos!
+<b>Benefícios</b>
 
-■Lojas e cidades
+Então se investir não é para ganhar dinheiro, de que serve? Bom, lojas de nível mais alto estocam mais mercadorias, e melhores. O que "melhores" significa depende da loja: estalagens vendem pratos mais nutritivos, ferreiros carregam equipamento mais poderoso, lojas de magia estocam feitiços mais raros. Houve uma padaria promissora em Palmia na qual a Vovó Shu jogou uns milhões; quando visitei de novo, tinham o melhor pão fora do palácio.
 
-Primeiro de tudo, jovem: lembre-se que é possível investir tanto em lojas individuais quanto em cidades inteiras. Ao procurar o secretário de uma cidade, você investe no crescimento dela como um todo. Já ao falar direto com o dono da loja, o investimento faz apenas aquela loja crescer.
-
-No comércio, o tamanho de uma loja não depende só dela, mas também do tamanho da cidade.  
+Agora, não há garantia. Uma loja de nível baixo pode carregar algo raríssimo, e uma de nível alto pode não ter o que você quer; não há um ponto a partir do qual tal coisa começa a aparecer. Mesmo assim, quanto mais alto o nível da loja, mais provável que você veja o que quer, ainda que seja só por ter mais mercadorias em estoque.
 {p}
-Pensa que não faz diferença? Então você nunca tentou convidar um lojista querido para se mudar pro seu próprio território! Se você colocou rios de dinheiro na cidade e depois levou o dono da loja para a sua base, é óbvio que o bônus do investimento na cidade vai se perder, não é?
+Investir também rende influência naquela cidade: sem surpresa, sair por aí distribuindo dinheiro rende simpatia.
 
-Por outro lado, se investir apenas em uma loja, ela realmente vai prosperar rápido, mas as outras vão se desenvolver bem devagar.
 
-E aí, parece complicado, não? Pois é!  
-Ah, e outro detalhe: investimentos em cidades não contam como contribuição para a Guilda dos Mercadores. Pergunta o porquê? Porque quando eu mesma comecei a batalhar nesse ramo, a regra já era essa, simples assim!
+<b>Dicas de Investimento</b>
 
+Agora, novata, a Vovó Shu vai ser direta: de qualquer jeito, investir vai custar MUITO dinheiro, e você nunca terá o bastante. Dito isso, há jeitos de fazer seus orens renderem um pouco mais.
+
+Todo mundo sabe que ser bom em investir barateia o processo. O que não sabem é que ter uma cara bonita também ajuda. Carisma vale metade, mas estar com a aparência em dia é muito mais fácil que saber o que aquelas palavras financeiras compridas que saem da sua boca significam.
 {p}
-■Benefícios
+Investir numa cidade e nas lojas dela conta separadamente: se o custo de um dos dois subir demais, vale trocar para o outro por um tempo.
 
-Então, afinal, pra que colocar dinheiro em investimento? A resposta é simples: lojas maiores oferecem mais variedade e produtos de maior qualidade. Claro que o que significa “melhor” depende de cada tipo de loja. Estalagens passam a servir refeições mais nutritivas, ferreiros vendem armas mais poderosas, lojas de magia oferecem grimórios mais raros. Eu mesma já investi milhões numa padaria em Palomia e, quando voltei, o pão que vendiam lá era digno de um banquete real.
+Alguns tipos de loja têm um teto de qualidade de produtos. Outros não têm limite. Não continue investindo no primeiro esperando produtos melhores nas prateleiras.
 
-Mas investimento nunca é garantia absoluta. Às vezes até uma lojinha pequena pode aparecer com mercadorias raríssimas, e lojas enormes podem ter só coisa comum. O que muda é que, com maior escala, aumenta a quantidade de itens — e, junto dela, a chance de encontrar algo especial.
+Esses são todos os conselhos da Vovó Shu, simples o bastante até para a minha neta com cara de vaca entender. Agora vá e torne-se um pilar da economia local!
 
-Outro benefício é o prestígio: investir aumenta a sua influência naquela cidade. Afinal, onde você gasta, lá você é bem-vindo!
+***
 
-{p}
-■Dicas de investimento
-
-Sendo sincera: investimento é um poço sem fundo. Não importa quanto dinheiro você tenha, sempre vai parecer pouco. Ainda assim, existem formas de investir com eficiência.
-
-Primeiro: quanto maior o nível da sua habilidade 「Investimento」, menor o custo. Segundo: quase ninguém sabe, mas a aparência também influencia! 「Carisma」 reduz o preço dos investimentos, mesmo que apenas pela metade da eficiência da habilidade. Mas, convenhamos, sorrir com charme é muito mais fácil do que estudar finanças complicadas.
-
-Equilibre bem os investimentos entre lojas e cidades. Quando um lado ficar caro demais, passe a investir no outro.  
-{p}
-E lembre-se: cada loja tem limites de quantidade e qualidade. Jogar dinheiro em um comércio sem futuro é puro desperdício.
-
-E é isso! Até minha neta cabeça-dura entenderia essas dicas simples. Agora vá lá e torne-se um verdadeiro pilar da economia!
-
-<i>Na próxima edição, visitaremos a Guilda dos Magos para aprender sobre 「Magia em Equipe」!</i>
+<i>- Na edição da próxima semana, vamos à guilda dos magos para aprender os detalhes finos da conjuração em grupo!</i>

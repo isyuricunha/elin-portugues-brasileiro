@@ -1,50 +1,48 @@
-Revista do Aventureiro - Edição 4 《Estados Anormais》, Irmã Thérèse,10,1
+Jornal do Aventureiro nº 4: Estados,Madre Therese,10,1
 
-<i>Bem-vindo à 『Revista do Aventureiro』. Todas as semanas traremos para vocês, aventureiros, temas de tirar o fôlego!  
+<i>Bem-vindo ao Jornal do Aventureiro, onde cobrimos temas próximos e queridos aos seus corações valentes.
 
-Nesta edição, trazemos uma palestra da Irmã Thérèse, da Igreja de Jure, sobre a prevenção e o tratamento de atributos e estados anormais!</i>
+Nesta semana, convidamos a Madre Therese, da Igreja de Jure, para escrever sobre prevenir e curar estados elementais.</i>
 
 
-Pois bem, gatinhos perdidos. Venham até a luz! Participar de uma palestra como esta faz parte das atividades comunitárias mensais da nossa Igreja. A Igreja de Jure sempre mantém abertas as portas da cura para os doentes e feridos. Mas claro, o ideal é que todos se mantenham saudáveis e não precisem dos nossos cuidados.  
-
+Vinde, gatinhos desgarrados, eu vos guiarei à luz. Como parte do nosso serviço comunitário mensal, a Igreja de Jure realiza trabalho de campo entre os aventureiros. Enquanto as nossas portas estão sempre abertas aos doentes e feridos, esperamos que permaneçam saudáveis e nunca precisem dos nossos serviços.
 {p}
-■ Sobre os Estados Anormais  
-Deixe-me esclarecer: muitos aventureiros confundem estados anormais causados por atributos com maldições.  
-Um estado anormal é um efeito aplicado quando se recebe dano de um determinado atributo. Já as maldições são efeitos causados por magias específicas. Logo, os métodos de prevenção e tratamento são diferentes.  
+<b>Estados</b>
 
-A intensidade de um estado anormal é proporcional ao poder do atributo no ataque, e sofre ajustes dependendo do tipo de golpe. Magias de contato, por exemplo, têm valores de ajuste mais altos, sendo muito mais eficazes em causar estados anormais do que ataques com espada.  
+É preciso passar por isto rapidamente, porque muitos aventureiros confundem estados elementais com maldições. Estados são efeitos associados a certos elementos, aplicados quando alguém sofre dano do elemento em questão. Já as maldições são efeitos causados por feitiços únicos. A distinção importa porque estados e maldições pedem métodos diferentes de prevenção e tratamento.
 
-Se você for atingido repetidamente pelo mesmo atributo sem se defender, o estado anormal se acumulará, podendo evoluir para algo fatal. Muitos novatos já tombaram sem reação, paralisados diversas vezes por Olhos Flutuantes, até que a morte os levou…  
-
+A severidade de um estado deriva do poder elemental do ataque, proporcional ao dano dele e ajustado pela fonte. Por exemplo, feitiços de toque infligem estados mais facilmente que feitiços de espada.
 {p}
-■ Prevenção  
-Na Igreja de Jure, temos um antigo ditado: 「Prevenir é melhor do que remediar」.  
-Estados anormais que impedem ação direta representam ameaças letais, e por isso a prevenção é fundamental.  
+Sem tratamento, os estados pioram com novos ataques elementais, podendo ter efeitos desastrosos. Aventureiros novatos demais já perderam a vida para olhos flutuantes que os paralisavam sem parar, deixando-os indefesos.
 
-O método mais eficiente são os equipamentos com encantos que anulam estados anormais, como Imunidade a Veneno ou Imunidade a Paralisia. Se possível, equipe múltiplas imunidades diferentes. Mas atenção: imunidades repetidas não têm efeito adicional. Muitos aventureiros tratam a escolha dos encantos certos como um verdadeiro quebra-cabeça estratégico.  
 
-O segundo pilar defensivo é a resistência elemental. Ela reduz o dano do atributo correspondente e, ao enfraquecer sua potência, também evita estados anormais ligados a ele. Isso é especialmente útil contra estados sem imunidade direta, como 「Atordoamento」.  
+<b>Prevenção</b>
 
+É ditado comum na Igreja de Jure que prevenir é melhor que curar, e com estados é igual. Não sofrer um estado desde o início economiza tempo precioso no combate, quando cada instante conta, principalmente nos estados que impedem você de agir.
 {p}
-O terceiro método é recorrer a magias de proteção específicas. 「Olhos de Gato」, por exemplo, previne a cegueira. Use essas magias para cobrir lacunas que seu equipamento não protege.  
+Sua primeira linha de defesa contra estados são os encantamentos de equipamento que negam diretamente estados como veneno e paralisia. Ter um desses encantamentos para cada estado é vital, mas encantamentos extras não dão benefício adicional, então os aventureiros costumam comparar a um quebra-cabeça.
 
-Se não houver outra saída, resta confiar nas resistências oferecidas pelos atributos pessoais. A cegueira, por exemplo, pode ser resistida através do atributo 「Percepção」.  
-Sigam os ensinamentos de Lady Jure: trabalhem bem, alimentem-se bem e mantenham seus corpos saudáveis. Esse é o melhor escudo contra os males do mundo.  
+A próxima camada de proteção vem das resistências elementais: quanto menor o dano de um ataque, menor o poder elemental dele. Ficar imune a um elemento também o protege do estado associado; isso ajuda nos estados como atordoamento, que não têm encantamento de negação.
 
+Terceiro, vários feitiços negam estados específicos. Por exemplo, olho de gato previne cegueira. Use-os para tapar buracos que o equipamento não cobre.
 {p}
-■ Tratamento  
-E se, mesmo assim, você for afetado por um estado anormal, não entre em pânico. Ainda há formas de reagir.  
+Por fim, quando tudo falhar, seus atributos podem conferir certo grau de resistência a vários estados. Por exemplo, a cegueira é resistida pela percepção. Como todo mundo, os aventureiros se beneficiam dos ensinamentos da Lady Jure: trabalhem duro, comam bem, e assim construam resistência inata aos estados nocivos.
 
-Alguns estados podem ser dissipados diretamente com magia — 「Coragem」, por exemplo, remove a Confusão.  
 
-Qualquer método de recuperação reduz a intensidade de estados anormais. Se não houver necessidade de curar HP, 「Restauração Física」 e 「Restauração Espiritual」 ainda podem ser usadas para eliminar rapidamente os efeitos.  
+<b>Cura</b>
 
-Há também métodos especiais de cura: ataques não-mentais podem acordar quem está dormindo; 「Molhado」 pode apagar queimaduras de fogo; Ervas Vermelhas curam sangramento; Ervas Azuis neutralizam veneno.  
+Mesmo se sofrer um estado, não entre em pânico. Ainda dá para remediar a situação.
 
+Conjurar um feitiço que anula um estado o cura imediatamente; por exemplo, conjurar herói cura imediatamente a confusão.
 {p}
-Já para estados anormais que impedem movimento, a ajuda dos companheiros é indispensável.  
+Qualquer fonte de cura reduz a força do estado, até removê-lo. Porém, se você não precisa recuperar HP, usar restaurar corpo ou mente, conforme o caso, é muito mais eficaz para curar estados.
 
-…Agradeço sua leitura. Que cada um de vocês seja sempre protegido pela graça de Lady Jure.  
+Certos estados podem ser removidos de jeitos especiais. Por exemplo, tomar dano não-mental acorda os adormecidos, e estar molhado neutraliza a queimadura. Ervas vermelhas e azuis curam sangramento e veneno.
 
+Como vários estados impedem você de agir, ter amigos por perto que ajudem numa situação ruim é sempre bom.
+{p}
+Obrigada pela paciência. Rezarei para que todos os que leiam permaneçam na graça da Lady Jure.
 
-<i>- Na próxima edição, veremos como utilizar estados anormais comuns como armas a favor da aventura.</i>
+***
+
+<i>- Na edição da próxima semana, veremos como a aplicação prática de um estado simples pode ajudar os aventureiros!</i>

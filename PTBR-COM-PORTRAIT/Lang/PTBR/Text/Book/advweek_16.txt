@@ -1,41 +1,41 @@
-Semanário do Aventureiro #16: Armas de Longo Alcance,Sargento Kzar,10,1
+Jornal do Aventureiro nº 16: Armas à Distância,Sargento Kzar,10,1
 
-<i>Bem-vindo ao Semanário do Aventureiro, onde cobrimos tópicos próximos e queridos aos seus corações corajosos.</i>
+<i>Bem-vindo ao Jornal do Aventureiro, onde cobrimos temas próximos e queridos aos seus corações valentes.</i>
 
 
-E aí, garotada. Hans me pediu para informar vocês jovens aventureiros sobre armas de longo alcance — arcos, bestas e armas de fogo. Embora as Forças Especiais de Palmia sejam mais conhecidas por tiroteios, outras armas também têm seu lugar. Armas de fogo precisam de recarga, arcos e bestas não; enquanto recarrega, você pode agir mas não pode disparar armas de longo alcance.
+Oi, moleques. O Hans me pediu para orientar vocês sobre armas à distância: arcos, bestas e armas de fogo. As Forças Especiais de Palmia são famosas pelo tiro, mas as outras armas também têm seu lugar. Armas de fogo precisam recarregar; arcos e bestas não. Enquanto recarrega, você age mas não dispara.
 
 {p}
 <b>Alcance Ideal</b>
 
-A primeira coisa sobre armas de longo alcance é que cada uma tem um alcance ideal. Quanto mais a distância entre você e seu alvo se desvia desse número, menos dano você causará. Por exemplo, espingardas são melhores disparadas à queima-roupa, enquanto railguns funcionam melhor à distância. Constantemente decidir entre disparar ou reposicionar pode ser problemático, então muitos aventureiros ignoram o alcance ideal, mas atenção aos detalhes compensa no combate de longo alcance.
+A primeira coisa sobre armas à distância: cada uma tem um alcance ideal. Quanto mais a distância até o alvo se desvia desse número, menos dano você causa. Por exemplo, escopetas são melhores à queima-roupa, enquanto canhões elétricos brilham à distância. Decidir entre disparar ou reposicionar o tempo todo é chato, e muitos aventureiros ignoram o alcance ideal, mas atenção aos detalhes compensa no combate à distância.
 {p}
 <b>Munição</b>
 
-Munição — arcos precisam de flechas, bestas de virotes, e armas de fogo de balas, foguetes ou células de energia dependendo do seu tipo. Não misture eles! Embora você precise de munição para disparar, seus aliados têm a própria deles; no entanto, eles usarão qualquer uma que você der a eles.
+Munição: arcos precisam de flechas, bestas de virotes, e armas de fogo de balas, foguetes ou células de energia, dependendo do tipo. Não misture! Você precisa de munição para disparar, mas seus aliados têm as deles; ainda assim, usam qualquer uma que você der.
 
-Temos recrutas treinando artesanato; munição feita à mão melhora vastamente o desempenho em combate. Quanto maior a habilidade de artesanato, mais dano a munição artesanal causa, com efeitos elementais mais fortes. Material importa: munição de rubynus é precisa, adamantita causa dano, enquanto cobre, ônix e tal causam dano elemental e infligem estados. Tenha uma variedade de munição — e idealmente, armas — à mão para lidar com diferentes situações.
+Mandamos os recrutas treinar fabricação: munição artesanal melhora muito o desempenho em combate. Quanto maior a perícia de fabricação, mais dano a munição feita causa, com efeitos elementais mais fortes. O material importa: munição de rubinus é precisa, de adamantita causa mais dano, enquanto cobre, ônix e afins causam dano elemental e infligem estados. Tenha munição variada, e idealmente armas também, para lidar com situações diferentes.
 
-Conserve munição onde puder: embora você possa não querer usar modificadores de conservação de munição, todos podem aprender a usar munição barata para exploração e guardar as coisas especiais para inimigos difíceis.
+Economize onde puder: pode ser que não queira usar mods de conservação de munição, mas todo mundo aprende a usar munição barata na exploração e guardar as especiais para inimigos difíceis.
 {p}
 <b>Modificadores</b>
 
-Comparado ao corpo a corpo, armas de longo alcance são muito mais customizáveis. Toda arma de longo alcance tem slots de modificação de acordo com sua qualidade — raramente até 6 em armas divinas. Kits de modificação podem então ser instalados nesses slots para fornecer vários efeitos como recuo, recarga rápida, ou conservação de munição.
+Comparadas ao corpo a corpo, as armas à distância são bem mais customizáveis. Cada arma tem slots de modificação conforme a qualidade: raramente até 6 nas divinas. Kits de modificação podem ser instalados nesses slots para vários efeitos: repulsão, recarga rápida, conservação de munição.
 
-Você pode comprar kits de modificação de armeiros, ou extraí-los de armas saqueadas. Desmantelar armas com um martelo recuperará os kits de modificação, mas extração segura pode ser realizada com pó de quebra em uma máquina de processamento de barril.
+Kits de modificação se compram de armeiros, ou se extraem de armas saqueadas. Desmontar armas com martelo recupera os kits, mas extração segura pode ser feita com pó de quebra numa máquina de processamento de barril.
 {p}
 <b>Bengalas</b>
 
-Já que bengalas ainda são armas de longo alcance, sou obrigado a cobri-las brevemente neste artigo. Elas usam MP como munição, o que é bom para aventureiros novatos pobres, mas ruim para aqueles que querem usar munição artesanal por seus bônus. Bengalas também têm acesso a alguns elementos que materiais não têm.
+Como bengalas ainda são armas à distância, sou obrigado a cobri-las brevemente. Usam MP como munição: bom para novatos pobres, ruim para quem quer usar munição fabricada pelos bônus. Bengalas também têm acesso a alguns elementos que materiais não têm.
 
-A maioria dos modificadores que funcionam em armas de fogo e arcos também funcionam em bengalas, embora com algumas mudanças; por exemplo, conservação de munição reduz os custos de MP de usar bengalas.
+A maioria dos modificadores que funcionam em armas de fogo e arcos também funcionam em bengalas, com mudanças; por exemplo, conservação de munição reduz o custo de MP do uso de bengalas.
 {p}
 <b>Conclusão</b>
 
-Devido à munição especializada e kits de modificação, armas de longo alcance se beneficiam de maneira direta da proficiência em artesanato. Qualquer aventureiro arqueiro ou atirador deve gerenciar sua logística e ter materiais à mão para suas necessidades; eu não sugeriria levar armas de longo alcance a sério até que um suprimento estável possa ser estabelecido, mas as recompensas valem a pena.
+Por causa da munição especializada e dos kits de modificação, as armas à distância se beneficiam diretamente da perícia de fabricação. Qualquer arqueiro ou atirador deve gerenciar a logística e ter materiais à mão; não sugeriria levar armas à distância a sério até poder estabelecer fornecimento constante, mas a recompensa vale.
 
-Assim como com corpo a corpo, ter uma variedade de equipamento à mão dá a flexibilidade para lidar com diferentes situações. Armas de longo alcance não têm estilos de arma, então trocar entre elas é muito mais fácil.
+Como no corpo a corpo, ter equipamento variado à mão dá flexibilidade para situações diferentes. Armas à distância não têm estilos, então alternar entre elas é bem mais fácil.
 
 ***
 
-<i>- Na nossa próxima edição, vamos olhar para alguns uh, usos <b>legais</b> de habilidades de ladrões.</i>
+<i>- Na próxima edição, veremos alguns usos, hum, <b>legais</b> das perícias de ladrão.</i>

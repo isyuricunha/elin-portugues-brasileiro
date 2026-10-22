@@ -1,27 +1,27 @@
-{topic,Conteúdo Planejado Durante o Acesso Antecipado (EA)}
-O conteúdo principal planejado para introdução durante o Acesso Antecipado é o seguinte:
+{topic,Conteúdo Planejado Durante o Acesso Antecipado(EA)}
+O conteúdo principal planejado para introdução pelo Acesso Antecipado é o seguinte:
 
-- Conclusão das Missões Domésticas e Missões Principais  
+- Conclusão das Missões de Lar e das Missões Principais  
 - Adição significativa de Missões Secundárias  
 - Implementação de todos os Desejos dos Apoiadores  
-- Aprimoramento dos recursos relacionados à criação de Mods  
+- Melhorias nas funções relacionadas à criação de Mods  
 
-Paralelamente a isso, planejamos continuar adicionando novos recursos, ajustando o equilíbrio do jogo e expandindo o conteúdo, incluindo monstros e itens, assim como temos feito até agora.
+Em paralelo com isto, planejamos continuar adicionando funções novas, ajustando o balanceamento do jogo e expandindo o conteúdo do jogo, incluindo monstros e itens, como temos feito até agora.
 
-{topic,Prazo do Acesso Antecipado}
-Nosso objetivo é concluir o jogo em aproximadamente 1 a 2 anos. É claro que, mesmo após a conclusão, continuaremos a atualizar e expandir o mundo. O prazo de conclusão (especialmente para o enredo) pode ser ligeiramente estendido dependendo do progresso do desenvolvimento.
+{topic,Prazo da EA}
+Miramos um tempo de conclusão de cerca de 1 a 2 anos. Claro, mesmo depois da conclusão, continuaremos a atualizar e a expandir o mundo. O tempo de conclusão (particularmente o do cenário) pode ser estendido um pouco dependendo do progresso do desenvolvimento.
 
-{topic,Mudanças Esperadas Durante o EA}
-Alguns itens e receitas exclusivas foram temporariamente disponibilizados em lojas de NPCs para melhorar a jogabilidade. No futuro, eles serão alterados para recompensas de missões, conforme novas Missões Secundárias forem adicionadas.
+{topic,Mudanças Esperadas Durante a EA}
+Alguns itens e receitas únicos foram disponibilizados temporariamente nas lojas de NPC para melhorar a jogabilidade. No futuro, serão trocados por recompensas de missões, alinhados à adição das Missões Secundárias.
 
-Além disso, o sistema de gerenciamento da base pode sofrer mudanças significativas. Nosso objetivo é manter a compatibilidade dos dados salvos durante todo o Acesso Antecipado e após o lançamento completo do jogo, sempre que possível.
+Além disso, o sistema de gerenciamento da base pode passar por mudanças significativas. Miramos manter a compatibilidade dos dados de salvamento ao longo do Acesso Antecipado e depois do lançamento completo do jogo, tanto quanto possível.
 
-{topic,Suporte ao Usuário e Comunidade}
-Este projeto, incluindo desenvolvimento, suporte ao usuário e publicação, está sendo conduzido por uma única pessoa. Embora pretendamos responder da melhor forma possível, pedimos sua compreensão, pois, em comparação com a maioria dos jogos, nossos recursos para suporte podem ser mais limitados. Além disso, pode ser difícil para o desenvolvedor monitorar e participar regularmente de comunidades como os fóruns da Steam.
+{topic, Sobre o Apoio a Usuários e à Comunidade}
+Este projeto, incluindo desenvolvimento, apoio a usuários e publicação, está sendo conduzido por um único indivíduo. Embora tenhamos a intenção de responder com sinceridade, pedimos gentilmente a sua compreensão de que, comparado à maioria dos jogos, os nossos recursos de apoio podem ser mais limitados. Além disso, pode ser difícil para o desenvolvedor monitorar e participar regularmente de comunidades como os fóruns da Steam.
 
-Também pedimos paciência caso as atualizações sejam adiadas por um período devido à saúde do desenvolvedor ou outras circunstâncias.
+Também agradecemos a sua paciência se as atualizações atrasarem por um período por causa da saúde do desenvolvedor ou de outras circunstâncias.
 
-{topic,Criações de Fãs e Transmissões}
-Você é livre para criar conteúdos de fãs ou fazer transmissões relacionadas a Elin, assim como ao jogo anterior, Elona, tanto durante o Acesso Antecipado quanto após a conclusão do jogo. Não há restrições, nem necessidade de relatórios ou permissões.
+{topic,Criações de Fã e Streaming}
+Você está livre para fazer criações de fã ou streaming relacionados a Elin, assim como ao jogo anterior Elona, tanto durante o Acesso Antecipado quanto depois de o jogo ser concluído. Não há restrições, e não são exigidos reportes nem permissões.
 
-Para conteúdos relacionados a Elin, como criações de fãs, transmissões ou guias estratégicos, você também pode usar livremente imagens do jogo. No entanto, observe que Elin utiliza alguns ativos gratuitos. Para mais detalhes, consulte os créditos na seção de Ajuda.
+Para conteúdos relacionados a Elin, como criações de fã, streaming ou guias de estratégia, você também pode usar livremente imagens de dentro do jogo. Porém, note que Elin utiliza alguns recursos gratuitos. Para detalhes, confira os créditos na seção de Ajuda.

@@ -1,26 +1,19 @@
-{topic, Bem-vindo ao Demo de Elin!}
-Bem-vindo ao Demo de Elin!
+{topic, Bem-vindo à Demo de Elin!}
+Bem-vindo à Demo de Elin!
 
-O conteúdo deste demo reflete o estado do jogo em 2 de dezembro de 2024 e está sujeito a atualizações significativas no futuro.
+O conteúdo desta demo reflete o estado do jogo até 2 de dezembro de 2024, e está sujeito a atualizações significativas no futuro.
 
-{topic, Tradução para Português Brasileiro}
-E ai!
-Eu sou o Yuri, eu traduzi esse jogo para você, para mim e para quem mais quiser.
-Se divirta! E, se puder, considere fazer uma doação, pois atualmente, dependo disso.
-{link,Discord - Comunidade、Perguntas、Conversas em Geral,https://discord.com/invite/aYbWBr4}
-{link,Website - Meus links, projetos, e infos,https://yuricunha.com}
+Há limitações na versão demo:
 
-Existem limitações na versão demo:
+* Os jogadores podem ganhar até 10 pontos de dote (níveis).
+* O nível da base tem teto no Nível 3.
+* As funções de rede estão desativadas.
 
-* Jogadores só podem ganhar até 10 pontos de façanha (níveis).
-* O nível da base está limitado ao Nível 3.
-* Recursos de rede estão desativados.
+Com calma e aproveite para explorar o mundo de Ylva!
 
-Tire o tempo que quiser e aproveite para explorar o mundo de Ylva!
+<i>※ Note que Elin está em Acesso Antecipado e ainda em pleno desenvolvimento.</i>
 
-<i>※ Observe que Elin está em Acesso Antecipado (EA) e ainda em intenso desenvolvimento.</i>
-
-{topic, Informações sobre Elin}
-{link,Discord - Comunidade Elin、Perguntas、Discussão Geral,https://discord.gg/elona}
-{link,Ylvapedia - Wiki do Elin、Guia、Registro de Atualizações,https://ylvapedia.wiki/wiki/Main_Page}
-{link,Sala do Dev (Oficial) - Links do Elin、Solução de Problemas、e informações sobre Mods,http://ylvania.org/elin_dev_e.html}
+{topic, Informação de Elin}
+{link,Discord - Comunidade、Perguntas、Conversas em Geral,https://discord.gg/elona}
+{link,Ylvapedia - Wiki do Elin、Walkthrough、Registro de Atualizações,https://ylvapedia.wiki/wiki/Main_Page}
+{link,Sala de Dev (Oficial) - Links do Elin、Solução de Problemas、e Informação de Mods,http://ylvania.org/elin_dev_e.html}
