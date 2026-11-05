@@ -1,6 +1,9 @@
 """Verified PTBR GitHub Releases. CI invokes main; tests exercise HTTP paths."""
 from __future__ import annotations
 
+from io import BytesIO
+from zipfile import ZIP_DEFLATED, ZipFile, ZipInfo
+
 import json
 import os
 from pathlib import Path
@@ -127,7 +130,7 @@ def changelog(project, previous, current, receipt):
         file = rows[rid]["source_file"]
         label = "Tabelas do jogo" if file.startswith("Game/") else categories.get(file.split("/")[0], "Outros textos")
         counts[label] = counts.get(label, 0) + 1
-    body = (f"## Download\n\nBaixe **PTBR.zip**. O pacote tem como referência Elin **{receipt['version']}**. "
+    body = (f"## Download\n\nBaixe **PTBR.zip** para instalar só a tradução ou **PTBR-COM-PORTRAIT.zip** para incluir os retratos. O pacote tem como referência Elin **{receipt['version']}**. "
             "Os arquivos Source code contêm o repositório.\n\n## O que mudou\n\n")
     if not previous:
         body += "Primeiro pacote validado pelo novo fluxo de manutenção da tradução.\n\n"
@@ -171,8 +174,33 @@ def docs_status(project, published):
             "read_only": True}
 
 
+ASSET_NAMES = {"PTBR.zip", "PTBR-COM-PORTRAIT.zip"}
+
+
+def release_archives(project):
+    base = project.archive()
+    portraits = project.path("Portrait")
+    files = sorted(p for p in portraits.rglob("*") if p.is_file())
+    if not files:
+        raise Invalid("Missing portrait sources")
+    variant = BytesIO()
+    with ZipFile(BytesIO(base)) as original, ZipFile(variant, "w", ZIP_DEFLATED) as output:
+        for name in original.namelist():
+            output.writestr(ZipInfo(name), original.read(name), compress_type=ZIP_DEFLATED)
+        for file in files:
+            name = file.relative_to(project.root).as_posix()
+            output.writestr(ZipInfo(name), project.path(name).read_bytes(), compress_type=ZIP_DEFLATED)
+    with ZipFile(variant) as output:
+        if output.testzip():
+            raise Invalid("Corrupt portrait archive")
+    return {"PTBR.zip": base, "PTBR-COM-PORTRAIT.zip": variant.getvalue()}
+
+
 def publish(project, client, commit):
     receipt = project.verify_output()
+    payloads = release_archives(project)
+    asset_hashes = {name: sha(content) for name, content in payloads.items()}
+    fingerprint = "<!-- ptbr-fingerprint: " + sha(json_bytes(asset_hashes)) + " -->"
     if not re.fullmatch(r"[0-9a-f]{40}", commit):
         raise Invalid("Invalid exact commit SHA")
     if git(project.root, "rev-parse", "HEAD").stdout.decode().strip() != commit:
@@ -225,13 +253,17 @@ def publish(project, client, commit):
                         for name in prior_outputs}
         if prior_outputs != prior_actual:
             raise Invalid("Previous release manifest does not match tagged native files")
-        if prior["outputs"] == receipt["outputs"]:
+        if prior_outputs == receipt["outputs"]:
             confirmed = client.request("GET", f"/releases/{previous['id']}")
-            if {a.get("name") for a in confirmed.get("assets", [])} != {"PTBR.zip"}:
+            assets = confirmed.get("assets", [])
+            names = {asset["name"] for asset in assets}
+            if names - ASSET_NAMES:
                 raise Invalid("Unexpected public release asset set")
-            if confirmed.get("draft") or not any(a.get("name") == "PTBR.zip" and a.get("state") == "uploaded" for a in confirmed.get("assets", [])):
-                raise Invalid("Published release lacks a confirmed PTBR.zip")
-            return {"status": "unchanged", "tag": tag, "docs": docs_status(project, confirmed)}
+            if not confirmed.get("draft") and names == ASSET_NAMES and all(
+                a.get("state") == "uploaded" and a.get("digest") == "sha256:" + asset_hashes[a["name"]]
+                for a in assets
+            ):
+                return {"status": "unchanged", "tag": tag, "docs": docs_status(project, confirmed)}
         a, b, c = map(int, SEMVER.fullmatch(tag).groups())
         version = f"v{a}.{b}.{c+1}"
     else:
@@ -245,7 +277,7 @@ def publish(project, client, commit):
     if existing and existing != commit:
         raise Invalid("TAG_CONFLICT: existing version points to another commit; never retag")
     body = changelog(project, client.tag_sha(previous["tag_name"]) if previous else None, commit, receipt)
-    fingerprint = "<!-- ptbr-fingerprint: "+sha(json_bytes(receipt["outputs"]))+" -->"
+    body = body.split("<!-- ptbr-fingerprint:", 1)[0] + fingerprint
     drafts = [r for r in releases if r["tag_name"] == version]
     if len(drafts) > 1:
         raise Invalid("Ambiguous release candidates")
@@ -255,9 +287,7 @@ def publish(project, client, commit):
             raise Invalid("Interrupted release does not belong to this build/commit")
     else:
         release = client.request("POST", "/releases", {"tag_name": version, "target_commitish": commit,
-                    "name": "Elin â€” PT-BR "+version, "body": body, "draft": True, "prerelease": False})
-    archive_bytes = project.archive()
-    payloads = {"PTBR.zip": archive_bytes}
+                    "name": "Elin — PT-BR "+version, "body": body, "draft": True, "prerelease": False})
     assets = client.request("GET", f"/releases/{release['id']}/assets?per_page=100")
     if any(a.get("name") not in payloads for a in assets):
         raise Invalid("Unexpected draft asset; inspect before publication")
@@ -278,7 +308,7 @@ def publish(project, client, commit):
     current_head()
     client.request("PATCH", f"/releases/{release['id']}", {"draft": False, "body": body})
     published = client.request("GET", f"/releases/{release['id']}")
-    if (set(a.get("name") for a in published.get("assets", [])) != {"PTBR.zip"}
+    if (set(a.get("name") for a in published.get("assets", [])) != ASSET_NAMES
             or published.get("draft") or published.get("tag_name") != version
             or client.tag_sha(version) != commit
             or any(not any(a.get("name") == name and a.get("state") == "uploaded"

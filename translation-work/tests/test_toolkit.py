@@ -168,6 +168,7 @@ class Fixture(unittest.TestCase):
         return self.git("rev-parse", "HEAD").decode().strip()
 
     def test_release_http_end_to_end(self):
+        self.write("Portrait/example.png", b"portrait fixture")
         self.p.build()
         self.git("init", "-qb", "main")
         self.write("LICENSE", b"license fixture")
@@ -182,7 +183,7 @@ class Fixture(unittest.TestCase):
         server.fail_upload = False
         self.assertEqual(release.publish(self.p, client, head)["tag"], "v1.0.0")
         self.assertEqual(release.publish(self.p, client, head)["status"], "unchanged")
-        self.assertEqual([x["name"] for x in server.releases[0]["assets"]], ["PTBR.zip"])
+        self.assertEqual({x["name"] for x in server.releases[0]["assets"]}, release.ASSET_NAMES)
         self.assertIn("https://discord.gg/uFEwSMwUYb", server.releases[0]["body"])
         self.change(self.row, "Chama")
         self.p.build()

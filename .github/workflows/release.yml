@@ -3,7 +3,7 @@ name: Release PT-BR
 on:
   push:
     branches: [main]
-    paths: ['PTBR/**']
+    paths: ['PTBR/**', 'Portrait/**', '.github/workflows/release.yml', 'translation-work/release.py', 'translation-work/build-manifest.json']
   workflow_dispatch:
 
 concurrency:
@@ -24,7 +24,19 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Validate and publish
+      - name: Validate translation output
+        run: python -B translation-work/toolkit.py verify-output > /dev/null
+      - name: Package and publish
         env:
           GITHUB_TOKEN: ${{ github.token }}
-        run: python -B translation-work/release.py
+        run: |
+          if ! python -B translation-work/release.py > release-result.log 2>&1; then
+            cat release-result.log
+            while IFS= read -r line; do
+              line="${line//%/%25}"
+              line="${line//$'\r'/%0D}"
+              printf '::error::%s\n' "$line"
+            done < release-result.log
+            exit 1
+          fi
+          cat release-result.log

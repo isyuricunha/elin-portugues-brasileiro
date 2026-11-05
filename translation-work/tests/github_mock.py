@@ -56,7 +56,7 @@ class GitHubMock:
                 else:
                     assert parsed.netloc == "uploads.github.com"
                     asset_name = urllib.parse.parse_qs(parsed.query)["name"][0]
-                    assert asset_name in {"PTBR.zip"}
+                    assert asset_name in release.ASSET_NAMES
                     if self.fail_upload or self.fail_upload_name == asset_name:
                         return 403, b'{}', {}
                     result = {"name": asset_name, "id": 100+rid+len(r["assets"]), "state": "uploaded",

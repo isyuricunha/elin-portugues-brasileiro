@@ -18,7 +18,7 @@ No RPG de Lafrontier, você pode explorar ruínas, montar uma fazenda ou transfo
 
 ## Download
 
-Para instalação manual, abra a [lista de Releases](https://github.com/isyuricunha/elin-portugues-brasileiro/releases), escolha uma versão compatível com seu jogo e baixe **PTBR.zip** em *Assets*. Os arquivos *Source code* são cópias do repositório. Se a [Oficina Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3456521151) exibir a opção de inscrição, você também pode instalar por lá.
+Para instalação manual, abra a [lista de Releases](https://github.com/isyuricunha/elin-portugues-brasileiro/releases), escolha uma versão compatível com seu jogo e baixe **PTBR.zip** (só tradução) ou **PTBR-COM-PORTRAIT.zip** (tradução com retratos) em *Assets*. Os arquivos *Source code* são cópias do repositório. Se a [Oficina Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3456521151) exibir a opção de inscrição, você também pode instalar por lá.
 
 ## Instalação
 

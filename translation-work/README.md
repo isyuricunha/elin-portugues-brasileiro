@@ -40,6 +40,6 @@ A toolkit mantém até 10 transações completas, com teto de 512 MiB e reserva 
 
 ## Build e publicação
 
-O mod contém `package.xml` e `Lang/PTBR`; no jogo, a pasta do mod fica em `Package/PTBR`. A publicação é disparada no branch `main` quando `PTBR/` muda. A verificação usa o manifesto e hashes de arquivos; o CI não reconstrói as planilhas. O ZIP contém os arquivos do mod na raiz. A versão incrementa o patch SemVer e as tags existentes são preservados. A variante histórica com retratos e os ZIPs antigos permanecem como referência fora da publicação automática. O fluxo não foi executado no GitHub nesta migração.
+O mod contém `package.xml` e `Lang/PTBR`; no jogo, a pasta do mod fica em `Package/PTBR`. A publicação é disparada no branch `main` quando `PTBR/` muda. A verificação usa o manifesto e hashes de arquivos; o CI não reconstrói as planilhas. O ZIP contém os arquivos do mod na raiz. A versão incrementa o patch SemVer e as tags existentes são preservados. O Actions gera dois anexos em cada Release. `PTBR.zip` contém a tradução e `PTBR-COM-PORTRAIT.zip` inclui também `Portrait/`. Os ZIPs ficam apenas na Release. O fluxo não foi executado no GitHub nesta migração.
 
 Os [avisos da licença](../LICENSE), [permissão adicional](../GAME-DEVELOPER-PERMISSION.md) e [consentimento de contribuições](../CONTRIBUTING.md) valem nos escopos descritos em cada documento. A presença de fontes e ativos de Elin no histórico ou no workspace não concede direitos de distribuição sobre eles.
