@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Meta>
+  <title>Português Brasileiro (PTBR)</title>
+  <id>elin_language_portuguese</id>
+  <author>isyuricunha</author>
+  <builtin>false</builtin>
+  <loadPriority>-20</loadPriority>
+  <version>23.352</version>
+  <tags>General,Translation</tags>
+  <visibility>Public</visibility>
+  <description>Tradução de Elin para português brasileiro. Projeto independente. Suporte: https://discord.gg/uFEwSMwUYb</description>
+</Meta>

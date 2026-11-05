@@ -1,0 +1,30 @@
+name: Release PT-BR
+
+on:
+  push:
+    branches: [main]
+    paths: ['PTBR/**']
+  workflow_dispatch:
+
+concurrency:
+  group: elin-ptbr-release
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate and publish
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python -B translation-work/release.py

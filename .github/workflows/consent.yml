@@ -1,0 +1,19 @@
+name: Consentimento
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, edited]
+    paths: ['translation-work/translations/**', 'translation-work/docs/**', 'README.md']
+
+permissions:
+  contents: read
+
+jobs:
+  consent:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -B translation-work/consent.py

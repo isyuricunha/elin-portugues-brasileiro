@@ -1,2 +1,18 @@
-# Auto detect text files and perform LF normalization
 * text=auto
+.gitattributes text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.jsonl text eol=lf
+*.yml text eol=lf
+*.txt text eol=lf
+LICENSE text eol=lf
+EN/** -text whitespace=cr-at-eol
+PTBR/** -text whitespace=cr-at-eol
+PTBR-COM-PORTRAIT/** -text
+new[[:space:]]original/** -text
+translation-work/distribution/** -text
+*.xlsx -text
+*.jpg -text
+*.png -text
+*.zip -text

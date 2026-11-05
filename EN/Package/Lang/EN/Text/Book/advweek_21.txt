@@ -1,0 +1,46 @@
+Adventurer's Weekly No. 21: Resistances,Lumiest Correspondent Jaystar,10,1
+
+<i>Welcome to Adventurer's Weekly, where we cover topics near and dear to your brave hearts.</i>
+
+
+This week, we're taking a closer look at elemental resistances.
+
+As an adventurer, you'll regularly meet monsters that don't just simply try to bite and claw. You might be burned, frozen, shocked, splashed with acid, poisoned and more; many monster abilities fall under some elemental domain.
+{p}
+Damage from these abilities bypasses PV; the sturdiest armor in all of Ylva won't do anything against a lightning bolt. Instead, resistance is what mitigates elemental damage.
+
+
+But what is resistance? Simply put, it's how well you withstand a certain element. Whether this resistance comes from equipment, feats, faith, spells or something else, the final sum is weighed against the corresponding damage.
+
+Resistance is divided into stages: only when there's sufficient change in the value to move stages that mitigation changes too. As such, small differences may not have any effect.
+{p}
+The stages and their damage multipliers are as follows:
+
+-10 or less — 2x
+-9 to -5 — 1.5x
+-4 to 4 — 1x
+5 to 9 — 0.5x
+10 to 14 — 0.33x
+15 to 19 - 0.25x
+20 or more — 0x
+
+One may note greatest efficiency occurs when one reaches 5 resistance, but one can always use more. Furthermore, elemental effects do not occur at 20 resistance unless the attacker worships Kizuami. One thing to note is that magic resistance also partially reduces all elemental damage, which makes it particularly valuable.
+{p}
+With a broad range of elements one can encounter, many adventurers devote themselves to solving the "resistance puzzle" — finding ways to gain immunity to as many elements as possible by any means. With clever use of runes, several veteran adventurers have come close, but it's impossible to be impervious to all elemental damage via resistances.
+
+Why is this?
+
+
+Firstly, resistances for some domains are limited as to be unable to reach 20, such as acid, or outright don't exist in the case of impact.
+{p}
+The other issue is that monsters have countermeasures against resistances — most commonly, spells like elemental scar and nightmare. Faith resistances can be excommunicated, and spell resistances stripped; sword spells penetrate two stages of resistance, down to a minimum of 0.
+
+Finally, the elder races of Ylva such as dragons and demons are able to harness superior elements which penetrate resistances by one stage; one cannot gain so much resistance as to be impervious to their damage.
+{p}
+Solving the "resistance puzzle" is easier for basic elements — protection from fire, ice and lightning is available even to mid-level adventurers through materials such as scale and wool. More exotic resistances, though, tend to come in smaller amounts, by increasingly difficult means. While the ideal is a set of resistances that provides as many immunities as possible, such a goal is often not practically achievable and different equipment sets for various situations can help..
+
+In the end, knowledge is the best defense — an understanding of the monsters one's likely to meet as well as their capabilities provides the basis for which elements one should protect oneself from. After all, it makes no sense to expect fire in a sunken ruin!
+
+***
+
+<i>- In our next issue, we'll be finally spotlighting marriage!</i>

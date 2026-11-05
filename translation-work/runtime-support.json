@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "et-xmlfile": "2.0.0",
+    "openpyxl": "3.1.5"
+  },
+  "target": "Ubuntu 24.04 ARM64",
+  "toolchain_sha256": "1b5a4dc416906a95167a913b10b3618f9c83574dda14502bce0d2f3452d53edf"
+}

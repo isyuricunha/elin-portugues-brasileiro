@@ -1,0 +1,199 @@
+{if,cn}
+{topic, 欢迎游玩Elin！}
+欢迎游玩Elin，并且十分感谢您参与抢先体验(EA)！我会重视每位玩家的意见，并用于改善游戏内容体验。
+{endif}
+{if,!cn}
+{topic, Welcome to Elin!}
+Welcome to Elin, and thank you for participating in the Early Access(EA)! We plan to gather as many player feedback as possible and reflect it in the game.
+{endif}
+{link,Discord - Elin Community、Questions、General Discussion,https://discord.gg/elona}
+{link,Ylvapedia - Elin Wiki、Walkthrough、Update Log,https://ylvapedia.wiki/wiki/Main_Page}
+{link,Dev Room(Official) - Elin Links、Troubleshooting、and Mod information,http://ylvania.org/elin_dev_e.html}
+
+{topic, Elin Update Information}
+■ 10/5 2026 EA 23.352 Stable
+After updating to a Stable version, there is a good chance that Mods made for previous versions may stop working or behave unexpectedly. If you encounter strange behavior, please try disabling your Mods first.
+
+[Highlights]
+* Added a new equipment slot, "Relic," and the relic "★Embryolith." After progressing through the Home story, the Relic slot can be unlocked by speaking to a certain NPC.
+* A certain story NPC has opened a Dried Mandrake Shop. Various items can be obtained in exchange for ★Dried Mandrakes dropped by unique monsters. Some of the items previously sold at Miral and Garokk's Workshop have also been moved to the Dried Mandrake Shop.
+* At high Performance skill levels, there is now a chance for performance requests to appear with their danger level scaled according to the Performance skill.
+* Stamina consumed by combat abilities is now treated as temporary stamina loss and recovers over time. Abilities with temporary stamina costs now also state this in their tooltips.
+* Breaking a hamster wheel will now cause a hamster to come out.
+
+[Content Additions]
+* Added settings related to Home time-progression simulation to the Experimental tab of the Settings window.
+* Unlocked the map "Old Keep."
+* Added a new equipment slot, "Relic."
+* Added a new equipment category, "Relic."
+* Added the spell "Missile."
+* Added the spell "Healing Touch."
+* Added the feat "Stick Together!" to marshmallow monsters and younger sisteroids.
+* Added the item "★Elixir of Oblivion."
+* Added a recipe for "★Blue Capsule Drug."
+* Added the item "★Embryolith." A recipe has also been added.
+* Added the item "★Notebook of Black History."
+* Added the item "★Death Note."
+* Added the item "Carton of Kumiromilk" (currently obtainable only through wishes).
+* Added the item "Carton of Horomilk" (currently obtainable only through wishes).
+* Added the throwing weapon "Chalkboard Eraser." A recipe has also been added.
+* Added the furniture "Grand Long Table."
+* Added the furniture "Huge Bookshelf."
+* Added the furniture "Fireplace."
+* Added 2 types of "Strategy Map" furniture.
+* Added the furniture "Eccentric Sculpture."
+* Added the furniture "Library Ladder."
+* Added the furniture "Arm Chair." A recipe has also been added.
+* Added the furniture "Sofa." A recipe has also been added.
+* Added the furniture "Wall-Mounted Torch." A recipe has also been added.
+* Added 3 types of "Art Frame" furniture.
+* Added the furniture "Strange Statue," along with 21 skins.
+* Added the furniture "Cloth Cover," along with 5 skins.
+* Added the furniture "Set of Hanging Pots."
+* Added the furniture "Fine Liquor Set."
+* Added 1 directional variation for the furniture "Barrel."
+* Added 2 types of "Thick Chair" furniture. Recipes have also been added.
+* Added the furniture "Bone Chair." A recipe has also been added.
+* Added the furniture "School Desk." A recipe has also been added.
+* Added the furniture "School Chair." A recipe has also been added.
+* Added the furniture "Vaulting Box," along with 2 skins. A recipe has also been added.
+* Added the furniture "Ball Basket," along with 2 skins. A recipe has also been added.
+* Added the furniture "Partition." A recipe has also been added.
+* Added the furniture "Human Anatomy Model." A recipe has also been added.
+* Added the furniture "Brain Specimen."
+* Added 2 types of "Mattress" furniture. Recipes have also been added.
+* Added the furniture "Great Door." A recipe has also been added.
+* Added the furniture "Great Door Frame." A recipe has also been added.
+* Added the tile "Stone Block."
+* Added 2 types of "Flower Field" tiles.
+* Added the tile "Stone Half-Stairs."
+* Added the plant "Weed" (supports color variations).
+* Added 3 graphic variations for blooming "Rose" plants.
+* Added the NPC "Gareth, Doorman of the Old Keep."
+* Added the NPC "Little Girlmaton" (fusion requirements and related mechanics may continue to be adjusted).
+* Added 2 types of neutral NPCs.
+* Added 3 friendly NPCs (Hounds of Wynan).
+* Added 3 types of monsters.
+* Added 1 rare monster.
+* Added 1 animal (hamster).
+
+[Additions and Changes]
+* Unique monsters such as Bahamut will now drop multiple Dried Mandrakes depending on their strength.
+* Added mattresses as optional materials for some beds.
+* When the Law of the World option that restricts exploit-like actions in user maps is enabled, NPCs can no longer be recruited in user maps. The Whip of Egg can no longer be used there either.
+* Bed icons and similar indicators are now also displayed in the Guest tab of the Resident Board.
+* Improved volume handling when multiple adjacent items that produce ambient sounds, such as fountains, are placed together.
+* When placing items, holding Shift and using the mouse wheel can now set their height below 0.
+* Improved processing speed when generating high-level Chaos Shape NPCs.
+* Improved the performance of various processes during Home time-progression simulation.
+* Home time-progression simulation performed during sleep is now limited to a maximum of one week at a time. Any remaining time will be simulated the next time you sleep or when you visit that Home.
+* When displaying targeting highlights for spells and similar effects, tiles containing walls, stairs, etc. will now highlight the floor.
+* NPCs with idle healing behaviors, such as healers and priests, will no longer heal while in the party if HP is already full.
+* Added the "notMeAgain" tag, which prevents summoning abilities from summoning an NPC with the same ID as the caster. This has been applied to the NPC "Necromancer."
+* Improved string escaping in the Palmia Times chat box.
+* Changing the "Arachnophobia Mode" setting now immediately changes the graphics of spiders already present on the map.
+* When drawing maps with the "Hide Roofs" option enabled, outdoor objects above a certain height will no longer be rendered.
+* Improved the display positions of some taxidermy and cards, including Kaneda's Bike.
+* When a "Rose" is blooming, its variation can now be cycled by middle-clicking it in Build Mode.
+* Adjusted the generation rate of shopkeeper-type NPCs.
+* Added a "Disable Auto-Hide Item" mode to the "Edit Cell" menu in Build Mode.
+* When a wall-mounted item is placed on a tile, furniture and other placed objects with a height of 1 or greater will no longer cast shadows.
+* Added the High Purity trait to several items that can be produced through alchemy.
+* Artifacts will now receive a "★" in their names when crafted as well.
+* Increased the maximum configurable number of inventory columns from 20 to 40. The maximum can also be changed through `maxInvColumn` in config.txt.
+* The maximum elemental damage dealt to a target now depends on the target's resistance.
+* Abilities that cannot be forgotten once learned will now state this in their tooltips even when not playing as the "Slime" race.
+* NPCs at level 50 or below will now use the "Late Bloomer" scaling type even when level scaling is applied to them.
+* Performances are now less likely to succeed when there is a large gap between your Performance skill and the target's level. The maximum amount of oren obtainable through performances now also depends on your Performance skill.
+* The PC will now always consume stamina when moving through walls or other tiles that cannot normally be traversed.
+* During combat, AI will no longer use teleportation when its current target is already within its optimal range and is not adjacent.
+* When using Short Teleport during combat, AI will prioritize teleporting to a position where its current target is within line of sight.
+* AI will now use the spells Mental Revival and Physical Revival during combat.
+* Activating Mimicry will now cancel any currently active stance.
+* Added a fire resistance weakness to the race "God (Mani)."
+* Characters with the "Snaily" feat can now be tortured by Snail Torturers. Previously, this was determined only by race.
+* The feat "Nirvana" will no longer be generated as a gene, since it can be acquired voluntarily.
+* Changed the damage reduction cap of the "Metal" feat to 99.9%.
+* The feat "Fox Ward" can once again be generated as a gene.
+* Slightly improved the description of the experience bonus provided by the "Rare Race" feat, as its wording was identical to that of Fast Learner.
+* Added the "Cannot be forgotten once learned" tag to the ability "Maconomy."
+* Added cooldowns to the abilities "Soul Cry" and "Sad Cry."
+* Cocoons summoned by the ability "Womb of Darkness" will now always be hostile.
+* The ability "Oren Shower" will no longer be randomly assigned to adventurers and similar NPCs.
+* Added the Illusion domain to the spell "Sword."
+* Adjusted the behavior of the spell "Incognito."
+* Added Scythe weapon skills to the NPCs "Reaper" and "Death."
+* Adjusted the abilities of the NPC "Mimic."
+* The NPC "Forest Putit" can now be sheared.
+* The NPC "Imoutomaton" will no longer spawn randomly.
+* Gave the NPC "Necromancer" the feat "Blood Bond" and changed some of its abilities.
+* Changed the abilities of the NPC "White Vixen."
+* Removed the PC usage limit for the item "Kumiromi's Experience."
+* Improved performance when sorting extremely large containers such as "★Storage Chest."
+* "★Storage Chest" can now display more than 9 pages. The page navigation UI has also been improved.
+* Fixed multiple typos and other issues in the English translation.
+* Updated the Chinese translation.
+* Updated snow graphics.
+
+[Mani Gene Changes]
+* Gene tooltips now sort feats and abilities by type.
+* Gene tooltips now indicate when an ability is party-wide.
+* Mani's gene can now be selected from 3 choices.
+* Mani's gene can now be rerolled using a Blue Capsule.
+* Mani's gene is now generated as a "Synthetic Gene" using logic separate from dominant genes.
+* The cost of Mani's gene is now halved and then reduced by an additional 10.
+* Mani's gene now has a high chance of receiving random special abilities or feats.
+* When the generation level of the Statue of Mani is low, Mani's gene will no longer roll from its dedicated list of abilities and feats. (At low generation levels, certain abilities and feats such as "Heartless" were being assigned every time.)
+* Spells that do not belong to any spell domain and are uniquely known by specific NPCs, such as White Vixen's Hell Missile, are now excluded from Mani's gene selection pool.
+
+[Mod Changes] (By DK)
+* Integrated the functionality of the Mod "ModConfigGUI" (author: xTracr) into the base game.
+* Enhanced the UI and functionality of the Mod Viewer.
+* Changed the map data structure from `byte[]` to `int[]`, adding support for tiles added by Mods as well as additional helper classes.
+* Improved the effect of "Apply anti-aliasing to portraits" in the Experimental tab of Settings and enabled it by default. High-resolution portraits can now also be displayed cleanly.
+* Added error handling for cases where a required DLL cannot be found while loading a Mod.
+* NPC texture scaling can now be specified individually through `pref`.
+* Fixed a bug related to the default volume of custom Mod sounds.
+* Made various other Mod-related fixes and improvements.
+
+[Renames and Graphic Adjustments]
+* Replaced the icons for the abilities "Quantum Cannon" and "Strip Blessing."
+* Added an icon for the ability "Fuse."
+* Replaced the icon for the spell "Missile."
+* Replaced the graphics for "Strange Gold Coin" items.
+* Replaced the graphics for "Scroll" items.
+* (Japanese version) Changed the NPC name "Greater Mummy" to "Greater Mummy."
+* (English version) Renamed Editor Block-type items to names such as "Special Block."
+
+[Fixes]
+* Fixed an issue where friendly NPCs would become hostile if their area attacks or similar effects hit the PC.
+* Fixed an issue where guests assigned beds were not sleeping in them when visiting a Home.
+* Fixed an issue where a festival tent could reappear if you entered a quest instance after collecting the tent during the festival and returned after the festival had ended.
+* Fixed an error that could occur when making an onsen egg in a range while fatigued, dying from overwork at the same time the egg exploded.
+* Fixed an issue where the ability "Fuse" fused one extra character. The correct number is 8 characters per fusion.
+* Fixed an issue where highlights for furniture and other objects occupying multiple tiles could sometimes be displayed incorrectly.
+* Fixed an issue where livestock could take food from Home containers even when the Home policy "Livestock Privileges" was not enabled.
+* Fixed the display order of the "Smoking" status, which had been grouped together with buffs.
+* Fixed an issue where adventurers who died in a town could immediately revive in the same town.
+* Fixed an issue where abilities already learned through genes or similar means could not be used with the ranged attack shortcut key.
+* Fixed an error that occurred when middle-clicking taxidermy or cards with no contents assigned, such as those obtained through wishes.
+* Fixed an error that occurred when using the spell "Telekinesis" while Telekinesis Power was 0.
+* Fixed an issue where the material of an item being copied with the Build Mode picker would sometimes not be reflected in the copied item.
+* Fixed an issue where highlights for large furniture such as fountains could remain visible in Build Mode. Also fixed an issue where large furniture placed indoors could be visible from outside.
+* Fixed an error that occurred when using the Resident Board after Loytel moved during the quest "Gold Beneath."
+* Fixed an issue where character portrait contrast could sometimes become incorrect during conversations.
+* Fixed an issue where the order of songs could no longer be changed using the up/down buttons while editing a playlist on the "Gramophone."
+* Fixed an issue where the "Too Many Companions" warning could sometimes fail to appear when the party exceeded its member limit while a companion with the "Deviant" feat was present.
+* Fixed an issue where the same material could sometimes appear more than once in the material selection list while crafting.
+* Fixed a rare error that could occur during pathfinding.
+* Fixed an issue where reviving a pet at the Wedding Hall caused it to join the party.
+* Fixed an overflow issue when applying debuffs.
+* Fixed an error that could sometimes occur when residents revived during sleep.
+* Fixed incorrect Z values for items placed on round-table-type furniture.
+* Fixed an issue where processing a split quantity of materials from a container with "Auto Sort" enabled would cause processing to begin for every stack.
+* Fixed and adjusted several issues in One Block mode.
+* Other minor fixes and adjustments.
+
+[Notes]
+* For Performance, we are considering adding features such as learning songs based on skill level in the next Nightly update.
+* We also hope to debut Girlmatons on a regular basis.

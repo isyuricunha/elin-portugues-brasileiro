@@ -1,0 +1,9 @@
+{topic, Tradução para Português Brasileiro}
+E aí!
+Eu sou o Yuri, eu traduzi este jogo para você, para mim e para quem mais quiser.
+Se divirta! E, se puder, considere fazer uma doação, pois atualmente, dependo disso.
+A tradução foi refeita do zero, linha por linha, sem tradutor automático.
+{link,Discord - Comunidade、Perguntas、Conversas em Geral,https://discord.com/invite/aYbWBr4}
+{link,Website - Meus links, projetos, e infos,https://yuricunha.com}
+{link,Pix - Chave: pix@yuricunha.com,mailto:pix@yuricunha.com}
+

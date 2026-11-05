@@ -1,0 +1,22 @@
+Guest Register,Keeper of the Garden,0,2
+
+■ Sierra Terre 263 〜 Shadow Witch "Verna"
+
+<i>A witch bearing black wings upon her back. Those wings appeared as the price of her runaway magic. When she spreads them wide, the surroundings are swallowed in deep darkness, and people call this sight "the Shadow." Whenever her name is whispered, it is always accompanied by tones of fear and scorn toward the unnatural. Yet contrary to that impression, she herself is far from evil.
+
+Having departed a certain village in despair, she was welcomed by me as a guest of the Garden. She showed little surprise, and seemed content to freely enjoy a moment’s respite here in the garden.</i>
+{p}
+
+■ Sierra Terre 517 〜 Pair of Elea
+
+<i>A beautiful and gentle Elea maiden, and a lively green-haired Elea youth. These young ones have no knowledge yet of the harsh fate that awaits them. At the very least, I wish for them to savor a brief moment of repose here in this garden.</i>
+
+
+■ Sierra Terre 511 〜 Elean little girl
+
+<i>Those destined to change the world walk a path lined with nameless sacrifices. Was she born to become an offering to the story? No—That would be too cruel a fate.</i>
+
+{p}
+■ Sierra Terre ??? 〜 Two Mysterious Youths
+
+<i>To be precise, these individuals are not invited guests. At some point, they simply slipped into the garden unnoticed. That newcomer from the divine realm―an unorthodox being of considerable power―still wears the form he had when he was human. Yet the fact that versions of the same being from different timelines coexist here is a phenomenon even I cannot comprehend. It amuses me, so I choose to leave it be.</i>

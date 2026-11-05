@@ -1,86 +1,49 @@
-# Elin: Tradução para Português Brasileiro (PT-BR)
-
 <div align="center">
 
-[![NexusMods](https://img.shields.io/badge/NexusMods-Download-orange?style=for-the-badge&logo=nexusmods&logoColor=white)](https://www.nexusmods.com/elin/mods/62?tab=description)
-[![ModDB](https://img.shields.io/badge/ModDB-Download-darkred?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNiAyQzguMyAyIDIgOC4zIDIgMTZzNi4zIDE0IDE0IDE0IDE0LTYuMyAxNC0xNFMyMy43IDIgMTYgMnptMCAyNkM5LjQgMjggNCAyMi42IDQgMTZTOS40IDQgMTYgNHMxMiA1LjQgMTIgMTItNS40IDEyLTEyIDEyem0tMS41LTkuNWw3LTQuNS03IDQuNXptMC04djhsMTAtNS41LTEwLTIuNXoiLz48L3N2Zz4=&logoColor=white)](https://www.moddb.com/mods/portugues-brasileiro-ptbr/downloads)
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isyuricunha/elin-portugues-brasileiro)
-[![Discord](https://img.shields.io/badge/Discord-Servidor-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/aYbWBr4)
+<a href="https://store.steampowered.com/app/2135150/Elin/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2135150/header.jpg?t=1777704696" alt="Arte oficial de Elin, de Lafrontier"></a>
 
-[![Latest Release](https://img.shields.io/github/v/release/isyuricunha/elin-portugues-brasileiro?style=for-the-badge)](https://github.com/isyuricunha/elin-portugues-brasileiro/releases/latest)
-![Status](https://img.shields.io/badge/Status-Em_desenvolvimento-blue?style=for-the-badge)
-![Tradução](https://img.shields.io/badge/Tradução-100%25_alinhada_com_o_inglês-brightgreen?style=for-the-badge)
+# Elin · Português Brasileiro
 
-**Ajude a manter o projeto via Pix:** `pix@yuricunha.com`
+**Monte seu lar em Ylva. O resto da aventura é com você.**
+
+[![GitHub Releases](https://img.shields.io/badge/PT--BR-Releases-28724F?style=for-the-badge)](https://github.com/isyuricunha/elin-portugues-brasileiro/releases)
+[![Elin na Steam](https://img.shields.io/badge/Steam-Elin-1B2838?style=for-the-badge&logo=steam)](https://store.steampowered.com/app/2135150/Elin/)
+[![Comunidade Vai Brasil](https://img.shields.io/badge/Discord-Vai%20Brasil-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uFEwSMwUYb)
 
 </div>
 
----
+## De volta a Ylva
 
-## Sobre
+No RPG de Lafrontier, você pode explorar ruínas, montar uma fazenda ou transformar um pedaço de terra em uma vila. A tradução de fãs cobre menus e mensagens do jogo, diálogos, descrições de itens e habilidades, livros e páginas de ajuda.
 
-Olá! Este é o mod de tradução do jogo *Elin* para português brasileiro.
+## Download
 
-- **Progresso:** a tradução está 100% completa e alinhada com a versão em inglês, mas o jogo está em acesso antecipado (EA) e cada atualização traz bastante coisa nova.
-- **Atualizações:** o mod será atualizado sempre que novas linhas em inglês forem adicionadas. Estou constantemente corrigindo e melhorando partes da tradução, então é possível esperar melhorias contínuas.
+Para instalação manual, abra a [lista de Releases](https://github.com/isyuricunha/elin-portugues-brasileiro/releases), escolha uma versão compatível com seu jogo e baixe **PTBR.zip** em *Assets*. Os arquivos *Source code* são cópias do repositório. Se a [Oficina Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3456521151) exibir a opção de inscrição, você também pode instalar por lá.
 
-Aproveite o mod e obrigado pelo seu apoio!
+## Instalação
 
-Se cuidem,
-**Yuri**
+- **Oficina Steam.** Depois que a Steam baixar o mod, abra o jogo e selecione **Português** nas configurações.
+- **Manual.** Feche Elin. Na Steam, você pode abrir a raiz do jogo em **Gerenciar → Explorar arquivos locais**. Em `Package`, faça uma cópia da pasta `PTBR` existente e guarde-a fora da pasta do jogo. Extraia o ZIP em `Package/PTBR`. Ao final, confira se `package.xml` está diretamente em `Package/PTBR` e se o idioma está em `Package/PTBR/Lang/PTBR`. Alguns pacotes anteriores já trazem a pasta `PTBR` no ZIP. Abra o jogo e escolha **Português** nas configurações.
 
----
+Para voltar à versão anterior, feche o jogo e recoloque a pasta do backup. Para remover a tradução, selecione outro idioma e remova o mod pela Oficina ou retire a pasta `Package/PTBR`, conforme o método de instalação.
 
-## Downloads
+## Compatibilidade e ajuda
 
-| Versão | Link |
-| --- | --- |
-| Steam Workshop | <https://steamcommunity.com/sharedfiles/filedetails/?id=3456521151> |
-| Releases (GitHub) | <https://github.com/isyuricunha/elin-portugues-brasileiro/releases/latest> |
-| NexusMods | <https://www.nexusmods.com/elin/mods/62> |
-| ModDB | <https://www.moddb.com/mods/portugues-brasileiro-ptbr/downloads> |
+Elin está em acesso antecipado. Atualizações podem acrescentar textos em inglês ou mudar a forma como um trecho aparece. Confira a versão indicada na Release. Se o idioma não aparecer, verifique a estrutura das pastas e mantenha apenas uma instalação ativa da tradução.
 
----
+Ao relatar um erro, informe a versão do jogo, a versão do mod e onde o texto aparece. [Issues](https://github.com/isyuricunha/elin-portugues-brasileiro/issues) · [Comunidade Vai Brasil](https://discord.gg/uFEwSMwUYb) · [Portal de traduções](https://traducao.yuricunha.com/)
 
-## Como instalar
+## Apoio
 
-### Versão Steam
+Se quiser apoiar o projeto, o Pix é `pix@yuricunha.com`.
 
-1. Inscreva-se no link da oficina.
-2. Abra o jogo, vá nas configurações e coloque o jogo em Português.
+## Créditos
 
-### Versão alternativa (Steam verde e Steam oficial)
+- Tradução e manutenção do projeto · [Yuri Cunha](https://github.com/isyuricunha)
+- Jogo e arte oficial · [Lafrontier](https://store.steampowered.com/app/2135150/Elin/)
 
-1. Baixe o arquivo `PTBR.zip` nas [releases](https://github.com/isyuricunha/elin-portugues-brasileiro/releases/latest) (ou o `PTBR-COM-PORTRAIT.zip`, que inclui retratos).
-2. Extraia o arquivo.
-3. Copie a pasta extraída chamada `PTBR`.
-4. Abra a pasta raiz de onde o jogo está instalado.
-5. Abra ou procure a pasta chamada `Package`.
-6. Cole a pasta `PTBR` dentro de `Package`.
-7. Abra o jogo, vá nas configurações e coloque o jogo em Português.
+## 📜 Licença
 
----
+O conteúdo original da tradução e da documentação que o projeto pode licenciar usa [CC BY-NC-SA 4.0](./LICENSE). Dê crédito, indique alterações, faça uso não comercial e compartilhe adaptações sob a mesma licença ou uma licença compatível autorizada. [Resumo da Creative Commons](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-## Comunidade
-
-Participe da comunidade no Discord: <https://discord.gg/uFEwSMwUYb>
-
----
-
-## Apoie o projeto!
-
-Se você gosta do meu trabalho, considere fazer uma doação para me apoiar via Pix: `pix@yuricunha.com`, ou pelo QR Code:
-
-<p align="center">
-  <img src="https://i.imgur.com/jx1MAIO.png" alt="QR Code Pix" width="320">
-</p>
-
----
-
-## Uso
-
-〇 Uso em vídeos e transmissões é permitido.
-
-× Modificação, redistribuição e reivindicação de autoria não são permitidas.
-
-× Aprendizado por IA não é permitido.
+A integração comercial oficial segue a [permissão adicional para a desenvolvedora e publicadora](./GAME-DEVELOPER-PERMISSION.md). Contribuições exigem [autorização explícita](./CONTRIBUTING.md). Código sob licença preexistente mantém seus avisos. Texto original do jogo, marcas, arte, retratos e outros recursos de terceiros continuam sujeitos aos direitos dos seus titulares.

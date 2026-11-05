@@ -1,0 +1,42 @@
+Adventurer's Weekly No. 24: Gene Engineering,Aqui Teola Correspondent Dr. Mossman,10,1
+
+<i>Welcome to Adventurer's Weekly, where we cover topics near and dear to your brave hearts.</i>
+
+
+From Aqui Teola, I bring you the latest news in science and technology: this week, I'm covering a new fad amongst adventurers, gene engineering.
+
+These brave souls face danger every day, and need every advantage they can get; more are turning to science to provide that edge. Legend holds that our knowledge of gene engineering is but a tiny surviving fraction of the advanced biochemistry Rem-Ido possessed; but that's a matter for historians.
+{p}
+By assimilating foreign genes, adventurers expand their abilities, learn new feats, and even grow new limbs! While there are concerns about the safety of gene engineering, allow me to assure readers that such technology available to the public is well-tested, and any changes are <i>mostly</i> reversible.
+
+
+The basics of this science can be expressed in a few concepts:
+
+<b>Gene slots : </b> how much an organism's genetic makeup can be safely altered before one runs the risk of irreversibility and genetic diseases. This is primarily determined by species, with individual variability. Not all genes occupy one slot: more powerful genes require multiple slots to account for their disturbance on an organism's genetic structure.
+{p}
+For one reason or another, certain species are particularly suited to genetic alteration; they may have more gene slots, or are able to accommodate powerful genes in fewer slots.
+
+<b>Feat points (FP) : </b>: to accommodate strong genes, one needs a strong body and mind. This means only experienced adventurers are able to utilize more powerful genes.
+
+Furthermore, to dabble in gene engineering, one requires the following:
+
+<b>A gene machine : </b> This isn't easy to find: it's advanced technology with considerable power draw. However, it automates many processes, allowing even amateurs to perform complex gene engineering..
+{p}
+<b>Genetic material : </b> Adventurers usually obtain this by slaying monsters, especially evolved creatures. Spells like spear or arrow of the moonlit night can help with collection, but the most reliable way is to throw a potion of gene at your target. There are other ways of acquiring genes, but I think them too unreliable to be worth mentioning.
+
+Genes come in three grades: superior which always has at least one feat, ability or body part, normal which has at most one, and inferior, which is used for undoing alteration. Inferior genes may also be created by grinding two genes in a millstone.
+
+There are also brain cell genes which function differently; these occupy no gene slots and instead alter an organism's behavior. These do not occur naturally and have to be synthesized.
+
+{p}
+When it comes down to it, putting this science into practice is simple: ensure the subject has sufficient FP and gene slots, then insert it and the gene into the machine, which will do the rest. Synthesis time depends on the FP cost of the gene; this can be sped up with ether solvent syringes. Unfortunately, since publicly available gene machines need to be manually initiated, one cannot gene edit oneself for now.
+
+Ensure that the gene machine is powered and undisturbed for the duration of synthesis, as any interruption will void all progress. The subject will be automatically ejected from the machine when the process is complete.
+
+Using an inferior gene follows a similar process. Afterwards, the gene to be removed must be selected — FP costs will be refunded, but the gene will not.
+{p}
+Adventurers improve their skills, abilities, equipment and more — naturally, the next step is to improve oneself at the most fundamental level. Gene engineering offers a whole new dimension to how science can aid adventurers!
+
+***
+
+<i>- In next week's issue, we'll be looking at some advanced farming techniques!</i>

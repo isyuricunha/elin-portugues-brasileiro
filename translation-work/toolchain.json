@@ -1,0 +1,11 @@
+{
+  "files": {
+    "legacy-releases.json": "1fb120ce34a4baa010015139522dd7f14997d7da66b98bb23350b103f84c1309",
+    "native.py": "064851dd39b3eb6360bef5022ff237ff8912186b12cca417c563c3210d1068f7",
+    "release.py": "af96927e5c607f762d7e3d27b8cdbd018ebc5ea4b493b434de459a7ce1ab96ec",
+    "requirements.txt": "5ab8a239c1418483ead11ccd73008173fdd3af6ae97f912357ede24da823b30a",
+    "storage.py": "9dce5b65f46f6b2a438e64b40eb29acd52093338f7def094c72d1008701168f0",
+    "toolkit.py": "1453a9fe9f98b07319b18c87f5e356fc3f3e55d582f735bd7501eabfa4b1ad49",
+    "validate.py": "99a7bc6f03228160460b41cb143e3acf7a5edc5697655e902079529a55690279"
+  }
+}

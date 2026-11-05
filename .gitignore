@@ -1,0 +1,4 @@
+__pycache__/
+translation-work/.venv/
+translation-work/.state/
+translation-work/.migration-package/

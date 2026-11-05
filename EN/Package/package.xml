@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>English (source snapshot)</title>
+  <id>elin_language_english</id>
+  <author>isyuricunha</author>
+  <builtin>false</builtin>
+  <loadPriority>0</loadPriority>
+  <version>0.1.0</version>
+  <tags>General,Translation</tags>
+  <visibility>Private</visibility>
+  <description>Immutable English source snapshot for the PT-BR pipeline. Never installed in the game.</description>
+</Meta>

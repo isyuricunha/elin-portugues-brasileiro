@@ -1,0 +1,66 @@
+Ranch Story,Unknown
+
+<i>(It looks like an internal company memo)</i>
+
+My ranching business has grown across Zanan to the point it's easier to write this manual instead of personally brief new managers, so read well. If your franchise isn't profitable, you'll have to answer to me!
+
+{p}
+<b>Ranch Infrastructure</b>
+
+Before you begin, you'll need to prepare the land. Build a well-lit barn and put down a ranch sign so the livestock stay indoors — the thick walls will protect them from wandering monsters. If you prefer your critters outdoors, fence them in away from the edges of the property and give them somewhere to shelter at night.
+
+If you have the admin points, have the employees form a border watch. Remember, dead or unhappy livestock don't produce, so keeping your critters alive is vital.
+
+If you're feeling generous, you can give your livestock haystacks to sleep on, although it's not necessary.
+
+{p}
+<b>Feeding</b>
+
+Ranched critters need one pasture a day; no pasture, no produce. You can harvest wild pasture, but it's best to grow it yourself — high level pasture increases the plant's yield, allowing you to sustain more critters.
+
+Livestock won't eat pasture from the plant; it must be harvested and put in a shared container. The home board summarizes pasture stockpiles and daily consumption.
+
+You can give your critters cooked meals as treats, but it's not necessary. Note that this does not remove the need for pasture.
+
+{p}
+<b>Acquiring Livestock</b>
+
+Now you need to decide what to ranch. Livestock products include: eggs, milk, meat, and fur. Pick a livestock type which suits the ranch's production needs: for novices, I recommend snow putits, which produce all four.
+
+Critters' production of milk and eggs is limited by their species — dinosaur ranches sound impressive, but are not practical. Generally, the lower the animal is on the food chain, the better it is at breeding — hence the humble snow putit. While there are ranches across Zanan producing specialty goods such as dragonscale and war-beasts for the military, these are few and heavily subsidised by the crown.
+{p}
+Starter livestock may be purchased from animal tamers, or you may attempt to capture wild critters with monster balls or befriend them with a brush. Either way, register the tamed animal as livestock from the resident list, and you're set.
+
+{p}
+<b>Routine Operations</b>
+
+Livestock give eggs and milk at 5 am every day; have an employee on chores duty collect the produce into shared containers. Eggs require a fridge to prevent spoilage, but milk will be fine as-is.
+
+Furry critters are to be shorn when their coats are thick; you can do it earlier, but it's more efficient to wait. A hard pair of shears will speed the work, and blessed hair growth tonic will increase productivity.
+
+Regular brushing will keep livestock happy, especially if monsters keep harassing them.
+
+{p}
+<b>Business Expansion</b>
+
+Once you're established, it's time for your ranch to grow. Any egg laid has a small chance to be fertilized, and can hatch into a new critter. Modern ranches use powered incubators to speed the process, but placing (not dropping) the egg onto a bed is a cheap if time-consuming solution. If there is a hot spring nearby, immersing the fertilized egg will yield identical results to an incubator after a little waiting.
+
+You can feed baby livestock milk to help them grow and give your employees some valuable taming experience.
+{p}
+That being said, don't expand beyond your means. Excess livestock can be slaughtered with a butcher knife for large amounts of meat and fur (if applicable) — good anatomy skill yields the best results. Alternatively, they may be sold directly to ranch visitors by tagging them for sale.
+
+I expect to see your yearly earnings report on my desk after next Juremas.
+
+{p}
+<i>Appendix: Some Livestock and Fur Types</i>
+
+Rabbit, snow putit: cashmere
+Gold snow putit: gold
+Fish: scale
+Dinosaurs: hide
+Pigs, Sheep: wool
+Beetle: silk
+Spider: spider silk
+Dragons, drakes: dragonscale
+Skeletons: bone
+Ents: log

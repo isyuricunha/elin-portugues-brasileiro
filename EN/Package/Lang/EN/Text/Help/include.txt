@@ -1,0 +1,13 @@
+$topic_credit
+{topic,Lafrontier Developers}
+$topic_credit_resource
+{topic,Copyright and Creator Information}
+This game makes use of a variety of free resources. We would like to express our gratitude to all the creators of these materials. Images have been adapted to fit the game, including resizing. Additionally, we have altered the volume and pitch of sound effects within the work.
+
+{topic,Elona Resources}
+$topic_credit_backer
+{topic,Wish Credits}
+These are the features implemented through the 'wishes' of Elin's backers, along with a list of their names. We would like to express our gratitude to everyone for enhancing the game with their wishes.
+$topic_credit_news
+{topic,Palmia Times Credits}
+These are the names of backers who have contributed in enriching the Palmia Times. We would also like to express our gratitude to everyone here.
