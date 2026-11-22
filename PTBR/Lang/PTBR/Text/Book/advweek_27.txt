@@ -1,0 +1,47 @@
+Jornal do Aventureiro nº 27: Impostos,Vovó Shu,10,1
+
+<i>Bem-vindo ao Jornal do Aventureiro, onde respondo às perguntas dos novatos sobre dinheiro.</i>
+
+
+A carta desta semana é de um recém-chegado de Zanan: <color=blue>"Vovó Shu, é o meu primeiro mês em Olvina e já estou sendo taxado! Como isso é justo, eu não tenho um oren no bolso!"</color>
+
+Calma lá, novato. A primeira coisa a fazer é respirar fundo e se acalmar.
+
+A segunda é perceber que impostos nem são tão ruins assim.
+{p}
+Sim, eu entendo. A Vovó Shu já foi como você, resmungando por pagar meus orens suados para algum nobre que eu nunca ia ver na vida. Mas o que você precisa sacar é que os seus primeiros boletos de imposto como aventureiro servem para te fazer sair e <b>fazer</b> alguma coisa — não dá pra ter um bando de "aventureiros" vadiando por aí, aprontando travessuras. Sem impostos, muito novato não teria esse empurrão pra explorar o mundo e arrumar jeito de ganhar dinheiro.
+
+Os primeiros boletos dá pra pagar fácil colhendo umas flores, fazendo uns bicos na cidade. Mas esta edição não é sobre arrumar dinheiro pra pagar os seus impostos, e sim sobre <b>entendê-los</b>.
+{p}
+<b>Estrutura dos Impostos</b>
+
+Esqueça imposto sobre propriedade e imposto de renda — como aventureiro, você pode achar uma fortuna numa nefia num mês e passar fome no outro. Por isso, sob a jurisdição de Mysilia, você é taxado assim:
+
+*Valor base. Começa em 500 orens e aumenta em 500 por ano, chegando ao total de 5.500 orens após 10 anos.
+
+*Valor de fama. São 2 orens para cada 1 de fama abaixo de 5000: os boletos de aventureiros avançados continuam crescendo depois disso, mas num ritmo reduzido.
+
+*Imposto voluntário. Se quiser ficar bem na fita com Mysilia, pode se inscrever falando com uma criada; peça ao seu senhorio para nomear uma se não houver nenhuma. Chega até 20.000 por mês, e você ganha uma barra de ouro a cada 1.000 orens pagos.
+{p}
+O seu boleto de imposto é a soma disso tudo; se tiver dificuldade pra fazer a conta, dá sempre pra conferir o detalhamento no quadro do seu lar. A maior fatura mensal que aqueles desgraçados podem te mandar é de 1.000.000 de orens — por mais que queiram, não podem te ordenhar além disso. Não sei o porquê, e sinceramente acho isso ainda mais perturbador.
+
+
+<b>Sonegação de Impostos</b>
+
+Não tá a fim de pagar, é? Bom, sempre existe Derphy. Eu não faço negócios lá desde que me desentendi com a Senhora Persephone, mas ei, se você tem o espírito livre como aquela mulher, pode virar criminoso como ela também.
+{p}
+Mas se vocês, novatos pão-duros, não querem encrenca com a lei, dá pra prestar serviço comunitário em vez disso. Atrase 3 boletos e cada um depois disso vai te custar 40 de carma. É só compensar todo mês, acalmando o cobrador com suor em vez de moeda. Limpe nefias e deixe a terra mais segura, ajude o povo com pedidos, esse tipo de coisa. Seus boletos não vão ser perdoados, mas pelo menos você não vira criminoso.
+
+Ou, se não se importar de pagar em outra moeda, conheço uns sujeitos das colinas lá pro leste que podem te ajudar a achar boletos "perdidos" por algumas medalhas pequenas. Repare que "pagar" os impostos desse jeito não rende barras de ouro se você aderiu ao imposto voluntário — pra isso tem que pagar o boleto original.
+
+Sempre dá pra tentar enganar os fiscais, mas eu acho desperdício de barras de ouro. Se você ficar realmente famoso se aventurando, novato, imposto nem é mais problema.
+{p}
+<b>Tributação Automática</b>
+
+A maioria dos novatos sabe que dá pra usar bilhete numa caixa de impostos e levar pra casa. Mas se você for <b>realmente</b> preguiçoso, sempre existem as políticas de Transferência de Salário e Pagamento de Impostos por Transferência. Assim que assinar no quadro do seu lar, sua conta no banco cuida tanto do salário quanto dos impostos; enquanto o primeiro for maior que o segundo, você nunca mais vai se preocupar em perder boletos ou atrasar pagamentos.
+
+***
+
+<i>Como dizem em Yerl: as únicas certezas da vida são a morte e os impostos. Ambos parecem assustadores, mas se vocês, novatos, levarem na esportiva, logo vão ver que não há motivo pra se esquentar com nenhum dos dois.
+
+Escrevam de novo quando quiserem, novatos, e aguardem a próxima edição!</i>

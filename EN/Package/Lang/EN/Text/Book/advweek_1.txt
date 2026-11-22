@@ -36,7 +36,7 @@ Rare trees may be found, and vines gathered from the walls. Ores available as la
 
 *Caves: mineral-rich. Veins of ore and gems in the walls and large ore rocks make this nefia good for mining. Stalagmites can yield rare stone types. Be sure to have spare carry capacity.
 {p}
-*Machinariums: remains of past technological civilizations. Does not appear to have a higher incidence of machine monsters.
+*Machinariums: remains of past technological civilizations. High incidence of machine monsters.
 
 Copper, iron and chromite scrap from dismantling floor and walls. Chemical spills may be gathered as liquid, glass fragments collected for smelting. Some adventurers spend days in these nefia.
 
