@@ -179,8 +179,8 @@ ASSET_NAMES = {"PTBR.zip", "PTBR-COM-PORTRAIT.zip"}
 
 def release_archives(project):
     base = project.archive()
-    portraits = project.path("Portrait")
-    files = sorted(p for p in portraits.rglob("*") if p.is_file())
+    portraits = next((project.path(rel) for rel in ("Portrait", "PTBR-COM-PORTRAIT/Portrait") if project.path(rel).is_dir()), None)
+    files = sorted(p for p in portraits.rglob("*") if p.is_file()) if portraits else []
     if not files:
         raise Invalid("Missing portrait sources")
     variant = BytesIO()
@@ -188,8 +188,9 @@ def release_archives(project):
         for name in original.namelist():
             output.writestr(ZipInfo(name), original.read(name), compress_type=ZIP_DEFLATED)
         for file in files:
-            name = file.relative_to(project.root).as_posix()
-            output.writestr(ZipInfo(name), project.path(name).read_bytes(), compress_type=ZIP_DEFLATED)
+            rel = file.relative_to(project.root).as_posix()
+            target = "Portrait/" + file.relative_to(portraits).as_posix()
+            output.writestr(ZipInfo(target), project.path(rel).read_bytes(), compress_type=ZIP_DEFLATED)
     with ZipFile(variant) as output:
         if output.testzip():
             raise Invalid("Corrupt portrait archive")

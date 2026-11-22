@@ -3,7 +3,7 @@ name: Release PT-BR
 on:
   push:
     branches: [main]
-    paths: ['PTBR/**', 'Portrait/**', '.github/workflows/release.yml', 'translation-work/release.py', 'translation-work/build-manifest.json']
+    paths: ['PTBR/**', 'Portrait/**', 'PTBR-COM-PORTRAIT/Portrait/**', '.github/workflows/release.yml', 'translation-work/release.py', 'translation-work/build-manifest.json']
   workflow_dispatch:
 
 concurrency:

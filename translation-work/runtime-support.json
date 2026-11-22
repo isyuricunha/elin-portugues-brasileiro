@@ -4,5 +4,5 @@
     "openpyxl": "3.1.5"
   },
   "target": "Ubuntu 24.04 ARM64",
-  "toolchain_sha256": "9f7656883059bd9a7839f0683eb0aaafa15f9888299f537581ee2ce01c070867"
+  "toolchain_sha256": "ebae99c4603e3c9cf2e5a4557cb8a6a8d2b69a86bc0d736623f1a97b28b0f9eb"
 }
