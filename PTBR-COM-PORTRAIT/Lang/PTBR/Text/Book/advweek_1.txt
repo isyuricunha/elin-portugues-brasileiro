@@ -36,7 +36,7 @@ Certas regiões de Tyris do Norte, como o norte de Palmia, são particularmente 
 
 *Cavernas: ricas em minerais. Veios de minério e gemas nas paredes e pedras grandes de minério fazem desta nefia um bom lugar para minerar. Estalagmites podem render tipos raros de pedra. Tenha capacidade de carga de sobra.
 {p}
-*Maquinários: restos de civilizações tecnológicas passadas. Não parece ter incidência maior de monstros-máquina.
+*Maquinários: restos de civilizações tecnológicas passadas. Alta incidência de monstros-máquina.
 
 Sucata de cobre, ferro e cromita desmontando pisos e paredes. Vazamentos químicos podem ser recolhidos como líquido, e fragmentos de vidro coletados para fundição. Alguns aventureiros passam dias nessas nefia.
 
